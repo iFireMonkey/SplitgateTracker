@@ -1,0 +1,351 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "Skins_PortalGun",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class PortalGunMeshItem",
+        "ObjectPath": "/Script/PortalWarsGlobals"
+      },
+      "bIgnoreMissingFields": true
+    },
+    "Rows": {
+      "0": {
+        "FireAnimation": {
+          "AssetPathName": "/Game/Weapons/PortalLauncher/PG_01/Mesh/FPV_PG_01_Anim.FPV_PG_01_Anim",
+          "SubPathString": ""
+        },
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/PortalLauncher/PG_01/Mesh/FPV_PG_01.FPV_PG_01",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/PortalLauncher/PG_01/Mesh/SM_PG_01.SM_PG_01",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "None",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Common/MI_Skin_BaseBlue.MI_Skin_BaseBlue",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": "Blue"
+        },
+        "CompatibleWithAllSkins": true,
+        "CustomizationType": "ECustomizationType::PortalGun",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Default",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 0,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "TrueShot"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "3": {
+        "FireAnimation": {
+          "AssetPathName": "/Game/Weapons/PortalLauncher/PG_04/Mesh/pg04_mesh_Anim.pg04_mesh_Anim",
+          "SubPathString": ""
+        },
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/PortalLauncher/PG_04/Mesh/pg04_mesh.pg04_mesh",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/PortalLauncher/PG_04/Mesh/SM_PortalGun_04.SM_PortalGun_04",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "None",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Common/MI_Skin_BaseBlue.MI_Skin_BaseBlue",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": "Blue"
+        },
+        "CompatibleWithAllSkins": true,
+        "CustomizationType": "ECustomizationType::PortalGun",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 3,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "SideWinder"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "4": {
+        "FireAnimation": {
+          "AssetPathName": "/Game/Weapons/PortalLauncher/PG_05/Mesh/pg05_mesh_Anim.pg05_mesh_Anim",
+          "SubPathString": ""
+        },
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/PortalLauncher/PG_05/Mesh/pg05_mesh.pg05_mesh",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/PortalLauncher/PG_05/Mesh/SM_PortalGun_05.SM_PortalGun_05",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "None",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Common/MI_Skin_BaseBlue.MI_Skin_BaseBlue",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": "Blue"
+        },
+        "CompatibleWithAllSkins": true,
+        "CustomizationType": "ECustomizationType::PortalGun",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 4,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "SilverTongue"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "5": {
+        "FireAnimation": {
+          "AssetPathName": "/Game/Weapons/PortalLauncher/PG_06/Mesh/pg06_mesh_Anim.pg06_mesh_Anim",
+          "SubPathString": ""
+        },
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/PortalLauncher/PG_06/Mesh/pg06_mesh.pg06_mesh",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/PortalLauncher/PG_06/Mesh/SM_PortalGun_06.SM_PortalGun_06",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "None",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Common/MI_Skin_BaseBlue.MI_Skin_BaseBlue",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": "Blue"
+        },
+        "CompatibleWithAllSkins": true,
+        "CustomizationType": "ECustomizationType::PortalGun",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 5,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Lightsout"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "7": {
+        "FireAnimation": {
+          "AssetPathName": "/Game/Weapons/PortalLauncher/PG_08/Mesh/pg08_mesh_Anim.pg08_mesh_Anim",
+          "SubPathString": ""
+        },
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/PortalLauncher/PG_08/Mesh/pg08_mesh.pg08_mesh",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/PortalLauncher/PG_08/Mesh/SM_PG_08.SM_PG_08",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "None",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Common/MI_Skin_BaseBlue.MI_Skin_BaseBlue",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": "Blue"
+        },
+        "CompatibleWithAllSkins": true,
+        "CustomizationType": "ECustomizationType::PortalGun",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 7,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Fodder"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "8": {
+        "FireAnimation": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/PortalLauncher/PG_11/Mesh/FPP_PG11.FPP_PG11",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/PortalLauncher/PG_11/Mesh/SM_PG11.SM_PG11",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "None",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Common/MI_Skin_BaseBlue.MI_Skin_BaseBlue",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": "Blue"
+        },
+        "CompatibleWithAllSkins": true,
+        "CustomizationType": "ECustomizationType::PortalGun",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 8,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "FTL"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "9": {
+        "FireAnimation": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/PortalLauncher/PG_12/PG12_FPP.PG12_FPP",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/PortalLauncher/PG_12/SM_PG12.SM_PG12",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "None",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Common/MI_Skin_BaseBlue.MI_Skin_BaseBlue",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": "Blue"
+        },
+        "CompatibleWithAllSkins": true,
+        "CustomizationType": "ECustomizationType::PortalGun",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 9,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Mender"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "10": {
+        "FireAnimation": {
+          "AssetPathName": "/Game/Weapons/PortalLauncher/PG13/PG13_Fire.PG13_Fire",
+          "SubPathString": ""
+        },
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/PortalLauncher/PG13/PG13_FPP.PG13_FPP",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/PortalLauncher/PG13/SM_PG_13.SM_PG_13",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "None",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Common/MI_Skin_BaseBlue.MI_Skin_BaseBlue",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": "Blue"
+        },
+        "CompatibleWithAllSkins": true,
+        "CustomizationType": "ECustomizationType::PortalGun",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 10,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Lynch"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      }
+    }
+  }
+]

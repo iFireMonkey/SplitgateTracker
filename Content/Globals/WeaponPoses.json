@@ -1,0 +1,91 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "WeaponPoses",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class WeaponPoseData",
+        "ObjectPath": "/Script/PortalWarsGlobals"
+      }
+    },
+    "Rows": {
+      "0": {
+        "WeaponType": "ECustomizationType::AssaultRifle",
+        "Animation": {
+          "AssetPathName": "/Game/Player/Lobby_Poses/New/ar_pose_1_Montage.ar_pose_1_Montage",
+          "SubPathString": ""
+        }
+      },
+      "1": {
+        "WeaponType": "ECustomizationType::BattleRifle",
+        "Animation": {
+          "AssetPathName": "/Game/Player/Lobby_Poses/New/br_pose_1_Montage.br_pose_1_Montage",
+          "SubPathString": ""
+        }
+      },
+      "2": {
+        "WeaponType": "ECustomizationType::Pistol",
+        "Animation": {
+          "AssetPathName": "/Game/Player/Lobby_Poses/New/pistol_pose_1_Montage.pistol_pose_1_Montage",
+          "SubPathString": ""
+        }
+      },
+      "3": {
+        "WeaponType": "ECustomizationType::PlasmaRifle",
+        "Animation": {
+          "AssetPathName": "/Game/Player/Lobby_Poses/New/plasma_pose_1_Montage.plasma_pose_1_Montage",
+          "SubPathString": ""
+        }
+      },
+      "4": {
+        "WeaponType": "ECustomizationType::Railgun",
+        "Animation": {
+          "AssetPathName": "/Game/Player/Lobby_Poses/New/rail_gun_pose_1_Montage.rail_gun_pose_1_Montage",
+          "SubPathString": ""
+        }
+      },
+      "5": {
+        "WeaponType": "ECustomizationType::RocketLauncher",
+        "Animation": {
+          "AssetPathName": "/Game/Player/Lobby_Poses/New/rpg_pose_1_Montage.rpg_pose_1_Montage",
+          "SubPathString": ""
+        }
+      },
+      "6": {
+        "WeaponType": "ECustomizationType::Shotgun",
+        "Animation": {
+          "AssetPathName": "/Game/Player/Lobby_Poses/New/shotgun_pose_1_Montage.shotgun_pose_1_Montage",
+          "SubPathString": ""
+        }
+      },
+      "7": {
+        "WeaponType": "ECustomizationType::SMG",
+        "Animation": {
+          "AssetPathName": "/Game/Player/Lobby_Poses/New/smg_pose_1_Montage.smg_pose_1_Montage",
+          "SubPathString": ""
+        }
+      },
+      "8": {
+        "WeaponType": "ECustomizationType::Sniper",
+        "Animation": {
+          "AssetPathName": "/Game/Player/Lobby_Poses/New/sniper_pose_1_Montage.sniper_pose_1_Montage",
+          "SubPathString": ""
+        }
+      },
+      "9": {
+        "WeaponType": "ECustomizationType::Bat",
+        "Animation": {
+          "AssetPathName": "/Game/Player/Lobby_Poses/New/bat_pose_1_Montage.bat_pose_1_Montage",
+          "SubPathString": ""
+        }
+      },
+      "10": {
+        "WeaponType": "ECustomizationType::DMR",
+        "Animation": {
+          "AssetPathName": "/Game/Player/Lobby_Poses/New/dmr_pose_1_Montage.dmr_pose_1_Montage",
+          "SubPathString": ""
+        }
+      }
+    }
+  }
+]

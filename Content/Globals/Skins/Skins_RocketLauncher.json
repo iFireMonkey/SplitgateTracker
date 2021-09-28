@@ -1,0 +1,1275 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "Skins_RocketLauncher",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class WeaponMeshItem",
+        "ObjectPath": "/Script/PortalWarsGlobals"
+      },
+      "bIgnoreMissingFields": true
+    },
+    "Rows": {
+      "0": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/RocketLauncher/Mesh/FPP/Rocket_FPP.Rocket_FPP",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/RocketLauncher/Mesh/SM_RocketLauncher.SM_RocketLauncher",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "None",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "/Game/Weapons/RocketLauncher/Materials/MI_RocketLauncher_Base.MI_RocketLauncher_Base",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": true,
+        "CustomizationType": "ECustomizationType::RocketLauncher",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Default",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 0,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Default"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "1": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/RocketLauncher/Mesh/FPP/Legendary/RL_TFuel.RL_TFuel",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/RocketLauncher/Mesh/FPP/Legendary/SM_RocketLauncher_TFuel.SM_RocketLauncher_TFuel",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "None",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": null
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::RocketLauncher",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 1,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "TFuel"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "2": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/RocketLauncher/Mesh/FPP/Legendary/Rocket_GFuel.Rocket_GFuel",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/RocketLauncher/Mesh/FPP/Legendary/SM_RocketLauncher_GFuel.SM_RocketLauncher_GFuel",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "None",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": null
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::RocketLauncher",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 2,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "GFuel"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "3": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/RocketLauncher/Mesh/FPP/Legendary/Rocket_Raider.Rocket_Raider",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/RocketLauncher/Mesh/FPP/Legendary/SM_RocketLauncher_Raider.SM_RocketLauncher_Raider",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "None",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": null
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::RocketLauncher",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 3,
+        "DisplayName": {
+          "CultureInvariantString": "Raider"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "4": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/RocketLauncher/Mesh/FPP/Legendary/Rocket_Bone.Rocket_Bone",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/RocketLauncher/Mesh/FPP/Legendary/SM_RocketLauncher_Bone.SM_RocketLauncher_Bone",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "None",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": null
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::RocketLauncher",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 4,
+        "DisplayName": {
+          "CultureInvariantString": "Bone"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "5": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/RocketLauncher/Mesh/FPP/Legendary/Rocket_WAX.Rocket_WAX",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/RocketLauncher/Mesh/FPP/Legendary/SM_RocketLauncher_WAX.SM_RocketLauncher_WAX",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "None",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": null
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::RocketLauncher",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 5,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "WAX"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "6": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/RocketLauncher/Mesh/FPP/Legendary/Rocket_Holo.Rocket_Holo",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/RocketLauncher/Mesh/FPP/Legendary/SM_RocketLauncher_Holo.SM_RocketLauncher_Holo",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "None",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": null
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::RocketLauncher",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 6,
+        "DisplayName": {
+          "CultureInvariantString": "Holo"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "7": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/RocketLauncher/Mesh/FPP/Legendary/Rocket_Music.Rocket_Music",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/RocketLauncher/Mesh/FPP/Legendary/SM_RocketLauncher_Music.SM_RocketLauncher_Music",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "Rocket-Ammo",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": null
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::RocketLauncher",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 7,
+        "DisplayName": {
+          "CultureInvariantString": "Music"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "8": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/RocketLauncher/Mesh/FPP/Legendary/RL_Nvidia.RL_Nvidia",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/RocketLauncher/Mesh/FPP/Legendary/SM_RocketLauncher_Nvidia.SM_RocketLauncher_Nvidia",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "None",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": null
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::RocketLauncher",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 8,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Nvidia"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "9": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/RocketLauncher/Mesh/FPP/Legendary/RL_Overwolf.RL_Overwolf",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/RocketLauncher/Mesh/FPP/Legendary/SM_RocketLauncher_OverWolf.SM_RocketLauncher_OverWolf",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "None",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": null
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::RocketLauncher",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 9,
+        "DisplayName": {
+          "CultureInvariantString": "Overwolf"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "10": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/RocketLauncher/Mesh/FPP/Legendary/Rocket_IGames.Rocket_IGames",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/RocketLauncher/Mesh/FPP/Legendary/SM_RocketLauncher_IGames.SM_RocketLauncher_IGames",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "None",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": null
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::RocketLauncher",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 10,
+        "DisplayName": {
+          "CultureInvariantString": "IGames"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "11": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/RocketLauncher/Mesh/FPP/Legendary/RL_Gordan.RL_Gordan",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/RocketLauncher/Mesh/FPP/Legendary/SM_RocketLauncher_Gordan.SM_RocketLauncher_Gordan",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "None",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": null
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::RocketLauncher",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 11,
+        "DisplayName": {
+          "CultureInvariantString": "Gordon Hayward"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "12": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/RocketLauncher/Mesh/FPP/Legendary/RL_Shocker_FPP.RL_Shocker_FPP",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/RocketLauncher/Mesh/FPP/Legendary/SM_RL_Shocker.SM_RL_Shocker",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "None",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": null
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::RocketLauncher",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 12,
+        "DisplayName": {
+          "CultureInvariantString": "Lightning"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "13": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/RocketLauncher/Mesh/FPP/Legendary/RL_Toxic_Rig.RL_Toxic_Rig",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/RocketLauncher/Mesh/FPP/Legendary/SM_RL_Toxic.SM_RL_Toxic",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "None",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": null
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::RocketLauncher",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 13,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Toxic"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "14": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/RocketLauncher/Mesh/FPP/Legendary/RL_Spud.RL_Spud",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/RocketLauncher/Mesh/FPP/Legendary/SM_RL_Spud.SM_RL_Spud",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "None",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": null
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::RocketLauncher",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 14,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Spud"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "15": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/RocketLauncher/Mesh/FPP/Rocket_FPP.Rocket_FPP",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/RocketLauncher/Mesh/SM_RocketLauncher.SM_RocketLauncher",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "None",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": null
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::RocketLauncher",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 15,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Crikey"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "16": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/RocketLauncher/Mesh/FPP/Legendary/RL_FPP_Scorpio.RL_FPP_Scorpio",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/RocketLauncher/Mesh/FPP/Legendary/SM_RL_Scorpio.SM_RL_Scorpio",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "None",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": null
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::RocketLauncher",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 16,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Scorpio"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "17": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/RocketLauncher/Mesh/FPP/Legendary/RL_DB_FPP.RL_DB_FPP",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/RocketLauncher/Mesh/FPP/Legendary/SM_RL_DB.SM_RL_DB",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "None",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": null
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::RocketLauncher",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 17,
+        "DisplayName": {
+          "CultureInvariantString": "Dragon"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "18": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/RocketLauncher/Mesh/FPP/Legendary/RL_Molten_FPP.RL_Molten_FPP",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/RocketLauncher/Mesh/FPP/Legendary/SM_RL_Molten.SM_RL_Molten",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "None",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": null
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::RocketLauncher",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 18,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Molten"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "19": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/RocketLauncher/Mesh/FPP/Legendary/RL_Aqua_FPP.RL_Aqua_FPP",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/RocketLauncher/Mesh/FPP/Legendary/SM_RL_Aqua.SM_RL_Aqua",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "None",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": null
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::RocketLauncher",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 19,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Aquascape"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "20": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/RocketLauncher/Mesh/FPP/Legendary/RL_Milk_FPP.RL_Milk_FPP",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/RocketLauncher/Mesh/FPP/Legendary/SM_RL_Milk.SM_RL_Milk",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "None",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": null
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::RocketLauncher",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 20,
+        "DisplayName": {
+          "CultureInvariantString": "Milk"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "21": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/RocketLauncher/Mesh/FPP/Legendary/RL_Medieval_FPP.RL_Medieval_FPP",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/RocketLauncher/Mesh/FPP/Legendary/SM_RL_Medieval.SM_RL_Medieval",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "None",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": null
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::RocketLauncher",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 21,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Medieval"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "22": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/RocketLauncher/Mesh/RL_Frozen_FPP.RL_Frozen_FPP",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/RocketLauncher/Mesh/FPP/Legendary/SM_RL_Frozen.SM_RL_Frozen",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "None",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": null
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::RocketLauncher",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 22,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Frozen"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "23": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/RocketLauncher/Mesh/FPP/Legendary/RL_Cardboard_FPP.RL_Cardboard_FPP",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/RocketLauncher/Mesh/FPP/Legendary/SM_RL_Cardboard.SM_RL_Cardboard",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "None",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::RocketLauncher",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 23,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Cardboard"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "24": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/RocketLauncher/Mesh/FPP/Partner/RL_Alienware_FPP.RL_Alienware_FPP",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/RocketLauncher/Mesh/FPP/Partner/SM_RL_Alienware.SM_RL_Alienware",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "None",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::RocketLauncher",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Rare",
+        "ID": 24,
+        "DisplayName": {
+          "CultureInvariantString": "Alienware"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "25": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/RocketLauncher/Mesh/FPP/Partner/RL_Kovaak_FPP.RL_Kovaak_FPP",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/RocketLauncher/Mesh/FPP/Partner/SM_RL_Kovaak.SM_RL_Kovaak",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "None",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::RocketLauncher",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 25,
+        "DisplayName": {
+          "CultureInvariantString": "Kovaak"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "26": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/RocketLauncher/Mesh/FPP/Partner/RL_Summit_FPP.RL_Summit_FPP",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/RocketLauncher/Mesh/FPP/Partner/SM_RL_Summit.SM_RL_Summit",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "None",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::RocketLauncher",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 26,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Summit"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "27": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/RocketLauncher/Mesh/FPP/Partner/RL_Macro_FPP.RL_Macro_FPP",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/RocketLauncher/Mesh/FPP/Partner/SM_RL_Macro.SM_RL_Macro",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "None",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::RocketLauncher",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 27,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Macro"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "28": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/RocketLauncher/Mesh/FPP/Legendary/RL_Aviator_FPP.RL_Aviator_FPP",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/RocketLauncher/Mesh/FPP/Legendary/SM_RL_Aviator.SM_RL_Aviator",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "None",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::RocketLauncher",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 28,
+        "DisplayName": {
+          "CultureInvariantString": "Aviator"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "29": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/RocketLauncher/Mesh/FPP/Legendary/RL_Honeycomb_FPP.RL_Honeycomb_FPP",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/RocketLauncher/Mesh/FPP/Legendary/SM_RL_Honeycomb.SM_RL_Honeycomb",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "None",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::RocketLauncher",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 29,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Honeycomb"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "30": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/RocketLauncher/Mesh/FPP/Partner/RL_Courage_FPP.RL_Courage_FPP",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/RocketLauncher/Mesh/FPP/Partner/SM_RL_Courage.SM_RL_Courage",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "None",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::RocketLauncher",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 30,
+        "DisplayName": {
+          "CultureInvariantString": "Courage"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "31": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/RocketLauncher/Mesh/FPP/Partner/RL_SteelSeries_FPP.RL_SteelSeries_FPP",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/RocketLauncher/Mesh/FPP/Partner/SM_RL_SteelSeries.SM_RL_SteelSeries",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "None",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::RocketLauncher",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 31,
+        "DisplayName": {
+          "CultureInvariantString": "SteelSeries"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "32": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/RocketLauncher/Mesh/FPP/Partner/RL_TRN_FPP.RL_TRN_FPP",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/RocketLauncher/Mesh/FPP/Partner/SM_RL_TRN.SM_RL_TRN",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "None",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::RocketLauncher",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 32,
+        "DisplayName": {
+          "CultureInvariantString": "TRN"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      }
+    }
+  }
+]

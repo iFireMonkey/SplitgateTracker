@@ -1,0 +1,1430 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DailyChallenges",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class ChallengeData",
+        "ObjectPath": "/Script/PortalWarsGlobals"
+      }
+    },
+    "Rows": {
+      "0": {
+        "ChallengeType": "EChallengeType::Daily",
+        "TargetValue": 2,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 3000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 0,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 0,
+        "DisplayName": {
+          "Namespace": "DailyChallenges",
+          "Key": "DisplayName_0",
+          "SourceString": "Win 2 Matches"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "1": {
+        "ChallengeType": "EChallengeType::Daily",
+        "TargetValue": 25,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 3000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 0,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 1,
+        "DisplayName": {
+          "Namespace": "DailyChallenges",
+          "Key": "DisplayName_1",
+          "SourceString": "Get 25 Kills"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "2": {
+        "ChallengeType": "EChallengeType::Daily",
+        "TargetValue": 1500,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 3000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 0,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 2,
+        "DisplayName": {
+          "Namespace": "DailyChallenges",
+          "Key": "DisplayName_2",
+          "SourceString": "Inflict 1500 Damage"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "3": {
+        "ChallengeType": "EChallengeType::Daily",
+        "TargetValue": 5,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 3000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 0,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 3,
+        "DisplayName": {
+          "Namespace": "DailyChallenges",
+          "Key": "DisplayName_3",
+          "SourceString": "Destroy 5 Enemy Portals"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "4": {
+        "ChallengeType": "EChallengeType::Daily",
+        "TargetValue": 5,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 3000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 0,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 4,
+        "DisplayName": {
+          "Namespace": "DailyChallenges",
+          "Key": "DisplayName_4",
+          "SourceString": "Go Through 5 Enemy Portals"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "5": {
+        "ChallengeType": "EChallengeType::Daily",
+        "TargetValue": 5,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 3000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 0,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 5,
+        "DisplayName": {
+          "Namespace": "DailyChallenges",
+          "Key": "DisplayName_5",
+          "SourceString": "Go Through 5 Friendly Portals"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "6": {
+        "ChallengeType": "EChallengeType::Daily",
+        "TargetValue": 5,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 3000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 0,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 6,
+        "DisplayName": {
+          "Namespace": "DailyChallenges",
+          "Key": "DisplayName_6",
+          "SourceString": "Teabag 5 Enemies"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "7": {
+        "ChallengeType": "EChallengeType::Daily",
+        "TargetValue": 10,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 3000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 0,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 7,
+        "DisplayName": {
+          "Namespace": "DailyChallenges",
+          "Key": "DisplayName_7",
+          "SourceString": "Get 10 Assist Kills"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "8": {
+        "ChallengeType": "EChallengeType::Daily",
+        "TargetValue": 5,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 3000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 0,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 8,
+        "DisplayName": {
+          "Namespace": "DailyChallenges",
+          "Key": "DisplayName_8",
+          "SourceString": "Get 5 Melee Kills"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "9": {
+        "ChallengeType": "EChallengeType::Daily",
+        "TargetValue": 5,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 3000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 0,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 9,
+        "DisplayName": {
+          "Namespace": "DailyChallenges",
+          "Key": "DisplayName_9",
+          "SourceString": "Get 5 Kills Through Portals"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "10": {
+        "ChallengeType": "EChallengeType::Daily",
+        "TargetValue": 5,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 3000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 0,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 10,
+        "DisplayName": {
+          "Namespace": "DailyChallenges",
+          "Key": "DisplayName_10",
+          "SourceString": "Get 5 Headshot Kills"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "11": {
+        "ChallengeType": "EChallengeType::Daily",
+        "TargetValue": 2,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 3000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 0,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 11,
+        "DisplayName": {
+          "Namespace": "DailyChallenges",
+          "Key": "DisplayName_11",
+          "SourceString": "Play 2 Matches Using Different Armors"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "12": {
+        "ChallengeType": "EChallengeType::Daily",
+        "TargetValue": 300,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 3000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 1,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 12,
+        "DisplayName": {
+          "Namespace": "DailyChallenges",
+          "Key": "DisplayName_12",
+          "SourceString": "Inflict 300 Damage with the Plasma Rifle"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "13": {
+        "ChallengeType": "EChallengeType::Daily",
+        "TargetValue": 3,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 3000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 1,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 13,
+        "DisplayName": {
+          "Namespace": "DailyChallenges",
+          "Key": "DisplayName_13",
+          "SourceString": "Get 3 Headshot Kills with the Battle Rifle"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "14": {
+        "ChallengeType": "EChallengeType::Daily",
+        "TargetValue": 3,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 3000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 1,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 14,
+        "DisplayName": {
+          "Namespace": "DailyChallenges",
+          "Key": "DisplayName_14",
+          "SourceString": "Get 3 Headshot Kills with the Sniper Rifle"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "15": {
+        "ChallengeType": "EChallengeType::Daily",
+        "TargetValue": 3,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 3000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 1,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 15,
+        "DisplayName": {
+          "Namespace": "DailyChallenges",
+          "Key": "DisplayName_15",
+          "SourceString": "Get 3 Melee Kills with the BFB"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "16": {
+        "ChallengeType": "EChallengeType::Daily",
+        "TargetValue": 300,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 3000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 1,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 16,
+        "DisplayName": {
+          "Namespace": "DailyChallenges",
+          "Key": "DisplayName_16",
+          "SourceString": "Inflict 300 Damage with the SMG"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "17": {
+        "ChallengeType": "EChallengeType::Daily",
+        "TargetValue": 5,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 3000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 1,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 17,
+        "DisplayName": {
+          "Namespace": "DailyChallenges",
+          "Key": "DisplayName_17",
+          "SourceString": "Get 5 Kills with the Shotgun"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "18": {
+        "ChallengeType": "EChallengeType::Daily",
+        "TargetValue": 5,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 3000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 1,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 18,
+        "DisplayName": {
+          "Namespace": "DailyChallenges",
+          "Key": "DisplayName_18",
+          "SourceString": "Get 5 Kills with the Railgun"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "19": {
+        "ChallengeType": "EChallengeType::Daily",
+        "TargetValue": 5,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 3000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 1,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 19,
+        "DisplayName": {
+          "Namespace": "DailyChallenges",
+          "Key": "DisplayName_19",
+          "SourceString": "Get a Kill with 5 Different Weapons"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "20": {
+        "ChallengeType": "EChallengeType::Daily",
+        "TargetValue": 1,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 3000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 1,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 20,
+        "DisplayName": {
+          "Namespace": "DailyChallenges",
+          "Key": "DisplayName_20",
+          "SourceString": "Get a Double Kill"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "21": {
+        "ChallengeType": "EChallengeType::Daily",
+        "TargetValue": 1,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 3000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 1,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 21,
+        "DisplayName": {
+          "Namespace": "DailyChallenges",
+          "Key": "DisplayName_21",
+          "SourceString": "Get a Killing Spree"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "22": {
+        "ChallengeType": "EChallengeType::Daily",
+        "TargetValue": 2,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 3000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 1,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 22,
+        "DisplayName": {
+          "Namespace": "DailyChallenges",
+          "Key": "DisplayName_22",
+          "SourceString": "Get a Positive KDA on 2 Different Maps"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "23": {
+        "ChallengeType": "EChallengeType::Daily",
+        "TargetValue": 2,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 3000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 1,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 23,
+        "DisplayName": {
+          "Namespace": "DailyChallenges",
+          "Key": "DisplayName_23",
+          "SourceString": "Get a Positive KDA in 2 Different Game Modes"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "24": {
+        "ChallengeType": "EChallengeType::Daily",
+        "TargetValue": 1,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 3000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 1,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [
+          "RANKED_FREE_FOR_ALL"
+        ],
+        "ID": 24,
+        "DisplayName": {
+          "Namespace": "DailyChallenges",
+          "Key": "DisplayName_24",
+          "SourceString": "Score the Most Points on your team"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "25": {
+        "ChallengeType": "EChallengeType::Daily",
+        "TargetValue": 1,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 3000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 1,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [
+          "RANKED_FREE_FOR_ALL"
+        ],
+        "ID": 25,
+        "DisplayName": {
+          "Namespace": "DailyChallenges",
+          "Key": "DisplayName_25",
+          "SourceString": "Inflict the Most Damage on your team"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "26": {
+        "ChallengeType": "EChallengeType::Daily",
+        "TargetValue": 1,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 3000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 1,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [
+          "RANKED_FREE_FOR_ALL"
+        ],
+        "ID": 26,
+        "DisplayName": {
+          "Namespace": "DailyChallenges",
+          "Key": "DisplayName_26",
+          "SourceString": "Have the Most Assist Kills on your team"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "27": {
+        "ChallengeType": "EChallengeType::Daily",
+        "TargetValue": 1,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 3000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 1,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [
+          "RANKED_FREE_FOR_ALL"
+        ],
+        "ID": 27,
+        "DisplayName": {
+          "Namespace": "DailyChallenges",
+          "Key": "DisplayName_27",
+          "SourceString": "Have the Fewest Deaths on your team"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "28": {
+        "ChallengeType": "EChallengeType::Daily",
+        "TargetValue": 3,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 3000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 1,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 28,
+        "DisplayName": {
+          "Namespace": "DailyChallenges",
+          "Key": "DisplayName_28",
+          "SourceString": "Complete the Race on 3 Different Maps"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "29": {
+        "ChallengeType": "EChallengeType::Daily",
+        "TargetValue": 50,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 3000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 2,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 29,
+        "DisplayName": {
+          "Namespace": "DailyChallenges",
+          "Key": "DisplayName_29",
+          "SourceString": "Score 50 Points in KOTH, DOM, or Oddball"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "30": {
+        "ChallengeType": "EChallengeType::Daily",
+        "TargetValue": 10,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 3000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 2,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 30,
+        "DisplayName": {
+          "Namespace": "DailyChallenges",
+          "Key": "DisplayName_30",
+          "SourceString": "Kill 10 Enemies in TDM, SWAT, TBC, or Shotty Snipers"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "31": {
+        "ChallengeType": "EChallengeType::Daily",
+        "TargetValue": 5,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 3000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 2,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 31,
+        "DisplayName": {
+          "Namespace": "DailyChallenges",
+          "Key": "DisplayName_31",
+          "SourceString": "Get 5 Headshot Kills in TDM, SWAT, TBC, or Shotty Snipers"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "32": {
+        "ChallengeType": "EChallengeType::Daily",
+        "TargetValue": 1,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 3000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 2,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 32,
+        "DisplayName": {
+          "Namespace": "DailyChallenges",
+          "Key": "DisplayName_32",
+          "SourceString": "Score in VIP, Zombie VIP, or CTF"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "33": {
+        "ChallengeType": "EChallengeType::Daily",
+        "TargetValue": 1000,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 3000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 2,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 33,
+        "DisplayName": {
+          "Namespace": "DailyChallenges",
+          "Key": "DisplayName_33",
+          "SourceString": "Inflict 1k Damage with the AR or Pistol"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "34": {
+        "ChallengeType": "EChallengeType::Daily",
+        "TargetValue": 3,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 3000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 2,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 34,
+        "DisplayName": {
+          "Namespace": "DailyChallenges",
+          "Key": "DisplayName_34",
+          "SourceString": "Play on 3 Different Maps"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "35": {
+        "ChallengeType": "EChallengeType::Daily",
+        "TargetValue": 3,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 3000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 2,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 35,
+        "DisplayName": {
+          "Namespace": "DailyChallenges",
+          "Key": "DisplayName_35",
+          "SourceString": "Play 3 Different Game Modes"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "36": {
+        "ChallengeType": "EChallengeType::Daily",
+        "TargetValue": 3,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 3000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 2,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 36,
+        "DisplayName": {
+          "Namespace": "DailyChallenges",
+          "Key": "DisplayName_36",
+          "SourceString": "Play 3 Matches with a Positive KDA"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "37": {
+        "ChallengeType": "EChallengeType::Daily",
+        "TargetValue": 3,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 3000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 2,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 37,
+        "DisplayName": {
+          "Namespace": "DailyChallenges",
+          "Key": "DisplayName_37",
+          "SourceString": "Play 3 Matches with 12 or Fewer Deaths"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "38": {
+        "ChallengeType": "EChallengeType::Daily",
+        "TargetValue": 3,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 3000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 2,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 38,
+        "DisplayName": {
+          "Namespace": "DailyChallenges",
+          "Key": "DisplayName_38",
+          "SourceString": "Play 3 Matches with 3 or More Assist Kills"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "39": {
+        "ChallengeType": "EChallengeType::Daily",
+        "TargetValue": 2,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 3000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 2,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 39,
+        "DisplayName": {
+          "Namespace": "DailyChallenges",
+          "Key": "DisplayName_39",
+          "SourceString": "Get a Killing Spree on 2 Different Maps"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "40": {
+        "ChallengeType": "EChallengeType::Daily",
+        "TargetValue": 1,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 3000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 2,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 40,
+        "DisplayName": {
+          "Namespace": "DailyChallenges",
+          "Key": "DisplayName_40",
+          "SourceString": "Get a Killection Agency"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "41": {
+        "ChallengeType": "EChallengeType::Daily",
+        "TargetValue": 1,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 3000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 2,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 41,
+        "DisplayName": {
+          "Namespace": "DailyChallenges",
+          "Key": "DisplayName_41",
+          "SourceString": "Win a Match on a Simulation Map"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "42": {
+        "ChallengeType": "EChallengeType::Daily",
+        "TargetValue": 1,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 3000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 2,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 42,
+        "DisplayName": {
+          "Namespace": "DailyChallenges",
+          "Key": "DisplayName_42",
+          "SourceString": "Win a Match on a Standard Map"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "1000": {
+        "ChallengeType": "EChallengeType::Daily",
+        "TargetValue": 3,
+        "Reward": {
+          "RewardType": "ERewardType::Drop",
+          "RewardValue": 1,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 3,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 1000,
+        "DisplayName": {
+          "Namespace": "DailyChallenges",
+          "Key": "DisplayName_1000",
+          "SourceString": "Complete All Daily Challenges to earn a Reward"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      }
+    }
+  }
+]

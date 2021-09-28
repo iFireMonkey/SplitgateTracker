@@ -1,0 +1,1197 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "Skins_SMG",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class WeaponMeshItem",
+        "ObjectPath": "/Script/PortalWarsGlobals"
+      },
+      "bIgnoreMissingFields": true
+    },
+    "Rows": {
+      "0": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/SMG/Mesh/FPP/SMG_FPP.SMG_FPP",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/SMG/Mesh/SM_SMG_Old.SM_SMG_Old",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "None",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "/Game/Weapons/SMG/Materials/MI_SMG_Base.MI_SMG_Base",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": true,
+        "CustomizationType": "ECustomizationType::SMG",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Default",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 0,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Default"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "1": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/SMG/Mesh/FPP/Legendary/SMG_TFuel.SMG_TFuel",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/SMG/Mesh/FPP/Legendary/SM_SMG_TFuel.SM_SMG_TFuel",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "None",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": null
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::SMG",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 1,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "TFuel"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "2": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/SMG/Mesh/FPP/Legendary/SMG_GFuel.SMG_GFuel",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/SMG/Mesh/FPP/Legendary/SM_SMG_GFuel.SM_SMG_GFuel",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "None",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": null
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::SMG",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 2,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "GFuel"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "3": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/SMG/Mesh/FPP/Legendary/SMG_Raider.SMG_Raider",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/SMG/Mesh/FPP/Legendary/SM_SMG_Raider.SM_SMG_Raider",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "None",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": null
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::SMG",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 3,
+        "DisplayName": {
+          "CultureInvariantString": "Raider"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "4": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/SMG/Mesh/FPP/Legendary/SMG_WAX.SMG_WAX",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/SMG/Mesh/FPP/Legendary/SM_SMG_WAX.SM_SMG_WAX",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "None",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": null
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::SMG",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 4,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "WAX"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "5": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/SMG/Mesh/FPP/Legendary/SMG_Holo.SMG_Holo",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/SMG/Mesh/FPP/Legendary/SM_SMG_Holo.SM_SMG_Holo",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "None",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": null
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::SMG",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 5,
+        "DisplayName": {
+          "CultureInvariantString": "Holo"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "6": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/SMG/Mesh/FPP/Legendary/SMG_Nvidia.SMG_Nvidia",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/SMG/Mesh/FPP/Legendary/SM_SMG_Nvidia.SM_SMG_Nvidia",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "None",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": null
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::SMG",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 6,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Nvidia"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "7": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/SMG/Mesh/FPP/Legendary/SMG_OverWolf.SMG_OverWolf",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/SMG/Mesh/FPP/Legendary/SM_SMG_OverWolf.SM_SMG_OverWolf",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "None",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": null
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::SMG",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 7,
+        "DisplayName": {
+          "CultureInvariantString": "Overwolf"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "8": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/SMG/Mesh/FPP/Legendary/SMG_IGames.SMG_IGames",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/SMG/Mesh/FPP/Legendary/SM_SMG_IGames.SM_SMG_IGames",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "None",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": null
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::SMG",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 8,
+        "DisplayName": {
+          "CultureInvariantString": "IGames"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "9": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/SMG/Mesh/FPP/Legendary/SMG_Gordan.SMG_Gordan",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/SMG/Mesh/FPP/Legendary/SM_SMG_Gordan.SM_SMG_Gordan",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "None",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": null
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::SMG",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 9,
+        "DisplayName": {
+          "CultureInvariantString": "Gordon Hayward"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "10": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/SMG/Mesh/FPP/Legendary/SMG_Lightning_Rig.SMG_Lightning_Rig",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/SMG/Mesh/FPP/Legendary/SM_SMG_Lightning.SM_SMG_Lightning",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "None",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": null
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::SMG",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 10,
+        "DisplayName": {
+          "CultureInvariantString": "Lightning"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "11": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/SMG/Mesh/FPP/Legendary/SMG_Toxic_Rig.SMG_Toxic_Rig",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/SMG/Mesh/FPP/Legendary/SM_SMG_Toxic.SM_SMG_Toxic",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "None",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": null
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::SMG",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 11,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Toxic"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "12": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/SMG/Mesh/FPP/Legendary/SMG_DB_FPP.SMG_DB_FPP",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/SMG/Mesh/FPP/Legendary/SM_SMG_DB.SM_SMG_DB",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "None",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": null
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::SMG",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 12,
+        "DisplayName": {
+          "CultureInvariantString": "Dragon"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "13": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/SMG/Mesh/FPP/Paints/SMG_FPP_Wildfire.SMG_FPP_Wildfire",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/SMG/Mesh/FPP/Paints/SM_SMG_Wildfire.SM_SMG_Wildfire",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "None",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": null
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::SMG",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 13,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Wildfire"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "14": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/SMG/Mesh/FPP/Paints/SMG_FPP_Kingdom.SMG_FPP_Kingdom",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/SMG/Mesh/FPP/Paints/SM_SMG_Kingdom.SM_SMG_Kingdom",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "None",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": null
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::SMG",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 14,
+        "DisplayName": {
+          "CultureInvariantString": "KingdomSMG"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "15": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/SMG/Mesh/FPP/Legendary/SMG_Molten_FPP.SMG_Molten_FPP",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/SMG/Mesh/FPP/Legendary/SM_SMG_Molten.SM_SMG_Molten",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "None",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": null
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::SMG",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 15,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Molten"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "16": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/SMG/Mesh/FPP/Legendary/SMG_Steampunk_Rig.SMG_Steampunk_Rig",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/SMG/Mesh/FPP/Legendary/SM_SMG_Steampunk.SM_SMG_Steampunk",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "None",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": null
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::SMG",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 16,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Steampunk"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "17": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/SMG/Mesh/SMG_FPP_V2.SMG_FPP_V2",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/SMG/Mesh/FPP/SM_SMG_V2.SM_SMG_V2",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "None",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": null
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::SMG",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 17,
+        "DisplayName": {
+          "CultureInvariantString": "SMG"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "18": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/SMG/Mesh/FPP/Legendary/SMG_WW1_FPP.SMG_WW1_FPP",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/SMG/Mesh/FPP/Legendary/SM_SMG_WW1.SM_SMG_WW1",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "None",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": null
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::SMG",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 18,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "WW1"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "19": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/SMG/Mesh/FPP/Legendary/SMG_Medieval_FPP.SMG_Medieval_FPP",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/SMG/Mesh/FPP/Legendary/SM_SMG_Medieval.SM_SMG_Medieval",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "None",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": null
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::SMG",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 19,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Medieval"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "20": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/SMG/Mesh/FPP/Legendary/SMG_Thompson_FPP.SMG_Thompson_FPP",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/SMG/Mesh/FPP/Legendary/SM_SMG_Thompson.SM_SMG_Thompson",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "None",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": null
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::SMG",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 20,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Thompson"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "21": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/SMG/Mesh/FPP/Legendary/SMG_Frozen_FPP.SMG_Frozen_FPP",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/SMG/Mesh/FPP/Legendary/SM_SMG_Frozen.SM_SMG_Frozen",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "None",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": null
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::SMG",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 21,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Frozen"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "22": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/SMG/Mesh/FPP/Legendary/SMG_Astro_FPP.SMG_Astro_FPP",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/SMG/Mesh/FPP/Legendary/SM_SMG_Astro.SM_SMG_Astro",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "None",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::SMG",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 22,
+        "DisplayName": {
+          "CultureInvariantString": "Astro"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "23": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/SMG/Mesh/FPP/Legendary/SMG_OM_FPP.SMG_OM_FPP",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/SMG/Mesh/FPP/Legendary/SM_SMG_OM.SM_SMG_OM",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "None",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::SMG",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 23,
+        "DisplayName": {
+          "CultureInvariantString": "Old Magic"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "24": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/SMG/Mesh/FPP/Partner/SMG_Alienware_FPP.SMG_Alienware_FPP",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/SMG/Mesh/FPP/Partner/SM_SMG_Alienware.SM_SMG_Alienware",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "None",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::SMG",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Rare",
+        "ID": 24,
+        "DisplayName": {
+          "CultureInvariantString": "Alienware"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "25": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/SMG/Mesh/FPP/Partner/SMG_Kovaak_FPP.SMG_Kovaak_FPP",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/SMG/Mesh/FPP/Partner/SM_SMG_Kovaak.SM_SMG_Kovaak",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "None",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::SMG",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 25,
+        "DisplayName": {
+          "CultureInvariantString": "Kovaak"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "26": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/SMG/Mesh/FPP/Partner/SMG_Summit_FPP.SMG_Summit_FPP",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/SMG/Mesh/FPP/Partner/SM_SMG_Summit.SM_SMG_Summit",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "None",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::SMG",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 26,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Summit"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "27": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/SMG/Mesh/FPP/Partner/SMG_Courage_FPP.SMG_Courage_FPP",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/SMG/Mesh/FPP/Partner/SM_SMG_Courage.SM_SMG_Courage",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "None",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::SMG",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 27,
+        "DisplayName": {
+          "CultureInvariantString": "Courage"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "28": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/SMG/Mesh/FPP/Partner/SMG_Macro_FPP.SMG_Macro_FPP",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/SMG/Mesh/FPP/Partner/SM_SMG_Macro.SM_SMG_Macro",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "None",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::SMG",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 28,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Macro"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "29": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/SMG/Mesh/FPP/Partner/SMG_SteelSeries_FPP.SMG_SteelSeries_FPP",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/SMG/Mesh/FPP/Partner/SM_SMG_SteelSeries.SM_SMG_SteelSeries",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "None",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::SMG",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 29,
+        "DisplayName": {
+          "CultureInvariantString": "SteelSeries"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "30": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/SMG/Mesh/FPP/Partner/SMG_TRN_FPP.SMG_TRN_FPP",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/SMG/Mesh/FPP/Partner/SM_SMG_TRN.SM_SMG_TRN",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "None",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::SMG",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 30,
+        "DisplayName": {
+          "CultureInvariantString": "TRN"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      }
+    }
+  }
+]

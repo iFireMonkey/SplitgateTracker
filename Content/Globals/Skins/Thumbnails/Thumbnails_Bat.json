@@ -1,0 +1,1474 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "Thumbnails_Bat",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class ThumbnailData",
+        "ObjectPath": "/Script/PortalWarsGlobals"
+      }
+    },
+    "Rows": {
+      "0-0": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-0_T.Bat_0-0_T",
+          "SubPathString": ""
+        }
+      },
+      "0-2": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-2_T.Bat_0-2_T",
+          "SubPathString": ""
+        }
+      },
+      "0-4": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-4_T.Bat_0-4_T",
+          "SubPathString": ""
+        }
+      },
+      "0-5": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-5_T.Bat_0-5_T",
+          "SubPathString": ""
+        }
+      },
+      "0-8": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-8_T.Bat_0-8_T",
+          "SubPathString": ""
+        }
+      },
+      "0-10": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-10_T.Bat_0-10_T",
+          "SubPathString": ""
+        }
+      },
+      "0-11": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-11_T.Bat_0-11_T",
+          "SubPathString": ""
+        }
+      },
+      "0-12": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-12_T.Bat_0-12_T",
+          "SubPathString": ""
+        }
+      },
+      "0-15": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-15_T.Bat_0-15_T",
+          "SubPathString": ""
+        }
+      },
+      "0-18": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-18_T.Bat_0-18_T",
+          "SubPathString": ""
+        }
+      },
+      "0-22": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-22_T.Bat_0-22_T",
+          "SubPathString": ""
+        }
+      },
+      "0-27": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "/Game/Thumbnails/Featured/Bat_Gold_Featured_T.Bat_Gold_Featured_T",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-27_T.Bat_0-27_T",
+          "SubPathString": ""
+        }
+      },
+      "0-28": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-28_T.Bat_0-28_T",
+          "SubPathString": ""
+        }
+      },
+      "0-34": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-34_T.Bat_0-34_T",
+          "SubPathString": ""
+        }
+      },
+      "0-41": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-41_T.Bat_0-41_T",
+          "SubPathString": ""
+        }
+      },
+      "0-44": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-44_T.Bat_0-44_T",
+          "SubPathString": ""
+        }
+      },
+      "0-47": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-47_T.Bat_0-47_T",
+          "SubPathString": ""
+        }
+      },
+      "0-49": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-49_T.Bat_0-49_T",
+          "SubPathString": ""
+        }
+      },
+      "0-51": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-51_T.Bat_0-51_T",
+          "SubPathString": ""
+        }
+      },
+      "0-61": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-61_T.Bat_0-61_T",
+          "SubPathString": ""
+        }
+      },
+      "0-65": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-65_T.Bat_0-65_T",
+          "SubPathString": ""
+        }
+      },
+      "0-66": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-66_T.Bat_0-66_T",
+          "SubPathString": ""
+        }
+      },
+      "0-67": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-67_T.Bat_0-67_T",
+          "SubPathString": ""
+        }
+      },
+      "0-68": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-68_T.Bat_0-68_T",
+          "SubPathString": ""
+        }
+      },
+      "0-69": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-69_T.Bat_0-69_T",
+          "SubPathString": ""
+        }
+      },
+      "0-70": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-70_T.Bat_0-70_T",
+          "SubPathString": ""
+        }
+      },
+      "0-71": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-71_T.Bat_0-71_T",
+          "SubPathString": ""
+        }
+      },
+      "0-73": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-73_T.Bat_0-73_T",
+          "SubPathString": ""
+        }
+      },
+      "0-75": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-75_T.Bat_0-75_T",
+          "SubPathString": ""
+        }
+      },
+      "0-77": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-77_T.Bat_0-77_T",
+          "SubPathString": ""
+        }
+      },
+      "0-79": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-79_T.Bat_0-79_T",
+          "SubPathString": ""
+        }
+      },
+      "0-80": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-80_T.Bat_0-80_T",
+          "SubPathString": ""
+        }
+      },
+      "0-84": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-84_T.Bat_0-84_T",
+          "SubPathString": ""
+        }
+      },
+      "0-85": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-85_T.Bat_0-85_T",
+          "SubPathString": ""
+        }
+      },
+      "0-86": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-86_T.Bat_0-86_T",
+          "SubPathString": ""
+        }
+      },
+      "0-91": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-91_T.Bat_0-91_T",
+          "SubPathString": ""
+        }
+      },
+      "0-92": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-92_T.Bat_0-92_T",
+          "SubPathString": ""
+        }
+      },
+      "0-93": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-93_T.Bat_0-93_T",
+          "SubPathString": ""
+        }
+      },
+      "0-94": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-94_T.Bat_0-94_T",
+          "SubPathString": ""
+        }
+      },
+      "0-96": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-96_T.Bat_0-96_T",
+          "SubPathString": ""
+        }
+      },
+      "0-98": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-98_T.Bat_0-98_T",
+          "SubPathString": ""
+        }
+      },
+      "0-101": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-101_T.Bat_0-101_T",
+          "SubPathString": ""
+        }
+      },
+      "0-103": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-103_T.Bat_0-103_T",
+          "SubPathString": ""
+        }
+      },
+      "0-104": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-104_T.Bat_0-104_T",
+          "SubPathString": ""
+        }
+      },
+      "0-105": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-105_T.Bat_0-105_T",
+          "SubPathString": ""
+        }
+      },
+      "0-112": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-112_T.Bat_0-112_T",
+          "SubPathString": ""
+        }
+      },
+      "0-113": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-113_T.Bat_0-113_T",
+          "SubPathString": ""
+        }
+      },
+      "0-115": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-115_T.Bat_0-115_T",
+          "SubPathString": ""
+        }
+      },
+      "0-116": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-116_T.Bat_0-116_T",
+          "SubPathString": ""
+        }
+      },
+      "0-120": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-120_T.Bat_0-120_T",
+          "SubPathString": ""
+        }
+      },
+      "0-121": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-121_T.Bat_0-121_T",
+          "SubPathString": ""
+        }
+      },
+      "0-122": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-122_T.Bat_0-122_T",
+          "SubPathString": ""
+        }
+      },
+      "0-125": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-125_T.Bat_0-125_T",
+          "SubPathString": ""
+        }
+      },
+      "0-128": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-128_T.Bat_0-128_T",
+          "SubPathString": ""
+        }
+      },
+      "0-133": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-133_T.Bat_0-133_T",
+          "SubPathString": ""
+        }
+      },
+      "0-134": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-134_T.Bat_0-134_T",
+          "SubPathString": ""
+        }
+      },
+      "0-137": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-137_T.Bat_0-137_T",
+          "SubPathString": ""
+        }
+      },
+      "0-165": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-165_T.Bat_0-165_T",
+          "SubPathString": ""
+        }
+      },
+      "0-166": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-166_T.Bat_0-166_T",
+          "SubPathString": ""
+        }
+      },
+      "0-167": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-167_T.Bat_0-167_T",
+          "SubPathString": ""
+        }
+      },
+      "0-168": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-168_T.Bat_0-168_T",
+          "SubPathString": ""
+        }
+      },
+      "0-169": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-169_T.Bat_0-169_T",
+          "SubPathString": ""
+        }
+      },
+      "0-308": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-308_T.Bat_0-308_T",
+          "SubPathString": ""
+        }
+      },
+      "0-309": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-309_T.Bat_0-309_T",
+          "SubPathString": ""
+        }
+      },
+      "0-310": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-310_T.Bat_0-310_T",
+          "SubPathString": ""
+        }
+      },
+      "0-311": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-311_T.Bat_0-311_T",
+          "SubPathString": ""
+        }
+      },
+      "0-312": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-312_T.Bat_0-312_T",
+          "SubPathString": ""
+        }
+      },
+      "0-313": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-313_T.Bat_0-313_T",
+          "SubPathString": ""
+        }
+      },
+      "0-314": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-314_T.Bat_0-314_T",
+          "SubPathString": ""
+        }
+      },
+      "0-315": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-315_T.Bat_0-315_T",
+          "SubPathString": ""
+        }
+      },
+      "0-316": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-316_T.Bat_0-316_T",
+          "SubPathString": ""
+        }
+      },
+      "0-317": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-317_T.Bat_0-317_T",
+          "SubPathString": ""
+        }
+      },
+      "0-326": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-326_T.Bat_0-326_T",
+          "SubPathString": ""
+        }
+      },
+      "0-330": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-330_T.Bat_0-330_T",
+          "SubPathString": ""
+        }
+      },
+      "0-331": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-331_T.Bat_0-331_T",
+          "SubPathString": ""
+        }
+      },
+      "0-333": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-333_T.Bat_0-333_T",
+          "SubPathString": ""
+        }
+      },
+      "0-356": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-356_T.Bat_0-356_T",
+          "SubPathString": ""
+        }
+      },
+      "0-369": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-369_T.Bat_0-369_T",
+          "SubPathString": ""
+        }
+      },
+      "0-386": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-386_T.Bat_0-386_T",
+          "SubPathString": ""
+        }
+      },
+      "0-387": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-387_T.Bat_0-387_T",
+          "SubPathString": ""
+        }
+      },
+      "0-394": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-394_T.Bat_0-394_T",
+          "SubPathString": ""
+        }
+      },
+      "0-395": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-395_T.Bat_0-395_T",
+          "SubPathString": ""
+        }
+      },
+      "0-427": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-427_T.Bat_0-427_T",
+          "SubPathString": ""
+        }
+      },
+      "0-428": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-428_T.Bat_0-428_T",
+          "SubPathString": ""
+        }
+      },
+      "0-429": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-429_T.Bat_0-429_T",
+          "SubPathString": ""
+        }
+      },
+      "0-430": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-430_T.Bat_0-430_T",
+          "SubPathString": ""
+        }
+      },
+      "0-453": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-453_T.Bat_0-453_T",
+          "SubPathString": ""
+        }
+      },
+      "0-455": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-455_T.Bat_0-455_T",
+          "SubPathString": ""
+        }
+      },
+      "0-456": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-456_T.Bat_0-456_T",
+          "SubPathString": ""
+        }
+      },
+      "0-457": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-457_T.Bat_0-457_T",
+          "SubPathString": ""
+        }
+      },
+      "0-458": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-458_T.Bat_0-458_T",
+          "SubPathString": ""
+        }
+      },
+      "0-459": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-459_T.Bat_0-459_T",
+          "SubPathString": ""
+        }
+      },
+      "0-460": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-460_T.Bat_0-460_T",
+          "SubPathString": ""
+        }
+      },
+      "0-461": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-461_T.Bat_0-461_T",
+          "SubPathString": ""
+        }
+      },
+      "0-467": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-467_T.Bat_0-467_T",
+          "SubPathString": ""
+        }
+      },
+      "0-472": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-472_T.Bat_0-472_T",
+          "SubPathString": ""
+        }
+      },
+      "0-473": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-473_T.Bat_0-473_T",
+          "SubPathString": ""
+        }
+      },
+      "0-474": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-474_T.Bat_0-474_T",
+          "SubPathString": ""
+        }
+      },
+      "0-475": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-475_T.Bat_0-475_T",
+          "SubPathString": ""
+        }
+      },
+      "0-482": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-482_T.Bat_0-482_T",
+          "SubPathString": ""
+        }
+      },
+      "0-484": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-484_T.Bat_0-484_T",
+          "SubPathString": ""
+        }
+      },
+      "1-204": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_1-204_T.Bat_1-204_T",
+          "SubPathString": ""
+        }
+      },
+      "2-188": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_2-188_T.Bat_2-188_T",
+          "SubPathString": ""
+        }
+      },
+      "3-294": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_3-294_T.Bat_3-294_T",
+          "SubPathString": ""
+        }
+      },
+      "3-349": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_3-349_T.Bat_3-349_T",
+          "SubPathString": ""
+        }
+      },
+      "4-353": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_4-353_T.Bat_4-353_T",
+          "SubPathString": ""
+        }
+      },
+      "0-142": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-142_T.Bat_0-142_T",
+          "SubPathString": ""
+        }
+      },
+      "0-518": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-518_T.Bat_0-518_T",
+          "SubPathString": ""
+        }
+      },
+      "0-520": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-520_T.Bat_0-520_T",
+          "SubPathString": ""
+        }
+      },
+      "0-521": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-521_T.Bat_0-521_T",
+          "SubPathString": ""
+        }
+      },
+      "0-522": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-522_T.Bat_0-522_T",
+          "SubPathString": ""
+        }
+      },
+      "0-523": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-523_T.Bat_0-523_T",
+          "SubPathString": ""
+        }
+      },
+      "0-524": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-524_T.Bat_0-524_T",
+          "SubPathString": ""
+        }
+      },
+      "0-525": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-525_T.Bat_0-525_T",
+          "SubPathString": ""
+        }
+      },
+      "0-526": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-526_T.Bat_0-526_T",
+          "SubPathString": ""
+        }
+      },
+      "0-527": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-527_T.Bat_0-527_T",
+          "SubPathString": ""
+        }
+      },
+      "0-528": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-528_T.Bat_0-528_T",
+          "SubPathString": ""
+        }
+      },
+      "0-529": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-529_T.Bat_0-529_T",
+          "SubPathString": ""
+        }
+      },
+      "0-530": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-530_T.Bat_0-530_T",
+          "SubPathString": ""
+        }
+      },
+      "0-531": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-531_T.Bat_0-531_T",
+          "SubPathString": ""
+        }
+      },
+      "0-532": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-532_T.Bat_0-532_T",
+          "SubPathString": ""
+        }
+      },
+      "5-385": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_5-385_T.Bat_5-385_T",
+          "SubPathString": ""
+        }
+      },
+      "0-545": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-545_T.Bat_0-545_T",
+          "SubPathString": ""
+        }
+      },
+      "0-546": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-546_T.Bat_0-546_T",
+          "SubPathString": ""
+        }
+      },
+      "0-547": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-547_T.Bat_0-547_T",
+          "SubPathString": ""
+        }
+      },
+      "0-548": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-548_T.Bat_0-548_T",
+          "SubPathString": ""
+        }
+      },
+      "0-549": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-549_T.Bat_0-549_T",
+          "SubPathString": ""
+        }
+      },
+      "0-550": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-550_T.Bat_0-550_T",
+          "SubPathString": ""
+        }
+      },
+      "0-551": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-551_T.Bat_0-551_T",
+          "SubPathString": ""
+        }
+      },
+      "0-552": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-552_T.Bat_0-552_T",
+          "SubPathString": ""
+        }
+      },
+      "0-553": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-553_T.Bat_0-553_T",
+          "SubPathString": ""
+        }
+      },
+      "0-554": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-554_T.Bat_0-554_T",
+          "SubPathString": ""
+        }
+      },
+      "0-555": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-555_T.Bat_0-555_T",
+          "SubPathString": ""
+        }
+      },
+      "0-556": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-556_T.Bat_0-556_T",
+          "SubPathString": ""
+        }
+      },
+      "0-558": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-558_T.Bat_0-558_T",
+          "SubPathString": ""
+        }
+      },
+      "0-559": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-559_T.Bat_0-559_T",
+          "SubPathString": ""
+        }
+      },
+      "0-560": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-560_T.Bat_0-560_T",
+          "SubPathString": ""
+        }
+      },
+      "0-561": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-561_T.Bat_0-561_T",
+          "SubPathString": ""
+        }
+      },
+      "0-562": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-562_T.Bat_0-562_T",
+          "SubPathString": ""
+        }
+      },
+      "0-563": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-563_T.Bat_0-563_T",
+          "SubPathString": ""
+        }
+      },
+      "0-567": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-567_T.Bat_0-567_T",
+          "SubPathString": ""
+        }
+      },
+      "0-568": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-568_T.Bat_0-568_T",
+          "SubPathString": ""
+        }
+      },
+      "0-569": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-569_T.Bat_0-569_T",
+          "SubPathString": ""
+        }
+      },
+      "0-570": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-570_T.Bat_0-570_T",
+          "SubPathString": ""
+        }
+      },
+      "0-572": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-572_T.Bat_0-572_T",
+          "SubPathString": ""
+        }
+      },
+      "0-582": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-582_T.Bat_0-582_T",
+          "SubPathString": ""
+        }
+      }
+    }
+  }
+]

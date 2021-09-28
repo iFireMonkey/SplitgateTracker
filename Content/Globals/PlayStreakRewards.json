@@ -1,0 +1,175 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "PlayStreakRewards",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class PlayStreakData",
+        "ObjectPath": "/Script/PortalWarsGlobals"
+      }
+    },
+    "Rows": {
+      "0": {
+        "Reward": {
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "ID": 0,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "1": {
+        "Reward": {
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "ID": 1,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "2": {
+        "Reward": {
+          "RewardType": "ERewardType::XPBoost",
+          "RewardValue": 5,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "ID": 2,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "3": {
+        "Reward": {
+          "RewardType": "ERewardType::XPBoost",
+          "RewardValue": 10,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "ID": 3,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "4": {
+        "Reward": {
+          "RewardType": "ERewardType::XPBoost",
+          "RewardValue": 15,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "ID": 4,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "5": {
+        "Reward": {
+          "RewardType": "ERewardType::XPBoost",
+          "RewardValue": 20,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "ID": 5,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "6": {
+        "Reward": {
+          "RewardType": "ERewardType::XPBoost",
+          "RewardValue": 25,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "ID": 6,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      }
+    }
+  }
+]

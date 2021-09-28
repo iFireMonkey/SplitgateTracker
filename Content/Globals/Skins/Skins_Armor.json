@@ -1,0 +1,3206 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "Skins_Armor",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class SuitMeshItem",
+        "ObjectPath": "/Script/PortalWarsGlobals"
+      },
+      "bIgnoreMissingFields": true
+    },
+    "Rows": {
+      "0": {
+        "Mesh3P": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/AllSuits/FB_01_T-200.FB_01_T-200",
+          "SubPathString": ""
+        },
+        "Mesh1P": {
+          "AssetPathName": "/Game/Player/FirstPerson/A_01.A_01",
+          "SubPathString": ""
+        },
+        "JetpackOffset": 0.0,
+        "PortalGunOffset": 0.0,
+        "PreviewAnimation": {
+          "Animation": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "PreviewTime": 1.0
+        },
+        "PreviewMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Common/MI_Skin_BaseBlue.MI_Skin_BaseBlue",
+          "SubPathString": ""
+        },
+        "DefaultMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Common/MI_Skin_BaseBlue.MI_Skin_BaseBlue",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": "Blue"
+        },
+        "CompatibleWithAllSkins": true,
+        "CustomizationType": "ECustomizationType::Armor",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Default",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 0,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "T200"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "2": {
+        "Mesh3P": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/AllSuits/FB_03_ALABASTRA.FB_03_ALABASTRA",
+          "SubPathString": ""
+        },
+        "Mesh1P": {
+          "AssetPathName": "/Game/Player/FirstPerson/A_03.A_03",
+          "SubPathString": ""
+        },
+        "JetpackOffset": -5.0,
+        "PortalGunOffset": 0.0,
+        "PreviewAnimation": {
+          "Animation": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "PreviewTime": 1.0
+        },
+        "PreviewMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Common/MI_Skin_BaseBlue.MI_Skin_BaseBlue",
+          "SubPathString": ""
+        },
+        "DefaultMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Common/MI_Skin_BaseBlue.MI_Skin_BaseBlue",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": "Blue"
+        },
+        "CompatibleWithAllSkins": true,
+        "CustomizationType": "ECustomizationType::Armor",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 2,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Alabastra"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "6": {
+        "Mesh3P": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/AllSuits/FB_07_OLD_BONES.FB_07_OLD_BONES",
+          "SubPathString": ""
+        },
+        "Mesh1P": {
+          "AssetPathName": "/Game/Player/FirstPerson/A_07.A_07",
+          "SubPathString": ""
+        },
+        "JetpackOffset": 0.0,
+        "PortalGunOffset": 0.0,
+        "PreviewAnimation": {
+          "Animation": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "PreviewTime": 1.0
+        },
+        "PreviewMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Common/MI_Skin_BaseBlue.MI_Skin_BaseBlue",
+          "SubPathString": ""
+        },
+        "DefaultMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Common/MI_Skin_BaseBlue.MI_Skin_BaseBlue",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": "Blue"
+        },
+        "CompatibleWithAllSkins": true,
+        "CustomizationType": "ECustomizationType::Armor",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 6,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "OldBones"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "12": {
+        "Mesh3P": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/AllSuits/FB_13_DWELLER.FB_13_DWELLER",
+          "SubPathString": ""
+        },
+        "Mesh1P": {
+          "AssetPathName": "/Game/Player/FirstPerson/A_13.A_13",
+          "SubPathString": ""
+        },
+        "JetpackOffset": 0.0,
+        "PortalGunOffset": 0.0,
+        "PreviewAnimation": {
+          "Animation": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "PreviewTime": 1.0
+        },
+        "PreviewMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Rare/MI_Skin_Blaze.MI_Skin_Blaze",
+          "SubPathString": ""
+        },
+        "DefaultMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Common/MI_Skin_BaseBlue.MI_Skin_BaseBlue",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": "Blue"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::Armor",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::DLC",
+          "AvailabilityInfo": "Founders"
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 12,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Dweller"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "17": {
+        "Mesh3P": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/AllSuits/FB_18_GANGSTER.FB_18_GANGSTER",
+          "SubPathString": ""
+        },
+        "Mesh1P": {
+          "AssetPathName": "/Game/Player/FirstPerson/A_18.A_18",
+          "SubPathString": ""
+        },
+        "JetpackOffset": -5.0,
+        "PortalGunOffset": 0.0,
+        "PreviewAnimation": {
+          "Animation": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "PreviewTime": 1.0
+        },
+        "PreviewMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/BattlePass/Rare/MI_Skin_Wind2.MI_Skin_Wind1",
+          "SubPathString": ""
+        },
+        "DefaultMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Common/MI_Skin_BaseBlue.MI_Skin_BaseBlue",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": "Blue"
+        },
+        "CompatibleWithAllSkins": true,
+        "CustomizationType": "ECustomizationType::Armor",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 17,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Gangster"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "18": {
+        "Mesh3P": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/AllSuits/FB_19_VULTURE.FB_19_VULTURE",
+          "SubPathString": ""
+        },
+        "Mesh1P": {
+          "AssetPathName": "/Game/Player/FirstPerson/A_19.A_19",
+          "SubPathString": ""
+        },
+        "JetpackOffset": 0.0,
+        "PortalGunOffset": 0.0,
+        "PreviewAnimation": {
+          "Animation": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "PreviewTime": 1.0
+        },
+        "PreviewMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Common/MI_Skin_BaseBlue.MI_Skin_BaseBlue",
+          "SubPathString": ""
+        },
+        "DefaultMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Common/MI_Skin_BaseBlue.MI_Skin_BaseBlue",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": "Blue"
+        },
+        "CompatibleWithAllSkins": true,
+        "CustomizationType": "ECustomizationType::Armor",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 18,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Vulture"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "19": {
+        "Mesh3P": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/AllSuits/FB_20_INTERCEPTOR.FB_20_INTERCEPTOR",
+          "SubPathString": ""
+        },
+        "Mesh1P": {
+          "AssetPathName": "/Game/Player/FirstPerson/A_20.A_20",
+          "SubPathString": ""
+        },
+        "JetpackOffset": 0.0,
+        "PortalGunOffset": 0.0,
+        "PreviewAnimation": {
+          "Animation": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "PreviewTime": 1.0
+        },
+        "PreviewMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Mystic/MI_Skin_Arid.MI_Skin_Arid",
+          "SubPathString": ""
+        },
+        "DefaultMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Common/MI_Skin_BaseBlue.MI_Skin_BaseBlue",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": "Blue"
+        },
+        "CompatibleWithAllSkins": true,
+        "CustomizationType": "ECustomizationType::Armor",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 19,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Interceptor"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "26": {
+        "Mesh3P": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/AllSuits/FB_27_ANDOR.FB_27_ANDOR",
+          "SubPathString": ""
+        },
+        "Mesh1P": {
+          "AssetPathName": "/Game/Player/FirstPerson/A_27.A_27",
+          "SubPathString": ""
+        },
+        "JetpackOffset": 0.0,
+        "PortalGunOffset": 0.0,
+        "PreviewAnimation": {
+          "Animation": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "PreviewTime": 1.0
+        },
+        "PreviewMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Common/MI_Skin_BaseBlue.MI_Skin_BaseBlue",
+          "SubPathString": ""
+        },
+        "DefaultMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Common/MI_Skin_BaseBlue.MI_Skin_BaseBlue",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": "Blue"
+        },
+        "CompatibleWithAllSkins": true,
+        "CustomizationType": "ECustomizationType::Armor",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::BattlePass",
+          "AvailabilityInfo": "Season 1"
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 26,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Andor"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "28": {
+        "Mesh3P": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/AllSuits/FB_29_HANNYA.FB_29_HANNYA",
+          "SubPathString": ""
+        },
+        "Mesh1P": {
+          "AssetPathName": "/Game/Player/FirstPerson/A_29.A_29",
+          "SubPathString": ""
+        },
+        "JetpackOffset": 0.0,
+        "PortalGunOffset": 0.0,
+        "PreviewAnimation": {
+          "Animation": {
+            "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season1/Ani_jojo_01.Ani_jojo_01",
+            "SubPathString": ""
+          },
+          "PreviewTime": 2.333333
+        },
+        "PreviewMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Rare/MI_Skin_M90.MI_Skin_M89",
+          "SubPathString": ""
+        },
+        "DefaultMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Common/MI_Skin_BaseBlue.MI_Skin_BaseBlue",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": "Blue"
+        },
+        "CompatibleWithAllSkins": true,
+        "CustomizationType": "ECustomizationType::Armor",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 28,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Hannya"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "29": {
+        "Mesh3P": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/AllSuits/FB_30_RHINO.FB_30_RHINO",
+          "SubPathString": ""
+        },
+        "Mesh1P": {
+          "AssetPathName": "/Game/Player/FirstPerson/A_30.A_30",
+          "SubPathString": ""
+        },
+        "JetpackOffset": 0.0,
+        "PortalGunOffset": 0.0,
+        "PreviewAnimation": {
+          "Animation": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "PreviewTime": 1.0
+        },
+        "PreviewMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/MI_Rhino_01.MI_Rhino_00",
+          "SubPathString": ""
+        },
+        "DefaultMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Common/MI_Skin_BaseBlue.MI_Skin_BaseBlue",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": "Blue"
+        },
+        "CompatibleWithAllSkins": true,
+        "CustomizationType": "ECustomizationType::Armor",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 29,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Rhino"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "31": {
+        "Mesh3P": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/AllSuits/FB_35_ASSASSIN.FB_35_ASSASSIN",
+          "SubPathString": ""
+        },
+        "Mesh1P": {
+          "AssetPathName": "/Game/Player/FirstPerson/A_35.A_35",
+          "SubPathString": ""
+        },
+        "JetpackOffset": 0.0,
+        "PortalGunOffset": 0.0,
+        "PreviewAnimation": {
+          "Animation": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "PreviewTime": 1.0
+        },
+        "PreviewMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Common/MI_Skin_BaseBlue.MI_Skin_BaseBlue",
+          "SubPathString": ""
+        },
+        "DefaultMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Common/MI_Skin_BaseBlue.MI_Skin_BaseBlue",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": "Blue"
+        },
+        "CompatibleWithAllSkins": true,
+        "CustomizationType": "ECustomizationType::Armor",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 31,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Assassin"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "32": {
+        "Mesh3P": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/AllSuits/FB_32_SINGE.FB_32_SINGE",
+          "SubPathString": ""
+        },
+        "Mesh1P": {
+          "AssetPathName": "/Game/Player/FirstPerson/A_32.A_32",
+          "SubPathString": ""
+        },
+        "JetpackOffset": 0.0,
+        "PortalGunOffset": 0.0,
+        "PreviewAnimation": {
+          "Animation": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "PreviewTime": 1.0
+        },
+        "PreviewMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Common/MI_Skin_BaseBlue.MI_Skin_BaseBlue",
+          "SubPathString": ""
+        },
+        "DefaultMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Common/MI_Skin_BaseBlue.MI_Skin_BaseBlue",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": "Blue"
+        },
+        "CompatibleWithAllSkins": true,
+        "CustomizationType": "ECustomizationType::Armor",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 32,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Singe"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "33": {
+        "Mesh3P": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/AllSuits/FB_33_LETTO.FB_33_LETTO",
+          "SubPathString": ""
+        },
+        "Mesh1P": {
+          "AssetPathName": "/Game/Player/FirstPerson/A_33.A_33",
+          "SubPathString": ""
+        },
+        "JetpackOffset": 0.0,
+        "PortalGunOffset": 0.0,
+        "PreviewAnimation": {
+          "Animation": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "PreviewTime": 1.0
+        },
+        "PreviewMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Common/MI_Skin_BaseBlue.MI_Skin_BaseBlue",
+          "SubPathString": ""
+        },
+        "DefaultMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Common/MI_Skin_BaseBlue.MI_Skin_BaseBlue",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": "Blue"
+        },
+        "CompatibleWithAllSkins": true,
+        "CustomizationType": "ECustomizationType::Armor",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::BattlePass",
+          "AvailabilityInfo": "Season 2"
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 33,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Letto"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "34": {
+        "Mesh3P": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/AllSuits/FB_38_BUNNYHOP.FB_38_BUNNYHOP",
+          "SubPathString": ""
+        },
+        "Mesh1P": {
+          "AssetPathName": "/Game/Player/FirstPerson/A_01.A_01",
+          "SubPathString": ""
+        },
+        "JetpackOffset": 0.0,
+        "PortalGunOffset": 0.0,
+        "PreviewAnimation": {
+          "Animation": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "PreviewTime": 1.0
+        },
+        "PreviewMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Epic/MI_Skin_Supreme.MI_Skin_Supreme",
+          "SubPathString": ""
+        },
+        "DefaultMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Epic/MI_Skin_Supreme.MI_Skin_Supreme",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::Armor",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 34,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "BunnyHop"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "35": {
+        "Mesh3P": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/AllSuits/FB_34_BANANASPLIT.FB_34_BANANASPLIT",
+          "SubPathString": ""
+        },
+        "Mesh1P": {
+          "AssetPathName": "/Game/Player/FirstPerson/A_34.A_34",
+          "SubPathString": ""
+        },
+        "JetpackOffset": 0.0,
+        "PortalGunOffset": 0.0,
+        "PreviewAnimation": {
+          "Animation": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "PreviewTime": 1.0
+        },
+        "PreviewMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Legendary/BananaSplit/MI_Skin_Banana_Strawberry.MI_Skin_Banana_Strawberry",
+          "SubPathString": ""
+        },
+        "DefaultMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Legendary/BananaSplit/MI_Skin_Banana_Strawberry.MI_Skin_Banana_Strawberry",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::Armor",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 35,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "BananaSplit"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "36": {
+        "Mesh3P": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/AllSuits/FB_36_VOLTA.FB_36_VOLTA",
+          "SubPathString": ""
+        },
+        "Mesh1P": {
+          "AssetPathName": "/Game/Player/FirstPerson/A_36.A_36",
+          "SubPathString": ""
+        },
+        "JetpackOffset": 0.0,
+        "PortalGunOffset": 0.0,
+        "PreviewAnimation": {
+          "Animation": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "PreviewTime": 1.0
+        },
+        "PreviewMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Common/MI_Skin_BaseBlue.MI_Skin_BaseBlue",
+          "SubPathString": ""
+        },
+        "DefaultMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Common/MI_Skin_BaseBlue.MI_Skin_BaseBlue",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": "Blue"
+        },
+        "CompatibleWithAllSkins": true,
+        "CustomizationType": "ECustomizationType::Armor",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 36,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Volta"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "37": {
+        "Mesh3P": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/AllSuits/FB_37_BLITZ.FB_37_BLITZ",
+          "SubPathString": ""
+        },
+        "Mesh1P": {
+          "AssetPathName": "/Game/Player/FirstPerson/A_37.A_37",
+          "SubPathString": ""
+        },
+        "JetpackOffset": 0.0,
+        "PortalGunOffset": 0.0,
+        "PreviewAnimation": {
+          "Animation": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "PreviewTime": 1.0
+        },
+        "PreviewMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/MI_Blitz_03.MI_Blitz_02",
+          "SubPathString": ""
+        },
+        "DefaultMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Common/MI_Skin_BaseBlue.MI_Skin_BaseBlue",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": "Blue"
+        },
+        "CompatibleWithAllSkins": true,
+        "CustomizationType": "ECustomizationType::Armor",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::BattlePass",
+          "AvailabilityInfo": "Season 2"
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 37,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Blitz"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "38": {
+        "Mesh3P": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/AllSuits/FB_37a_BLITZ.FB_37a_BLITZ",
+          "SubPathString": ""
+        },
+        "Mesh1P": {
+          "AssetPathName": "/Game/Player/FirstPerson/A_37.A_37",
+          "SubPathString": ""
+        },
+        "JetpackOffset": 0.0,
+        "PortalGunOffset": 0.0,
+        "PreviewAnimation": {
+          "Animation": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "PreviewTime": 1.0
+        },
+        "PreviewMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/MI_Blitz_02.MI_Blitz_01",
+          "SubPathString": ""
+        },
+        "DefaultMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Common/MI_Skin_BaseBlue.MI_Skin_BaseBlue",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": "Blue"
+        },
+        "CompatibleWithAllSkins": true,
+        "CustomizationType": "ECustomizationType::Armor",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 38,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "BlitzII"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "39": {
+        "Mesh3P": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/AllSuits/FB_40_SHOGUN.FB_40_SHOGUN",
+          "SubPathString": ""
+        },
+        "Mesh1P": {
+          "AssetPathName": "/Game/Player/FirstPerson/A_40.A_40",
+          "SubPathString": ""
+        },
+        "JetpackOffset": -5.0,
+        "PortalGunOffset": 0.0,
+        "PreviewAnimation": {
+          "Animation": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "PreviewTime": 1.0
+        },
+        "PreviewMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/MI_Shogun_01.MI_Shogun_00",
+          "SubPathString": ""
+        },
+        "DefaultMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/MI_Shogun_01.MI_Shogun_01",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": true,
+        "CustomizationType": "ECustomizationType::Armor",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 39,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Shogun"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "40": {
+        "Mesh3P": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/AllSuits/FB_41_TOXIC.FB_41_TOXIC",
+          "SubPathString": ""
+        },
+        "Mesh1P": {
+          "AssetPathName": "/Game/Player/FirstPerson/A_41.A_41",
+          "SubPathString": ""
+        },
+        "JetpackOffset": 1.0,
+        "PortalGunOffset": -2.0,
+        "PreviewAnimation": {
+          "Animation": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "PreviewTime": 1.0
+        },
+        "PreviewMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/MI_Toxic_04.MI_Toxic_03",
+          "SubPathString": ""
+        },
+        "DefaultMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/MI_Toxic_04.MI_Toxic_04",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": true,
+        "CustomizationType": "ECustomizationType::Armor",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 40,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Toxic"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "41": {
+        "Mesh3P": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/AllSuits/FB_39_AEON.FB_39_AEON",
+          "SubPathString": ""
+        },
+        "Mesh1P": {
+          "AssetPathName": "/Game/Player/FirstPerson/A_39.A_39",
+          "SubPathString": ""
+        },
+        "JetpackOffset": 0.0,
+        "PortalGunOffset": -1.0,
+        "PreviewAnimation": {
+          "Animation": {
+            "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season1/Ani_neckSlit_01.Ani_neckSlit_01",
+            "SubPathString": ""
+          },
+          "PreviewTime": 0.2
+        },
+        "PreviewMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/M_Aeon_01.M_Aeon_00",
+          "SubPathString": ""
+        },
+        "DefaultMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/M_Aeon_01.M_Aeon_01",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::Armor",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 41,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Aeon"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "42": {
+        "Mesh3P": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/AllSuits/FB_42_TINHEAD.FB_42_TINHEAD",
+          "SubPathString": ""
+        },
+        "Mesh1P": {
+          "AssetPathName": "/Game/Player/FirstPerson/A_42.A_42",
+          "SubPathString": ""
+        },
+        "JetpackOffset": 0.0,
+        "PortalGunOffset": -1.0,
+        "PreviewAnimation": {
+          "Animation": {
+            "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season1/A_Wave_01.A_Wave_01",
+            "SubPathString": ""
+          },
+          "PreviewTime": 1.551538
+        },
+        "PreviewMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/MI_Tinhead_03.MI_Tinhead_02",
+          "SubPathString": ""
+        },
+        "DefaultMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/MI_Tinhead_03.MI_Tinhead_03",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::Armor",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 42,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Tinhead"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "43": {
+        "Mesh3P": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/AllSuits/FB_43_REXY.FB_43_REXY",
+          "SubPathString": ""
+        },
+        "Mesh1P": {
+          "AssetPathName": "/Game/Player/FirstPerson/A_43.A_43",
+          "SubPathString": ""
+        },
+        "JetpackOffset": 1.0,
+        "PortalGunOffset": -1.0,
+        "PreviewAnimation": {
+          "Animation": {
+            "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season1/A_Present_02.A_Present_02",
+            "SubPathString": ""
+          },
+          "PreviewTime": 0.287122
+        },
+        "PreviewMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/MI_Rexy_05.MI_Rexy_04",
+          "SubPathString": ""
+        },
+        "DefaultMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/MI_Rexy_05.MI_Rexy_05",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::Armor",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 43,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Rexy"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "44": {
+        "Mesh3P": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/AllSuits/FB_44_GIGABOT.FB_44_GIGABOT",
+          "SubPathString": ""
+        },
+        "Mesh1P": {
+          "AssetPathName": "/Game/Player/FirstPerson/A_44.A_44",
+          "SubPathString": ""
+        },
+        "JetpackOffset": -5.0,
+        "PortalGunOffset": -2.0,
+        "PreviewAnimation": {
+          "Animation": {
+            "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season1/Ani_handonHips_01.Ani_handonHips_01",
+            "SubPathString": ""
+          },
+          "PreviewTime": 1.899328
+        },
+        "PreviewMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/MI_Gigabot_02.MI_Gigabot_01",
+          "SubPathString": ""
+        },
+        "DefaultMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/MI_Gigabot_02.MI_Gigabot_02",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::Armor",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 44,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Gigabot"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "45": {
+        "Mesh3P": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/AllSuits/FB_47_MARSHALL.FB_47_MARSHALL",
+          "SubPathString": ""
+        },
+        "Mesh1P": {
+          "AssetPathName": "/Game/Player/FirstPerson/A_47.A_47",
+          "SubPathString": ""
+        },
+        "JetpackOffset": 0.0,
+        "PortalGunOffset": 3.0,
+        "PreviewAnimation": {
+          "Animation": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "PreviewTime": 1.0
+        },
+        "PreviewMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/MI_Marshall_05.MI_Marshall_04",
+          "SubPathString": ""
+        },
+        "DefaultMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/MI_Marshall_05.MI_Marshall_05",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::Armor",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 45,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Marshall"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "46": {
+        "Mesh3P": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/AllSuits/FB_45_DEADEYE.FB_45_DEADEYE",
+          "SubPathString": ""
+        },
+        "Mesh1P": {
+          "AssetPathName": "/Game/Player/FirstPerson/A_45.A_45",
+          "SubPathString": ""
+        },
+        "JetpackOffset": 3.0,
+        "PortalGunOffset": -1.5,
+        "PreviewAnimation": {
+          "Animation": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "PreviewTime": 1.0
+        },
+        "PreviewMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/MI_Deadeye_05.MI_Deadeye_04",
+          "SubPathString": ""
+        },
+        "DefaultMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/MI_Deadeye_05.MI_Deadeye_05",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::Armor",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 46,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Deadeye"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "47": {
+        "Mesh3P": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/AllSuits/FB_48_CHANCE.FB_48_CHANCE",
+          "SubPathString": ""
+        },
+        "Mesh1P": {
+          "AssetPathName": "/Game/Player/FirstPerson/A_48.A_48",
+          "SubPathString": ""
+        },
+        "JetpackOffset": 3.0,
+        "PortalGunOffset": -2.2,
+        "PreviewAnimation": {
+          "Animation": {
+            "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season2/Anim_Shield_Taunt.Anim_Shield_Taunt",
+            "SubPathString": ""
+          },
+          "PreviewTime": 2.379782
+        },
+        "PreviewMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/MI_Chance_04.MI_Chance_03",
+          "SubPathString": ""
+        },
+        "DefaultMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/MI_Chance_04.MI_Chance_04",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::Armor",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 47,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Chance"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "48": {
+        "Mesh3P": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/AllSuits/FB_49_FIRLOCK.FB_49_FIRLOCK",
+          "SubPathString": ""
+        },
+        "Mesh1P": {
+          "AssetPathName": "/Game/Player/FirstPerson/A_49.A_49",
+          "SubPathString": ""
+        },
+        "JetpackOffset": 5.0,
+        "PortalGunOffset": -1.0,
+        "PreviewAnimation": {
+          "Animation": {
+            "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season1/Ani_dustOff_01.Ani_dustOff_01",
+            "SubPathString": ""
+          },
+          "PreviewTime": 1.518991
+        },
+        "PreviewMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/MI_Firlock_05.MI_Firlock_04",
+          "SubPathString": ""
+        },
+        "DefaultMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/MI_Firlock_05.MI_Firlock_05",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::Armor",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 48,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Firlock"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "49": {
+        "Mesh3P": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/AllSuits/FB_50_LUCKY.FB_50_LUCKY",
+          "SubPathString": ""
+        },
+        "Mesh1P": {
+          "AssetPathName": "/Game/Player/FirstPerson/A_50.A_50",
+          "SubPathString": ""
+        },
+        "JetpackOffset": 0.0,
+        "PortalGunOffset": -2.0,
+        "PreviewAnimation": {
+          "Animation": {
+            "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season1/A_Mysterious_01.A_Mysterious_01",
+            "SubPathString": ""
+          },
+          "PreviewTime": 4.333333
+        },
+        "PreviewMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/MI_Lucky_04.MI_Lucky_03",
+          "SubPathString": ""
+        },
+        "DefaultMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/MI_Lucky_04.MI_Lucky_04",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::Armor",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 49,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Lucky"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "50": {
+        "Mesh3P": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/AllSuits/FB_51_TUSK.FB_51_TUSK",
+          "SubPathString": ""
+        },
+        "Mesh1P": {
+          "AssetPathName": "/Game/Player/FirstPerson/A_51.A_51",
+          "SubPathString": ""
+        },
+        "JetpackOffset": -1.0,
+        "PortalGunOffset": 2.0,
+        "PreviewAnimation": {
+          "Animation": {
+            "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season2/Anim_Mr_Universe.Anim_Mr_Universe",
+            "SubPathString": ""
+          },
+          "PreviewTime": 2.269086
+        },
+        "PreviewMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/MI_Tusk_05.MI_Tusk_04",
+          "SubPathString": ""
+        },
+        "DefaultMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/MI_Tusk_05.MI_Tusk_05",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::Armor",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 50,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Tusk"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "51": {
+        "Mesh3P": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/AllSuits/FB_52_Oliver.FB_52_Oliver",
+          "SubPathString": ""
+        },
+        "Mesh1P": {
+          "AssetPathName": "/Game/Player/FirstPerson/A_52.A_52",
+          "SubPathString": ""
+        },
+        "JetpackOffset": 0.0,
+        "PortalGunOffset": 0.0,
+        "PreviewAnimation": {
+          "Animation": {
+            "AssetPathName": "/Game/Player/Lobby_Poses/A_pose06.A_pose06",
+            "SubPathString": ""
+          },
+          "PreviewTime": 4.843991
+        },
+        "PreviewMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/MI_Oliver_03.MI_Oliver_02",
+          "SubPathString": ""
+        },
+        "DefaultMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/MI_Oliver_01.MI_Oliver_01",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::Armor",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 51,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Oliver"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "52": {
+        "Mesh3P": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/AllSuits/FB_53_Cyber_Viking.FB_53_Cyber_Viking",
+          "SubPathString": ""
+        },
+        "Mesh1P": {
+          "AssetPathName": "/Game/Player/FirstPerson/A_53.A_53",
+          "SubPathString": ""
+        },
+        "JetpackOffset": 0.0,
+        "PortalGunOffset": -2.0,
+        "PreviewAnimation": {
+          "Animation": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "PreviewTime": 1.0
+        },
+        "PreviewMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/MI_Viking_05.MI_Viking_04",
+          "SubPathString": ""
+        },
+        "DefaultMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/MI_Viking_05.MI_Viking_05",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::Armor",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 52,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Ironside"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "53": {
+        "Mesh3P": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/AllSuits/FB_55_SKULLBONES.FB_55_SKULLBONES",
+          "SubPathString": ""
+        },
+        "Mesh1P": {
+          "AssetPathName": "/Game/Player/FirstPerson/A_07.A_07",
+          "SubPathString": ""
+        },
+        "JetpackOffset": 0.0,
+        "PortalGunOffset": 0.0,
+        "PreviewAnimation": {
+          "Animation": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "PreviewTime": 1.0
+        },
+        "PreviewMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/MI_Skullbones_02.MI_Skullbones_01",
+          "SubPathString": ""
+        },
+        "DefaultMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/MI_Skullbones_02.MI_Skullbones_02",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::Armor",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 53,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Skullbones"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "54": {
+        "Mesh3P": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/AllSuits/FB_54_JACKO.FB_54_JACKO",
+          "SubPathString": ""
+        },
+        "Mesh1P": {
+          "AssetPathName": "/Game/Player/FirstPerson/A_01.A_01",
+          "SubPathString": ""
+        },
+        "JetpackOffset": 0.0,
+        "PortalGunOffset": 0.0,
+        "PreviewAnimation": {
+          "Animation": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "PreviewTime": 1.0
+        },
+        "PreviewMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Common/MI_Skin_Jacko.MI_Skin_Jacko",
+          "SubPathString": ""
+        },
+        "DefaultMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Common/MI_Skin_Jacko.MI_Skin_Jacko",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::Armor",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 54,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Jacko"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "55": {
+        "Mesh3P": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/AllSuits/FB_56_Miner.FB_56_Miner",
+          "SubPathString": ""
+        },
+        "Mesh1P": {
+          "AssetPathName": "/Game/Player/FirstPerson/A_56.A_56",
+          "SubPathString": ""
+        },
+        "JetpackOffset": 0.0,
+        "PortalGunOffset": -2.0,
+        "PreviewAnimation": {
+          "Animation": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "PreviewTime": 1.0
+        },
+        "PreviewMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/MI_Miner_05.MI_Miner_04",
+          "SubPathString": ""
+        },
+        "DefaultMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/MI_Miner_05.MI_Miner_05",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::Armor",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 55,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "HandsOnJack"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "56": {
+        "Mesh3P": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/AllSuits/FB_57_Medieval.FB_57_Medieval",
+          "SubPathString": ""
+        },
+        "Mesh1P": {
+          "AssetPathName": "/Game/Player/FirstPerson/A_57.A_57",
+          "SubPathString": ""
+        },
+        "JetpackOffset": 0.0,
+        "PortalGunOffset": 0.0,
+        "PreviewAnimation": {
+          "Animation": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "PreviewTime": 1.0
+        },
+        "PreviewMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/MI_Medieval_05.MI_Medieval_04",
+          "SubPathString": ""
+        },
+        "DefaultMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/MI_Medieval_05.MI_Medieval_05",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::Armor",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 56,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Henrick"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "57": {
+        "Mesh3P": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/AllSuits/FB_59_Bard.FB_59_Bard",
+          "SubPathString": ""
+        },
+        "Mesh1P": {
+          "AssetPathName": "/Game/Player/FirstPerson/A_59.A_59",
+          "SubPathString": ""
+        },
+        "JetpackOffset": 3.0,
+        "PortalGunOffset": -3.0,
+        "PreviewAnimation": {
+          "Animation": {
+            "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season1/Ani_salute_01.Ani_salute_01",
+            "SubPathString": ""
+          },
+          "PreviewTime": 0.25
+        },
+        "PreviewMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/MI_Bard_04.MI_Bard_03",
+          "SubPathString": ""
+        },
+        "DefaultMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/MI_Bard_04.MI_Bard_04",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::Armor",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 57,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Bard"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "58": {
+        "Mesh3P": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/AllSuits/FB_62_Elf.FB_62_Elf",
+          "SubPathString": ""
+        },
+        "Mesh1P": {
+          "AssetPathName": "/Game/Player/FirstPerson/A_62.A_62",
+          "SubPathString": ""
+        },
+        "JetpackOffset": 0.0,
+        "PortalGunOffset": -2.0,
+        "PreviewAnimation": {
+          "Animation": {
+            "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season1/Ani_ponder_01.Ani_ponder_01",
+            "SubPathString": ""
+          },
+          "PreviewTime": 0.2
+        },
+        "PreviewMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/MI_Elf_03.MI_Elf_02",
+          "SubPathString": ""
+        },
+        "DefaultMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/MI_Elf_03.MI_Elf_03",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::Armor",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 58,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Lue"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "59": {
+        "Mesh3P": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/AllSuits/FB_63_Firlow.FB_63_Firlow",
+          "SubPathString": ""
+        },
+        "Mesh1P": {
+          "AssetPathName": "/Game/Player/FirstPerson/A_49.A_49",
+          "SubPathString": ""
+        },
+        "JetpackOffset": 0.0,
+        "PortalGunOffset": 0.0,
+        "PreviewAnimation": {
+          "Animation": {
+            "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season1/Ani_dustOff_01.Ani_dustOff_01",
+            "SubPathString": ""
+          },
+          "PreviewTime": 1.518991
+        },
+        "PreviewMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/M_Skin_Firlock_06.M_Skin_Firlock_05",
+          "SubPathString": ""
+        },
+        "DefaultMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/M_Skin_Firlock_06.M_Skin_Firlock_06",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::Armor",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 59,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Firlow"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "60": {
+        "Mesh3P": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/AllSuits/FB_61_Aqua.FB_61_Aqua",
+          "SubPathString": ""
+        },
+        "Mesh1P": {
+          "AssetPathName": "/Game/Player/FirstPerson/A_61.A_61",
+          "SubPathString": ""
+        },
+        "JetpackOffset": 4.0,
+        "PortalGunOffset": -2.0,
+        "PreviewAnimation": {
+          "Animation": {
+            "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season1/Ani_ponder_01.Ani_ponder_01",
+            "SubPathString": ""
+          },
+          "PreviewTime": 0.3
+        },
+        "PreviewMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/MI_Aqua_02.MI_Aqua_01",
+          "SubPathString": ""
+        },
+        "DefaultMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/MI_Aqua_02.MI_Aqua_02",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::Armor",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 60,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Aqua"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "61": {
+        "Mesh3P": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/AllSuits/FB_60_Music_head.FB_60_Music_head",
+          "SubPathString": ""
+        },
+        "Mesh1P": {
+          "AssetPathName": "/Game/Player/FirstPerson/A_30.A_30",
+          "SubPathString": ""
+        },
+        "JetpackOffset": 0.0,
+        "PortalGunOffset": 0.0,
+        "PreviewAnimation": {
+          "Animation": {
+            "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season1/Ani_flex_02.Ani_flex_02",
+            "SubPathString": ""
+          },
+          "PreviewTime": 0.085
+        },
+        "PreviewMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/MI_Music_V02.MI_Music_V01",
+          "SubPathString": ""
+        },
+        "DefaultMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/MI_Music_V02.MI_Music_V02",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::Armor",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 61,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "MusicHead"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "62": {
+        "Mesh3P": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/AllSuits/FB_64_Leaf.FB_64_Leaf",
+          "SubPathString": ""
+        },
+        "Mesh1P": {
+          "AssetPathName": "/Game/Player/FirstPerson/A_64.A_64",
+          "SubPathString": ""
+        },
+        "JetpackOffset": 2.0,
+        "PortalGunOffset": -2.5,
+        "PreviewAnimation": {
+          "Animation": {
+            "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season1/Ani_neckSlit_01.Ani_neckSlit_01",
+            "SubPathString": ""
+          },
+          "PreviewTime": 1.2
+        },
+        "PreviewMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/M_F_Elf_02.M_F_Elf_01",
+          "SubPathString": ""
+        },
+        "DefaultMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/M_F_Elf_02.M_F_Elf_02",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::Armor",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 62,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Leaf"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "63": {
+        "Mesh3P": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/AllSuits/FB_69_Sasha.FB_69_Sasha",
+          "SubPathString": ""
+        },
+        "Mesh1P": {
+          "AssetPathName": "/Game/Player/FirstPerson/A_69.A_69",
+          "SubPathString": ""
+        },
+        "JetpackOffset": 2.0,
+        "PortalGunOffset": -3.0,
+        "PreviewAnimation": {
+          "Animation": {
+            "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season1/Ani_fistCrush_01.Ani_fistCrush_01",
+            "SubPathString": ""
+          },
+          "PreviewTime": 2.05
+        },
+        "PreviewMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/M_BW_02.M_BW_01",
+          "SubPathString": ""
+        },
+        "DefaultMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/M_BW_02.M_BW_02",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::Armor",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 63,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Sasha"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "64": {
+        "Mesh3P": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/AllSuits/FB_66_Mist.FB_66_Mist",
+          "SubPathString": ""
+        },
+        "Mesh1P": {
+          "AssetPathName": "/Game/Player/FirstPerson/A_66.A_66",
+          "SubPathString": ""
+        },
+        "JetpackOffset": 4.0,
+        "PortalGunOffset": -4.0,
+        "PreviewAnimation": {
+          "Animation": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "PreviewTime": 1.0
+        },
+        "PreviewMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/M_ACG_02.M_ACG_01",
+          "SubPathString": ""
+        },
+        "DefaultMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/M_ACG_02.M_ACG_02",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::Armor",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 64,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Misty"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "65": {
+        "Mesh3P": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/AllSuits/FB_65_Lava_Guy.FB_65_Lava_Guy",
+          "SubPathString": ""
+        },
+        "Mesh1P": {
+          "AssetPathName": "/Game/Player/FirstPerson/A_65.A_65",
+          "SubPathString": ""
+        },
+        "JetpackOffset": -6.0,
+        "PortalGunOffset": 3.0,
+        "PreviewAnimation": {
+          "Animation": {
+            "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season1/Ani_flex_03.Ani_flex_03",
+            "SubPathString": ""
+          },
+          "PreviewTime": 0.35
+        },
+        "PreviewMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/M_LavaGuy_01.M_LavaGuy_00",
+          "SubPathString": ""
+        },
+        "DefaultMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/M_LavaGuy_01.M_LavaGuy_01",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::Armor",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 65,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Moegoth"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "66": {
+        "Mesh3P": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/AllSuits/FB_58_Officer_Jed.FB_58_Officer_Jed",
+          "SubPathString": ""
+        },
+        "Mesh1P": {
+          "AssetPathName": "/Game/Player/FirstPerson/A_58.A_58",
+          "SubPathString": ""
+        },
+        "JetpackOffset": 4.0,
+        "PortalGunOffset": 0.0,
+        "PreviewAnimation": {
+          "Animation": {
+            "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season1/Ani_jog_01.Ani_jog_01",
+            "SubPathString": ""
+          },
+          "PreviewTime": 0.15
+        },
+        "PreviewMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/M_Officer_02.M_Officer_01",
+          "SubPathString": ""
+        },
+        "DefaultMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/M_Officer_02.M_Officer_02",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::Armor",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Rare",
+        "ID": 66,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Jed"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "67": {
+        "Mesh3P": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/AllSuits/FB_71_Explorer.FB_71_Explorer",
+          "SubPathString": ""
+        },
+        "Mesh1P": {
+          "AssetPathName": "/Game/Player/FirstPerson/A_71.A_71",
+          "SubPathString": ""
+        },
+        "JetpackOffset": 0.0,
+        "PortalGunOffset": -1.5,
+        "PreviewAnimation": {
+          "Animation": {
+            "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season1/Ani_fistCrush_01.Ani_fistCrush_01",
+            "SubPathString": ""
+          },
+          "PreviewTime": 2.3
+        },
+        "PreviewMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/M_Exp_02.M_Exp_01",
+          "SubPathString": ""
+        },
+        "DefaultMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/M_Exp_02.M_Exp_02",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::Armor",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 67,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Ferdinand"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "68": {
+        "Mesh3P": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/AllSuits/FB_75_Robust.FB_75_Robust",
+          "SubPathString": ""
+        },
+        "Mesh1P": {
+          "AssetPathName": "/Game/Player/FirstPerson/A_75.A_75",
+          "SubPathString": ""
+        },
+        "JetpackOffset": -2.0,
+        "PortalGunOffset": 3.0,
+        "PreviewAnimation": {
+          "Animation": {
+            "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season2/Anim_Death_Threat_01.Anim_Death_Threat_01",
+            "SubPathString": ""
+          },
+          "PreviewTime": 0.3
+        },
+        "PreviewMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/M_Robust_Fade.M_Robust_Fade",
+          "SubPathString": ""
+        },
+        "DefaultMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/M_Robust_Fade.M_Robust_Fade",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::Armor",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 68,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Paladin"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "69": {
+        "Mesh3P": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/AllSuits/FB_68_Shaman.FB_68_Shaman",
+          "SubPathString": ""
+        },
+        "Mesh1P": {
+          "AssetPathName": "/Game/Player/FirstPerson/A_68.A_68",
+          "SubPathString": ""
+        },
+        "JetpackOffset": 5.0,
+        "PortalGunOffset": -1.0,
+        "PreviewAnimation": {
+          "Animation": {
+            "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season1/Ani_heart_01.Ani_heart_01",
+            "SubPathString": ""
+          },
+          "PreviewTime": 0.2
+        },
+        "PreviewMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/M_Shaman_01.M_Shaman_00",
+          "SubPathString": ""
+        },
+        "DefaultMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/M_Shaman_01.M_Shaman_01",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::Armor",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 69,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Ido"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "70": {
+        "Mesh3P": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/AllSuits/FB_70_CactusCowboy.FB_70_CactusCowboy",
+          "SubPathString": ""
+        },
+        "Mesh1P": {
+          "AssetPathName": "/Game/Player/FirstPerson/A_70.A_70",
+          "SubPathString": ""
+        },
+        "JetpackOffset": 0.0,
+        "PortalGunOffset": 0.0,
+        "PreviewAnimation": {
+          "Animation": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "PreviewTime": 1.0
+        },
+        "PreviewMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/M_Cactus_01.M_Cactus_00",
+          "SubPathString": ""
+        },
+        "DefaultMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/M_Cactus_01.M_Cactus_01",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::Armor",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 70,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "CactilliousVIII"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "71": {
+        "Mesh3P": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/AllSuits/FB_72_Doll_Clown.FB_72_Doll_Clown",
+          "SubPathString": ""
+        },
+        "Mesh1P": {
+          "AssetPathName": "/Game/Player/FirstPerson/A_72.A_72",
+          "SubPathString": ""
+        },
+        "JetpackOffset": 4.0,
+        "PortalGunOffset": -3.0,
+        "PreviewAnimation": {
+          "Animation": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "PreviewTime": 1.0
+        },
+        "PreviewMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/M_Doll_01.M_Doll_00",
+          "SubPathString": ""
+        },
+        "DefaultMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/M_Doll_01.M_Doll_01",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::Armor",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 71,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Babu"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "72": {
+        "Mesh3P": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/AllSuits/FB_73_Baba_Yaga.FB_73_Baba_Yaga",
+          "SubPathString": ""
+        },
+        "Mesh1P": {
+          "AssetPathName": "/Game/Player/FirstPerson/A_73.A_73",
+          "SubPathString": ""
+        },
+        "JetpackOffset": 1.0,
+        "PortalGunOffset": 0.0,
+        "PreviewAnimation": {
+          "Animation": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "PreviewTime": 1.0
+        },
+        "PreviewMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/M_Baba_02.M_Baba_01",
+          "SubPathString": ""
+        },
+        "DefaultMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/M_Baba_02.M_Baba_02",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::Armor",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 72,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "BabaYaga"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "73": {
+        "Mesh3P": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/AllSuits/FB_74_Space_Cowboy.FB_74_Space_Cowboy",
+          "SubPathString": ""
+        },
+        "Mesh1P": {
+          "AssetPathName": "/Game/Player/FirstPerson/A_74.A_74",
+          "SubPathString": ""
+        },
+        "JetpackOffset": 0.0,
+        "PortalGunOffset": 0.0,
+        "PreviewAnimation": {
+          "Animation": {
+            "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season1/Ani_fingerGun_01.Ani_fingerGun_01",
+            "SubPathString": ""
+          },
+          "PreviewTime": 2.4
+        },
+        "PreviewMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/M_Cowboy_01.M_Cowboy_00",
+          "SubPathString": ""
+        },
+        "DefaultMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/M_Cowboy_01.M_Cowboy_01",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::Armor",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 73,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Shane"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "74": {
+        "Mesh3P": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/AllSuits/FB_67_DesertWarrior.FB_67_DesertWarrior",
+          "SubPathString": ""
+        },
+        "Mesh1P": {
+          "AssetPathName": "/Game/Player/FirstPerson/A_67.A_67",
+          "SubPathString": ""
+        },
+        "JetpackOffset": 0.0,
+        "PortalGunOffset": 0.0,
+        "PreviewAnimation": {
+          "Animation": {
+            "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season1/Ani_neckSlit_01.Ani_neckSlit_01",
+            "SubPathString": ""
+          },
+          "PreviewTime": 0.3
+        },
+        "PreviewMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/M_DesertWarrior_01.M_DesertWarrior_00",
+          "SubPathString": ""
+        },
+        "DefaultMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/M_DesertWarrior_01.M_DesertWarrior_01",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::Armor",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 74,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Sable"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "75": {
+        "Mesh3P": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/AllSuits/FB_78_Cardinal.FB_78_Cardinal",
+          "SubPathString": ""
+        },
+        "Mesh1P": {
+          "AssetPathName": "/Game/Player/FirstPerson/A_78.A_78",
+          "SubPathString": ""
+        },
+        "JetpackOffset": 0.0,
+        "PortalGunOffset": 0.0,
+        "PreviewAnimation": {
+          "Animation": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "PreviewTime": 1.0
+        },
+        "PreviewMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/M_Cardinal_05.M_Cardinal_04",
+          "SubPathString": ""
+        },
+        "DefaultMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/M_Cardinal_05.M_Cardinal_05",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::Armor",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 75,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Maximus"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "76": {
+        "Mesh3P": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/AllSuits/FB_76_Tiger.FB_76_Tiger",
+          "SubPathString": ""
+        },
+        "Mesh1P": {
+          "AssetPathName": "/Game/Player/FirstPerson/A_76.A_76",
+          "SubPathString": ""
+        },
+        "JetpackOffset": 0.0,
+        "PortalGunOffset": 3.0,
+        "PreviewAnimation": {
+          "Animation": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "PreviewTime": 1.0
+        },
+        "PreviewMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/M_Tiger_01.M_Tiger_00",
+          "SubPathString": ""
+        },
+        "DefaultMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/M_Tiger_01.M_Tiger_01",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::Armor",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 76,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Diego"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "77": {
+        "Mesh3P": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/AllSuits/FB_51_ALIEN_a.FB_51_ALIEN_a",
+          "SubPathString": ""
+        },
+        "Mesh1P": {
+          "AssetPathName": "/Game/Player/FirstPerson/A_51.A_51",
+          "SubPathString": ""
+        },
+        "JetpackOffset": 0.0,
+        "PortalGunOffset": 0.0,
+        "PreviewAnimation": {
+          "Animation": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "PreviewTime": 1.0
+        },
+        "PreviewMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/M_Cardinal_03.M_Cardinal_02",
+          "SubPathString": ""
+        },
+        "DefaultMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/M_Cardinal_03.M_Cardinal_03",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::Armor",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 77,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Maelstrom"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "78": {
+        "Mesh3P": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/AllSuits/FB_77_Cyber_Cactus.FB_77_Cyber_Cactus",
+          "SubPathString": ""
+        },
+        "Mesh1P": {
+          "AssetPathName": "/Game/Player/FirstPerson/A_77.A_77",
+          "SubPathString": ""
+        },
+        "JetpackOffset": 0.0,
+        "PortalGunOffset": 0.0,
+        "PreviewAnimation": {
+          "Animation": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "PreviewTime": 1.0
+        },
+        "PreviewMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/MI_CCactus_01.MI_CCactus_00",
+          "SubPathString": ""
+        },
+        "DefaultMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/MI_CCactus_01.MI_CCactus_01",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::Armor",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 78,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "CactilliousX"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "79": {
+        "Mesh3P": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/AllSuits/FB_81_Ninja.FB_81_Ninja",
+          "SubPathString": ""
+        },
+        "Mesh1P": {
+          "AssetPathName": "/Game/Player/FirstPerson/A_81.A_81",
+          "SubPathString": ""
+        },
+        "JetpackOffset": 0.0,
+        "PortalGunOffset": 0.0,
+        "PreviewAnimation": {
+          "Animation": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "PreviewTime": 1.0
+        },
+        "PreviewMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/MI_Ninja_01.MI_Ninja_00",
+          "SubPathString": ""
+        },
+        "DefaultMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/MI_Ninja_01.MI_Ninja_01",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::Armor",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 79,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Jaiden"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "80": {
+        "Mesh3P": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/AllSuits/FB_79_Special_Agent.FB_79_Special_Agent",
+          "SubPathString": ""
+        },
+        "Mesh1P": {
+          "AssetPathName": "/Game/Player/FirstPerson/A_79.A_79",
+          "SubPathString": ""
+        },
+        "JetpackOffset": 0.0,
+        "PortalGunOffset": 0.0,
+        "PreviewAnimation": {
+          "Animation": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "PreviewTime": 1.0
+        },
+        "PreviewMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/MI_Agent_01.MI_Agent_00",
+          "SubPathString": ""
+        },
+        "DefaultMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/MI_Agent_01.MI_Agent_01",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::Armor",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Reserved",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Rare",
+        "ID": 80,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Mr66"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "81": {
+        "Mesh3P": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/AllSuits/FB_80_Alien_Cyborg.FB_80_Alien_Cyborg",
+          "SubPathString": ""
+        },
+        "Mesh1P": {
+          "AssetPathName": "/Game/Player/FirstPerson/A_80.A_80",
+          "SubPathString": ""
+        },
+        "JetpackOffset": 0.0,
+        "PortalGunOffset": 0.0,
+        "PreviewAnimation": {
+          "Animation": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "PreviewTime": 1.0
+        },
+        "PreviewMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::Armor",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Reserved",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 81,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Adam"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "82": {
+        "Mesh3P": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/AllSuits/FB_84_Circus_Presenter.FB_84_Circus_Presenter",
+          "SubPathString": ""
+        },
+        "Mesh1P": {
+          "AssetPathName": "/Game/Player/FirstPerson/A_84.A_84",
+          "SubPathString": ""
+        },
+        "JetpackOffset": 0.0,
+        "PortalGunOffset": 0.0,
+        "PreviewAnimation": {
+          "Animation": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "PreviewTime": 1.0
+        },
+        "PreviewMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::Armor",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Reserved",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::None",
+        "ID": 82,
+        "DisplayName": {
+          "CultureInvariantString": "Murice"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      }
+    }
+  }
+]

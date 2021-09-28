@@ -1,0 +1,254 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "Thumbnails_Portal",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class ThumbnailData",
+        "ObjectPath": "/Script/PortalWarsGlobals"
+      }
+    },
+    "Rows": {
+      "0": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Portal/Portal_0_T.Portal_0_T",
+          "SubPathString": ""
+        }
+      },
+      "12": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Portal/Portal_12_T.Portal_12_T",
+          "SubPathString": ""
+        }
+      },
+      "13": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Portal/Portal_13_T.Portal_13_T",
+          "SubPathString": ""
+        }
+      },
+      "14": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Portal/Portal_14_T.Portal_14_T",
+          "SubPathString": ""
+        }
+      },
+      "15": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Portal/Portal_15_T.Portal_15_T",
+          "SubPathString": ""
+        }
+      },
+      "16": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Portal/Portal_16_T.Portal_16_T",
+          "SubPathString": ""
+        }
+      },
+      "17": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Portal/Portal_17_T.Portal_17_T",
+          "SubPathString": ""
+        }
+      },
+      "18": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Portal/Portal_18_T.Portal_18_T",
+          "SubPathString": ""
+        }
+      },
+      "19": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Portal/Portal_19_T.Portal_19_T",
+          "SubPathString": ""
+        }
+      },
+      "20": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Portal/Portal_20_T.Portal_20_T",
+          "SubPathString": ""
+        }
+      },
+      "21": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Portal/Portal_21_T.Portal_21_T",
+          "SubPathString": ""
+        }
+      },
+      "22": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Portal/Portal_22_T.Portal_22_T",
+          "SubPathString": ""
+        }
+      },
+      "23": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Portal/Portal_23_T.Portal_23_T",
+          "SubPathString": ""
+        }
+      },
+      "24": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Portal/Portal_24_T.Portal_24_T",
+          "SubPathString": ""
+        }
+      },
+      "25": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Portal/Portal_25_T.Portal_25_T",
+          "SubPathString": ""
+        }
+      },
+      "26": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Portal/Portal_26_T.Portal_26_T",
+          "SubPathString": ""
+        }
+      },
+      "28": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Portal/Portal_28_T.Portal_28_T",
+          "SubPathString": ""
+        }
+      },
+      "29": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Portal/Portal_29_T.Portal_29_T",
+          "SubPathString": ""
+        }
+      },
+      "30": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Portal/Portal_30_T.Portal_30_T",
+          "SubPathString": ""
+        }
+      },
+      "31": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Portal/Portal_31_T.Portal_31_T",
+          "SubPathString": ""
+        }
+      },
+      "32": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Portal/Portal_32_T.Portal_32_T",
+          "SubPathString": ""
+        }
+      },
+      "33": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Portal/Portal_33_T.Portal_33_T",
+          "SubPathString": ""
+        }
+      },
+      "34": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Portal/Portal_34_T.Portal_34_T",
+          "SubPathString": ""
+        }
+      },
+      "35": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Portal/Portal_35_T.Portal_35_T",
+          "SubPathString": ""
+        }
+      }
+    }
+  }
+]

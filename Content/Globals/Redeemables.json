@@ -1,0 +1,130 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "Redeemables",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class RedeemableData",
+        "ObjectPath": "/Script/PortalWarsGlobals"
+      }
+    },
+    "Rows": {
+      "100": {
+        "Subtitle": {
+          "Namespace": "Redeemables",
+          "Key": "Subtitle_100",
+          "SourceString": "Premium"
+        },
+        "CurrencyCost": 900,
+        "Amount": 1,
+        "Description": "Battle Pass Premium Purchase",
+        "ID": 100,
+        "DisplayName": {
+          "Namespace": "Redeemables",
+          "Key": "DisplayName_100",
+          "SourceString": "Buy Premium"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Ranks/AP-Premium.AP-Premium",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "101": {
+        "Subtitle": {
+          "Namespace": "Redeemables",
+          "Key": "Subtitle_101",
+          "SourceString": "{NumLevels} {NumLevels}|plural(one=Level, other=Levels)"
+        },
+        "CurrencyCost": 100,
+        "Amount": 1,
+        "Description": "Battle Pass Level Up",
+        "ID": 101,
+        "DisplayName": {
+          "Namespace": "Redeemables",
+          "Key": "DisplayName_101",
+          "SourceString": "Buy {NumLevels} {NumLevels}|plural(one=Level, other=Levels)"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Ranks/AP-Premium.AP-Premium",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "102": {
+        "Subtitle": {
+          "Namespace": "Redeemables",
+          "Key": "Subtitle_102",
+          "SourceString": "Premium + 20 Levels!"
+        },
+        "CurrencyCost": 2000,
+        "Amount": 1,
+        "Description": "Battle Pass Premium + 20 Levels",
+        "ID": 102,
+        "DisplayName": {
+          "Namespace": "Redeemables",
+          "Key": "DisplayName_102",
+          "SourceString": "Buy Premium Bundle"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Ranks/AP-Premium.AP-Premium",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "200": {
+        "Subtitle": {
+          "CultureInvariantString": null
+        },
+        "CurrencyCost": 50,
+        "Amount": 1,
+        "Description": "Repair Missed Daily Check-In",
+        "ID": 200,
+        "DisplayName": {
+          "Namespace": "Redeemables",
+          "Key": "DisplayName_200",
+          "SourceString": "Repair"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "300": {
+        "Subtitle": {
+          "CultureInvariantString": null
+        },
+        "CurrencyCost": 50,
+        "Amount": 1,
+        "Description": "Repair Play Streak",
+        "ID": 300,
+        "DisplayName": {
+          "Namespace": "Redeemables",
+          "Key": "DisplayName_300",
+          "SourceString": "Repair"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      }
+    }
+  }
+]

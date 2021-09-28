@@ -1,0 +1,246 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "Skins_Bat",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class WeaponMeshItem",
+        "ObjectPath": "/Script/PortalWarsGlobals"
+      },
+      "bIgnoreMissingFields": true
+    },
+    "Rows": {
+      "0": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/Bat/Mesh/FPP/Bat_FPP.Bat_FPP",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/Bat/Mesh/SM_Bat_3LODs.SM_Bat_3LODs",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "None",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "/Game/Weapons/Bat/Materials/MI_Bat.MI_Bat",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": true,
+        "CustomizationType": "ECustomizationType::Bat",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Default",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 0,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Default"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "1": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/Bat/Mesh/FPP/Bat_FPP.Bat_FPP",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/Bat/Mesh/SM_Bat_3LODs.SM_Bat_3LODs",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "None",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": null
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::Bat",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 1,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Cobb"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "2": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/Bat/Mesh/FPP/Legendary/Bat_DB_FPP.Bat_DB_FPP",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/Bat/Mesh/FPP/Legendary/SM_Bat_DB_3LODs.SM_Bat_DB_3LODs",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "None",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": null
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::Bat",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 2,
+        "DisplayName": {
+          "CultureInvariantString": "Dragon"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "3": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/Bat/Mesh/FPP/Legendary/BFB_Molten_FPP.BFB_Molten_FPP",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/Bat/Mesh/FPP/Legendary/SM_BFB_Molten.SM_BFB_Molten",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "None",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": null
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::Bat",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 3,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Molten"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "4": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/Bat/Mesh/FPP/Legendary/Candy_FPP.Candy_FPP",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/Bat/Mesh/FPP/Legendary/SM_Candy.SM_Candy",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "None",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": null
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::Bat",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 4,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Candy"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "5": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/Bat/Mesh/FPP/Legendary/BFB_CB_FPP.BFB_CB_FPP",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/Bat/Mesh/FPP/Legendary/SM_BFB_CB.SM_BFB_CB",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "None",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::Bat",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 5,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Cardboard"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      }
+    }
+  }
+]

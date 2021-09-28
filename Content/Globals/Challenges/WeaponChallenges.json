@@ -1,0 +1,4805 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "WeaponChallenges",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class ChallengeData",
+        "ObjectPath": "/Script/PortalWarsGlobals"
+      }
+    },
+    "Rows": {
+      "100": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 50,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::AssaultRifle",
+            "CustomizationValue": "0-15"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 0,
+        "IsPremium": false,
+        "GroupName": "assaultRifle",
+        "StatType": "kills",
+        "ExcludedPlaylists": [],
+        "ID": 100,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_n_Kills"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "101": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 250,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::AssaultRifle",
+            "CustomizationValue": "0-460"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 0,
+        "IsPremium": false,
+        "GroupName": "assaultRifle",
+        "StatType": "kills",
+        "ExcludedPlaylists": [],
+        "ID": 101,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_n_Kills"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "102": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 1000,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::AssaultRifle",
+            "CustomizationValue": "0-394"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 0,
+        "IsPremium": false,
+        "GroupName": "assaultRifle",
+        "StatType": "kills",
+        "ExcludedPlaylists": [],
+        "ID": 102,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_n_Kills"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "103": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 5000,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::AssaultRifle",
+            "CustomizationValue": "0-453"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 0,
+        "IsPremium": false,
+        "GroupName": "assaultRifle",
+        "StatType": "damageDealt",
+        "ExcludedPlaylists": [],
+        "ID": 103,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Inflict_n_Damage"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "104": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 15000,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::AssaultRifle",
+            "CustomizationValue": "0-458"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 0,
+        "IsPremium": false,
+        "GroupName": "assaultRifle",
+        "StatType": "damageDealt",
+        "ExcludedPlaylists": [],
+        "ID": 104,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Inflict_n_Damage"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "105": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 50000,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::AssaultRifle",
+            "CustomizationValue": "0-395"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 0,
+        "IsPremium": false,
+        "GroupName": "assaultRifle",
+        "StatType": "damageDealt",
+        "ExcludedPlaylists": [],
+        "ID": 105,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Inflict_n_Damage"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "106": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 25,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::AssaultRifle",
+            "CustomizationValue": "0-455"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 0,
+        "IsPremium": false,
+        "GroupName": "assaultRifle",
+        "StatType": "headshotKills",
+        "ExcludedPlaylists": [],
+        "ID": 106,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Get_n_HeadshotKills"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "107": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 100,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::AssaultRifle",
+            "CustomizationValue": "0-456"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 0,
+        "IsPremium": false,
+        "GroupName": "assaultRifle",
+        "StatType": "headshotKills",
+        "ExcludedPlaylists": [],
+        "ID": 107,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Get_n_HeadshotKills"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "108": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 50,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::AssaultRifle",
+            "CustomizationValue": "0-457"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 0,
+        "IsPremium": false,
+        "GroupName": "assaultRifle",
+        "StatType": "doubleKills",
+        "ExcludedPlaylists": [],
+        "ID": 108,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Get_n_DoubleKills"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "109": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 150,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::AssaultRifle",
+            "CustomizationValue": "0-11"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 0,
+        "IsPremium": false,
+        "GroupName": "assaultRifle",
+        "StatType": "doubleKills",
+        "ExcludedPlaylists": [],
+        "ID": 109,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Get_n_DoubleKills"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "110": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 100,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::AssaultRifle",
+            "CustomizationValue": "0-459"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 0,
+        "IsPremium": false,
+        "GroupName": "assaultRifle",
+        "StatType": "killsThruPortal",
+        "ExcludedPlaylists": [],
+        "ID": 110,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Get_n_KillsThruPortals"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "111": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 200,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::AssaultRifle",
+            "CustomizationValue": "0-18"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 0,
+        "IsPremium": false,
+        "GroupName": "assaultRifle",
+        "StatType": "killsThruPortal",
+        "ExcludedPlaylists": [],
+        "ID": 111,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Get_n_KillsThruPortals"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "112": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 1,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::AssaultRifle",
+            "CustomizationValue": "0-461"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 0,
+        "IsPremium": false,
+        "GroupName": "assaultRifle",
+        "StatType": "killsInSingleGame",
+        "ExcludedPlaylists": [],
+        "ID": 112,
+        "DisplayName": {
+          "Namespace": "WeaponChallenges",
+          "Key": "112",
+          "SourceString": "Get 15 Kills in a Single Match"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "113": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 13,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::AssaultRifle",
+            "CustomizationValue": "0-27"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 0,
+        "IsPremium": false,
+        "GroupName": "assaultRifle",
+        "StatType": "all",
+        "ExcludedPlaylists": [],
+        "ID": 113,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_CompleteAllChallenges"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "200": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 25,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::Bat",
+            "CustomizationValue": "0-15"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 15,
+        "IsPremium": false,
+        "GroupName": "bat",
+        "StatType": "kills",
+        "ExcludedPlaylists": [],
+        "ID": 200,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_n_Kills"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "201": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 100,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::Bat",
+            "CustomizationValue": "0-460"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 15,
+        "IsPremium": false,
+        "GroupName": "bat",
+        "StatType": "kills",
+        "ExcludedPlaylists": [],
+        "ID": 201,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_n_Kills"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "202": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 500,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::Bat",
+            "CustomizationValue": "0-394"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 15,
+        "IsPremium": false,
+        "GroupName": "bat",
+        "StatType": "kills",
+        "ExcludedPlaylists": [],
+        "ID": 202,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_n_Kills"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "203": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 2500,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::Bat",
+            "CustomizationValue": "0-453"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 15,
+        "IsPremium": false,
+        "GroupName": "bat",
+        "StatType": "damageDealt",
+        "ExcludedPlaylists": [],
+        "ID": 203,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Inflict_n_Damage"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "204": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 10000,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::Bat",
+            "CustomizationValue": "0-458"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 15,
+        "IsPremium": false,
+        "GroupName": "bat",
+        "StatType": "damageDealt",
+        "ExcludedPlaylists": [],
+        "ID": 204,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Inflict_n_Damage"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "205": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 25000,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::Bat",
+            "CustomizationValue": "0-395"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 15,
+        "IsPremium": false,
+        "GroupName": "bat",
+        "StatType": "damageDealt",
+        "ExcludedPlaylists": [],
+        "ID": 205,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Inflict_n_Damage"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "206": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 1,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::Bat",
+            "CustomizationValue": "0-455"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 15,
+        "IsPremium": false,
+        "GroupName": "bat",
+        "StatType": "maxKillsWithSinglePickup",
+        "ExcludedPlaylists": [],
+        "ID": 206,
+        "DisplayName": {
+          "Namespace": "WeaponChallenges",
+          "Key": "206",
+          "SourceString": "Get 3 Kills with 1 BFB"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "207": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 1,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::Bat",
+            "CustomizationValue": "0-456"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 15,
+        "IsPremium": false,
+        "GroupName": "bat",
+        "StatType": "maxKillsWithSinglePickup",
+        "ExcludedPlaylists": [],
+        "ID": 207,
+        "DisplayName": {
+          "Namespace": "WeaponChallenges",
+          "Key": "207",
+          "SourceString": "Get 4 Kills with 1 BFB"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "208": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 25,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::Bat",
+            "CustomizationValue": "0-457"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 15,
+        "IsPremium": false,
+        "GroupName": "bat",
+        "StatType": "doubleKills",
+        "ExcludedPlaylists": [],
+        "ID": 208,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Get_n_DoubleKills"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "209": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 75,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::Bat",
+            "CustomizationValue": "0-11"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 15,
+        "IsPremium": false,
+        "GroupName": "bat",
+        "StatType": "doubleKills",
+        "ExcludedPlaylists": [],
+        "ID": 209,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Get_n_DoubleKills"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "210": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 10,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::Bat",
+            "CustomizationValue": "0-459"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 15,
+        "IsPremium": false,
+        "GroupName": "bat",
+        "StatType": "tripleKills",
+        "ExcludedPlaylists": [],
+        "ID": 210,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Get_n_TripleKills"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "211": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 25,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::Bat",
+            "CustomizationValue": "0-18"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 15,
+        "IsPremium": false,
+        "GroupName": "bat",
+        "StatType": "tripleKills",
+        "ExcludedPlaylists": [],
+        "ID": 211,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Get_n_TripleKills"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "212": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 1,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::Bat",
+            "CustomizationValue": "0-461"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 15,
+        "IsPremium": false,
+        "GroupName": "bat",
+        "StatType": "killsInSingleGame",
+        "ExcludedPlaylists": [],
+        "ID": 212,
+        "DisplayName": {
+          "Namespace": "WeaponChallenges",
+          "Key": "212",
+          "SourceString": "Get 5 Kills in a Single Match"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "213": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 13,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::Bat",
+            "CustomizationValue": "0-27"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 15,
+        "IsPremium": false,
+        "GroupName": "bat",
+        "StatType": "all",
+        "ExcludedPlaylists": [],
+        "ID": 213,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_CompleteAllChallenges"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "300": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 25,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::BattleRifle",
+            "CustomizationValue": "0-15"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 1,
+        "IsPremium": false,
+        "GroupName": "battleRifle",
+        "StatType": "kills",
+        "ExcludedPlaylists": [],
+        "ID": 300,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_n_Kills"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "301": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 100,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::BattleRifle",
+            "CustomizationValue": "0-460"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 1,
+        "IsPremium": false,
+        "GroupName": "battleRifle",
+        "StatType": "kills",
+        "ExcludedPlaylists": [],
+        "ID": 301,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_n_Kills"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "302": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 500,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::BattleRifle",
+            "CustomizationValue": "0-394"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 1,
+        "IsPremium": false,
+        "GroupName": "battleRifle",
+        "StatType": "kills",
+        "ExcludedPlaylists": [],
+        "ID": 302,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_n_Kills"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "303": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 2500,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::BattleRifle",
+            "CustomizationValue": "0-453"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 1,
+        "IsPremium": false,
+        "GroupName": "battleRifle",
+        "StatType": "damageDealt",
+        "ExcludedPlaylists": [],
+        "ID": 303,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Inflict_n_Damage"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "304": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 10000,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::BattleRifle",
+            "CustomizationValue": "0-458"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 1,
+        "IsPremium": false,
+        "GroupName": "battleRifle",
+        "StatType": "damageDealt",
+        "ExcludedPlaylists": [],
+        "ID": 304,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Inflict_n_Damage"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "305": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 25000,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::BattleRifle",
+            "CustomizationValue": "0-395"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 1,
+        "IsPremium": false,
+        "GroupName": "battleRifle",
+        "StatType": "damageDealt",
+        "ExcludedPlaylists": [],
+        "ID": 305,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Inflict_n_Damage"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "306": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 15,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::BattleRifle",
+            "CustomizationValue": "0-455"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 1,
+        "IsPremium": false,
+        "GroupName": "battleRifle",
+        "StatType": "headshotKills",
+        "ExcludedPlaylists": [],
+        "ID": 306,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Get_n_HeadshotKills"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "307": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 50,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::BattleRifle",
+            "CustomizationValue": "0-456"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 1,
+        "IsPremium": false,
+        "GroupName": "battleRifle",
+        "StatType": "headshotKills",
+        "ExcludedPlaylists": [],
+        "ID": 307,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Get_n_HeadshotKills"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "308": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 25,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::BattleRifle",
+            "CustomizationValue": "0-457"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 1,
+        "IsPremium": false,
+        "GroupName": "battleRifle",
+        "StatType": "doubleKills",
+        "ExcludedPlaylists": [],
+        "ID": 308,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Get_n_DoubleKills"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "309": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 75,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::BattleRifle",
+            "CustomizationValue": "0-11"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 1,
+        "IsPremium": false,
+        "GroupName": "battleRifle",
+        "StatType": "doubleKills",
+        "ExcludedPlaylists": [],
+        "ID": 309,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Get_n_DoubleKills"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "310": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 50,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::BattleRifle",
+            "CustomizationValue": "0-459"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 1,
+        "IsPremium": false,
+        "GroupName": "battleRifle",
+        "StatType": "killsThruPortal",
+        "ExcludedPlaylists": [],
+        "ID": 310,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Get_n_KillsThruPortals"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "311": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 100,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::BattleRifle",
+            "CustomizationValue": "0-18"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 1,
+        "IsPremium": false,
+        "GroupName": "battleRifle",
+        "StatType": "killsThruPortal",
+        "ExcludedPlaylists": [],
+        "ID": 311,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Get_n_KillsThruPortals"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "312": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 1,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::BattleRifle",
+            "CustomizationValue": "0-461"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 1,
+        "IsPremium": false,
+        "GroupName": "battleRifle",
+        "StatType": "killsInSingleGame",
+        "ExcludedPlaylists": [],
+        "ID": 312,
+        "DisplayName": {
+          "Namespace": "WeaponChallenges",
+          "Key": "312",
+          "SourceString": "Get 10 Kills in a Single Match"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "313": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 13,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::BattleRifle",
+            "CustomizationValue": "0-27"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 1,
+        "IsPremium": false,
+        "GroupName": "battleRifle",
+        "StatType": "all",
+        "ExcludedPlaylists": [],
+        "ID": 313,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_CompleteAllChallenges"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "400": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 50,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::DMR",
+            "CustomizationValue": "0-15"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 16,
+        "IsPremium": false,
+        "GroupName": "dmr",
+        "StatType": "kills",
+        "ExcludedPlaylists": [],
+        "ID": 400,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_n_Kills"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "401": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 250,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::DMR",
+            "CustomizationValue": "0-460"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 16,
+        "IsPremium": false,
+        "GroupName": "dmr",
+        "StatType": "kills",
+        "ExcludedPlaylists": [],
+        "ID": 401,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_n_Kills"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "402": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 1000,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::DMR",
+            "CustomizationValue": "0-394"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 16,
+        "IsPremium": false,
+        "GroupName": "dmr",
+        "StatType": "kills",
+        "ExcludedPlaylists": [],
+        "ID": 402,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_n_Kills"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "403": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 5000,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::DMR",
+            "CustomizationValue": "0-453"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 16,
+        "IsPremium": false,
+        "GroupName": "dmr",
+        "StatType": "damageDealt",
+        "ExcludedPlaylists": [],
+        "ID": 403,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Inflict_n_Damage"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "404": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 15000,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::DMR",
+            "CustomizationValue": "0-458"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 16,
+        "IsPremium": false,
+        "GroupName": "dmr",
+        "StatType": "damageDealt",
+        "ExcludedPlaylists": [],
+        "ID": 404,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Inflict_n_Damage"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "405": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 50000,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::DMR",
+            "CustomizationValue": "0-395"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 16,
+        "IsPremium": false,
+        "GroupName": "dmr",
+        "StatType": "damageDealt",
+        "ExcludedPlaylists": [],
+        "ID": 405,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Inflict_n_Damage"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "406": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 25,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::DMR",
+            "CustomizationValue": "0-455"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 16,
+        "IsPremium": false,
+        "GroupName": "dmr",
+        "StatType": "headshotKills",
+        "ExcludedPlaylists": [],
+        "ID": 406,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Get_n_HeadshotKills"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "407": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 100,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::DMR",
+            "CustomizationValue": "0-456"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 16,
+        "IsPremium": false,
+        "GroupName": "dmr",
+        "StatType": "headshotKills",
+        "ExcludedPlaylists": [],
+        "ID": 407,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Get_n_HeadshotKills"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "408": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 50,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::DMR",
+            "CustomizationValue": "0-457"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 16,
+        "IsPremium": false,
+        "GroupName": "dmr",
+        "StatType": "doubleKills",
+        "ExcludedPlaylists": [],
+        "ID": 408,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Get_n_DoubleKills"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "409": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 150,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::DMR",
+            "CustomizationValue": "0-11"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 16,
+        "IsPremium": false,
+        "GroupName": "dmr",
+        "StatType": "doubleKills",
+        "ExcludedPlaylists": [],
+        "ID": 409,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Get_n_DoubleKills"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "410": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 100,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::DMR",
+            "CustomizationValue": "0-459"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 16,
+        "IsPremium": false,
+        "GroupName": "dmr",
+        "StatType": "killsThruPortal",
+        "ExcludedPlaylists": [],
+        "ID": 410,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Get_n_KillsThruPortals"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "411": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 200,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::DMR",
+            "CustomizationValue": "0-18"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 16,
+        "IsPremium": false,
+        "GroupName": "dmr",
+        "StatType": "killsThruPortal",
+        "ExcludedPlaylists": [],
+        "ID": 411,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Get_n_KillsThruPortals"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "412": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 1,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::DMR",
+            "CustomizationValue": "0-461"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 16,
+        "IsPremium": false,
+        "GroupName": "dmr",
+        "StatType": "killsInSingleGame",
+        "ExcludedPlaylists": [],
+        "ID": 412,
+        "DisplayName": {
+          "Namespace": "WeaponChallenges",
+          "Key": "412",
+          "SourceString": "Get 15 Kills in a Single Match"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "413": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 13,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::DMR",
+            "CustomizationValue": "0-27"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 16,
+        "IsPremium": false,
+        "GroupName": "dmr",
+        "StatType": "all",
+        "ExcludedPlaylists": [],
+        "ID": 413,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_CompleteAllChallenges"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "500": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 10,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::Pistol",
+            "CustomizationValue": "0-15"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 2,
+        "IsPremium": false,
+        "GroupName": "pistol",
+        "StatType": "kills",
+        "ExcludedPlaylists": [],
+        "ID": 500,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_n_Kills"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "501": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 50,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::Pistol",
+            "CustomizationValue": "0-460"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 2,
+        "IsPremium": false,
+        "GroupName": "pistol",
+        "StatType": "kills",
+        "ExcludedPlaylists": [],
+        "ID": 501,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_n_Kills"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "502": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 250,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::Pistol",
+            "CustomizationValue": "0-394"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 2,
+        "IsPremium": false,
+        "GroupName": "pistol",
+        "StatType": "kills",
+        "ExcludedPlaylists": [],
+        "ID": 502,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_n_Kills"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "503": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 1000,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::Pistol",
+            "CustomizationValue": "0-453"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 2,
+        "IsPremium": false,
+        "GroupName": "pistol",
+        "StatType": "damageDealt",
+        "ExcludedPlaylists": [],
+        "ID": 503,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Inflict_n_Damage"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "504": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 5000,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::Pistol",
+            "CustomizationValue": "0-458"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 2,
+        "IsPremium": false,
+        "GroupName": "pistol",
+        "StatType": "damageDealt",
+        "ExcludedPlaylists": [],
+        "ID": 504,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Inflict_n_Damage"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "505": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 15000,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::Pistol",
+            "CustomizationValue": "0-395"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 2,
+        "IsPremium": false,
+        "GroupName": "pistol",
+        "StatType": "damageDealt",
+        "ExcludedPlaylists": [],
+        "ID": 505,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Inflict_n_Damage"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "506": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 10,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::Pistol",
+            "CustomizationValue": "0-455"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 2,
+        "IsPremium": false,
+        "GroupName": "pistol",
+        "StatType": "headshotKills",
+        "ExcludedPlaylists": [],
+        "ID": 506,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Get_n_HeadshotKills"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "507": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 25,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::Pistol",
+            "CustomizationValue": "0-456"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 2,
+        "IsPremium": false,
+        "GroupName": "pistol",
+        "StatType": "headshotKills",
+        "ExcludedPlaylists": [],
+        "ID": 507,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Get_n_HeadshotKills"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "508": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 15,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::Pistol",
+            "CustomizationValue": "0-457"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 2,
+        "IsPremium": false,
+        "GroupName": "pistol",
+        "StatType": "doubleKills",
+        "ExcludedPlaylists": [],
+        "ID": 508,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Get_n_DoubleKills"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "509": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 50,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::Pistol",
+            "CustomizationValue": "0-11"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 2,
+        "IsPremium": false,
+        "GroupName": "pistol",
+        "StatType": "doubleKills",
+        "ExcludedPlaylists": [],
+        "ID": 509,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Get_n_DoubleKills"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "510": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 25,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::Pistol",
+            "CustomizationValue": "0-459"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 2,
+        "IsPremium": false,
+        "GroupName": "pistol",
+        "StatType": "killsThruPortal",
+        "ExcludedPlaylists": [],
+        "ID": 510,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Get_n_KillsThruPortals"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "511": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 50,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::Pistol",
+            "CustomizationValue": "0-18"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 2,
+        "IsPremium": false,
+        "GroupName": "pistol",
+        "StatType": "killsThruPortal",
+        "ExcludedPlaylists": [],
+        "ID": 511,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Get_n_KillsThruPortals"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "512": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 1,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::Pistol",
+            "CustomizationValue": "0-461"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 2,
+        "IsPremium": false,
+        "GroupName": "pistol",
+        "StatType": "killsInSingleGame",
+        "ExcludedPlaylists": [],
+        "ID": 512,
+        "DisplayName": {
+          "Namespace": "WeaponChallenges",
+          "Key": "512",
+          "SourceString": "Get 5 Kills in a Single Match"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "513": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 13,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::Pistol",
+            "CustomizationValue": "0-27"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 2,
+        "IsPremium": false,
+        "GroupName": "pistol",
+        "StatType": "all",
+        "ExcludedPlaylists": [],
+        "ID": 513,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_CompleteAllChallenges"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "600": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 25,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::PlasmaRifle",
+            "CustomizationValue": "0-15"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 3,
+        "IsPremium": false,
+        "GroupName": "plasmaRifle",
+        "StatType": "kills",
+        "ExcludedPlaylists": [],
+        "ID": 600,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_n_Kills"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "601": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 100,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::PlasmaRifle",
+            "CustomizationValue": "0-460"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 3,
+        "IsPremium": false,
+        "GroupName": "plasmaRifle",
+        "StatType": "kills",
+        "ExcludedPlaylists": [],
+        "ID": 601,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_n_Kills"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "602": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 500,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::PlasmaRifle",
+            "CustomizationValue": "0-394"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 3,
+        "IsPremium": false,
+        "GroupName": "plasmaRifle",
+        "StatType": "kills",
+        "ExcludedPlaylists": [],
+        "ID": 602,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_n_Kills"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "603": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 2500,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::PlasmaRifle",
+            "CustomizationValue": "0-453"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 3,
+        "IsPremium": false,
+        "GroupName": "plasmaRifle",
+        "StatType": "damageDealt",
+        "ExcludedPlaylists": [],
+        "ID": 603,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Inflict_n_Damage"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "604": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 10000,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::PlasmaRifle",
+            "CustomizationValue": "0-458"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 3,
+        "IsPremium": false,
+        "GroupName": "plasmaRifle",
+        "StatType": "damageDealt",
+        "ExcludedPlaylists": [],
+        "ID": 604,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Inflict_n_Damage"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "605": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 25000,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::PlasmaRifle",
+            "CustomizationValue": "0-395"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 3,
+        "IsPremium": false,
+        "GroupName": "plasmaRifle",
+        "StatType": "damageDealt",
+        "ExcludedPlaylists": [],
+        "ID": 605,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Inflict_n_Damage"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "606": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 1,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::PlasmaRifle",
+            "CustomizationValue": "0-455"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 3,
+        "IsPremium": false,
+        "GroupName": "plasmaRifle",
+        "StatType": "maxKillsWithSinglePickup",
+        "ExcludedPlaylists": [],
+        "ID": 606,
+        "DisplayName": {
+          "Namespace": "WeaponChallenges",
+          "Key": "606",
+          "SourceString": "Get 4 Kills with 1 Plasma Rifle"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "607": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 1,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::PlasmaRifle",
+            "CustomizationValue": "0-456"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 3,
+        "IsPremium": false,
+        "GroupName": "plasmaRifle",
+        "StatType": "maxKillsWithSinglePickup",
+        "ExcludedPlaylists": [],
+        "ID": 607,
+        "DisplayName": {
+          "Namespace": "WeaponChallenges",
+          "Key": "607",
+          "SourceString": "Get 5 Kills with 1 Plasma Rifle"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "608": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 25,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::PlasmaRifle",
+            "CustomizationValue": "0-457"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 3,
+        "IsPremium": false,
+        "GroupName": "plasmaRifle",
+        "StatType": "doubleKills",
+        "ExcludedPlaylists": [],
+        "ID": 608,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Get_n_DoubleKills"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "609": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 75,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::PlasmaRifle",
+            "CustomizationValue": "0-11"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 3,
+        "IsPremium": false,
+        "GroupName": "plasmaRifle",
+        "StatType": "doubleKills",
+        "ExcludedPlaylists": [],
+        "ID": 609,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Get_n_DoubleKills"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "610": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 50,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::PlasmaRifle",
+            "CustomizationValue": "0-459"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 3,
+        "IsPremium": false,
+        "GroupName": "plasmaRifle",
+        "StatType": "killsThruPortal",
+        "ExcludedPlaylists": [],
+        "ID": 610,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Get_n_KillsThruPortals"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "611": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 100,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::PlasmaRifle",
+            "CustomizationValue": "0-18"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 3,
+        "IsPremium": false,
+        "GroupName": "plasmaRifle",
+        "StatType": "killsThruPortal",
+        "ExcludedPlaylists": [],
+        "ID": 611,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Get_n_KillsThruPortals"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "612": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 1,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::PlasmaRifle",
+            "CustomizationValue": "0-461"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 3,
+        "IsPremium": false,
+        "GroupName": "plasmaRifle",
+        "StatType": "killsInSingleGame",
+        "ExcludedPlaylists": [],
+        "ID": 612,
+        "DisplayName": {
+          "Namespace": "WeaponChallenges",
+          "Key": "612",
+          "SourceString": "Get 10 Kills in a Single Match"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "613": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 13,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::PlasmaRifle",
+            "CustomizationValue": "0-27"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 3,
+        "IsPremium": false,
+        "GroupName": "plasmaRifle",
+        "StatType": "all",
+        "ExcludedPlaylists": [],
+        "ID": 613,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_CompleteAllChallenges"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "700": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 25,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::Railgun",
+            "CustomizationValue": "0-15"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 4,
+        "IsPremium": false,
+        "GroupName": "railGun",
+        "StatType": "kills",
+        "ExcludedPlaylists": [],
+        "ID": 700,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_n_Kills"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "701": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 100,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::Railgun",
+            "CustomizationValue": "0-460"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 4,
+        "IsPremium": false,
+        "GroupName": "railGun",
+        "StatType": "kills",
+        "ExcludedPlaylists": [],
+        "ID": 701,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_n_Kills"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "702": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 500,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::Railgun",
+            "CustomizationValue": "0-394"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 4,
+        "IsPremium": false,
+        "GroupName": "railGun",
+        "StatType": "kills",
+        "ExcludedPlaylists": [],
+        "ID": 702,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_n_Kills"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "703": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 2500,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::Railgun",
+            "CustomizationValue": "0-453"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 4,
+        "IsPremium": false,
+        "GroupName": "railGun",
+        "StatType": "damageDealt",
+        "ExcludedPlaylists": [],
+        "ID": 703,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Inflict_n_Damage"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "704": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 10000,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::Railgun",
+            "CustomizationValue": "0-458"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 4,
+        "IsPremium": false,
+        "GroupName": "railGun",
+        "StatType": "damageDealt",
+        "ExcludedPlaylists": [],
+        "ID": 704,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Inflict_n_Damage"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "705": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 25000,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::Railgun",
+            "CustomizationValue": "0-395"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 4,
+        "IsPremium": false,
+        "GroupName": "railGun",
+        "StatType": "damageDealt",
+        "ExcludedPlaylists": [],
+        "ID": 705,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Inflict_n_Damage"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "706": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 1,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::Railgun",
+            "CustomizationValue": "0-455"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 4,
+        "IsPremium": false,
+        "GroupName": "railGun",
+        "StatType": "maxKillsWithSinglePickup",
+        "ExcludedPlaylists": [],
+        "ID": 706,
+        "DisplayName": {
+          "Namespace": "WeaponChallenges",
+          "Key": "706",
+          "SourceString": "Get 3 Kills with 1 Railgun"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "707": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 1,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::Railgun",
+            "CustomizationValue": "0-456"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 4,
+        "IsPremium": false,
+        "GroupName": "railGun",
+        "StatType": "maxKillsWithSinglePickup",
+        "ExcludedPlaylists": [],
+        "ID": 707,
+        "DisplayName": {
+          "Namespace": "WeaponChallenges",
+          "Key": "707",
+          "SourceString": "Get 4 Kills with 1 Railgun"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "708": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 25,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::Railgun",
+            "CustomizationValue": "0-457"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 4,
+        "IsPremium": false,
+        "GroupName": "railGun",
+        "StatType": "doubleKills",
+        "ExcludedPlaylists": [],
+        "ID": 708,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Get_n_DoubleKills"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "709": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 75,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::Railgun",
+            "CustomizationValue": "0-11"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 4,
+        "IsPremium": false,
+        "GroupName": "railGun",
+        "StatType": "doubleKills",
+        "ExcludedPlaylists": [],
+        "ID": 709,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Get_n_DoubleKills"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "710": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 50,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::Railgun",
+            "CustomizationValue": "0-459"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 4,
+        "IsPremium": false,
+        "GroupName": "railGun",
+        "StatType": "killsThruPortal",
+        "ExcludedPlaylists": [],
+        "ID": 710,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Get_n_KillsThruPortals"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "711": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 100,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::Railgun",
+            "CustomizationValue": "0-18"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 4,
+        "IsPremium": false,
+        "GroupName": "railGun",
+        "StatType": "killsThruPortal",
+        "ExcludedPlaylists": [],
+        "ID": 711,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Get_n_KillsThruPortals"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "712": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 1,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::Railgun",
+            "CustomizationValue": "0-461"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 4,
+        "IsPremium": false,
+        "GroupName": "railGun",
+        "StatType": "collaterals",
+        "ExcludedPlaylists": [],
+        "ID": 712,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Get2Kills1Shot"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "713": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 13,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::Railgun",
+            "CustomizationValue": "0-27"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 4,
+        "IsPremium": false,
+        "GroupName": "railGun",
+        "StatType": "all",
+        "ExcludedPlaylists": [],
+        "ID": 713,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_CompleteAllChallenges"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "800": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 25,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::RocketLauncher",
+            "CustomizationValue": "0-15"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 5,
+        "IsPremium": false,
+        "GroupName": "rocketLauncher",
+        "StatType": "kills",
+        "ExcludedPlaylists": [],
+        "ID": 800,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_n_Kills"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "801": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 100,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::RocketLauncher",
+            "CustomizationValue": "0-460"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 5,
+        "IsPremium": false,
+        "GroupName": "rocketLauncher",
+        "StatType": "kills",
+        "ExcludedPlaylists": [],
+        "ID": 801,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_n_Kills"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "802": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 500,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::RocketLauncher",
+            "CustomizationValue": "0-394"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 5,
+        "IsPremium": false,
+        "GroupName": "rocketLauncher",
+        "StatType": "kills",
+        "ExcludedPlaylists": [],
+        "ID": 802,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_n_Kills"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "803": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 2500,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::RocketLauncher",
+            "CustomizationValue": "0-453"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 5,
+        "IsPremium": false,
+        "GroupName": "rocketLauncher",
+        "StatType": "damageDealt",
+        "ExcludedPlaylists": [],
+        "ID": 803,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Inflict_n_Damage"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "804": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 10000,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::RocketLauncher",
+            "CustomizationValue": "0-458"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 5,
+        "IsPremium": false,
+        "GroupName": "rocketLauncher",
+        "StatType": "damageDealt",
+        "ExcludedPlaylists": [],
+        "ID": 804,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Inflict_n_Damage"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "805": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 25000,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::RocketLauncher",
+            "CustomizationValue": "0-395"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 5,
+        "IsPremium": false,
+        "GroupName": "rocketLauncher",
+        "StatType": "damageDealt",
+        "ExcludedPlaylists": [],
+        "ID": 805,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Inflict_n_Damage"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "806": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 1,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::RocketLauncher",
+            "CustomizationValue": "0-455"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 5,
+        "IsPremium": false,
+        "GroupName": "rocketLauncher",
+        "StatType": "maxKillsWithSinglePickup",
+        "ExcludedPlaylists": [],
+        "ID": 806,
+        "DisplayName": {
+          "Namespace": "WeaponChallenges",
+          "Key": "806",
+          "SourceString": "Get 3 Kills with 1 Rocket Launcher"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "807": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 1,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::RocketLauncher",
+            "CustomizationValue": "0-456"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 5,
+        "IsPremium": false,
+        "GroupName": "rocketLauncher",
+        "StatType": "maxKillsWithSinglePickup",
+        "ExcludedPlaylists": [],
+        "ID": 807,
+        "DisplayName": {
+          "Namespace": "WeaponChallenges",
+          "Key": "807",
+          "SourceString": "Get 4 Kills with 1 Rocket Launcher"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "808": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 25,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::RocketLauncher",
+            "CustomizationValue": "0-457"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 5,
+        "IsPremium": false,
+        "GroupName": "rocketLauncher",
+        "StatType": "doubleKills",
+        "ExcludedPlaylists": [],
+        "ID": 808,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Get_n_DoubleKills"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "809": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 75,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::RocketLauncher",
+            "CustomizationValue": "0-11"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 5,
+        "IsPremium": false,
+        "GroupName": "rocketLauncher",
+        "StatType": "doubleKills",
+        "ExcludedPlaylists": [],
+        "ID": 809,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Get_n_DoubleKills"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "810": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 50,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::RocketLauncher",
+            "CustomizationValue": "0-459"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 5,
+        "IsPremium": false,
+        "GroupName": "rocketLauncher",
+        "StatType": "killsThruPortal",
+        "ExcludedPlaylists": [],
+        "ID": 810,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Get_n_KillsThruPortals"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "811": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 100,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::RocketLauncher",
+            "CustomizationValue": "0-18"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 5,
+        "IsPremium": false,
+        "GroupName": "rocketLauncher",
+        "StatType": "killsThruPortal",
+        "ExcludedPlaylists": [],
+        "ID": 811,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Get_n_KillsThruPortals"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "812": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 1,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::RocketLauncher",
+            "CustomizationValue": "0-461"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 5,
+        "IsPremium": false,
+        "GroupName": "rocketLauncher",
+        "StatType": "collaterals",
+        "ExcludedPlaylists": [],
+        "ID": 812,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Get2Kills1Shot"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "813": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 13,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::RocketLauncher",
+            "CustomizationValue": "0-27"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 5,
+        "IsPremium": false,
+        "GroupName": "rocketLauncher",
+        "StatType": "all",
+        "ExcludedPlaylists": [],
+        "ID": 813,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_CompleteAllChallenges"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "900": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 25,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::Shotgun",
+            "CustomizationValue": "0-15"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 6,
+        "IsPremium": false,
+        "GroupName": "shotgun",
+        "StatType": "kills",
+        "ExcludedPlaylists": [],
+        "ID": 900,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_n_Kills"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "901": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 100,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::Shotgun",
+            "CustomizationValue": "0-460"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 6,
+        "IsPremium": false,
+        "GroupName": "shotgun",
+        "StatType": "kills",
+        "ExcludedPlaylists": [],
+        "ID": 901,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_n_Kills"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "902": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 500,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::Shotgun",
+            "CustomizationValue": "0-394"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 6,
+        "IsPremium": false,
+        "GroupName": "shotgun",
+        "StatType": "kills",
+        "ExcludedPlaylists": [],
+        "ID": 902,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_n_Kills"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "903": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 2500,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::Shotgun",
+            "CustomizationValue": "0-453"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 6,
+        "IsPremium": false,
+        "GroupName": "shotgun",
+        "StatType": "damageDealt",
+        "ExcludedPlaylists": [],
+        "ID": 903,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Inflict_n_Damage"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "904": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 10000,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::Shotgun",
+            "CustomizationValue": "0-458"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 6,
+        "IsPremium": false,
+        "GroupName": "shotgun",
+        "StatType": "damageDealt",
+        "ExcludedPlaylists": [],
+        "ID": 904,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Inflict_n_Damage"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "905": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 25000,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::Shotgun",
+            "CustomizationValue": "0-395"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 6,
+        "IsPremium": false,
+        "GroupName": "shotgun",
+        "StatType": "damageDealt",
+        "ExcludedPlaylists": [],
+        "ID": 905,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Inflict_n_Damage"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "906": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 1,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::Shotgun",
+            "CustomizationValue": "0-455"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 6,
+        "IsPremium": false,
+        "GroupName": "shotgun",
+        "StatType": "maxKillsWithSinglePickup",
+        "ExcludedPlaylists": [],
+        "ID": 906,
+        "DisplayName": {
+          "Namespace": "WeaponChallenges",
+          "Key": "906",
+          "SourceString": "Get 4 Kills with 1 Shotgun"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "907": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 1,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::Shotgun",
+            "CustomizationValue": "0-456"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 6,
+        "IsPremium": false,
+        "GroupName": "shotgun",
+        "StatType": "maxKillsWithSinglePickup",
+        "ExcludedPlaylists": [],
+        "ID": 907,
+        "DisplayName": {
+          "Namespace": "WeaponChallenges",
+          "Key": "907",
+          "SourceString": "Get 6 Kills with 1 Shotgun"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "908": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 25,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::Shotgun",
+            "CustomizationValue": "0-457"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 6,
+        "IsPremium": false,
+        "GroupName": "shotgun",
+        "StatType": "doubleKills",
+        "ExcludedPlaylists": [],
+        "ID": 908,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Get_n_DoubleKills"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "909": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 75,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::Shotgun",
+            "CustomizationValue": "0-11"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 6,
+        "IsPremium": false,
+        "GroupName": "shotgun",
+        "StatType": "doubleKills",
+        "ExcludedPlaylists": [],
+        "ID": 909,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Get_n_DoubleKills"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "910": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 50,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::Shotgun",
+            "CustomizationValue": "0-459"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 6,
+        "IsPremium": false,
+        "GroupName": "shotgun",
+        "StatType": "killsThruPortal",
+        "ExcludedPlaylists": [],
+        "ID": 910,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Get_n_KillsThruPortals"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "911": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 100,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::Shotgun",
+            "CustomizationValue": "0-18"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 6,
+        "IsPremium": false,
+        "GroupName": "shotgun",
+        "StatType": "killsThruPortal",
+        "ExcludedPlaylists": [],
+        "ID": 911,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Get_n_KillsThruPortals"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "912": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 1,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::Shotgun",
+            "CustomizationValue": "0-461"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 6,
+        "IsPremium": false,
+        "GroupName": "shotgun",
+        "StatType": "collaterals",
+        "ExcludedPlaylists": [],
+        "ID": 912,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Get2Kills1Shot"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "913": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 13,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::Shotgun",
+            "CustomizationValue": "0-27"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 6,
+        "IsPremium": false,
+        "GroupName": "shotgun",
+        "StatType": "all",
+        "ExcludedPlaylists": [],
+        "ID": 913,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_CompleteAllChallenges"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "1000": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 25,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::SMG",
+            "CustomizationValue": "0-15"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 7,
+        "IsPremium": false,
+        "GroupName": "smg",
+        "StatType": "kills",
+        "ExcludedPlaylists": [],
+        "ID": 1000,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_n_Kills"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "1001": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 100,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::SMG",
+            "CustomizationValue": "0-460"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 7,
+        "IsPremium": false,
+        "GroupName": "smg",
+        "StatType": "kills",
+        "ExcludedPlaylists": [],
+        "ID": 1001,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_n_Kills"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "1002": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 500,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::SMG",
+            "CustomizationValue": "0-394"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 7,
+        "IsPremium": false,
+        "GroupName": "smg",
+        "StatType": "kills",
+        "ExcludedPlaylists": [],
+        "ID": 1002,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_n_Kills"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "1003": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 2500,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::SMG",
+            "CustomizationValue": "0-453"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 7,
+        "IsPremium": false,
+        "GroupName": "smg",
+        "StatType": "damageDealt",
+        "ExcludedPlaylists": [],
+        "ID": 1003,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Inflict_n_Damage"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "1004": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 10000,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::SMG",
+            "CustomizationValue": "0-458"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 7,
+        "IsPremium": false,
+        "GroupName": "smg",
+        "StatType": "damageDealt",
+        "ExcludedPlaylists": [],
+        "ID": 1004,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Inflict_n_Damage"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "1005": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 25000,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::SMG",
+            "CustomizationValue": "0-395"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 7,
+        "IsPremium": false,
+        "GroupName": "smg",
+        "StatType": "damageDealt",
+        "ExcludedPlaylists": [],
+        "ID": 1005,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Inflict_n_Damage"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "1006": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 15,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::SMG",
+            "CustomizationValue": "0-455"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 7,
+        "IsPremium": false,
+        "GroupName": "smg",
+        "StatType": "headshotKills",
+        "ExcludedPlaylists": [],
+        "ID": 1006,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Get_n_HeadshotKills"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "1007": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 50,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::SMG",
+            "CustomizationValue": "0-456"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 7,
+        "IsPremium": false,
+        "GroupName": "smg",
+        "StatType": "headshotKills",
+        "ExcludedPlaylists": [],
+        "ID": 1007,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Get_n_HeadshotKills"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "1008": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 25,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::SMG",
+            "CustomizationValue": "0-457"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 7,
+        "IsPremium": false,
+        "GroupName": "smg",
+        "StatType": "doubleKills",
+        "ExcludedPlaylists": [],
+        "ID": 1008,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Get_n_DoubleKills"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "1009": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 75,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::SMG",
+            "CustomizationValue": "0-11"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 7,
+        "IsPremium": false,
+        "GroupName": "smg",
+        "StatType": "doubleKills",
+        "ExcludedPlaylists": [],
+        "ID": 1009,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Get_n_DoubleKills"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "1010": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 50,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::SMG",
+            "CustomizationValue": "0-459"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 7,
+        "IsPremium": false,
+        "GroupName": "smg",
+        "StatType": "killsThruPortal",
+        "ExcludedPlaylists": [],
+        "ID": 1010,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Get_n_KillsThruPortals"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "1011": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 100,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::SMG",
+            "CustomizationValue": "0-18"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 7,
+        "IsPremium": false,
+        "GroupName": "smg",
+        "StatType": "killsThruPortal",
+        "ExcludedPlaylists": [],
+        "ID": 1011,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Get_n_KillsThruPortals"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "1012": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 1,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::SMG",
+            "CustomizationValue": "0-461"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 7,
+        "IsPremium": false,
+        "GroupName": "smg",
+        "StatType": "killsInSingleGame",
+        "ExcludedPlaylists": [],
+        "ID": 1012,
+        "DisplayName": {
+          "Namespace": "WeaponChallenges",
+          "Key": "1012",
+          "SourceString": "Get 10 Kills in a Single Match"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "1013": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 13,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::SMG",
+            "CustomizationValue": "0-27"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 7,
+        "IsPremium": false,
+        "GroupName": "smg",
+        "StatType": "all",
+        "ExcludedPlaylists": [],
+        "ID": 1013,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_CompleteAllChallenges"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "1100": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 25,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::Sniper",
+            "CustomizationValue": "0-15"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 8,
+        "IsPremium": false,
+        "GroupName": "sniperRifle",
+        "StatType": "kills",
+        "ExcludedPlaylists": [],
+        "ID": 1100,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_n_Kills"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "1101": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 100,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::Sniper",
+            "CustomizationValue": "0-460"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 8,
+        "IsPremium": false,
+        "GroupName": "sniperRifle",
+        "StatType": "kills",
+        "ExcludedPlaylists": [],
+        "ID": 1101,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_n_Kills"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "1102": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 500,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::Sniper",
+            "CustomizationValue": "0-394"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 8,
+        "IsPremium": false,
+        "GroupName": "sniperRifle",
+        "StatType": "kills",
+        "ExcludedPlaylists": [],
+        "ID": 1102,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_n_Kills"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "1103": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 2500,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::Sniper",
+            "CustomizationValue": "0-453"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 8,
+        "IsPremium": false,
+        "GroupName": "sniperRifle",
+        "StatType": "damageDealt",
+        "ExcludedPlaylists": [],
+        "ID": 1103,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Inflict_n_Damage"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "1104": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 10000,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::Sniper",
+            "CustomizationValue": "0-458"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 8,
+        "IsPremium": false,
+        "GroupName": "sniperRifle",
+        "StatType": "damageDealt",
+        "ExcludedPlaylists": [],
+        "ID": 1104,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Inflict_n_Damage"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "1105": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 25000,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::Sniper",
+            "CustomizationValue": "0-395"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 8,
+        "IsPremium": false,
+        "GroupName": "sniperRifle",
+        "StatType": "damageDealt",
+        "ExcludedPlaylists": [],
+        "ID": 1105,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Inflict_n_Damage"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "1106": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 15,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::Sniper",
+            "CustomizationValue": "0-455"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 8,
+        "IsPremium": false,
+        "GroupName": "sniperRifle",
+        "StatType": "headshotKills",
+        "ExcludedPlaylists": [],
+        "ID": 1106,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Get_n_HeadshotKills"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "1107": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 50,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::Sniper",
+            "CustomizationValue": "0-456"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 8,
+        "IsPremium": false,
+        "GroupName": "sniperRifle",
+        "StatType": "headshotKills",
+        "ExcludedPlaylists": [],
+        "ID": 1107,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Get_n_HeadshotKills"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "1108": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 25,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::Sniper",
+            "CustomizationValue": "0-457"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 8,
+        "IsPremium": false,
+        "GroupName": "sniperRifle",
+        "StatType": "doubleKills",
+        "ExcludedPlaylists": [],
+        "ID": 1108,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Get_n_DoubleKills"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "1109": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 75,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::Sniper",
+            "CustomizationValue": "0-11"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 8,
+        "IsPremium": false,
+        "GroupName": "sniperRifle",
+        "StatType": "doubleKills",
+        "ExcludedPlaylists": [],
+        "ID": 1109,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Get_n_DoubleKills"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "1110": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 50,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::Sniper",
+            "CustomizationValue": "0-459"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 8,
+        "IsPremium": false,
+        "GroupName": "sniperRifle",
+        "StatType": "killsThruPortal",
+        "ExcludedPlaylists": [],
+        "ID": 1110,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Get_n_KillsThruPortals"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "1111": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 100,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::Sniper",
+            "CustomizationValue": "0-18"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 8,
+        "IsPremium": false,
+        "GroupName": "sniperRifle",
+        "StatType": "killsThruPortal",
+        "ExcludedPlaylists": [],
+        "ID": 1111,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Get_n_KillsThruPortals"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "1112": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 1,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::Sniper",
+            "CustomizationValue": "0-461"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 8,
+        "IsPremium": false,
+        "GroupName": "sniperRifle",
+        "StatType": "collaterals",
+        "ExcludedPlaylists": [],
+        "ID": 1112,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Get2Kills1Shot"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "1113": {
+        "ChallengeType": "EChallengeType::Weapon",
+        "TargetValue": 13,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::Sniper",
+            "CustomizationValue": "0-27"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 8,
+        "IsPremium": false,
+        "GroupName": "sniperRifle",
+        "StatType": "all",
+        "ExcludedPlaylists": [],
+        "ID": 1113,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_CompleteAllChallenges"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      }
+    }
+  }
+]

@@ -1,0 +1,969 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "CustomReticles",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class CustomReticleData",
+        "ObjectPath": "/Script/PortalWarsGlobals"
+      }
+    },
+    "Rows": {
+      "1": {
+        "ReticleData": {
+          "ShouldShowOuterCircle": false,
+          "OuterCircleImage": null,
+          "OuterCircleRadius": 128.0,
+          "ShouldShowInnerCircle": false,
+          "InnerCircleImage": null,
+          "InnerCircleRadius": 64.0,
+          "ShouldShowDot": true,
+          "ShouldShowCrosshair": false,
+          "CrosshairBarImage": null,
+          "CrosshairIndSize": {
+            "X": 16.0,
+            "Y": 16.0
+          },
+          "CrosshairOffset": 15.0,
+          "ZoomImage": null,
+          "HitMarkerImage": {
+            "ObjectName": "Texture2D HitMarker_T",
+            "ObjectPath": "/Game/UI/HUD/Reticle/Textures/Customs/HitMarker_T.0"
+          },
+          "HeadshotMarkerImage": {
+            "ObjectName": "Texture2D HitMarkerHeadshot_T",
+            "ObjectPath": "/Game/UI/HUD/Reticle/Textures/Customs/HitMarkerHeadshot_T.0"
+          },
+          "KillMarkerImage": {
+            "ObjectName": "Texture2D HitMarkerKill_T",
+            "ObjectPath": "/Game/UI/HUD/Reticle/Textures/Customs/HitMarkerKill_T.0"
+          },
+          "HitMarkerScale": 1.0,
+          "ReticleOpacity": 1.0,
+          "ReticleScale": 1.0,
+          "ReticleColor": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFF"
+          }
+        },
+        "ID": 1,
+        "DisplayName": {
+          "Namespace": "Reticles",
+          "Key": "DisplayName_1",
+          "SourceString": "Dot"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "2": {
+        "ReticleData": {
+          "ShouldShowOuterCircle": true,
+          "OuterCircleImage": {
+            "ObjectName": "Texture2D Circle_Big",
+            "ObjectPath": "/Game/UI/HUD/Reticle/Textures/Customs/Circle_Big.0"
+          },
+          "OuterCircleRadius": 128.0,
+          "ShouldShowInnerCircle": false,
+          "InnerCircleImage": null,
+          "InnerCircleRadius": 64.0,
+          "ShouldShowDot": false,
+          "ShouldShowCrosshair": false,
+          "CrosshairBarImage": {
+            "ObjectName": "Texture2D Reticle_AR-Inner",
+            "ObjectPath": "/Game/UI/HUD/Reticle/Textures/Reticle_AR-Inner.0"
+          },
+          "CrosshairIndSize": {
+            "X": 24.0,
+            "Y": 32.0
+          },
+          "CrosshairOffset": 8.0,
+          "ZoomImage": null,
+          "HitMarkerImage": {
+            "ObjectName": "Texture2D HitMarker_T",
+            "ObjectPath": "/Game/UI/HUD/Reticle/Textures/Customs/HitMarker_T.0"
+          },
+          "HeadshotMarkerImage": {
+            "ObjectName": "Texture2D HitMarkerHeadshot_T",
+            "ObjectPath": "/Game/UI/HUD/Reticle/Textures/Customs/HitMarkerHeadshot_T.0"
+          },
+          "KillMarkerImage": {
+            "ObjectName": "Texture2D HitMarkerKill_T",
+            "ObjectPath": "/Game/UI/HUD/Reticle/Textures/Customs/HitMarkerKill_T.0"
+          },
+          "HitMarkerScale": 1.0,
+          "ReticleOpacity": 1.0,
+          "ReticleScale": 0.75,
+          "ReticleColor": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFF"
+          }
+        },
+        "ID": 2,
+        "DisplayName": {
+          "Namespace": "Reticles",
+          "Key": "DisplayName_2",
+          "SourceString": "Circle Medium"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "3": {
+        "ReticleData": {
+          "ShouldShowOuterCircle": true,
+          "OuterCircleImage": {
+            "ObjectName": "Texture2D Circle_Big",
+            "ObjectPath": "/Game/UI/HUD/Reticle/Textures/Customs/Circle_Big.0"
+          },
+          "OuterCircleRadius": 128.0,
+          "ShouldShowInnerCircle": false,
+          "InnerCircleImage": null,
+          "InnerCircleRadius": 64.0,
+          "ShouldShowDot": false,
+          "ShouldShowCrosshair": false,
+          "CrosshairBarImage": {
+            "ObjectName": "Texture2D Reticle_AR-Inner",
+            "ObjectPath": "/Game/UI/HUD/Reticle/Textures/Reticle_AR-Inner.0"
+          },
+          "CrosshairIndSize": {
+            "X": 24.0,
+            "Y": 32.0
+          },
+          "CrosshairOffset": 8.0,
+          "ZoomImage": null,
+          "HitMarkerImage": {
+            "ObjectName": "Texture2D HitMarker_T",
+            "ObjectPath": "/Game/UI/HUD/Reticle/Textures/Customs/HitMarker_T.0"
+          },
+          "HeadshotMarkerImage": {
+            "ObjectName": "Texture2D HitMarkerHeadshot_T",
+            "ObjectPath": "/Game/UI/HUD/Reticle/Textures/Customs/HitMarkerHeadshot_T.0"
+          },
+          "KillMarkerImage": {
+            "ObjectName": "Texture2D HitMarkerKill_T",
+            "ObjectPath": "/Game/UI/HUD/Reticle/Textures/Customs/HitMarkerKill_T.0"
+          },
+          "HitMarkerScale": 1.0,
+          "ReticleOpacity": 1.0,
+          "ReticleScale": 1.0,
+          "ReticleColor": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFF"
+          }
+        },
+        "ID": 3,
+        "DisplayName": {
+          "Namespace": "Reticles",
+          "Key": "DisplayName_3",
+          "SourceString": "Circle Big"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "4": {
+        "ReticleData": {
+          "ShouldShowOuterCircle": true,
+          "OuterCircleImage": {
+            "ObjectName": "Texture2D Circle_Dot",
+            "ObjectPath": "/Game/UI/HUD/Reticle/Textures/Customs/Circle_Dot.0"
+          },
+          "OuterCircleRadius": 128.0,
+          "ShouldShowInnerCircle": false,
+          "InnerCircleImage": null,
+          "InnerCircleRadius": 64.0,
+          "ShouldShowDot": false,
+          "ShouldShowCrosshair": false,
+          "CrosshairBarImage": {
+            "ObjectName": "Texture2D Reticle_AR-Inner",
+            "ObjectPath": "/Game/UI/HUD/Reticle/Textures/Reticle_AR-Inner.0"
+          },
+          "CrosshairIndSize": {
+            "X": 24.0,
+            "Y": 32.0
+          },
+          "CrosshairOffset": 8.0,
+          "ZoomImage": null,
+          "HitMarkerImage": {
+            "ObjectName": "Texture2D HitMarker_T",
+            "ObjectPath": "/Game/UI/HUD/Reticle/Textures/Customs/HitMarker_T.0"
+          },
+          "HeadshotMarkerImage": {
+            "ObjectName": "Texture2D HitMarkerHeadshot_T",
+            "ObjectPath": "/Game/UI/HUD/Reticle/Textures/Customs/HitMarkerHeadshot_T.0"
+          },
+          "KillMarkerImage": {
+            "ObjectName": "Texture2D HitMarkerKill_T",
+            "ObjectPath": "/Game/UI/HUD/Reticle/Textures/Customs/HitMarkerKill_T.0"
+          },
+          "HitMarkerScale": 1.0,
+          "ReticleOpacity": 1.0,
+          "ReticleScale": 1.0,
+          "ReticleColor": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFF"
+          }
+        },
+        "ID": 4,
+        "DisplayName": {
+          "Namespace": "Reticles",
+          "Key": "DisplayName_4",
+          "SourceString": "Circle Dot"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "5": {
+        "ReticleData": {
+          "ShouldShowOuterCircle": true,
+          "OuterCircleImage": {
+            "ObjectName": "Texture2D Circle_Dot_2",
+            "ObjectPath": "/Game/UI/HUD/Reticle/Textures/Customs/Circle_Dot_2.0"
+          },
+          "OuterCircleRadius": 128.0,
+          "ShouldShowInnerCircle": false,
+          "InnerCircleImage": null,
+          "InnerCircleRadius": 64.0,
+          "ShouldShowDot": false,
+          "ShouldShowCrosshair": false,
+          "CrosshairBarImage": {
+            "ObjectName": "Texture2D Reticle_AR-Inner",
+            "ObjectPath": "/Game/UI/HUD/Reticle/Textures/Reticle_AR-Inner.0"
+          },
+          "CrosshairIndSize": {
+            "X": 24.0,
+            "Y": 32.0
+          },
+          "CrosshairOffset": 8.0,
+          "ZoomImage": null,
+          "HitMarkerImage": {
+            "ObjectName": "Texture2D HitMarker_T",
+            "ObjectPath": "/Game/UI/HUD/Reticle/Textures/Customs/HitMarker_T.0"
+          },
+          "HeadshotMarkerImage": {
+            "ObjectName": "Texture2D HitMarkerHeadshot_T",
+            "ObjectPath": "/Game/UI/HUD/Reticle/Textures/Customs/HitMarkerHeadshot_T.0"
+          },
+          "KillMarkerImage": {
+            "ObjectName": "Texture2D HitMarkerKill_T",
+            "ObjectPath": "/Game/UI/HUD/Reticle/Textures/Customs/HitMarkerKill_T.0"
+          },
+          "HitMarkerScale": 1.0,
+          "ReticleOpacity": 1.0,
+          "ReticleScale": 1.0,
+          "ReticleColor": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFF"
+          }
+        },
+        "ID": 5,
+        "DisplayName": {
+          "Namespace": "Reticles",
+          "Key": "DisplayName_5",
+          "SourceString": "Circle Dot 2"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "6": {
+        "ReticleData": {
+          "ShouldShowOuterCircle": true,
+          "OuterCircleImage": {
+            "ObjectName": "Texture2D Circle_Dot_3",
+            "ObjectPath": "/Game/UI/HUD/Reticle/Textures/Customs/Circle_Dot_3.0"
+          },
+          "OuterCircleRadius": 128.0,
+          "ShouldShowInnerCircle": false,
+          "InnerCircleImage": null,
+          "InnerCircleRadius": 64.0,
+          "ShouldShowDot": false,
+          "ShouldShowCrosshair": false,
+          "CrosshairBarImage": {
+            "ObjectName": "Texture2D Reticle_AR-Inner",
+            "ObjectPath": "/Game/UI/HUD/Reticle/Textures/Reticle_AR-Inner.0"
+          },
+          "CrosshairIndSize": {
+            "X": 24.0,
+            "Y": 32.0
+          },
+          "CrosshairOffset": 8.0,
+          "ZoomImage": null,
+          "HitMarkerImage": {
+            "ObjectName": "Texture2D HitMarker_T",
+            "ObjectPath": "/Game/UI/HUD/Reticle/Textures/Customs/HitMarker_T.0"
+          },
+          "HeadshotMarkerImage": {
+            "ObjectName": "Texture2D HitMarkerHeadshot_T",
+            "ObjectPath": "/Game/UI/HUD/Reticle/Textures/Customs/HitMarkerHeadshot_T.0"
+          },
+          "KillMarkerImage": {
+            "ObjectName": "Texture2D HitMarkerKill_T",
+            "ObjectPath": "/Game/UI/HUD/Reticle/Textures/Customs/HitMarkerKill_T.0"
+          },
+          "HitMarkerScale": 1.0,
+          "ReticleOpacity": 1.0,
+          "ReticleScale": 1.0,
+          "ReticleColor": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFF"
+          }
+        },
+        "ID": 6,
+        "DisplayName": {
+          "Namespace": "Reticles",
+          "Key": "DisplayName_6",
+          "SourceString": "Circle Dot 3"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "7": {
+        "ReticleData": {
+          "ShouldShowOuterCircle": true,
+          "OuterCircleImage": {
+            "ObjectName": "Texture2D Crosshair_Dot",
+            "ObjectPath": "/Game/UI/HUD/Reticle/Textures/Customs/Crosshair_Dot.0"
+          },
+          "OuterCircleRadius": 128.0,
+          "ShouldShowInnerCircle": false,
+          "InnerCircleImage": null,
+          "InnerCircleRadius": 64.0,
+          "ShouldShowDot": false,
+          "ShouldShowCrosshair": false,
+          "CrosshairBarImage": {
+            "ObjectName": "Texture2D Reticle_AR-Inner",
+            "ObjectPath": "/Game/UI/HUD/Reticle/Textures/Reticle_AR-Inner.0"
+          },
+          "CrosshairIndSize": {
+            "X": 24.0,
+            "Y": 32.0
+          },
+          "CrosshairOffset": 8.0,
+          "ZoomImage": null,
+          "HitMarkerImage": {
+            "ObjectName": "Texture2D HitMarker_T",
+            "ObjectPath": "/Game/UI/HUD/Reticle/Textures/Customs/HitMarker_T.0"
+          },
+          "HeadshotMarkerImage": {
+            "ObjectName": "Texture2D HitMarkerHeadshot_T",
+            "ObjectPath": "/Game/UI/HUD/Reticle/Textures/Customs/HitMarkerHeadshot_T.0"
+          },
+          "KillMarkerImage": {
+            "ObjectName": "Texture2D HitMarkerKill_T",
+            "ObjectPath": "/Game/UI/HUD/Reticle/Textures/Customs/HitMarkerKill_T.0"
+          },
+          "HitMarkerScale": 1.0,
+          "ReticleOpacity": 1.0,
+          "ReticleScale": 1.0,
+          "ReticleColor": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFF"
+          }
+        },
+        "ID": 7,
+        "DisplayName": {
+          "Namespace": "Reticles",
+          "Key": "DisplayName_7",
+          "SourceString": "Crosshair Dot"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "8": {
+        "ReticleData": {
+          "ShouldShowOuterCircle": true,
+          "OuterCircleImage": {
+            "ObjectName": "Texture2D Crosshair_Small",
+            "ObjectPath": "/Game/UI/HUD/Reticle/Textures/Customs/Crosshair_Small.0"
+          },
+          "OuterCircleRadius": 128.0,
+          "ShouldShowInnerCircle": false,
+          "InnerCircleImage": null,
+          "InnerCircleRadius": 64.0,
+          "ShouldShowDot": false,
+          "ShouldShowCrosshair": false,
+          "CrosshairBarImage": {
+            "ObjectName": "Texture2D Reticle_AR-Inner",
+            "ObjectPath": "/Game/UI/HUD/Reticle/Textures/Reticle_AR-Inner.0"
+          },
+          "CrosshairIndSize": {
+            "X": 24.0,
+            "Y": 32.0
+          },
+          "CrosshairOffset": 8.0,
+          "ZoomImage": null,
+          "HitMarkerImage": {
+            "ObjectName": "Texture2D HitMarker_T",
+            "ObjectPath": "/Game/UI/HUD/Reticle/Textures/Customs/HitMarker_T.0"
+          },
+          "HeadshotMarkerImage": {
+            "ObjectName": "Texture2D HitMarkerHeadshot_T",
+            "ObjectPath": "/Game/UI/HUD/Reticle/Textures/Customs/HitMarkerHeadshot_T.0"
+          },
+          "KillMarkerImage": {
+            "ObjectName": "Texture2D HitMarkerKill_T",
+            "ObjectPath": "/Game/UI/HUD/Reticle/Textures/Customs/HitMarkerKill_T.0"
+          },
+          "HitMarkerScale": 1.0,
+          "ReticleOpacity": 1.0,
+          "ReticleScale": 1.0,
+          "ReticleColor": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFF"
+          }
+        },
+        "ID": 8,
+        "DisplayName": {
+          "Namespace": "Reticles",
+          "Key": "DisplayName_8",
+          "SourceString": "Crosshair Small"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "9": {
+        "ReticleData": {
+          "ShouldShowOuterCircle": true,
+          "OuterCircleImage": {
+            "ObjectName": "Texture2D Crosshair_Medium",
+            "ObjectPath": "/Game/UI/HUD/Reticle/Textures/Customs/Crosshair_Medium.0"
+          },
+          "OuterCircleRadius": 128.0,
+          "ShouldShowInnerCircle": false,
+          "InnerCircleImage": null,
+          "InnerCircleRadius": 64.0,
+          "ShouldShowDot": false,
+          "ShouldShowCrosshair": false,
+          "CrosshairBarImage": {
+            "ObjectName": "Texture2D Reticle_AR-Inner",
+            "ObjectPath": "/Game/UI/HUD/Reticle/Textures/Reticle_AR-Inner.0"
+          },
+          "CrosshairIndSize": {
+            "X": 24.0,
+            "Y": 32.0
+          },
+          "CrosshairOffset": 8.0,
+          "ZoomImage": null,
+          "HitMarkerImage": {
+            "ObjectName": "Texture2D HitMarker_T",
+            "ObjectPath": "/Game/UI/HUD/Reticle/Textures/Customs/HitMarker_T.0"
+          },
+          "HeadshotMarkerImage": {
+            "ObjectName": "Texture2D HitMarkerHeadshot_T",
+            "ObjectPath": "/Game/UI/HUD/Reticle/Textures/Customs/HitMarkerHeadshot_T.0"
+          },
+          "KillMarkerImage": {
+            "ObjectName": "Texture2D HitMarkerKill_T",
+            "ObjectPath": "/Game/UI/HUD/Reticle/Textures/Customs/HitMarkerKill_T.0"
+          },
+          "HitMarkerScale": 1.0,
+          "ReticleOpacity": 1.0,
+          "ReticleScale": 1.0,
+          "ReticleColor": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFF"
+          }
+        },
+        "ID": 9,
+        "DisplayName": {
+          "Namespace": "Reticles",
+          "Key": "DisplayName_9",
+          "SourceString": "Crosshair Medium"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "10": {
+        "ReticleData": {
+          "ShouldShowOuterCircle": true,
+          "OuterCircleImage": {
+            "ObjectName": "Texture2D Crosshair_Big",
+            "ObjectPath": "/Game/UI/HUD/Reticle/Textures/Customs/Crosshair_Big.0"
+          },
+          "OuterCircleRadius": 128.0,
+          "ShouldShowInnerCircle": false,
+          "InnerCircleImage": null,
+          "InnerCircleRadius": 64.0,
+          "ShouldShowDot": false,
+          "ShouldShowCrosshair": false,
+          "CrosshairBarImage": {
+            "ObjectName": "Texture2D Reticle_AR-Inner",
+            "ObjectPath": "/Game/UI/HUD/Reticle/Textures/Reticle_AR-Inner.0"
+          },
+          "CrosshairIndSize": {
+            "X": 24.0,
+            "Y": 32.0
+          },
+          "CrosshairOffset": 8.0,
+          "ZoomImage": null,
+          "HitMarkerImage": {
+            "ObjectName": "Texture2D HitMarker_T",
+            "ObjectPath": "/Game/UI/HUD/Reticle/Textures/Customs/HitMarker_T.0"
+          },
+          "HeadshotMarkerImage": {
+            "ObjectName": "Texture2D HitMarkerHeadshot_T",
+            "ObjectPath": "/Game/UI/HUD/Reticle/Textures/Customs/HitMarkerHeadshot_T.0"
+          },
+          "KillMarkerImage": {
+            "ObjectName": "Texture2D HitMarkerKill_T",
+            "ObjectPath": "/Game/UI/HUD/Reticle/Textures/Customs/HitMarkerKill_T.0"
+          },
+          "HitMarkerScale": 1.0,
+          "ReticleOpacity": 1.0,
+          "ReticleScale": 1.0,
+          "ReticleColor": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFF"
+          }
+        },
+        "ID": 10,
+        "DisplayName": {
+          "Namespace": "Reticles",
+          "Key": "DisplayName_10",
+          "SourceString": "Crosshair Big"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "11": {
+        "ReticleData": {
+          "ShouldShowOuterCircle": true,
+          "OuterCircleImage": {
+            "ObjectName": "Texture2D Diamond",
+            "ObjectPath": "/Game/UI/HUD/Reticle/Textures/Customs/Diamond.0"
+          },
+          "OuterCircleRadius": 128.0,
+          "ShouldShowInnerCircle": false,
+          "InnerCircleImage": null,
+          "InnerCircleRadius": 64.0,
+          "ShouldShowDot": false,
+          "ShouldShowCrosshair": false,
+          "CrosshairBarImage": {
+            "ObjectName": "Texture2D Reticle_AR-Inner",
+            "ObjectPath": "/Game/UI/HUD/Reticle/Textures/Reticle_AR-Inner.0"
+          },
+          "CrosshairIndSize": {
+            "X": 24.0,
+            "Y": 32.0
+          },
+          "CrosshairOffset": 8.0,
+          "ZoomImage": null,
+          "HitMarkerImage": {
+            "ObjectName": "Texture2D HitMarker_T",
+            "ObjectPath": "/Game/UI/HUD/Reticle/Textures/Customs/HitMarker_T.0"
+          },
+          "HeadshotMarkerImage": {
+            "ObjectName": "Texture2D HitMarkerHeadshot_T",
+            "ObjectPath": "/Game/UI/HUD/Reticle/Textures/Customs/HitMarkerHeadshot_T.0"
+          },
+          "KillMarkerImage": {
+            "ObjectName": "Texture2D HitMarkerKill_T",
+            "ObjectPath": "/Game/UI/HUD/Reticle/Textures/Customs/HitMarkerKill_T.0"
+          },
+          "HitMarkerScale": 1.0,
+          "ReticleOpacity": 1.0,
+          "ReticleScale": 1.0,
+          "ReticleColor": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFF"
+          }
+        },
+        "ID": 11,
+        "DisplayName": {
+          "Namespace": "Reticles",
+          "Key": "DisplayName_11",
+          "SourceString": "Diamond"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "12": {
+        "ReticleData": {
+          "ShouldShowOuterCircle": true,
+          "OuterCircleImage": {
+            "ObjectName": "Texture2D Diamond_2",
+            "ObjectPath": "/Game/UI/HUD/Reticle/Textures/Customs/Diamond_2.0"
+          },
+          "OuterCircleRadius": 128.0,
+          "ShouldShowInnerCircle": false,
+          "InnerCircleImage": null,
+          "InnerCircleRadius": 64.0,
+          "ShouldShowDot": false,
+          "ShouldShowCrosshair": false,
+          "CrosshairBarImage": {
+            "ObjectName": "Texture2D Reticle_AR-Inner",
+            "ObjectPath": "/Game/UI/HUD/Reticle/Textures/Reticle_AR-Inner.0"
+          },
+          "CrosshairIndSize": {
+            "X": 24.0,
+            "Y": 32.0
+          },
+          "CrosshairOffset": 8.0,
+          "ZoomImage": null,
+          "HitMarkerImage": {
+            "ObjectName": "Texture2D HitMarker_T",
+            "ObjectPath": "/Game/UI/HUD/Reticle/Textures/Customs/HitMarker_T.0"
+          },
+          "HeadshotMarkerImage": {
+            "ObjectName": "Texture2D HitMarkerHeadshot_T",
+            "ObjectPath": "/Game/UI/HUD/Reticle/Textures/Customs/HitMarkerHeadshot_T.0"
+          },
+          "KillMarkerImage": {
+            "ObjectName": "Texture2D HitMarkerKill_T",
+            "ObjectPath": "/Game/UI/HUD/Reticle/Textures/Customs/HitMarkerKill_T.0"
+          },
+          "HitMarkerScale": 1.0,
+          "ReticleOpacity": 1.0,
+          "ReticleScale": 1.0,
+          "ReticleColor": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFF"
+          }
+        },
+        "ID": 12,
+        "DisplayName": {
+          "Namespace": "Reticles",
+          "Key": "DisplayName_12",
+          "SourceString": "Diamond 2"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "13": {
+        "ReticleData": {
+          "ShouldShowOuterCircle": true,
+          "OuterCircleImage": {
+            "ObjectName": "Texture2D AnglesSmall",
+            "ObjectPath": "/Game/UI/HUD/Reticle/Textures/Customs/AnglesSmall.0"
+          },
+          "OuterCircleRadius": 128.0,
+          "ShouldShowInnerCircle": false,
+          "InnerCircleImage": null,
+          "InnerCircleRadius": 64.0,
+          "ShouldShowDot": false,
+          "ShouldShowCrosshair": false,
+          "CrosshairBarImage": null,
+          "CrosshairIndSize": {
+            "X": 16.0,
+            "Y": 16.0
+          },
+          "CrosshairOffset": 15.0,
+          "ZoomImage": null,
+          "HitMarkerImage": {
+            "ObjectName": "Texture2D HitMarker_T",
+            "ObjectPath": "/Game/UI/HUD/Reticle/Textures/Customs/HitMarker_T.0"
+          },
+          "HeadshotMarkerImage": {
+            "ObjectName": "Texture2D HitMarkerHeadshot_T",
+            "ObjectPath": "/Game/UI/HUD/Reticle/Textures/Customs/HitMarkerHeadshot_T.0"
+          },
+          "KillMarkerImage": {
+            "ObjectName": "Texture2D HitMarkerKill_T",
+            "ObjectPath": "/Game/UI/HUD/Reticle/Textures/Customs/HitMarkerKill_T.0"
+          },
+          "HitMarkerScale": 1.0,
+          "ReticleOpacity": 1.0,
+          "ReticleScale": 1.0,
+          "ReticleColor": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFF"
+          }
+        },
+        "ID": 13,
+        "DisplayName": {
+          "Namespace": "Reticles",
+          "Key": "DisplayName_13",
+          "SourceString": "Angles Small"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "14": {
+        "ReticleData": {
+          "ShouldShowOuterCircle": true,
+          "OuterCircleImage": {
+            "ObjectName": "Texture2D AnglesMedium",
+            "ObjectPath": "/Game/UI/HUD/Reticle/Textures/Customs/AnglesMedium.0"
+          },
+          "OuterCircleRadius": 128.0,
+          "ShouldShowInnerCircle": false,
+          "InnerCircleImage": null,
+          "InnerCircleRadius": 64.0,
+          "ShouldShowDot": false,
+          "ShouldShowCrosshair": false,
+          "CrosshairBarImage": null,
+          "CrosshairIndSize": {
+            "X": 16.0,
+            "Y": 16.0
+          },
+          "CrosshairOffset": 15.0,
+          "ZoomImage": null,
+          "HitMarkerImage": {
+            "ObjectName": "Texture2D HitMarker_T",
+            "ObjectPath": "/Game/UI/HUD/Reticle/Textures/Customs/HitMarker_T.0"
+          },
+          "HeadshotMarkerImage": {
+            "ObjectName": "Texture2D HitMarkerHeadshot_T",
+            "ObjectPath": "/Game/UI/HUD/Reticle/Textures/Customs/HitMarkerHeadshot_T.0"
+          },
+          "KillMarkerImage": {
+            "ObjectName": "Texture2D HitMarkerKill_T",
+            "ObjectPath": "/Game/UI/HUD/Reticle/Textures/Customs/HitMarkerKill_T.0"
+          },
+          "HitMarkerScale": 1.0,
+          "ReticleOpacity": 1.0,
+          "ReticleScale": 1.0,
+          "ReticleColor": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFF"
+          }
+        },
+        "ID": 14,
+        "DisplayName": {
+          "Namespace": "Reticles",
+          "Key": "DisplayName_14",
+          "SourceString": "Angles Medium"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "15": {
+        "ReticleData": {
+          "ShouldShowOuterCircle": false,
+          "OuterCircleImage": null,
+          "OuterCircleRadius": 128.0,
+          "ShouldShowInnerCircle": false,
+          "InnerCircleImage": null,
+          "InnerCircleRadius": 64.0,
+          "ShouldShowDot": false,
+          "ShouldShowCrosshair": true,
+          "CrosshairBarImage": {
+            "ObjectName": "Texture2D Reticle_AR-Inner",
+            "ObjectPath": "/Game/UI/HUD/Reticle/Textures/Reticle_AR-Inner.0"
+          },
+          "CrosshairIndSize": {
+            "X": 24.0,
+            "Y": 32.0
+          },
+          "CrosshairOffset": 8.0,
+          "ZoomImage": null,
+          "HitMarkerImage": {
+            "ObjectName": "Texture2D HitMarker_T",
+            "ObjectPath": "/Game/UI/HUD/Reticle/Textures/Customs/HitMarker_T.0"
+          },
+          "HeadshotMarkerImage": {
+            "ObjectName": "Texture2D HitMarkerHeadshot_T",
+            "ObjectPath": "/Game/UI/HUD/Reticle/Textures/Customs/HitMarkerHeadshot_T.0"
+          },
+          "KillMarkerImage": {
+            "ObjectName": "Texture2D HitMarkerKill_T",
+            "ObjectPath": "/Game/UI/HUD/Reticle/Textures/Customs/HitMarkerKill_T.0"
+          },
+          "HitMarkerScale": 1.0,
+          "ReticleOpacity": 1.0,
+          "ReticleScale": 1.0,
+          "ReticleColor": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFF"
+          }
+        },
+        "ID": 15,
+        "DisplayName": {
+          "Namespace": "Reticles",
+          "Key": "DisplayName_15",
+          "SourceString": "Crosshair Small 2"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "16": {
+        "ReticleData": {
+          "ShouldShowOuterCircle": false,
+          "OuterCircleImage": null,
+          "OuterCircleRadius": 128.0,
+          "ShouldShowInnerCircle": false,
+          "InnerCircleImage": null,
+          "InnerCircleRadius": 64.0,
+          "ShouldShowDot": false,
+          "ShouldShowCrosshair": false,
+          "CrosshairBarImage": null,
+          "CrosshairIndSize": {
+            "X": 16.0,
+            "Y": 16.0
+          },
+          "CrosshairOffset": 15.0,
+          "ZoomImage": null,
+          "HitMarkerImage": {
+            "ObjectName": "Texture2D HitMarker_T",
+            "ObjectPath": "/Game/UI/HUD/Reticle/Textures/Customs/HitMarker_T.0"
+          },
+          "HeadshotMarkerImage": {
+            "ObjectName": "Texture2D HitMarkerHeadshot_T",
+            "ObjectPath": "/Game/UI/HUD/Reticle/Textures/Customs/HitMarkerHeadshot_T.0"
+          },
+          "KillMarkerImage": {
+            "ObjectName": "Texture2D HitMarkerKill_T",
+            "ObjectPath": "/Game/UI/HUD/Reticle/Textures/Customs/HitMarkerKill_T.0"
+          },
+          "HitMarkerScale": 1.0,
+          "ReticleOpacity": 1.0,
+          "ReticleScale": 1.0,
+          "ReticleColor": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFF"
+          }
+        },
+        "ID": 16,
+        "DisplayName": {
+          "Namespace": "Reticles",
+          "Key": "DisplayName_16",
+          "SourceString": "None"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      }
+    }
+  }
+]

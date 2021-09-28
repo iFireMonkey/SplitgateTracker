@@ -1,0 +1,1582 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "SeasonChallenges",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class ChallengeData",
+        "ObjectPath": "/Script/PortalWarsGlobals"
+      }
+    },
+    "Rows": {
+      "100": {
+        "ChallengeType": "EChallengeType::Season",
+        "TargetValue": 5000,
+        "Reward": {
+          "RewardType": "ERewardType::Drop",
+          "RewardValue": 1,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 1,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 100,
+        "DisplayName": {
+          "Namespace": "SeasonChallenges",
+          "Key": "DisplayName_100",
+          "SourceString": "Get 5000 Score in KOTH, DOM, or Oddball"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "101": {
+        "ChallengeType": "EChallengeType::Season",
+        "TargetValue": 200,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 10000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 1,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 101,
+        "DisplayName": {
+          "Namespace": "SeasonChallenges",
+          "Key": "DisplayName_101",
+          "SourceString": "Play 200 Matches"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "102": {
+        "ChallengeType": "EChallengeType::Season",
+        "TargetValue": 25,
+        "Reward": {
+          "RewardType": "ERewardType::Drop",
+          "RewardValue": 1,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 1,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 102,
+        "DisplayName": {
+          "Namespace": "SeasonChallenges",
+          "Key": "DisplayName_102",
+          "SourceString": "Win 25 Matches of Rumble Game Modes"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "103": {
+        "ChallengeType": "EChallengeType::Season",
+        "TargetValue": 250,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 15000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 1,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 103,
+        "DisplayName": {
+          "Namespace": "SeasonChallenges",
+          "Key": "DisplayName_103",
+          "SourceString": "Win 250 Matches"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "104": {
+        "ChallengeType": "EChallengeType::Season",
+        "TargetValue": 1500,
+        "Reward": {
+          "RewardType": "ERewardType::Drop",
+          "RewardValue": 1,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 1,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 104,
+        "DisplayName": {
+          "Namespace": "SeasonChallenges",
+          "Key": "DisplayName_104",
+          "SourceString": "Get 1500 Kills"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "105": {
+        "ChallengeType": "EChallengeType::Season",
+        "TargetValue": 1000,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 20000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 1,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 105,
+        "DisplayName": {
+          "Namespace": "SeasonChallenges",
+          "Key": "DisplayName_105",
+          "SourceString": "Get 1000 Assist Kills or Revenge Kills"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "106": {
+        "ChallengeType": "EChallengeType::Season",
+        "TargetValue": 25,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 15000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 1,
+        "IsPremium": true,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 106,
+        "DisplayName": {
+          "Namespace": "SeasonChallenges",
+          "Key": "DisplayName_106",
+          "SourceString": "Win 25 Matches with the Most Kills"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "107": {
+        "ChallengeType": "EChallengeType::Season",
+        "TargetValue": 150000,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 15000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 1,
+        "IsPremium": true,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 107,
+        "DisplayName": {
+          "Namespace": "SeasonChallenges",
+          "Key": "DisplayName_107",
+          "SourceString": "Inflict 150k Damage"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "108": {
+        "ChallengeType": "EChallengeType::Season",
+        "TargetValue": 100,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 15000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 1,
+        "IsPremium": true,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 108,
+        "DisplayName": {
+          "Namespace": "SeasonChallenges",
+          "Key": "DisplayName_108",
+          "SourceString": "Get 100 Double Kills"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "109": {
+        "ChallengeType": "EChallengeType::Season",
+        "TargetValue": 150,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 15000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 1,
+        "IsPremium": true,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 109,
+        "DisplayName": {
+          "Namespace": "SeasonChallenges",
+          "Key": "DisplayName_109",
+          "SourceString": "Get 150 Kills Through Portals"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "110": {
+        "ChallengeType": "EChallengeType::Season",
+        "TargetValue": 1,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 15000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 1,
+        "IsPremium": true,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 110,
+        "DisplayName": {
+          "Namespace": "SeasonChallenges",
+          "Key": "DisplayName_110",
+          "SourceString": "Get a Portal Kill"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "111": {
+        "ChallengeType": "EChallengeType::Season",
+        "TargetValue": 100,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 15000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 1,
+        "IsPremium": true,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 111,
+        "DisplayName": {
+          "Namespace": "SeasonChallenges",
+          "Key": "DisplayName_111",
+          "SourceString": "Play 100 Competitive Matches"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "200": {
+        "ChallengeType": "EChallengeType::Season",
+        "TargetValue": 5000,
+        "Reward": {
+          "RewardType": "ERewardType::Drop",
+          "RewardValue": 1,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 2,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 200,
+        "DisplayName": {
+          "Namespace": "SeasonChallenges",
+          "Key": "DisplayName_200",
+          "SourceString": "Land 5000 Shots"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "201": {
+        "ChallengeType": "EChallengeType::Season",
+        "TargetValue": 20,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 10000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 2,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 201,
+        "DisplayName": {
+          "Namespace": "SeasonChallenges",
+          "Key": "DisplayName_201",
+          "SourceString": "Play 20 Matches in a Party"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "202": {
+        "ChallengeType": "EChallengeType::Season",
+        "TargetValue": 10,
+        "Reward": {
+          "RewardType": "ERewardType::Drop",
+          "RewardValue": 1,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 2,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 202,
+        "DisplayName": {
+          "Namespace": "SeasonChallenges",
+          "Key": "DisplayName_202",
+          "SourceString": "Play 10 Matches in 1 Day"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "203": {
+        "ChallengeType": "EChallengeType::Season",
+        "TargetValue": 50,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 15000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 2,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 203,
+        "DisplayName": {
+          "Namespace": "SeasonChallenges",
+          "Key": "DisplayName_203",
+          "SourceString": "Go Through 50 Friendly Portals"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "204": {
+        "ChallengeType": "EChallengeType::Season",
+        "TargetValue": 5,
+        "Reward": {
+          "RewardType": "ERewardType::Drop",
+          "RewardValue": 1,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 2,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 204,
+        "DisplayName": {
+          "Namespace": "SeasonChallenges",
+          "Key": "DisplayName_204",
+          "SourceString": "Win 5 Matches with Double the Score of the Opposing Team"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "205": {
+        "ChallengeType": "EChallengeType::Season",
+        "TargetValue": 150,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 20000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 2,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 205,
+        "DisplayName": {
+          "Namespace": "SeasonChallenges",
+          "Key": "DisplayName_205",
+          "SourceString": "Get 150 Assist Kills"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "206": {
+        "ChallengeType": "EChallengeType::Season",
+        "TargetValue": 25,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 15000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 2,
+        "IsPremium": true,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 206,
+        "DisplayName": {
+          "Namespace": "SeasonChallenges",
+          "Key": "DisplayName_206",
+          "SourceString": "Get 25 King Slayer Kills"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "207": {
+        "ChallengeType": "EChallengeType::Season",
+        "TargetValue": 10,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 15000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 2,
+        "IsPremium": true,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 207,
+        "DisplayName": {
+          "Namespace": "SeasonChallenges",
+          "Key": "DisplayName_207",
+          "SourceString": "Get 10 First Blood Kills"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "208": {
+        "ChallengeType": "EChallengeType::Season",
+        "TargetValue": 25,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 15000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 2,
+        "IsPremium": true,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 208,
+        "DisplayName": {
+          "Namespace": "SeasonChallenges",
+          "Key": "DisplayName_208",
+          "SourceString": "Emote in 25 Matches"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "209": {
+        "ChallengeType": "EChallengeType::Season",
+        "TargetValue": 100,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 15000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 2,
+        "IsPremium": true,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 209,
+        "DisplayName": {
+          "Namespace": "SeasonChallenges",
+          "Key": "DisplayName_209",
+          "SourceString": "Win 100 Matches"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "210": {
+        "ChallengeType": "EChallengeType::Season",
+        "TargetValue": 150,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 15000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 2,
+        "IsPremium": true,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 210,
+        "DisplayName": {
+          "Namespace": "SeasonChallenges",
+          "Key": "DisplayName_210",
+          "SourceString": "Get 150 Headshot Kills"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "211": {
+        "ChallengeType": "EChallengeType::Season",
+        "TargetValue": 25,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 15000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 2,
+        "IsPremium": true,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 211,
+        "DisplayName": {
+          "Namespace": "SeasonChallenges",
+          "Key": "DisplayName_211",
+          "SourceString": "Win 25 Matches with the Highest Score"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "300": {
+        "ChallengeType": "EChallengeType::Season",
+        "TargetValue": 35,
+        "Reward": {
+          "RewardType": "ERewardType::Drop",
+          "RewardValue": 1,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 3,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 300,
+        "DisplayName": {
+          "Namespace": "SeasonChallenges",
+          "Key": "DisplayName_300",
+          "SourceString": "Win 35 Matches"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "301": {
+        "ChallengeType": "EChallengeType::Season",
+        "TargetValue": 100,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 10000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 3,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 301,
+        "DisplayName": {
+          "Namespace": "SeasonChallenges",
+          "Key": "DisplayName_301",
+          "SourceString": "Get 100 Kills with the BFB or Railgun"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "302": {
+        "ChallengeType": "EChallengeType::Season",
+        "TargetValue": 150,
+        "Reward": {
+          "RewardType": "ERewardType::Drop",
+          "RewardValue": 1,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 3,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 302,
+        "DisplayName": {
+          "Namespace": "SeasonChallenges",
+          "Key": "DisplayName_302",
+          "SourceString": "Get 150 Revenge Kills"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "303": {
+        "ChallengeType": "EChallengeType::Season",
+        "TargetValue": 50000,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 15000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 3,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 303,
+        "DisplayName": {
+          "Namespace": "SeasonChallenges",
+          "Key": "DisplayName_303",
+          "SourceString": "Inflict 50k Damage"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "304": {
+        "ChallengeType": "EChallengeType::Season",
+        "TargetValue": 10,
+        "Reward": {
+          "RewardType": "ERewardType::Drop",
+          "RewardValue": 1,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 3,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 304,
+        "DisplayName": {
+          "Namespace": "SeasonChallenges",
+          "Key": "DisplayName_304",
+          "SourceString": "Win a Match of 10 Different Game Modes"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "305": {
+        "ChallengeType": "EChallengeType::Season",
+        "TargetValue": 500,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 20000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 3,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 305,
+        "DisplayName": {
+          "Namespace": "SeasonChallenges",
+          "Key": "DisplayName_305",
+          "SourceString": "Get 500 Kills"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "306": {
+        "ChallengeType": "EChallengeType::Season",
+        "TargetValue": 500,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 15000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 3,
+        "IsPremium": true,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 306,
+        "DisplayName": {
+          "Namespace": "SeasonChallenges",
+          "Key": "DisplayName_306",
+          "SourceString": "Get 500 Score in TDM, Shotty Snipers, or SWAT"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "307": {
+        "ChallengeType": "EChallengeType::Season",
+        "TargetValue": 3,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 15000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 3,
+        "IsPremium": true,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 307,
+        "DisplayName": {
+          "Namespace": "SeasonChallenges",
+          "Key": "DisplayName_307",
+          "SourceString": "Win a match of FFA, Gun Game, and One in the Chamber"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "308": {
+        "ChallengeType": "EChallengeType::Season",
+        "TargetValue": 100,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 15000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 3,
+        "IsPremium": true,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 308,
+        "DisplayName": {
+          "Namespace": "SeasonChallenges",
+          "Key": "DisplayName_308",
+          "SourceString": "Get 100 Kills with a Sniper or Shotgun"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "309": {
+        "ChallengeType": "EChallengeType::Season",
+        "TargetValue": 50,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 15000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 3,
+        "IsPremium": true,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 309,
+        "DisplayName": {
+          "Namespace": "SeasonChallenges",
+          "Key": "DisplayName_309",
+          "SourceString": "Get 50 Headshot Kills"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "310": {
+        "ChallengeType": "EChallengeType::Season",
+        "TargetValue": 20,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 15000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 3,
+        "IsPremium": true,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 310,
+        "DisplayName": {
+          "Namespace": "SeasonChallenges",
+          "Key": "DisplayName_310",
+          "SourceString": "Get the Highest Score on your team in 20 Matches"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "311": {
+        "ChallengeType": "EChallengeType::Season",
+        "TargetValue": 50,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 15000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 3,
+        "IsPremium": true,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 311,
+        "DisplayName": {
+          "Namespace": "SeasonChallenges",
+          "Key": "DisplayName_311",
+          "SourceString": "Get 50 Revenge Kills"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "400": {
+        "ChallengeType": "EChallengeType::Season",
+        "TargetValue": 75,
+        "Reward": {
+          "RewardType": "ERewardType::Drop",
+          "RewardValue": 1,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 4,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 400,
+        "DisplayName": {
+          "Namespace": "SeasonChallenges",
+          "Key": "DisplayName_400",
+          "SourceString": "Play 75 Matches"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "401": {
+        "ChallengeType": "EChallengeType::Season",
+        "TargetValue": 1,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 10000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 4,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 401,
+        "DisplayName": {
+          "Namespace": "SeasonChallenges",
+          "Key": "DisplayName_401",
+          "SourceString": "Win a Match with 10 Assist Kills"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "402": {
+        "ChallengeType": "EChallengeType::Season",
+        "TargetValue": 25,
+        "Reward": {
+          "RewardType": "ERewardType::Drop",
+          "RewardValue": 1,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 4,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 402,
+        "DisplayName": {
+          "Namespace": "SeasonChallenges",
+          "Key": "DisplayName_402",
+          "SourceString": "Play 25 Casual Matches"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "403": {
+        "ChallengeType": "EChallengeType::Season",
+        "TargetValue": 100,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 15000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 4,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 403,
+        "DisplayName": {
+          "Namespace": "SeasonChallenges",
+          "Key": "DisplayName_403",
+          "SourceString": "Get 100 Assist Kills"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "404": {
+        "ChallengeType": "EChallengeType::Season",
+        "TargetValue": 50,
+        "Reward": {
+          "RewardType": "ERewardType::Drop",
+          "RewardValue": 1,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 4,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 404,
+        "DisplayName": {
+          "Namespace": "SeasonChallenges",
+          "Key": "DisplayName_404",
+          "SourceString": "Get 50 Kills on Hill in KOTH or DOM"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "405": {
+        "ChallengeType": "EChallengeType::Season",
+        "TargetValue": 10,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 20000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 4,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 405,
+        "DisplayName": {
+          "Namespace": "SeasonChallenges",
+          "Key": "DisplayName_405",
+          "SourceString": "Get the Most Kills on your team in 10 Matches"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "406": {
+        "ChallengeType": "EChallengeType::Season",
+        "TargetValue": 50,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 15000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 4,
+        "IsPremium": true,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 406,
+        "DisplayName": {
+          "Namespace": "SeasonChallenges",
+          "Key": "DisplayName_406",
+          "SourceString": "Win 50 Competitive Matches"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "407": {
+        "ChallengeType": "EChallengeType::Season",
+        "TargetValue": 1,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 15000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 4,
+        "IsPremium": true,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 407,
+        "DisplayName": {
+          "Namespace": "SeasonChallenges",
+          "Key": "DisplayName_407",
+          "SourceString": "Get A Collateral Kill"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "408": {
+        "ChallengeType": "EChallengeType::Season",
+        "TargetValue": 10,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 15000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 4,
+        "IsPremium": true,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 408,
+        "DisplayName": {
+          "Namespace": "SeasonChallenges",
+          "Key": "DisplayName_408",
+          "SourceString": "Win a Match on 10 Different Maps"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "409": {
+        "ChallengeType": "EChallengeType::Season",
+        "TargetValue": 100,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 15000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 4,
+        "IsPremium": true,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 409,
+        "DisplayName": {
+          "Namespace": "SeasonChallenges",
+          "Key": "DisplayName_409",
+          "SourceString": "Get 100 Kills with SMG or Battle Rifle"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "410": {
+        "ChallengeType": "EChallengeType::Season",
+        "TargetValue": 1,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 15000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 4,
+        "IsPremium": true,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 410,
+        "DisplayName": {
+          "Namespace": "SeasonChallenges",
+          "Key": "DisplayName_410",
+          "SourceString": "Win a Match with the Highest Score and Most Kills"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "411": {
+        "ChallengeType": "EChallengeType::Season",
+        "TargetValue": 1000,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 15000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 4,
+        "IsPremium": true,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 411,
+        "DisplayName": {
+          "Namespace": "SeasonChallenges",
+          "Key": "DisplayName_411",
+          "SourceString": "Get 1000 Score in KOTH, DOM, or Oddball"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "1000": {
+        "ChallengeType": "EChallengeType::Season",
+        "TargetValue": 24,
+        "Reward": {
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 0,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 1000,
+        "DisplayName": {
+          "Namespace": "SeasonChallenges",
+          "Key": "DisplayName_1000",
+          "SourceString": "Complete All Free Challenges to earn the Season Reward"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      }
+    }
+  }
+]

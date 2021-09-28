@@ -1,0 +1,38 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "LockerTips",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class TipData",
+        "ObjectPath": "/Script/PortalWarsGlobals"
+      }
+    },
+    "Rows": {
+      "Spray": {
+        "KeyboardOnly": true,
+        "Text": {
+          "Namespace": "Tips",
+          "Key": "ACD16FA44CA1AB51F9EE1F82ED64F97B",
+          "SourceString": "<TYPE>SPRAYS</> <DIVIDER>//</> <BOLD>PRESS</> <ACTION NAME=\"Spray\" WIDTH=\"30\" HEIGHT=\"30\" PADDING=\"0 5 0 0\"/> on a wall or a floor to spray your emblem in a match for other players to see."
+        }
+      },
+      "Emote": {
+        "KeyboardOnly": false,
+        "Text": {
+          "Namespace": "",
+          "Key": "CEC643444E6764951F2EBFBAF1B86F8F",
+          "SourceString": "<TYPE>EMOTE</> <DIVIDER>//</> <BOLD>PRESS</> <ACTION NAME=\"PLAYEMOTE\" WIDTH=\"30\" HEIGHT=\"30\" PADDING=\"0 5 0 0\"/> before, after, or during a match to emote."
+        }
+      },
+      "Weapon": {
+        "KeyboardOnly": true,
+        "Text": {
+          "Namespace": "",
+          "Key": "7C58CAD94F4EC824452CFFB9D1CFFCBD",
+          "SourceString": "<TYPE>INSPECT</> <DIVIDER>//</> <BOLD>PRESS</> <ACTION NAME=\"INSPECT\" WIDTH=\"30\" HEIGHT=\"30\" PADDING=\"0 5 0 0\"/> in a match to inspect your weapon."
+        }
+      }
+    }
+  }
+]

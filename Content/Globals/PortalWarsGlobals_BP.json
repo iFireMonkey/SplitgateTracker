@@ -1,0 +1,652 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "PortalWarsGlobals_BP_C",
+    "SuperStruct": {
+      "ObjectName": "Class PortalWarsGlobals",
+      "ObjectPath": "/Script/PortalWarsGlobals"
+    },
+    "FuncMap": {},
+    "ClassFlags": 264208,
+    "ClassWithin": {
+      "ObjectName": "Class Object",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "ClassGeneratedBy": null,
+    "Interfaces": [],
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "PortalWarsGlobals_BP_C Default__PortalWarsGlobals_BP_C",
+      "ObjectPath": "/Game/Globals/PortalWarsGlobals_BP.1"
+    }
+  },
+  {
+    "Type": "PortalWarsGlobals_BP_C",
+    "Name": "Default__PortalWarsGlobals_BP_C",
+    "Properties": {
+      "CustomizationTypeText": {
+        "ECustomizationType::Armor": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_Armor"
+        },
+        "ECustomizationType::Jetpack": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_Jetpack"
+        },
+        "ECustomizationType::PortalGun": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_Portal_Gun"
+        },
+        "ECustomizationType::AssaultRifle": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_Assault_Rifle"
+        },
+        "ECustomizationType::BattleRifle": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_Battle_Rifle"
+        },
+        "ECustomizationType::Pistol": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_Pistol"
+        },
+        "ECustomizationType::PlasmaRifle": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_Plasma_Rifle"
+        },
+        "ECustomizationType::Railgun": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_Railgun"
+        },
+        "ECustomizationType::RocketLauncher": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_Rocket_Launcher"
+        },
+        "ECustomizationType::Shotgun": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_Shotgun"
+        },
+        "ECustomizationType::SMG": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_SMG"
+        },
+        "ECustomizationType::Sniper": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_Sniper"
+        },
+        "ECustomizationType::Spray": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_Spray"
+        },
+        "ECustomizationType::Oddball": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_Oddball"
+        },
+        "ECustomizationType::Emote": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_Emote"
+        },
+        "ECustomizationType::Bat": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_BFB"
+        },
+        "ECustomizationType::DMR": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_Carbine"
+        },
+        "ECustomizationType::Portal": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_Portal"
+        },
+        "ECustomizationType::NameTag": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_NameTag"
+        },
+        "ECustomizationType::Banner": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_Banner"
+        }
+      },
+      "CustomizationCategoryText": {
+        "ECustomizationType::Armor": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_Armor"
+        },
+        "ECustomizationType::Jetpack": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_Jetpack"
+        },
+        "ECustomizationType::PortalGun": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_Portal_Gun"
+        },
+        "ECustomizationType::AssaultRifle": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_Weapon"
+        },
+        "ECustomizationType::BattleRifle": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_Weapon"
+        },
+        "ECustomizationType::Pistol": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_Weapon"
+        },
+        "ECustomizationType::PlasmaRifle": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_Weapon"
+        },
+        "ECustomizationType::Railgun": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_Weapon"
+        },
+        "ECustomizationType::RocketLauncher": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_Weapon"
+        },
+        "ECustomizationType::Shotgun": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_Weapon"
+        },
+        "ECustomizationType::SMG": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_Weapon"
+        },
+        "ECustomizationType::Sniper": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_Weapon"
+        },
+        "ECustomizationType::Spray": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_Spray"
+        },
+        "ECustomizationType::Oddball": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_Weapon"
+        },
+        "ECustomizationType::Emote": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_Emote"
+        },
+        "ECustomizationType::Bat": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_Weapon"
+        },
+        "ECustomizationType::DMR": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_Weapon"
+        },
+        "ECustomizationType::Portal": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_Portal"
+        },
+        "ECustomizationType::Banner": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_Banner"
+        }
+      },
+      "CustomizationRarityText": {
+        "ECustomizationRarity::Common": {
+          "Namespace": "CustomizationRarity",
+          "Key": "Common",
+          "SourceString": "Common"
+        },
+        "ECustomizationRarity::Rare": {
+          "Namespace": "CustomizationRarity",
+          "Key": "Rare",
+          "SourceString": "Rare"
+        },
+        "ECustomizationRarity::Epic": {
+          "Namespace": "CustomizationRarity",
+          "Key": "Epic",
+          "SourceString": "Epic"
+        },
+        "ECustomizationRarity::Legendary": {
+          "Namespace": "CustomizationRarity",
+          "Key": "Legendary",
+          "SourceString": "Legendary"
+        }
+      },
+      "CustomizationRarityColor": null,
+      "CustomizationRarityIcons": {
+        "ECustomizationRarity::Common": {
+          "ObjectName": "Texture2D common-icon",
+          "ObjectPath": "/Game/Thumbnails/Rarity/common-icon.0"
+        },
+        "ECustomizationRarity::Rare": {
+          "ObjectName": "Texture2D rare-icon",
+          "ObjectPath": "/Game/Thumbnails/Rarity/rare-icon.0"
+        },
+        "ECustomizationRarity::Epic": {
+          "ObjectName": "Texture2D epic-icon",
+          "ObjectPath": "/Game/Thumbnails/Rarity/epic-icon.0"
+        },
+        "ECustomizationRarity::Legendary": {
+          "ObjectName": "Texture2D legendary-icon",
+          "ObjectPath": "/Game/Thumbnails/Rarity/legendary-icon.0"
+        }
+      },
+      "WeaponCustomizationTypes": [
+        "ECustomizationType::AssaultRifle",
+        "ECustomizationType::BattleRifle",
+        "ECustomizationType::Pistol",
+        "ECustomizationType::Bat",
+        "ECustomizationType::Railgun",
+        "ECustomizationType::RocketLauncher",
+        "ECustomizationType::Shotgun",
+        "ECustomizationType::SMG",
+        "ECustomizationType::PlasmaRifle",
+        "ECustomizationType::Sniper",
+        "ECustomizationType::DMR"
+      ],
+      "CustomizationTables": {
+        "ECustomizationType::Armor": {
+          "ObjectName": "DataTable Skins_Armor",
+          "ObjectPath": "/Game/Globals/Skins/Skins_Armor.0"
+        },
+        "ECustomizationType::Jetpack": {
+          "ObjectName": "DataTable Skins_Jetpack",
+          "ObjectPath": "/Game/Globals/Skins/Skins_Jetpack.0"
+        },
+        "ECustomizationType::PortalGun": {
+          "ObjectName": "DataTable Skins_PortalGun",
+          "ObjectPath": "/Game/Globals/Skins/Skins_PortalGun.0"
+        },
+        "ECustomizationType::Pistol": {
+          "ObjectName": "DataTable Skins_Pistol",
+          "ObjectPath": "/Game/Globals/Skins/Skins_Pistol.0"
+        },
+        "ECustomizationType::AssaultRifle": {
+          "ObjectName": "DataTable Skins_AssaultRifle",
+          "ObjectPath": "/Game/Globals/Skins/Skins_AssaultRifle.0"
+        },
+        "ECustomizationType::BattleRifle": {
+          "ObjectName": "DataTable Skins_BattleRifle",
+          "ObjectPath": "/Game/Globals/Skins/Skins_BattleRifle.0"
+        },
+        "ECustomizationType::PlasmaRifle": {
+          "ObjectName": "DataTable Skins_PlasmaRifle",
+          "ObjectPath": "/Game/Globals/Skins/Skins_PlasmaRifle.0"
+        },
+        "ECustomizationType::Railgun": {
+          "ObjectName": "DataTable Skins_Railgun",
+          "ObjectPath": "/Game/Globals/Skins/Skins_Railgun.0"
+        },
+        "ECustomizationType::RocketLauncher": {
+          "ObjectName": "DataTable Skins_RocketLauncher",
+          "ObjectPath": "/Game/Globals/Skins/Skins_RocketLauncher.0"
+        },
+        "ECustomizationType::Shotgun": {
+          "ObjectName": "DataTable Skins_Shotgun",
+          "ObjectPath": "/Game/Globals/Skins/Skins_Shotgun.0"
+        },
+        "ECustomizationType::SMG": {
+          "ObjectName": "DataTable Skins_SMG",
+          "ObjectPath": "/Game/Globals/Skins/Skins_SMG.0"
+        },
+        "ECustomizationType::Sniper": {
+          "ObjectName": "DataTable Skins_Sniper",
+          "ObjectPath": "/Game/Globals/Skins/Skins_Sniper.0"
+        },
+        "ECustomizationType::Spray": {
+          "ObjectName": "DataTable Sprays",
+          "ObjectPath": "/Game/Globals/Skins/Sprays.0"
+        },
+        "ECustomizationType::Oddball": {
+          "ObjectName": "DataTable Skins_Oddball",
+          "ObjectPath": "/Game/Globals/Skins/Skins_Oddball.0"
+        },
+        "ECustomizationType::Emote": {
+          "ObjectName": "DataTable Emotes",
+          "ObjectPath": "/Game/Globals/Skins/Emotes.0"
+        },
+        "ECustomizationType::Bat": {
+          "ObjectName": "DataTable Skins_Bat",
+          "ObjectPath": "/Game/Globals/Skins/Skins_Bat.0"
+        },
+        "ECustomizationType::NameTag": {
+          "ObjectName": "DataTable NameTags",
+          "ObjectPath": "/Game/Globals/Skins/NameTags.0"
+        },
+        "ECustomizationType::DMR": {
+          "ObjectName": "DataTable Skins_DMR",
+          "ObjectPath": "/Game/Globals/Skins/Skins_DMR.0"
+        },
+        "ECustomizationType::Portal": {
+          "ObjectName": "DataTable Skins_Portal",
+          "ObjectPath": "/Game/Globals/Skins/Skins_Portal.0"
+        },
+        "ECustomizationType::Banner": {
+          "ObjectName": "DataTable Banners",
+          "ObjectPath": "/Game/Globals/Skins/Banners.0"
+        }
+      },
+      "MasterSkinTable": {
+        "ObjectName": "DataTable Skins_Master",
+        "ObjectPath": "/Game/Globals/Skins/Skins_Master.0"
+      },
+      "CustomizationThumbnailTables": {
+        "ECustomizationType::Armor": {
+          "ObjectName": "DataTable Thumbnails_Armor",
+          "ObjectPath": "/Game/Globals/Skins/Thumbnails/Thumbnails_Armor.0"
+        },
+        "ECustomizationType::AssaultRifle": {
+          "ObjectName": "DataTable Thumbnails_AssaultRifle",
+          "ObjectPath": "/Game/Globals/Skins/Thumbnails/Thumbnails_AssaultRifle.0"
+        },
+        "ECustomizationType::Pistol": {
+          "ObjectName": "DataTable Thumbnails_Pistol",
+          "ObjectPath": "/Game/Globals/Skins/Thumbnails/Thumbnails_Pistol.0"
+        },
+        "ECustomizationType::BattleRifle": {
+          "ObjectName": "DataTable Thumbnails_BattleRifle",
+          "ObjectPath": "/Game/Globals/Skins/Thumbnails/Thumbnails_BattleRifle.0"
+        },
+        "ECustomizationType::PlasmaRifle": {
+          "ObjectName": "DataTable Thumbnails_PlasmaRifle",
+          "ObjectPath": "/Game/Globals/Skins/Thumbnails/Thumbnails_PlasmaRifle.0"
+        },
+        "ECustomizationType::Railgun": {
+          "ObjectName": "DataTable Thumbnails_Railgun",
+          "ObjectPath": "/Game/Globals/Skins/Thumbnails/Thumbnails_Railgun.0"
+        },
+        "ECustomizationType::RocketLauncher": {
+          "ObjectName": "DataTable Thumbnails_RocketLauncher",
+          "ObjectPath": "/Game/Globals/Skins/Thumbnails/Thumbnails_RocketLauncher.0"
+        },
+        "ECustomizationType::Shotgun": {
+          "ObjectName": "DataTable Thumbnails_Shotgun",
+          "ObjectPath": "/Game/Globals/Skins/Thumbnails/Thumbnails_Shotgun.0"
+        },
+        "ECustomizationType::SMG": {
+          "ObjectName": "DataTable Thumbnails_SMG",
+          "ObjectPath": "/Game/Globals/Skins/Thumbnails/Thumbnails_SMG.0"
+        },
+        "ECustomizationType::Sniper": {
+          "ObjectName": "DataTable Thumbnails_Sniper",
+          "ObjectPath": "/Game/Globals/Skins/Thumbnails/Thumbnails_Sniper.0"
+        },
+        "ECustomizationType::Bat": {
+          "ObjectName": "DataTable Thumbnails_Bat",
+          "ObjectPath": "/Game/Globals/Skins/Thumbnails/Thumbnails_Bat.0"
+        },
+        "ECustomizationType::DMR": {
+          "ObjectName": "DataTable Thumbnails_DMR",
+          "ObjectPath": "/Game/Globals/Skins/Thumbnails/Thumbnails_DMR.0"
+        },
+        "ECustomizationType::Oddball": {
+          "ObjectName": "DataTable Thumbnails_Oddball",
+          "ObjectPath": "/Game/Globals/Skins/Thumbnails/Thumbnails_Oddball.0"
+        },
+        "ECustomizationType::Jetpack": {
+          "ObjectName": "DataTable Thumbnails_Jetpack",
+          "ObjectPath": "/Game/Globals/Skins/Thumbnails/Thumbnails_Jetpack.0"
+        },
+        "ECustomizationType::PortalGun": {
+          "ObjectName": "DataTable Thumbnails_PortalGun",
+          "ObjectPath": "/Game/Globals/Skins/Thumbnails/Thumbnails_PortalGun.0"
+        },
+        "ECustomizationType::Emote": {
+          "ObjectName": "DataTable Thumbnails_Emote",
+          "ObjectPath": "/Game/Globals/Skins/Thumbnails/Thumbnails_Emote.0"
+        },
+        "ECustomizationType::Portal": {
+          "ObjectName": "DataTable Thumbnails_Portal",
+          "ObjectPath": "/Game/Globals/Skins/Thumbnails/Thumbnails_Portal.0"
+        }
+      },
+      "SprayDecalMaterial": {
+        "ObjectName": "Material SprayDecal_M",
+        "ObjectPath": "/Game/Emblems/SprayDecal_M.0"
+      },
+      "TextureSets": {
+        "ObjectName": "DataTable TextureSets",
+        "ObjectPath": "/Game/Globals/Skins/Misc/TextureSets.0"
+      },
+      "Weapons": {
+        "ObjectName": "DataTable Weapons",
+        "ObjectPath": "/Game/Globals/Weapons.0"
+      },
+      "Maps": {
+        "ObjectName": "DataTable Maps",
+        "ObjectPath": "/Game/Globals/Maps.0"
+      },
+      "GameModes": {
+        "ObjectName": "DataTable GameModes",
+        "ObjectPath": "/Game/Globals/GameModes.0"
+      },
+      "Medals": {
+        "ObjectName": "DataTable Medals",
+        "ObjectPath": "/Game/Globals/Medals.0"
+      },
+      "ChallengeTables": {
+        "EChallengeType::Daily": {
+          "ObjectName": "DataTable DailyChallenges",
+          "ObjectPath": "/Game/Globals/Challenges/DailyChallenges.0"
+        },
+        "EChallengeType::Weekly": {
+          "ObjectName": "DataTable WeeklyChallenges",
+          "ObjectPath": "/Game/Globals/Challenges/WeeklyChallenges.0"
+        },
+        "EChallengeType::Weapon": {
+          "ObjectName": "DataTable WeaponChallenges",
+          "ObjectPath": "/Game/Globals/Challenges/WeaponChallenges.0"
+        },
+        "EChallengeType::Season": {
+          "ObjectName": "DataTable SeasonChallenges",
+          "ObjectPath": "/Game/Globals/Challenges/SeasonChallenges.0"
+        }
+      },
+      "CheckInRewards": {
+        "ObjectName": "DataTable CheckInRewards",
+        "ObjectPath": "/Game/Globals/CheckInRewards.0"
+      },
+      "PlayStreakRewards": {
+        "ObjectName": "DataTable PlayStreakRewards",
+        "ObjectPath": "/Game/Globals/PlayStreakRewards.0"
+      },
+      "PlayStreakIcons": {
+        "ObjectName": "DataTable StreakIcons",
+        "ObjectPath": "/Game/Globals/StreakIcons.0"
+      },
+      "Progression": {
+        "ObjectName": "DataTable Progression",
+        "ObjectPath": "/Game/Globals/Career/Progression.0"
+      },
+      "ProgressionIcons": {
+        "ObjectName": "DataTable ProgressionIcons",
+        "ObjectPath": "/Game/Globals/ProgressionIcons.0"
+      },
+      "BattlePass": {
+        "ObjectName": "DataTable BattlePass_S0",
+        "ObjectPath": "/Game/Globals/Season0/BattlePass_S0.0"
+      },
+      "ReferralPass": {
+        "ObjectName": "DataTable ReferralPass_S0",
+        "ObjectPath": "/Game/Globals/Season0/ReferralPass_S0.0"
+      },
+      "RewardIcons": {
+        "ERewardType::XP": {
+          "AssetPathName": "/Game/UI/Textures/XP-reward-icon.XP-reward-icon",
+          "SubPathString": ""
+        },
+        "/Game/Emblems/SprayDecal_M_104": {
+          "AssetPathName": "/Game/Emblems/SprayDecal_M",
+          "SubPathString": "\u0000\u0000\u0000\u0000e\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000¯\u0000\u0000\u0000\u0000\u0000\u0000\u0000c\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000°\u0000\u0000\u0000\u0000\u0000\u0000\u0000i\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000±\u0000\u0000\u0000\u0000\u0000\u0000\u0000g\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0015\u0001\u0000\u0000\u0000\u0000\u0000\u0000Ä\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000¨ÿÿÿÑ\u0000\u0000\u0000\u0000\u0000\u0000\u0000Ä\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000éÿÿÿÐ\u0000\u0000\u0000\u0000\u0000\u0000\u0000Ä\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000êÿÿÿÇ\u0000\u0000\u0000\u0000\u0000\u0000\u0000Ä\u0000\u0000\u0000\u0000\u0000"
+        },
+        "/Game/UI/Textures/arena-alloy-icon.arena-alloy-icon": {
+          "AssetPathName": "/Game/Emblems/SprayDecal_M_174",
+          "SubPathString": ""
+        },
+        "/Game/Emblems/SprayDecal_M": {
+          "AssetPathName": "ERewardType::DoubleXP",
+          "SubPathString": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000±\u0000\u0000\u0000\u0000\u0000\u0000\u0000g\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0015\u0001\u0000\u0000\u0000\u0000\u0000\u0000Ä\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000¨ÿÿÿÑ\u0000\u0000\u0000\u0000\u0000\u0000\u0000Ä\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000éÿÿÿÐ\u0000\u0000\u0000\u0000\u0000\u0000\u0000Ä\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000"
+        },
+        "/Game/Emblems/SprayDecal_M_176": {
+          "AssetPathName": "/Game/Emblems/SprayDecal_M_102",
+          "SubPathString": ""
+        },
+        "Unlocks": {
+          "AssetPathName": "ObjectProperty",
+          "SubPathString": "\u0000\u0000\u0000"
+        }
+      },
+      "Unlocks": {
+        "ObjectName": "DataTable Unlocks",
+        "ObjectPath": "/Game/Globals/Unlocks.0"
+      },
+      "Ranks": {
+        "ObjectName": "DataTable Ranks",
+        "ObjectPath": "/Game/Globals/Career/Ranks.0"
+      },
+      "RankDivisions": {
+        "ObjectName": "DataTable RankDivisions",
+        "ObjectPath": "/Game/Globals/Career/RankDivisions.0"
+      },
+      "Playlists": {
+        "ObjectName": "DataTable Playlists",
+        "ObjectPath": "/Game/Globals/Playlists.0"
+      },
+      "Regions": {
+        "ObjectName": "DataTable Regions",
+        "ObjectPath": "/Game/Globals/Regions.0"
+      },
+      "MicroTxnPurchasables": {
+        "ObjectName": "DataTable Purchasables",
+        "ObjectPath": "/Game/Globals/Purchasables.0"
+      },
+      "Redeemables": {
+        "ObjectName": "DataTable Redeemables",
+        "ObjectPath": "/Game/Globals/Redeemables.0"
+      },
+      "Announcer": {
+        "ObjectName": "DataTable Announcer",
+        "ObjectPath": "/Game/Globals/Announcer.0"
+      },
+      "BotProfiles": {
+        "ObjectName": "DataTable BotProfiles",
+        "ObjectPath": "/Game/Globals/BotProfiles.0"
+      },
+      "CustomBotProfiles": {
+        "ObjectName": "DataTable CustomBotProfiles",
+        "ObjectPath": "/Game/Globals/CustomBotProfiles.0"
+      },
+      "BannedWords": {
+        "ObjectName": "DataTable BannedWords",
+        "ObjectPath": "/Game/Globals/BannedWords.0"
+      },
+      "NiceTexts": {
+        "ObjectName": "DataTable NiceTexts",
+        "ObjectPath": "/Game/Globals/NiceTexts.0"
+      },
+      "WeaponReticles": {
+        "ObjectName": "DataTable WeaponReticles",
+        "ObjectPath": "/Game/Globals/WeaponReticles.0"
+      },
+      "CustomReticles": {
+        "ObjectName": "DataTable CustomReticles",
+        "ObjectPath": "/Game/Globals/CustomReticles.0"
+      },
+      "DefaultAvatar": {
+        "ObjectName": "Texture2D avatar-default",
+        "ObjectPath": "/Game/Thumbnails/Avatar/avatar-default.0"
+      },
+      "PlatformAvatars": {
+        "STEAM": {
+          "ObjectName": "Texture2D avatar-crossplay",
+          "ObjectPath": "/Game/Thumbnails/Avatar/avatar-crossplay.0"
+        },
+        "XBOX": {
+          "ObjectName": "Texture2D avatar-crossplay",
+          "ObjectPath": "/Game/Thumbnails/Avatar/avatar-crossplay.0"
+        },
+        "PSN": {
+          "ObjectName": "Texture2D avatar-crossplay",
+          "ObjectPath": "/Game/Thumbnails/Avatar/avatar-crossplay.0"
+        }
+      },
+      "Tutorial": {
+        "ObjectName": "DataTable Tutorial",
+        "ObjectPath": "/Game/Globals/Tutorial.0"
+      },
+      "XboxButtons": {
+        "ObjectName": "DataTable XboxButtons",
+        "ObjectPath": "/Game/Globals/XboxButtons.0"
+      },
+      "PlayStationButtons": {
+        "ObjectName": "DataTable PlayStationButtons",
+        "ObjectPath": "/Game/Globals/PlayStationButtons.0"
+      },
+      "MouseButtons": {
+        "ObjectName": "DataTable MouseButtons",
+        "ObjectPath": "/Game/Globals/MouseButtons.0"
+      },
+      "Tips": {
+        "ObjectName": "DataTable Tips",
+        "ObjectPath": "/Game/Globals/Tips.0"
+      },
+      "LockerTips": {
+        "ObjectName": "DataTable LockerTips",
+        "ObjectPath": "/Game/Globals/LockerTips.0"
+      },
+      "WeaponPoses": {
+        "ObjectName": "DataTable WeaponPoses",
+        "ObjectPath": "/Game/Globals/WeaponPoses.0"
+      },
+      "AlwaysLoadedSoundBanks": [
+        {
+          "ObjectName": "AkAudioBank SB_AssaultRifle",
+          "ObjectPath": "/Game/Sounds/Wwise_Soundbanks/SB_AssaultRifle.0"
+        },
+        {
+          "ObjectName": "AkAudioBank SB_BattleRifle",
+          "ObjectPath": "/Game/Sounds/Wwise_Soundbanks/SB_BattleRifle.0"
+        },
+        {
+          "ObjectName": "AkAudioBank SB_DMR",
+          "ObjectPath": "/Game/Sounds/Wwise_Soundbanks/SB_DMR.0"
+        },
+        {
+          "ObjectName": "AkAudioBank SB_Grenades",
+          "ObjectPath": "/Game/Sounds/Wwise_Soundbanks/SB_Grenades.0"
+        },
+        {
+          "ObjectName": "AkAudioBank SB_Pistol",
+          "ObjectPath": "/Game/Sounds/Wwise_Soundbanks/SB_Pistol.0"
+        },
+        {
+          "ObjectName": "AkAudioBank SB_PlasmaRifle",
+          "ObjectPath": "/Game/Sounds/Wwise_Soundbanks/SB_PlasmaRifle.0"
+        },
+        {
+          "ObjectName": "AkAudioBank SB_Player",
+          "ObjectPath": "/Game/Sounds/Wwise_Soundbanks/SB_Player.0"
+        },
+        {
+          "ObjectName": "AkAudioBank SB_PortalGun",
+          "ObjectPath": "/Game/Sounds/Wwise_Soundbanks/SB_PortalGun.0"
+        },
+        {
+          "ObjectName": "AkAudioBank SB_RailGun",
+          "ObjectPath": "/Game/Sounds/Wwise_Soundbanks/SB_RailGun.0"
+        },
+        {
+          "ObjectName": "AkAudioBank SB_RocketLauncher",
+          "ObjectPath": "/Game/Sounds/Wwise_Soundbanks/SB_RocketLauncher.0"
+        },
+        {
+          "ObjectName": "AkAudioBank SB_Shotgun",
+          "ObjectPath": "/Game/Sounds/Wwise_Soundbanks/SB_Shotgun.0"
+        },
+        {
+          "ObjectName": "AkAudioBank SB_SMG",
+          "ObjectPath": "/Game/Sounds/Wwise_Soundbanks/SB_SMG.0"
+        },
+        {
+          "ObjectName": "AkAudioBank SB_SniperRifle",
+          "ObjectPath": "/Game/Sounds/Wwise_Soundbanks/SB_SniperRifle.0"
+        }
+      ]
+    }
+  }
+]

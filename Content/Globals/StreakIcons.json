@@ -1,0 +1,164 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "StreakIcons",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class StreakIconData",
+        "ObjectPath": "/Script/PortalWarsGlobals"
+      }
+    },
+    "Rows": {
+      "0": {
+        "Streak": 1,
+        "ID": 0,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Streaks/icon-streak-1+.icon-streak-1+",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "1": {
+        "Streak": 2,
+        "ID": 1,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Streaks/icon-streak-3+.icon-streak-3+",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "2": {
+        "Streak": 3,
+        "ID": 2,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Streaks/icon-streak-5+.icon-streak-5+",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "3": {
+        "Streak": 5,
+        "ID": 3,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Streaks/icon-streak-7+.icon-streak-7+",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "4": {
+        "Streak": 10,
+        "ID": 4,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Streaks/icon-streak-10+.icon-streak-10+",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "5": {
+        "Streak": 15,
+        "ID": 5,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Streaks/icon-streak-15+.icon-streak-15+",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "6": {
+        "Streak": 25,
+        "ID": 6,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Streaks/icon-streak-25+.icon-streak-25+",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "7": {
+        "Streak": 50,
+        "ID": 7,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Streaks/icon-streak-50+.icon-streak-50+",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "8": {
+        "Streak": 75,
+        "ID": 8,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Streaks/icon-streak-75+.icon-streak-75+",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "9": {
+        "Streak": 100,
+        "ID": 9,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Streaks/icon-streak-100+.icon-streak-100+",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      }
+    }
+  }
+]

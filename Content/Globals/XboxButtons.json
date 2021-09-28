@@ -1,0 +1,194 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "XboxButtons",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class GamepadButtonData",
+        "ObjectPath": "/Script/PortalWarsGlobals"
+      }
+    },
+    "Rows": {
+      "GamepadRightShoulder": {
+        "Key": {
+          "KeyName": "Gamepad_RightShoulder"
+        },
+        "Icon": {
+          "ObjectName": "Texture2D xbox-rb",
+          "ObjectPath": "/Game/Thumbnails/ConsoleButtons/Xbox/xbox-rb.0"
+        }
+      },
+      "GamepadLeftShoulder": {
+        "Key": {
+          "KeyName": "Gamepad_LeftShoulder"
+        },
+        "Icon": {
+          "ObjectName": "Texture2D xbox-lb",
+          "ObjectPath": "/Game/Thumbnails/ConsoleButtons/Xbox/xbox-lb.0"
+        }
+      },
+      "GamepadFaceTop": {
+        "Key": {
+          "KeyName": "Gamepad_FaceButton_Top"
+        },
+        "Icon": {
+          "ObjectName": "Texture2D xbox-y",
+          "ObjectPath": "/Game/Thumbnails/ConsoleButtons/Xbox/xbox-y.0"
+        }
+      },
+      "GamepadFaceLeft": {
+        "Key": {
+          "KeyName": "Gamepad_FaceButton_Left"
+        },
+        "Icon": {
+          "ObjectName": "Texture2D xbox-x",
+          "ObjectPath": "/Game/Thumbnails/ConsoleButtons/Xbox/xbox-x.0"
+        }
+      },
+      "GamepadFaceBottom": {
+        "Key": {
+          "KeyName": "Gamepad_FaceButton_Bottom"
+        },
+        "Icon": {
+          "ObjectName": "Texture2D xbox-a",
+          "ObjectPath": "/Game/Thumbnails/ConsoleButtons/Xbox/xbox-a.0"
+        }
+      },
+      "GamepadFaceRight": {
+        "Key": {
+          "KeyName": "Gamepad_FaceButton_Right"
+        },
+        "Icon": {
+          "ObjectName": "Texture2D xbox-b",
+          "ObjectPath": "/Game/Thumbnails/ConsoleButtons/Xbox/xbox-b.0"
+        }
+      },
+      "GamepadSpecialRight": {
+        "Key": {
+          "KeyName": "Gamepad_Special_Right"
+        },
+        "Icon": {
+          "ObjectName": "Texture2D xbox-start",
+          "ObjectPath": "/Game/Thumbnails/ConsoleButtons/Xbox/xbox-start.0"
+        }
+      },
+      "GamepadSpecialLeft": {
+        "Key": {
+          "KeyName": "Gamepad_Special_Left"
+        },
+        "Icon": {
+          "ObjectName": "Texture2D xbox-menu",
+          "ObjectPath": "/Game/Thumbnails/ConsoleButtons/Xbox/xbox-menu.0"
+        }
+      },
+      "GamepadRightStick": {
+        "Key": {
+          "KeyName": "Gamepad_RightThumbstick"
+        },
+        "Icon": {
+          "ObjectName": "Texture2D xbox-right-stick-down",
+          "ObjectPath": "/Game/Thumbnails/ConsoleButtons/Xbox/xbox-right-stick-down.0"
+        }
+      },
+      "GamepadLeftStick": {
+        "Key": {
+          "KeyName": "Gamepad_LeftThumbstick"
+        },
+        "Icon": {
+          "ObjectName": "Texture2D xbox-left-stick-down",
+          "ObjectPath": "/Game/Thumbnails/ConsoleButtons/Xbox/xbox-left-stick-down.0"
+        }
+      },
+      "GamepadRightTrigger": {
+        "Key": {
+          "KeyName": "Gamepad_RightTrigger"
+        },
+        "Icon": {
+          "ObjectName": "Texture2D xbox-rt",
+          "ObjectPath": "/Game/Thumbnails/ConsoleButtons/Xbox/xbox-rt.0"
+        }
+      },
+      "GamepadLeftTrigger": {
+        "Key": {
+          "KeyName": "Gamepad_LeftTrigger"
+        },
+        "Icon": {
+          "ObjectName": "Texture2D xbox-lt",
+          "ObjectPath": "/Game/Thumbnails/ConsoleButtons/Xbox/xbox-lt.0"
+        }
+      },
+      "GamepadDPadUp": {
+        "Key": {
+          "KeyName": "Gamepad_DPad_Up"
+        },
+        "Icon": {
+          "ObjectName": "Texture2D console-dpad-up",
+          "ObjectPath": "/Game/Thumbnails/ConsoleButtons/console-dpad-up.0"
+        }
+      },
+      "GamepadDPadDown": {
+        "Key": {
+          "KeyName": "Gamepad_DPad_Down"
+        },
+        "Icon": {
+          "ObjectName": "Texture2D console-dpad-down",
+          "ObjectPath": "/Game/Thumbnails/ConsoleButtons/console-dpad-down.0"
+        }
+      },
+      "GamepadDPadLeft": {
+        "Key": {
+          "KeyName": "Gamepad_DPad_Left"
+        },
+        "Icon": {
+          "ObjectName": "Texture2D console-dpad-left",
+          "ObjectPath": "/Game/Thumbnails/ConsoleButtons/console-dpad-left.0"
+        }
+      },
+      "GamepadDPadRight": {
+        "Key": {
+          "KeyName": "Gamepad_DPad_Right"
+        },
+        "Icon": {
+          "ObjectName": "Texture2D console-dpad-right",
+          "ObjectPath": "/Game/Thumbnails/ConsoleButtons/console-dpad-right.0"
+        }
+      },
+      "GamepadRightStickY": {
+        "Key": {
+          "KeyName": "Gamepad_RightY"
+        },
+        "Icon": {
+          "ObjectName": "Texture2D xbox-right-stick",
+          "ObjectPath": "/Game/Thumbnails/ConsoleButtons/Xbox/xbox-right-stick.0"
+        }
+      },
+      "GamepadLeftStickY": {
+        "Key": {
+          "KeyName": "Gamepad_LeftY"
+        },
+        "Icon": {
+          "ObjectName": "Texture2D xbox-left-stick",
+          "ObjectPath": "/Game/Thumbnails/ConsoleButtons/Xbox/xbox-left-stick.0"
+        }
+      },
+      "GamepadRightStickX": {
+        "Key": {
+          "KeyName": "Gamepad_RightX"
+        },
+        "Icon": {
+          "ObjectName": "Texture2D xbox-right-stick",
+          "ObjectPath": "/Game/Thumbnails/ConsoleButtons/Xbox/xbox-right-stick.0"
+        }
+      },
+      "GamepadLeftStickX": {
+        "Key": {
+          "KeyName": "Gamepad_LeftX"
+        },
+        "Icon": {
+          "ObjectName": "Texture2D xbox-left-stick",
+          "ObjectPath": "/Game/Thumbnails/ConsoleButtons/Xbox/xbox-left-stick.0"
+        }
+      }
+    }
+  }
+]

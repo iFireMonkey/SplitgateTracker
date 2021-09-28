@@ -1,0 +1,1233 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "Skins_AssaultRifle",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class WeaponMeshItem",
+        "ObjectPath": "/Script/PortalWarsGlobals"
+      },
+      "bIgnoreMissingFields": true
+    },
+    "Rows": {
+      "0": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/AssaultRifle/Mesh/FPP/AR_FPP.AR_FPP",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/AssaultRifle/Mesh/SM_AR_Original.SM_AR_Original",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "AR-Ammo",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "/Game/Weapons/AssaultRifle/Materials/MI_AR_Base.MI_AR_Base",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": true,
+        "CustomizationType": "ECustomizationType::AssaultRifle",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Default",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 0,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Default"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "1": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/AssaultRifle/Mesh/FPP/Legendary/AR_TFuel.AR_TFuel",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/AssaultRifle/Mesh/FPP/Legendary/SM_AssaultRifle_TFuel.SM_AssaultRifle_TFuel",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "AR-Ammo",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": null
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::AssaultRifle",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 1,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "TFuel"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "2": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/AssaultRifle/Mesh/FPP/Legendary/AR_GFuel.AR_GFuel",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/AssaultRifle/Mesh/FPP/Legendary/SM_AssaultRifle_GFuel.SM_AssaultRifle_GFuel",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "AR-Ammo",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": null
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::AssaultRifle",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 2,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "GFuel"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "3": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/AssaultRifle/Mesh/FPP/Legendary/AR_Raider.AR_Raider",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/AssaultRifle/Mesh/FPP/Legendary/SM_AssaultRifle_Raider.SM_AssaultRifle_Raider",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "AR-Ammo",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": null
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::AssaultRifle",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 3,
+        "DisplayName": {
+          "CultureInvariantString": "Raider"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "4": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/AssaultRifle/Mesh/FPP/Legendary/AR_Stein.AR_Stein",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/AssaultRifle/Mesh/FPP/Legendary/SM_AR_Stein.SM_AR_Stein",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "AR-Stein-Ammo",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": null
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::AssaultRifle",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 4,
+        "DisplayName": {
+          "CultureInvariantString": "Stein"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "5": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/AssaultRifle/Mesh/FPP/Legendary/AR_Crystal.AR_Crystal",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/AssaultRifle/Mesh/FPP/Legendary/SM_AssaultRifle_Crystal.SM_AssaultRifle_Crystal",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "AR-Ammo",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": null
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::AssaultRifle",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 5,
+        "DisplayName": {
+          "CultureInvariantString": "Crystal"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "6": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/AssaultRifle/Mesh/FPP/Legendary/AR_WAX.AR_WAX",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/AssaultRifle/Mesh/FPP/Legendary/SM_AssaultRifle_WAX.SM_AssaultRifle_WAX",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "AR-Ammo",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": null
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::AssaultRifle",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 6,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "WAX"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "7": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/AssaultRifle/Mesh/FPP/Legendary/AR_Bone.AR_Bone",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/AssaultRifle/Mesh/FPP/Legendary/SM_AR_Bone.SM_AR_Bone",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "AR-Ammo",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": null
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::AssaultRifle",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 7,
+        "DisplayName": {
+          "CultureInvariantString": "Bone"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "8": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/AssaultRifle/Mesh/FPP/Legendary/AR_OverWolf.AR_OverWolf",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/AssaultRifle/Mesh/FPP/Legendary/SM_AssaultRifle_OverWolf.SM_AssaultRifle_OverWolf",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "AR-Ammo",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": null
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::AssaultRifle",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 8,
+        "DisplayName": {
+          "CultureInvariantString": "Overwolf"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "9": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/AssaultRifle/Mesh/FPP/Legendary/AR_IGames.AR_IGames",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/AssaultRifle/Mesh/FPP/Legendary/SM_AssaultRifle_IGames.SM_AssaultRifle_IGames",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "AR-Ammo",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": null
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::AssaultRifle",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 9,
+        "DisplayName": {
+          "CultureInvariantString": "IGames"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "10": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/AssaultRifle/Mesh/FPP/Legendary/AR_Gordan.AR_Gordan",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/AssaultRifle/Mesh/FPP/Legendary/SM_AssaultRifle_Gordan.SM_AssaultRifle_Gordan",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "AR-Ammo",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": null
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::AssaultRifle",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 10,
+        "DisplayName": {
+          "CultureInvariantString": "Gordon Hayward"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "11": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/AssaultRifle/Mesh/FPP/Legendary/AR_Rig_GiftWrapped.AR_Rig_GiftWrapped",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/AssaultRifle/Mesh/FPP/Legendary/SM_AssaultRifle_GiftWrapped.SM_AssaultRifle_GiftWrapped",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "AR-Ammo",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": null
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::AssaultRifle",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 11,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "GiftWrapped"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "12": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/AssaultRifle/Mesh/FPP/Legendary/AR_Lightning_Rig.AR_Lightning_Rig",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/AssaultRifle/Mesh/FPP/Legendary/SM_AR_Lightning.SM_AR_Lightning",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "AR-Ammo",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": null
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::AssaultRifle",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 12,
+        "DisplayName": {
+          "CultureInvariantString": "Lightning"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "13": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/AssaultRifle/Mesh/FPP/Legendary/AR_Toxic_Rig.AR_Toxic_Rig",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/AssaultRifle/Mesh/FPP/Legendary/SM_AR_Toxic.SM_AR_Toxic",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "AR-Ammo",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": null
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::AssaultRifle",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 13,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Toxic"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "14": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/AssaultRifle/Mesh/FPP/Legendary/AR_DB_FPP.AR_DB_FPP",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/AssaultRifle/Mesh/FPP/Legendary/SM_AR_DB.SM_AR_DB",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "AR-Ammo",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": null
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::AssaultRifle",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 14,
+        "DisplayName": {
+          "CultureInvariantString": "Dragon"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "15": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/AssaultRifle/Mesh/FPP/Legendary/AR_Molten_FPP.AR_Molten_FPP",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/AssaultRifle/Mesh/FPP/Legendary/SM_AR_Molten.SM_AR_Molten",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "None",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": null
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::AssaultRifle",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 15,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Molten"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "16": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/AssaultRifle/Mesh/FPP/Legendary/AR_Steampunk.AR_Steampunk",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/AssaultRifle/Mesh/FPP/Legendary/SM_AR_Steampunk.SM_AR_Steampunk",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "None",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": null
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::AssaultRifle",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 16,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Steampunk"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "17": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/AssaultRifle/Mesh/FPP/Legendary/AR_Shark_FPP.AR_Shark_FPP",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/AssaultRifle/Mesh/FPP/Legendary/SM_AR_Shark.SM_AR_Shark",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "None",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": null
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::AssaultRifle",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 17,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Shark"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "18": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/AssaultRifle/Mesh/FPP/AR_SVE_FPP.AR_SVE_FPP",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/AssaultRifle/Mesh/SM_AR.SM_AR",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "AR-Ammo",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": null
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::AssaultRifle",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 18,
+        "DisplayName": {
+          "CultureInvariantString": "SVE"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "19": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/AssaultRifle/Mesh/FPP/Legendary/AR_Aqua_FPP.AR_Aqua_FPP",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/AssaultRifle/Mesh/FPP/Legendary/SM_AR_Aqua.SM_AR_Aqua",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "AR-Ammo",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": null
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::AssaultRifle",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 19,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Aquascape"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "20": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/AssaultRifle/Mesh/FPP/Legendary/AR_WW1_FPP.AR_WW1_FPP",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/AssaultRifle/Mesh/FPP/Legendary/SM_AR_WW1.SM_AR_WW1",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "None",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": null
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::AssaultRifle",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 20,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "WW1"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "21": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/AssaultRifle/Mesh/FPP/Legendary/AR_CB_FPP.AR_CB_FPP",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/AssaultRifle/Mesh/FPP/Legendary/SM_AR_CB.SM_AR_CB",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "None",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": null
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::AssaultRifle",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 21,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Cardboard"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "22": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/AssaultRifle/Mesh/FPP/Legendary/AR_Frozen_FPP.AR_Frozen_FPP",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/AssaultRifle/Mesh/FPP/Legendary/SM_AR_Frozen.SM_AR_Frozen",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "None",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": null
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::AssaultRifle",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 22,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Frozen"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "23": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/AssaultRifle/Mesh/FPP/Legendary/AR_Thompson_FPP.AR_Thompson_FPP",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/AssaultRifle/Mesh/FPP/Legendary/SM_AR_Thompson.SM_AR_Thompson",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "None",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": null
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::AssaultRifle",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 23,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Thompson"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "24": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/AssaultRifle/Mesh/FPP/Legendary/AR_Astro_FPP.AR_Astro_FPP",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/AssaultRifle/Mesh/FPP/Legendary/SM_AR_Astro.SM_AR_Astro",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "None",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::AssaultRifle",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 24,
+        "DisplayName": {
+          "CultureInvariantString": "Astro"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "25": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/AssaultRifle/Mesh/FPP/Partner/AR_Alienware_FPP.AR_Alienware_FPP",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/AssaultRifle/Mesh/FPP/Partner/SM_AR_Alienware.SM_AR_Alienware",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "AR-Ammo",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::AssaultRifle",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Rare",
+        "ID": 25,
+        "DisplayName": {
+          "CultureInvariantString": "Alienware"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "26": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/AssaultRifle/Mesh/FPP/Partner/AR_Kovaak_FPP.AR_Kovaak_FPP",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/AssaultRifle/Mesh/FPP/Partner/SM_AR_Kovaak.SM_AR_Kovaak",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "AR-Ammo",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::AssaultRifle",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 26,
+        "DisplayName": {
+          "CultureInvariantString": "Kovaak"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "27": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/AssaultRifle/Mesh/FPP/Partner/AR_Summit_FPP.AR_Summit_FPP",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/AssaultRifle/Mesh/FPP/Partner/SM_AR_Summit.SM_AR_Summit",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "AR-Ammo",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::AssaultRifle",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 27,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Summit"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "28": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/AssaultRifle/Mesh/FPP/Partner/AR_Macro_FPP.AR_Macro_FPP",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/AssaultRifle/Mesh/FPP/Partner/SM_AR_Macro.SM_AR_Macro",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "AR-Ammo",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::AssaultRifle",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 28,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Macro"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "29": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/AssaultRifle/Mesh/FPP/Partner/AR_Courage_FPP.AR_Courage_FPP",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/AssaultRifle/Mesh/FPP/Partner/SM_AR_Courage.SM_AR_Courage",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "AR-Ammo",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::AssaultRifle",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 29,
+        "DisplayName": {
+          "CultureInvariantString": "Courage"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "30": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/AssaultRifle/Mesh/FPP/Partner/AR_SteelSeries_FPP.AR_SteelSeries_FPP",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/AssaultRifle/Mesh/FPP/Partner/SM_AR_SteelSeries.SM_AR_SteelSeries",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "AR-Ammo",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::AssaultRifle",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 30,
+        "DisplayName": {
+          "CultureInvariantString": "SteelSeries"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "31": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/AssaultRifle/Mesh/FPP/Partner/AR_Trn_FPP.AR_TRN_FPP",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/AssaultRifle/Mesh/FPP/Partner/SM_AR_TRN.SM_AR_TRN",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "AR-Ammo",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::AssaultRifle",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 31,
+        "DisplayName": {
+          "CultureInvariantString": "TRN"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      }
+    }
+  }
+]

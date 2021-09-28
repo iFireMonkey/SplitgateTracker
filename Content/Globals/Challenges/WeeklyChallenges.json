@@ -1,0 +1,2244 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "WeeklyChallenges",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class ChallengeData",
+        "ObjectPath": "/Script/PortalWarsGlobals"
+      }
+    },
+    "Rows": {
+      "100": {
+        "ChallengeType": "EChallengeType::Weekly",
+        "TargetValue": 100,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 10000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 1,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 100,
+        "DisplayName": {
+          "Namespace": "WeeklyChallenges",
+          "Key": "DisplayName_100",
+          "SourceString": "Get 100 Kills"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "101": {
+        "ChallengeType": "EChallengeType::Weekly",
+        "TargetValue": 1,
+        "Reward": {
+          "RewardType": "ERewardType::Drop",
+          "RewardValue": 1,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 1,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 101,
+        "DisplayName": {
+          "Namespace": "WeeklyChallenges",
+          "Key": "DisplayName_101",
+          "SourceString": "Complete the Foregone Destruction Race"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "102": {
+        "ChallengeType": "EChallengeType::Weekly",
+        "TargetValue": 30,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 10000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 1,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 102,
+        "DisplayName": {
+          "Namespace": "WeeklyChallenges",
+          "Key": "DisplayName_102",
+          "SourceString": "Get 30 Kills in Team Deathmatch"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "103": {
+        "ChallengeType": "EChallengeType::Weekly",
+        "TargetValue": 50,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 10000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 1,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 103,
+        "DisplayName": {
+          "Namespace": "WeeklyChallenges",
+          "Key": "DisplayName_103",
+          "SourceString": "Get 50 Kills with the Carbine"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "104": {
+        "ChallengeType": "EChallengeType::Weekly",
+        "TargetValue": 3,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 10000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 1,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 104,
+        "DisplayName": {
+          "Namespace": "WeeklyChallenges",
+          "Key": "DisplayName_104",
+          "SourceString": "Win 3 Matches on Impact"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "105": {
+        "ChallengeType": "EChallengeType::Weekly",
+        "TargetValue": 1,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 10000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 1,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 105,
+        "DisplayName": {
+          "Namespace": "WeeklyChallenges",
+          "Key": "DisplayName_105",
+          "SourceString": "Win a Match with the Highest Score"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "199": {
+        "ChallengeType": "EChallengeType::Weekly",
+        "TargetValue": 6,
+        "Reward": {
+          "RewardType": "ERewardType::Drop",
+          "RewardValue": 1,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 1,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 199,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_CompleteAllWeeklyChallenges"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "200": {
+        "ChallengeType": "EChallengeType::Weekly",
+        "TargetValue": 10,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 10000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 2,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 200,
+        "DisplayName": {
+          "Namespace": "WeeklyChallenges",
+          "Key": "DisplayName_200",
+          "SourceString": "Get 10 Kills with the BFB"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "201": {
+        "ChallengeType": "EChallengeType::Weekly",
+        "TargetValue": 30,
+        "Reward": {
+          "RewardType": "ERewardType::Drop",
+          "RewardValue": 1,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 2,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 201,
+        "DisplayName": {
+          "Namespace": "WeeklyChallenges",
+          "Key": "DisplayName_201",
+          "SourceString": "Get 30 Kills on Foregone Destruction"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "202": {
+        "ChallengeType": "EChallengeType::Weekly",
+        "TargetValue": 10,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 10000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 2,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 202,
+        "DisplayName": {
+          "Namespace": "WeeklyChallenges",
+          "Key": "DisplayName_202",
+          "SourceString": "Get 10 Double Kills"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "203": {
+        "ChallengeType": "EChallengeType::Weekly",
+        "TargetValue": 5,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 10000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 2,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 203,
+        "DisplayName": {
+          "Namespace": "WeeklyChallenges",
+          "Key": "DisplayName_203",
+          "SourceString": "Win 5 Matches"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "204": {
+        "ChallengeType": "EChallengeType::Weekly",
+        "TargetValue": 1,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 10000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 2,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 204,
+        "DisplayName": {
+          "Namespace": "WeeklyChallenges",
+          "Key": "DisplayName_204",
+          "SourceString": "Complete the Impact Race"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "205": {
+        "ChallengeType": "EChallengeType::Weekly",
+        "TargetValue": 30,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 10000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 2,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 205,
+        "DisplayName": {
+          "Namespace": "WeeklyChallenges",
+          "Key": "DisplayName_205",
+          "SourceString": "Get 30 Kills in Free For all"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "299": {
+        "ChallengeType": "EChallengeType::Weekly",
+        "TargetValue": 6,
+        "Reward": {
+          "RewardType": "ERewardType::Drop",
+          "RewardValue": 1,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 2,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 299,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_CompleteAllWeeklyChallenges"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "300": {
+        "ChallengeType": "EChallengeType::Weekly",
+        "TargetValue": 10,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 10000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 3,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 300,
+        "DisplayName": {
+          "Namespace": "WeeklyChallenges",
+          "Key": "DisplayName_300",
+          "SourceString": "Play 10 Matches"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "301": {
+        "ChallengeType": "EChallengeType::Weekly",
+        "TargetValue": 1,
+        "Reward": {
+          "RewardType": "ERewardType::Drop",
+          "RewardValue": 1,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 3,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 301,
+        "DisplayName": {
+          "Namespace": "WeeklyChallenges",
+          "Key": "DisplayName_301",
+          "SourceString": "Complete the Crag Race"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "302": {
+        "ChallengeType": "EChallengeType::Weekly",
+        "TargetValue": 3,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 10000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 3,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 302,
+        "DisplayName": {
+          "Namespace": "WeeklyChallenges",
+          "Key": "DisplayName_302",
+          "SourceString": "Win 3 Matches of Takedown"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "303": {
+        "ChallengeType": "EChallengeType::Weekly",
+        "TargetValue": 10,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 10000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 3,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 303,
+        "DisplayName": {
+          "Namespace": "WeeklyChallenges",
+          "Key": "DisplayName_303",
+          "SourceString": "Get 10 Kills with the Battle Rifle"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "304": {
+        "ChallengeType": "EChallengeType::Weekly",
+        "TargetValue": 30,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 10000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 3,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 304,
+        "DisplayName": {
+          "Namespace": "WeeklyChallenges",
+          "Key": "DisplayName_304",
+          "SourceString": "Get 30 Kills with the Assault Rifle or SMG"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "305": {
+        "ChallengeType": "EChallengeType::Weekly",
+        "TargetValue": 1,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 10000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 3,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 305,
+        "DisplayName": {
+          "Namespace": "WeeklyChallenges",
+          "Key": "DisplayName_305",
+          "SourceString": "Win a Match with the Fewest Deaths"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "399": {
+        "ChallengeType": "EChallengeType::Weekly",
+        "TargetValue": 6,
+        "Reward": {
+          "RewardType": "ERewardType::Drop",
+          "RewardValue": 1,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 3,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 399,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_CompleteAllWeeklyChallenges"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "400": {
+        "ChallengeType": "EChallengeType::Weekly",
+        "TargetValue": 10,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 10000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 4,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 400,
+        "DisplayName": {
+          "Namespace": "WeeklyChallenges",
+          "Key": "DisplayName_400",
+          "SourceString": "Get 10 Kills with the Rocket Launcher"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "401": {
+        "ChallengeType": "EChallengeType::Weekly",
+        "TargetValue": 10,
+        "Reward": {
+          "RewardType": "ERewardType::Drop",
+          "RewardValue": 1,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 4,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 401,
+        "DisplayName": {
+          "Namespace": "WeeklyChallenges",
+          "Key": "DisplayName_401",
+          "SourceString": "Win 3 Matches of King of the Hill"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "402": {
+        "ChallengeType": "EChallengeType::Weekly",
+        "TargetValue": 2,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 10000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 4,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 402,
+        "DisplayName": {
+          "Namespace": "WeeklyChallenges",
+          "Key": "DisplayName_402",
+          "SourceString": "Get 2 Triple Kills"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "403": {
+        "ChallengeType": "EChallengeType::Weekly",
+        "TargetValue": 100,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 10000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 4,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 403,
+        "DisplayName": {
+          "Namespace": "WeeklyChallenges",
+          "Key": "DisplayName_403",
+          "SourceString": "Get 100 Kills"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "404": {
+        "ChallengeType": "EChallengeType::Weekly",
+        "TargetValue": 1,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 10000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 4,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 404,
+        "DisplayName": {
+          "Namespace": "WeeklyChallenges",
+          "Key": "DisplayName_404",
+          "SourceString": "Complete the Stadium Race"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "405": {
+        "ChallengeType": "EChallengeType::Weekly",
+        "TargetValue": 3,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 10000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 4,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 405,
+        "DisplayName": {
+          "Namespace": "WeeklyChallenges",
+          "Key": "DisplayName_405",
+          "SourceString": "Win 3 Matches of King of the Hill"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "499": {
+        "ChallengeType": "EChallengeType::Weekly",
+        "TargetValue": 6,
+        "Reward": {
+          "RewardType": "ERewardType::Drop",
+          "RewardValue": 1,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 4,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 499,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_CompleteAllWeeklyChallenges"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "500": {
+        "ChallengeType": "EChallengeType::Weekly",
+        "TargetValue": 5,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 10000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 5,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 500,
+        "DisplayName": {
+          "Namespace": "WeeklyChallenges",
+          "Key": "DisplayName_500",
+          "SourceString": "Win 5 Matches"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "501": {
+        "ChallengeType": "EChallengeType::Weekly",
+        "TargetValue": 1,
+        "Reward": {
+          "RewardType": "ERewardType::Drop",
+          "RewardValue": 1,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 5,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 501,
+        "DisplayName": {
+          "Namespace": "WeeklyChallenges",
+          "Key": "DisplayName_501",
+          "SourceString": "Complete the Abyss Race"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "502": {
+        "ChallengeType": "EChallengeType::Weekly",
+        "TargetValue": 30,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 10000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 5,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 502,
+        "DisplayName": {
+          "Namespace": "WeeklyChallenges",
+          "Key": "DisplayName_502",
+          "SourceString": "Get 30 Kills in Team Shotty Snipers"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "503": {
+        "ChallengeType": "EChallengeType::Weekly",
+        "TargetValue": 10,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 10000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 5,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 503,
+        "DisplayName": {
+          "Namespace": "WeeklyChallenges",
+          "Key": "DisplayName_503",
+          "SourceString": "Get 10 Kills with the Plasma Rifle"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "504": {
+        "ChallengeType": "EChallengeType::Weekly",
+        "TargetValue": 3,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 10000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 5,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 504,
+        "DisplayName": {
+          "Namespace": "WeeklyChallenges",
+          "Key": "DisplayName_504",
+          "SourceString": "Win 3 Matches of Domination"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "505": {
+        "ChallengeType": "EChallengeType::Weekly",
+        "TargetValue": 10,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 10000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 5,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 505,
+        "DisplayName": {
+          "Namespace": "WeeklyChallenges",
+          "Key": "DisplayName_505",
+          "SourceString": "Go Through 10 Enemy Portals"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "599": {
+        "ChallengeType": "EChallengeType::Weekly",
+        "TargetValue": 6,
+        "Reward": {
+          "RewardType": "ERewardType::Drop",
+          "RewardValue": 1,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 5,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 599,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_CompleteAllWeeklyChallenges"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "600": {
+        "ChallengeType": "EChallengeType::Weekly",
+        "TargetValue": 10,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 10000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 6,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 600,
+        "DisplayName": {
+          "Namespace": "WeeklyChallenges",
+          "Key": "DisplayName_600",
+          "SourceString": "Get 10 Kills with the SMG"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "601": {
+        "ChallengeType": "EChallengeType::Weekly",
+        "TargetValue": 30,
+        "Reward": {
+          "RewardType": "ERewardType::Drop",
+          "RewardValue": 1,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 6,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 601,
+        "DisplayName": {
+          "Namespace": "WeeklyChallenges",
+          "Key": "DisplayName_601",
+          "SourceString": "Get 30 Kills with the Carbine or Pistol"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "602": {
+        "ChallengeType": "EChallengeType::Weekly",
+        "TargetValue": 1,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 10000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 6,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 602,
+        "DisplayName": {
+          "Namespace": "WeeklyChallenges",
+          "Key": "DisplayName_602",
+          "SourceString": "Win a Match with the Most Damage"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "603": {
+        "ChallengeType": "EChallengeType::Weekly",
+        "TargetValue": 10,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 10000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 6,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 603,
+        "DisplayName": {
+          "Namespace": "WeeklyChallenges",
+          "Key": "DisplayName_603",
+          "SourceString": "Play 10 Matches"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "604": {
+        "ChallengeType": "EChallengeType::Weekly",
+        "TargetValue": 1,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 10000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 6,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 604,
+        "DisplayName": {
+          "Namespace": "WeeklyChallenges",
+          "Key": "DisplayName_604",
+          "SourceString": "Complete the Pantheon Race"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "605": {
+        "ChallengeType": "EChallengeType::Weekly",
+        "TargetValue": 30,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 10000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 6,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 605,
+        "DisplayName": {
+          "Namespace": "WeeklyChallenges",
+          "Key": "DisplayName_605",
+          "SourceString": "Get 30 Kills in Team SWAT"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "699": {
+        "ChallengeType": "EChallengeType::Weekly",
+        "TargetValue": 6,
+        "Reward": {
+          "RewardType": "ERewardType::Drop",
+          "RewardValue": 1,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 6,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 699,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_CompleteAllWeeklyChallenges"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "700": {
+        "ChallengeType": "EChallengeType::Weekly",
+        "TargetValue": 100,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 10000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 7,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 700,
+        "DisplayName": {
+          "Namespace": "WeeklyChallenges",
+          "Key": "DisplayName_700",
+          "SourceString": "Get 100 Kills"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "701": {
+        "ChallengeType": "EChallengeType::Weekly",
+        "TargetValue": 1,
+        "Reward": {
+          "RewardType": "ERewardType::Drop",
+          "RewardValue": 1,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 7,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 701,
+        "DisplayName": {
+          "Namespace": "WeeklyChallenges",
+          "Key": "DisplayName_701",
+          "SourceString": "Complete the Olympus Race"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "702": {
+        "ChallengeType": "EChallengeType::Weekly",
+        "TargetValue": 3,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 10000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 7,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 702,
+        "DisplayName": {
+          "Namespace": "WeeklyChallenges",
+          "Key": "DisplayName_702",
+          "SourceString": "Win 3 Matches of Team Oddball"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "703": {
+        "ChallengeType": "EChallengeType::Weekly",
+        "TargetValue": 10,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 10000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 7,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 703,
+        "DisplayName": {
+          "Namespace": "WeeklyChallenges",
+          "Key": "DisplayName_703",
+          "SourceString": "Get 10 Kills with the Shotgun"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "704": {
+        "ChallengeType": "EChallengeType::Weekly",
+        "TargetValue": 10,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 10000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 7,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 704,
+        "DisplayName": {
+          "Namespace": "WeeklyChallenges",
+          "Key": "DisplayName_704",
+          "SourceString": "Win 10 Matches"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "705": {
+        "ChallengeType": "EChallengeType::Weekly",
+        "TargetValue": 10,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 10000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 7,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 705,
+        "DisplayName": {
+          "Namespace": "WeeklyChallenges",
+          "Key": "DisplayName_705",
+          "SourceString": "Go Through 10 Friendly Portals"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "799": {
+        "ChallengeType": "EChallengeType::Weekly",
+        "TargetValue": 6,
+        "Reward": {
+          "RewardType": "ERewardType::Drop",
+          "RewardValue": 1,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 7,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 799,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_CompleteAllWeeklyChallenges"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "800": {
+        "ChallengeType": "EChallengeType::Weekly",
+        "TargetValue": 10,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 10000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 8,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 800,
+        "DisplayName": {
+          "Namespace": "WeeklyChallenges",
+          "Key": "DisplayName_800",
+          "SourceString": "Get 10 Kills with the Railgun"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "801": {
+        "ChallengeType": "EChallengeType::Weekly",
+        "TargetValue": 3,
+        "Reward": {
+          "RewardType": "ERewardType::Drop",
+          "RewardValue": 1,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 8,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 801,
+        "DisplayName": {
+          "Namespace": "WeeklyChallenges",
+          "Key": "DisplayName_801",
+          "SourceString": "Win a Match on 3 Different Maps"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "802": {
+        "ChallengeType": "EChallengeType::Weekly",
+        "TargetValue": 1,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 10000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 8,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 802,
+        "DisplayName": {
+          "Namespace": "WeeklyChallenges",
+          "Key": "DisplayName_802",
+          "SourceString": "Win a Match with the Highest Accuracy"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "803": {
+        "ChallengeType": "EChallengeType::Weekly",
+        "TargetValue": 5,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 10000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 8,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 803,
+        "DisplayName": {
+          "Namespace": "WeeklyChallenges",
+          "Key": "DisplayName_803",
+          "SourceString": "Win 5 Matches"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "804": {
+        "ChallengeType": "EChallengeType::Weekly",
+        "TargetValue": 1,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 10000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 8,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 804,
+        "DisplayName": {
+          "Namespace": "WeeklyChallenges",
+          "Key": "DisplayName_804",
+          "SourceString": "Complete the Helix Race"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "805": {
+        "ChallengeType": "EChallengeType::Weekly",
+        "TargetValue": 3,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 10000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 8,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 805,
+        "DisplayName": {
+          "Namespace": "WeeklyChallenges",
+          "Key": "DisplayName_805",
+          "SourceString": "Win 3 Matches of VIP"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "899": {
+        "ChallengeType": "EChallengeType::Weekly",
+        "TargetValue": 6,
+        "Reward": {
+          "RewardType": "ERewardType::Drop",
+          "RewardValue": 1,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 8,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 899,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_CompleteAllWeeklyChallenges"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "900": {
+        "ChallengeType": "EChallengeType::Weekly",
+        "TargetValue": 10,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 10000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 9,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 900,
+        "DisplayName": {
+          "Namespace": "WeeklyChallenges",
+          "Key": "DisplayName_900",
+          "SourceString": "Play 10 Matches"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "901": {
+        "ChallengeType": "EChallengeType::Weekly",
+        "TargetValue": 1,
+        "Reward": {
+          "RewardType": "ERewardType::Drop",
+          "RewardValue": 1,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 9,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 901,
+        "DisplayName": {
+          "Namespace": "WeeklyChallenges",
+          "Key": "DisplayName_901",
+          "SourceString": "Complete the Silo Race"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "902": {
+        "ChallengeType": "EChallengeType::Weekly",
+        "TargetValue": 30,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 10000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 9,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 902,
+        "DisplayName": {
+          "Namespace": "WeeklyChallenges",
+          "Key": "DisplayName_902",
+          "SourceString": "Get 30 Kills in Gun Game"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "903": {
+        "ChallengeType": "EChallengeType::Weekly",
+        "TargetValue": 10,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 10000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 9,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 903,
+        "DisplayName": {
+          "Namespace": "WeeklyChallenges",
+          "Key": "DisplayName_903",
+          "SourceString": "Get 10 Kills with the Sniper Rifle"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "904": {
+        "ChallengeType": "EChallengeType::Weekly",
+        "TargetValue": 3,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 10000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 9,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 904,
+        "DisplayName": {
+          "Namespace": "WeeklyChallenges",
+          "Key": "DisplayName_904",
+          "SourceString": "Win 3 Matches on Atlantis"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "905": {
+        "ChallengeType": "EChallengeType::Weekly",
+        "TargetValue": 1,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 10000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 9,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 905,
+        "DisplayName": {
+          "Namespace": "WeeklyChallenges",
+          "Key": "DisplayName_905",
+          "SourceString": "Win a Match with the Most Portal Distance"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "999": {
+        "ChallengeType": "EChallengeType::Weekly",
+        "TargetValue": 6,
+        "Reward": {
+          "RewardType": "ERewardType::Drop",
+          "RewardValue": 1,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 9,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 999,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_CompleteAllWeeklyChallenges"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "1000": {
+        "ChallengeType": "EChallengeType::Weekly",
+        "TargetValue": 50,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 10000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 10,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 1000,
+        "DisplayName": {
+          "Namespace": "WeeklyChallenges",
+          "Key": "DisplayName_1000",
+          "SourceString": "Get 50 Kills with the Assault Rifle"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "1001": {
+        "ChallengeType": "EChallengeType::Weekly",
+        "TargetValue": 30,
+        "Reward": {
+          "RewardType": "ERewardType::Drop",
+          "RewardValue": 1,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 10,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 1001,
+        "DisplayName": {
+          "Namespace": "WeeklyChallenges",
+          "Key": "DisplayName_1001",
+          "SourceString": "Get 30 Kills in Free for All"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "1002": {
+        "ChallengeType": "EChallengeType::Weekly",
+        "TargetValue": 20,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 10000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 10,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 1002,
+        "DisplayName": {
+          "Namespace": "WeeklyChallenges",
+          "Key": "DisplayName_1002",
+          "SourceString": "Destroy 20 Enemy Portals"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "1003": {
+        "ChallengeType": "EChallengeType::Weekly",
+        "TargetValue": 100,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 10000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 10,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 1003,
+        "DisplayName": {
+          "Namespace": "WeeklyChallenges",
+          "Key": "DisplayName_1003",
+          "SourceString": "Get 100 Kills"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "1004": {
+        "ChallengeType": "EChallengeType::Weekly",
+        "TargetValue": 1,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 10000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 10,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 1004,
+        "DisplayName": {
+          "Namespace": "WeeklyChallenges",
+          "Key": "DisplayName_1004",
+          "SourceString": "Complete the Lavawell Race"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "1005": {
+        "ChallengeType": "EChallengeType::Weekly",
+        "TargetValue": 3,
+        "Reward": {
+          "RewardType": "ERewardType::XP",
+          "RewardValue": 10000,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 10,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 1005,
+        "DisplayName": {
+          "Namespace": "WeeklyChallenges",
+          "Key": "DisplayName_1005",
+          "SourceString": "Win 3 Matches of Domination"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "1099": {
+        "ChallengeType": "EChallengeType::Weekly",
+        "TargetValue": 6,
+        "Reward": {
+          "RewardType": "ERewardType::Drop",
+          "RewardValue": 1,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 10,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 1099,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_CompleteAllWeeklyChallenges"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      }
+    }
+  }
+]

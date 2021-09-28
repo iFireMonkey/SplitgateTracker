@@ -1,0 +1,77 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "MouseButtons",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class MouseButtonData",
+        "ObjectPath": "/Script/PortalWarsGlobals"
+      }
+    },
+    "Rows": {
+      "LeftMouseButton": {
+        "Key": {
+          "KeyName": "LeftMouseButton"
+        },
+        "Icon": {
+          "ObjectName": "Texture2D mouse-leftclick",
+          "ObjectPath": "/Game/Thumbnails/Mouse/mouse-leftclick.0"
+        }
+      },
+      "RightMouseButton": {
+        "Key": {
+          "KeyName": "RightMouseButton"
+        },
+        "Icon": {
+          "ObjectName": "Texture2D mouse-rightclick",
+          "ObjectPath": "/Game/Thumbnails/Mouse/mouse-rightclick.0"
+        }
+      },
+      "MiddleMouseButton": {
+        "Key": {
+          "KeyName": "MiddleMouseButton"
+        },
+        "Icon": {
+          "ObjectName": "Texture2D mouse-middleclick",
+          "ObjectPath": "/Game/Thumbnails/Mouse/mouse-middleclick.0"
+        }
+      },
+      "MouseButton4": {
+        "Key": {
+          "KeyName": "ThumbMouseButton"
+        },
+        "Icon": {
+          "ObjectName": "Texture2D mouse-4",
+          "ObjectPath": "/Game/Thumbnails/Mouse/mouse-4.0"
+        }
+      },
+      "MouseButton5": {
+        "Key": {
+          "KeyName": "ThumbMouseButton2"
+        },
+        "Icon": {
+          "ObjectName": "Texture2D mouse-5",
+          "ObjectPath": "/Game/Thumbnails/Mouse/mouse-5.0"
+        }
+      },
+      "MouseWheelUp": {
+        "Key": {
+          "KeyName": "MouseScrollUp"
+        },
+        "Icon": {
+          "ObjectName": "Texture2D mouse-scrollup",
+          "ObjectPath": "/Game/Thumbnails/Mouse/mouse-scrollup.0"
+        }
+      },
+      "MouseWheelDown": {
+        "Key": {
+          "KeyName": "MouseScrollDown"
+        },
+        "Icon": {
+          "ObjectName": "Texture2D mouse-scrolldown",
+          "ObjectPath": "/Game/Thumbnails/Mouse/mouse-scrolldown.0"
+        }
+      }
+    }
+  }
+]

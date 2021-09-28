@@ -1,0 +1,5014 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "CustomBotProfiles",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class BotProfileData",
+        "ObjectPath": "/Script/PortalWarsGlobals"
+      }
+    },
+    "Rows": {
+      "0": {
+        "Name": "TimeStopper4",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 0,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "1": {
+        "Name": "noname33",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 1,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "2": {
+        "Name": "carbon5",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 2,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "3": {
+        "Name": "FlagShip7",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 3,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "4": {
+        "Name": "TumbleDown",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 4,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "5": {
+        "Name": "tooToned",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 5,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "6": {
+        "Name": "Quick Sloth",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 6,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "7": {
+        "Name": "betterthanyou",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 7,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "8": {
+        "Name": "Alwayzz90",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 8,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "9": {
+        "Name": "RowYourBoat",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 9,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "10": {
+        "Name": "CandyLand78",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 10,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "11": {
+        "Name": "GMCgrilllz",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 11,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "12": {
+        "Name": "Yummmah",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 12,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "13": {
+        "Name": "SUUUprise",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 13,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "14": {
+        "Name": "dogShorts",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 14,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "15": {
+        "Name": "webkinzWasLIT",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 15,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "16": {
+        "Name": "dirtyshoe65",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 16,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "17": {
+        "Name": "onCloud9",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 17,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "18": {
+        "Name": "3amgrind",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 18,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "19": {
+        "Name": "50yroldvirgin",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 19,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "20": {
+        "Name": "myBFFJill",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 20,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "21": {
+        "Name": "HowdyRanger88",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 21,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "22": {
+        "Name": "KnightHawk",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 22,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "23": {
+        "Name": "OperaWizard57",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 23,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "24": {
+        "Name": "meanMachine",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 24,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "25": {
+        "Name": "skiscrossed",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 25,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "26": {
+        "Name": "hot_diggity",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 26,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "28": {
+        "Name": "FaceFirst",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 28,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "29": {
+        "Name": "WildRide92",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 29,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "30": {
+        "Name": "PiePalace",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 30,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "31": {
+        "Name": "Lucky4U",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 31,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "32": {
+        "Name": "HolySmokes",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 32,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "33": {
+        "Name": "PoopyKaka",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 33,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "34": {
+        "Name": "FartMaster45",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 34,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "35": {
+        "Name": "Need2Pee",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 35,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "36": {
+        "Name": "CameInSecond",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 36,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "37": {
+        "Name": "LynnTheViolin",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 37,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "38": {
+        "Name": "xX_Robot_Overlord_Xx",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 38,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "39": {
+        "Name": "RunForest19",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 39,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "40": {
+        "Name": "PingPongPlaya39",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 40,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "41": {
+        "Name": "FinalCountDown",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 41,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "42": {
+        "Name": "54321Udone",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 42,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "43": {
+        "Name": "babyBear3",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 43,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "44": {
+        "Name": "pignumber6",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 44,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "45": {
+        "Name": "flying_low",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 45,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "46": {
+        "Name": "BigBeard",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 46,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "47": {
+        "Name": "MustacheYouQuestion",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 47,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "48": {
+        "Name": "winenot",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 48,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "49": {
+        "Name": "waterGuzzler",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 49,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "50": {
+        "Name": "loudBurper",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 50,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "51": {
+        "Name": "Ipuked09",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 51,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "52": {
+        "Name": "smallSpider83",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 52,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "53": {
+        "Name": "NicholasNotNick",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 53,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "54": {
+        "Name": "nightattheDisco",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 54,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "55": {
+        "Name": "brown_eyed_beaut",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 55,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "56": {
+        "Name": "KeepItPG",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 56,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "57": {
+        "Name": "KareltheRobot",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 57,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "58": {
+        "Name": "canOnlyTurnLeft",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 58,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "59": {
+        "Name": "Private Montes",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 59,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "60": {
+        "Name": "GRRRRRRRRRR",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 60,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "61": {
+        "Name": "Hooman",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 61,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "62": {
+        "Name": "Punkin",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 62,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "63": {
+        "Name": "Anelisse",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 63,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "64": {
+        "Name": "THoG",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 64,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "65": {
+        "Name": "Are Vilon",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 65,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "66": {
+        "Name": "NoopNoop",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 66,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "67": {
+        "Name": "WhoopiTy Sco0P",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 67,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "68": {
+        "Name": "CoreyTheDestroyer",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 68,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "69": {
+        "Name": "Veno",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 69,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "70": {
+        "Name": "StrangeBacon23",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 70,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "71": {
+        "Name": "Murp",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 71,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "72": {
+        "Name": "Droopy",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 72,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "73": {
+        "Name": "Hadaka1",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 73,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "74": {
+        "Name": "BananaBot",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 74,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "76": {
+        "Name": "Agent1047",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 76,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "77": {
+        "Name": "annachan",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 77,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "78": {
+        "Name": "Duggy's Soul",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 78,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "79": {
+        "Name": "FusionFighter",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 79,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "80": {
+        "Name": "DrDog",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 80,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "81": {
+        "Name": "ChaosKing",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 81,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "82": {
+        "Name": "BigFighter",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 82,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "83": {
+        "Name": "Splitgater",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 83,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "84": {
+        "Name": "TokyoTom",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 84,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "85": {
+        "Name": "dizzy",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 85,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "86": {
+        "Name": "Gr1mRe4p3r",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 86,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "87": {
+        "Name": "MetalBabe",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 87,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "88": {
+        "Name": "DannyFlowers",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 88,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "89": {
+        "Name": "BobbyDiamond",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 89,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "90": {
+        "Name": "AceNeptune",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 90,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "91": {
+        "Name": "RubyNeptune",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 91,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "92": {
+        "Name": "DarkMoon",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 92,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "93": {
+        "Name": "SilverKing",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 93,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "94": {
+        "Name": "St4rK1ll3r",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 94,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "95": {
+        "Name": "yolomaster",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 95,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "96": {
+        "Name": "ttv_JakeIsLive",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 96,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "97": {
+        "Name": "H4terz",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 97,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "98": {
+        "Name": "N0Ch1ll",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 98,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "99": {
+        "Name": "W0ntSt0p",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 99,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "100": {
+        "Name": "Cecil",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 100,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "101": {
+        "Name": "IAintNoJakeGrant",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 101,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "102": {
+        "Name": "LazyLiam",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 102,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "103": {
+        "Name": "DJtheDJ",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 103,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "104": {
+        "Name": "ArisaThePortalQueen",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 104,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "105": {
+        "Name": "VIFOS",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 105,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "106": {
+        "Name": "DarkMarine",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 106,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "107": {
+        "Name": "xxUhOhOreoxx",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 107,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "108": {
+        "Name": "Poverseer",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 108,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "109": {
+        "Name": "TheOGMemer",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 109,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "110": {
+        "Name": "THETOPSOLDIER",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 110,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "111": {
+        "Name": "GamerGal",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 111,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "112": {
+        "Name": "LeanBack",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 112,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "113": {
+        "Name": "HolyCreeper",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 113,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "114": {
+        "Name": "Sequor",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 114,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "115": {
+        "Name": "Kaptin",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 115,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "116": {
+        "Name": "Kushluk",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 116,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "117": {
+        "Name": "LKRFNNICK",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 117,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "118": {
+        "Name": "WormholeWarrior",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 118,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "119": {
+        "Name": "THIEFKING",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 119,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "120": {
+        "Name": "AudreyIsMusic.com",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 120,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "121": {
+        "Name": "GaryFreedomJohnson",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 121,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "122": {
+        "Name": "RedElephant",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 122,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "123": {
+        "Name": "TheThunderobot",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 123,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "124": {
+        "Name": "Ballssssss",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 124,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "125": {
+        "Name": "TheProfessor",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 125,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "126": {
+        "Name": "Emmie",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 126,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "127": {
+        "Name": "Nut",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 127,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "128": {
+        "Name": "BigToooter",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 128,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "129": {
+        "Name": "MarshaMarsha",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 129,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "130": {
+        "Name": "ZanyLanie",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 130,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "131": {
+        "Name": "BlakeTheSnake",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 131,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "132": {
+        "Name": "FreckleFace",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 132,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "133": {
+        "Name": "BigB",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 133,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "134": {
+        "Name": "KrazyKayden",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 134,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "135": {
+        "Name": "Fillewow",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 135,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "136": {
+        "Name": "Fluffmeister",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 136,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "137": {
+        "Name": "StillSerious",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 137,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "138": {
+        "Name": "DiscoBarbie",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 138,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "139": {
+        "Name": "veeOW",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 139,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "140": {
+        "Name": "GreggoMyEggoLive",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 140,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "141": {
+        "Name": "Friendly Community Robot",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 141,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "142": {
+        "Name": "snake enthusiast",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 142,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "143": {
+        "Name": "Dr. Potato",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 143,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "144": {
+        "Name": "dragon weeb",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 144,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "145": {
+        "Name": "Knuckles",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 145,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "146": {
+        "Name": "Bagman",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 146,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "147": {
+        "Name": "Dave Jake",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 147,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "148": {
+        "Name": "Generic_Bot_Name",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 148,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "149": {
+        "Name": "Robert",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 149,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "150": {
+        "Name": "AVPTV",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 150,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "151": {
+        "Name": "Olly",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 151,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "152": {
+        "Name": "Lyler",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 152,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "153": {
+        "Name": "Snraig",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 153,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "154": {
+        "Name": "Tricolor Duncan",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 154,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "155": {
+        "Name": "Sable Rory",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 155,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "156": {
+        "Name": "Stanford girl",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 156,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "157": {
+        "Name": "Vollgas!",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 157,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "158": {
+        "Name": "TBone 2018",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 158,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "159": {
+        "Name": "freedomflyer126",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 159,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "160": {
+        "Name": "DisrespectFul",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 160,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "161": {
+        "Name": "EvasionX",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 161,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "162": {
+        "Name": "Big_E",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 162,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "163": {
+        "Name": "Aye-Mitch",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 163,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "164": {
+        "Name": "xxPrincessDisco",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 164,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "165": {
+        "Name": "deebz",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 165,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "166": {
+        "Name": "DonaldJ",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 166,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "167": {
+        "Name": "The Great Nancy",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 167,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "168": {
+        "Name": "Snian",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 168,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "169": {
+        "Name": "MemeTeam",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 169,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "170": {
+        "Name": "Waylen776",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 170,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "171": {
+        "Name": "bus rida123",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 171,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "172": {
+        "Name": "Bun-Bun",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 172,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "173": {
+        "Name": "Zelda_rabbit",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 173,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "174": {
+        "Name": "TheWizardandI_02",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 174,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "175": {
+        "Name": "Mr. Bill",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 175,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "176": {
+        "Name": "Gumby",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 176,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "177": {
+        "Name": "Pokey",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 177,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "178": {
+        "Name": "Father Guido",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 178,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "179": {
+        "Name": "nutella_boy1",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 179,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "180": {
+        "Name": "arugula_lover",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 180,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "181": {
+        "Name": "youwillbefound",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 181,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "182": {
+        "Name": "eternal warrior 67",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 182,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "183": {
+        "Name": "raytracer5",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 183,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "184": {
+        "Name": "neverland pan",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 184,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "185": {
+        "Name": "yyyCAMOyyy",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 185,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "186": {
+        "Name": "Mallorca Bandit",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 186,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "187": {
+        "Name": "birdieboy",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 187,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "188": {
+        "Name": "Indigooooo",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 188,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "189": {
+        "Name": "thecubanthunder",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 189,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "190": {
+        "Name": "Kelley the Mermaid",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 190,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "191": {
+        "Name": "volcanokoniosis",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 191,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "192": {
+        "Name": "SilentH",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 192,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "193": {
+        "Name": "heap_allocat0r",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 193,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "194": {
+        "Name": "Kernigan107",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 194,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "195": {
+        "Name": "ARfighter5",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 195,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "196": {
+        "Name": "10ten10",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 196,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "197": {
+        "Name": "team tango56",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 197,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "198": {
+        "Name": "BAPeninsula",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 198,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "199": {
+        "Name": "seydways009",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 199,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "200": {
+        "Name": "president potter",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 200,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "201": {
+        "Name": "fletcher5",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 201,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "202": {
+        "Name": "dynamodrake3",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 202,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "203": {
+        "Name": "ddemres",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 203,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "204": {
+        "Name": "albane80",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 204,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "205": {
+        "Name": "linman mir",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 205,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "206": {
+        "Name": "Griffer",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 206,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "207": {
+        "Name": "goblet of fir333",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 207,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "208": {
+        "Name": "prancer54",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 208,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "209": {
+        "Name": "dapper_dude",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 209,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "210": {
+        "Name": "nerdAlert",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 210,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "211": {
+        "Name": "pink_dog3",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 211,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "212": {
+        "Name": "PhatSon",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 212,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "213": {
+        "Name": "TheBestSkierOnTheMountain",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 213,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "214": {
+        "Name": "Saucer Boy",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 214,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "215": {
+        "Name": "Plastic Pirate Duck",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 215,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "216": {
+        "Name": "Sr. LargeNose",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 216,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "217": {
+        "Name": "Khiar65",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 217,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "218": {
+        "Name": "Ian?",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 218,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "219": {
+        "Name": "VeganQueen",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 219,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "220": {
+        "Name": "Yogi2",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 220,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "221": {
+        "Name": "wrinklyYoda",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 221,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "222": {
+        "Name": "2tontussy",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 222,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "223": {
+        "Name": "SimonTheFish78",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 223,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "224": {
+        "Name": "WhatStaysInVegas",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 224,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "225": {
+        "Name": "HairyKid5",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 225,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "226": {
+        "Name": "GearShift44",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 226,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "227": {
+        "Name": "DumbDolphin",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 227,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "228": {
+        "Name": "Eyezz12",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 228,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "229": {
+        "Name": "FurryUnibrow",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 229,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "230": {
+        "Name": "fatfingers4",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 230,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "231": {
+        "Name": "iearnedthis",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 231,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "232": {
+        "Name": "DonutWhole",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 232,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "233": {
+        "Name": "ChocolateChip_cookie",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 233,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "234": {
+        "Name": "Oscar_in_can",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 234,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "235": {
+        "Name": "BoomBoom the dog",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 235,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "236": {
+        "Name": "Baloo23",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 236,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "237": {
+        "Name": "Garbage",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 237,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "238": {
+        "Name": "Alcatraz989",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 238,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "239": {
+        "Name": "winky_face90",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 239,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "240": {
+        "Name": "SaveTheTrees",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 240,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "241": {
+        "Name": "FireInTheHole",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 241,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "242": {
+        "Name": "SpriteIsLife",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 242,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "243": {
+        "Name": "four chainzz",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 243,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "244": {
+        "Name": "tooCheesy32",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 244,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "245": {
+        "Name": "SendIt7",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 245,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "246": {
+        "Name": "OozingLavacake",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 246,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "247": {
+        "Name": "ThickMuffinTop",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 247,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "248": {
+        "Name": "ProWrestler12",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 248,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "249": {
+        "Name": "Destiny",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 249,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "250": {
+        "Name": "BLANK",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 250,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "251": {
+        "Name": "Botty McBotface",
+        "Avatar": {
+          "AssetPathName": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+          "SubPathString": ""
+        },
+        "AvatarPath": "/Game/Thumbnails/BotAvatars/botavatardefault.botavatardefault",
+        "ID": 251,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      }
+    }
+  }
+]

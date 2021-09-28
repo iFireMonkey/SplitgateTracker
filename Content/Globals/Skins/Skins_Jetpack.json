@@ -1,0 +1,1323 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "Skins_Jetpack",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class JetpackMeshItem",
+        "ObjectPath": "/Script/PortalWarsGlobals"
+      },
+      "bIgnoreMissingFields": true
+    },
+    "Rows": {
+      "0": {
+        "Mesh": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/Jetpacks/J_04/SK_FB04.SK_FB04",
+          "SubPathString": ""
+        },
+        "IdleAnimation": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "OpenAnimation": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "FlameMeshes": [
+          {
+            "AssetPathName": "/Game/Player/ThirdPerson/Mesh/Jetpacks/J_04/J_04_Flame_Blue.J_04_Flame_Blue",
+            "SubPathString": ""
+          }
+        ],
+        "DefaultMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Common/MI_Skin_BaseBlue.MI_Skin_BaseBlue",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": "Default"
+        },
+        "CompatibleWithAllSkins": true,
+        "CustomizationType": "ECustomizationType::Jetpack",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Default",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 0,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Warden"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "1": {
+        "Mesh": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/Jetpacks/J_09/SK_FB09.SK_FB09",
+          "SubPathString": ""
+        },
+        "IdleAnimation": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "OpenAnimation": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "FlameMeshes": [
+          {
+            "AssetPathName": "/Game/Player/ThirdPerson/Mesh/Jetpacks/J_09/J_09_Flames_Blue.J_09_Flames_Blue",
+            "SubPathString": ""
+          }
+        ],
+        "DefaultMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Rare/MI_Skin_M90.MI_Skin_M90",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": "Default"
+        },
+        "CompatibleWithAllSkins": true,
+        "CustomizationType": "ECustomizationType::Jetpack",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 1,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Executioner"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "2": {
+        "Mesh": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/Jetpacks/J_12/SK_FB12.SK_FB12",
+          "SubPathString": ""
+        },
+        "IdleAnimation": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "OpenAnimation": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "FlameMeshes": [
+          {
+            "AssetPathName": "/Game/Player/ThirdPerson/Mesh/Jetpacks/J_12/J_12_Flame_Blue.J_12_Flame_Blue",
+            "SubPathString": ""
+          }
+        ],
+        "DefaultMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Common/MI_Skin_Cheese.MI_Skin_Cheese",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": "Default"
+        },
+        "CompatibleWithAllSkins": true,
+        "CustomizationType": "ECustomizationType::Jetpack",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 2,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Souless"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "4": {
+        "Mesh": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/Jetpacks/J_18/SK_FB18.SK_FB18",
+          "SubPathString": ""
+        },
+        "IdleAnimation": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "OpenAnimation": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "FlameMeshes": [
+          {
+            "AssetPathName": "/Game/Player/ThirdPerson/Mesh/Jetpacks/J_18/J_18_Flame_Blue.J_18_Flame_Blue",
+            "SubPathString": ""
+          }
+        ],
+        "DefaultMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Rare/MI_Skin_GrayM90.MI_Skin_GrayM90",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": "Default"
+        },
+        "CompatibleWithAllSkins": true,
+        "CustomizationType": "ECustomizationType::Jetpack",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 4,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Gangster"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "6": {
+        "Mesh": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/Jetpacks/J_25/SK_FB25.SK_FB25",
+          "SubPathString": ""
+        },
+        "IdleAnimation": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "OpenAnimation": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "FlameMeshes": [
+          {
+            "AssetPathName": "/Game/Player/ThirdPerson/Mesh/Jetpacks/J_25/J_25_Flame_Blue.J_25_Flame_Blue",
+            "SubPathString": ""
+          }
+        ],
+        "DefaultMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Common/MI_Skin_Cheese.MI_Skin_Cheese",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": "Default"
+        },
+        "CompatibleWithAllSkins": true,
+        "CustomizationType": "ECustomizationType::Jetpack",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 6,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Mourning"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "7": {
+        "Mesh": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/Jetpacks/J_27/SK_FB27.SK_FB27",
+          "SubPathString": ""
+        },
+        "IdleAnimation": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "OpenAnimation": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "FlameMeshes": [
+          {
+            "AssetPathName": "/Game/Player/ThirdPerson/Mesh/Jetpacks/J_27/J_27_Flame_Blue.J_27_Flame_Blue",
+            "SubPathString": ""
+          }
+        ],
+        "DefaultMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Rare/MI_Skin_M90.MI_Skin_M90",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": "Default"
+        },
+        "CompatibleWithAllSkins": true,
+        "CustomizationType": "ECustomizationType::Jetpack",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 7,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Andor"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "8": {
+        "Mesh": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/Jetpacks/J_30/SK_FB30.SK_FB30",
+          "SubPathString": ""
+        },
+        "IdleAnimation": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "OpenAnimation": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "FlameMeshes": [
+          {
+            "AssetPathName": "/Game/Player/ThirdPerson/Mesh/Jetpacks/J_30/J_30_Flames_Blue.J_30_Flames_Blue",
+            "SubPathString": ""
+          }
+        ],
+        "DefaultMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Rare/MI_Skin_Blaze.MI_Skin_Blaze",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": "Default"
+        },
+        "CompatibleWithAllSkins": true,
+        "CustomizationType": "ECustomizationType::Jetpack",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 8,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Rhino"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "9": {
+        "Mesh": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/Jetpacks/Promo/Easter2020/SK_Rabbit.SK_Rabbit",
+          "SubPathString": ""
+        },
+        "IdleAnimation": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "OpenAnimation": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "FlameMeshes": [
+          {
+            "AssetPathName": "/Game/Player/ThirdPerson/Mesh/Jetpacks/Promo/Easter2020/Rabbit_Jetpack_01_Flame.Rabbit_Jetpack_01_Flame",
+            "SubPathString": ""
+          }
+        ],
+        "DefaultMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Common/MI_Skin_Easter.MI_Skin_Easter",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::Jetpack",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 9,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "BunnyHop"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "10": {
+        "Mesh": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/Jetpacks/J_31/SK_FB31.SK_FB31",
+          "SubPathString": ""
+        },
+        "IdleAnimation": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "OpenAnimation": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "FlameMeshes": [
+          {
+            "AssetPathName": "/Game/Player/ThirdPerson/Mesh/Jetpacks/J_31/JetPackBattlePass_2_Flame.JetPackBattlePass_2_Flame",
+            "SubPathString": ""
+          }
+        ],
+        "DefaultMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Epic/MI_Skin_Juggernaut.MI_Skin_Juggernaut",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": "Default"
+        },
+        "CompatibleWithAllSkins": true,
+        "CustomizationType": "ECustomizationType::Jetpack",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 10,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "HEX"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "11": {
+        "Mesh": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/Jetpacks/J_Stinger/SK_Stinger.SK_Stinger",
+          "SubPathString": ""
+        },
+        "IdleAnimation": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "OpenAnimation": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "FlameMeshes": [
+          {
+            "AssetPathName": "/Game/Player/ThirdPerson/Mesh/Jetpacks/J_Stinger/SM_J_Stinger_Flames.SM_J_Stinger_Flames",
+            "SubPathString": ""
+          }
+        ],
+        "DefaultMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Epic/MI_Skin_Buffer.MI_Skin_Buffer",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": "Default"
+        },
+        "CompatibleWithAllSkins": true,
+        "CustomizationType": "ECustomizationType::Jetpack",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 11,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Stinger"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "12": {
+        "Mesh": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/Jetpacks/J_Mumbai/SK_Mumbai.SK_Mumbai",
+          "SubPathString": ""
+        },
+        "IdleAnimation": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "OpenAnimation": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "FlameMeshes": [],
+        "DefaultMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Common/MI_Skin_Stone.MI_Skin_Stone",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": "Default"
+        },
+        "CompatibleWithAllSkins": true,
+        "CustomizationType": "ECustomizationType::Jetpack",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 12,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Mumbai"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "13": {
+        "Mesh": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/Jetpacks/J_75_Robust/SK_FB75_Robust.SK_FB75_Robust",
+          "SubPathString": ""
+        },
+        "IdleAnimation": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "OpenAnimation": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "FlameMeshes": [
+          {
+            "AssetPathName": "/Game/Player/ThirdPerson/Mesh/Jetpacks/J_75_Robust/SM_FB75_Robust_Flame.SM_FB75_Robust_Flame",
+            "SubPathString": ""
+          }
+        ],
+        "DefaultMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/M_Robust_Fade.M_Robust_Fade",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::Jetpack",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 13,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Paladin"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "14": {
+        "Mesh": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/Jetpacks/J_45_Deadeye/SK_FB45_Deadeye.SK_FB45_Deadeye",
+          "SubPathString": ""
+        },
+        "IdleAnimation": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "OpenAnimation": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "FlameMeshes": [
+          {
+            "AssetPathName": "/Game/Player/ThirdPerson/Mesh/Jetpacks/J_45_Deadeye/SM_FB45_Deadeye_Flame.SM_FB45_Deadeye_Flame",
+            "SubPathString": ""
+          }
+        ],
+        "DefaultMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/MI_Deadeye_01.MI_Deadeye_01",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::Jetpack",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 14,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Deadeye"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "15": {
+        "Mesh": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/Jetpacks/J_61_Aqua/SK_FB61_Aqua.SK_FB61_Aqua",
+          "SubPathString": ""
+        },
+        "IdleAnimation": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "OpenAnimation": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "FlameMeshes": [
+          {
+            "AssetPathName": "/Game/Player/ThirdPerson/Mesh/Jetpacks/J_61_Aqua/SM_FB61_Aqua_Flame.SM_FB61_Aqua_Flame",
+            "SubPathString": ""
+          }
+        ],
+        "DefaultMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/MI_Aqua_02.MI_Aqua_02",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::Jetpack",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 15,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Aqua"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "16": {
+        "Mesh": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/Jetpacks/J_62_Elf/SK_FB62_Elf.SK_FB62_Elf",
+          "SubPathString": ""
+        },
+        "IdleAnimation": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "OpenAnimation": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "FlameMeshes": [
+          {
+            "AssetPathName": "/Game/Player/ThirdPerson/Mesh/Jetpacks/J_62_Elf/SM_FB62_Elf_Flame.SM_FB62_Elf_Flame",
+            "SubPathString": ""
+          }
+        ],
+        "DefaultMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/M_F_Elf_02.M_F_Elf_02",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::Jetpack",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Rare",
+        "ID": 16,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Lue"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "17": {
+        "Mesh": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/Jetpacks/J_41_Toxic/SK_FB41_Toxic.SK_FB41_Toxic",
+          "SubPathString": ""
+        },
+        "IdleAnimation": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "OpenAnimation": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "FlameMeshes": [
+          {
+            "AssetPathName": "/Game/Player/ThirdPerson/Mesh/Jetpacks/J_41_Toxic/SM_FB41_Toxic_Flame.SM_FB41_Toxic_Flame",
+            "SubPathString": ""
+          }
+        ],
+        "DefaultMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Mystic/MI_Skin_Grit.MI_Skin_Grit",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": "Default"
+        },
+        "CompatibleWithAllSkins": true,
+        "CustomizationType": "ECustomizationType::Jetpack",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 17,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Toxic"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "18": {
+        "Mesh": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/Jetpacks/J_59_Bard/SK_FB59_Bard.SK_FB59_Bard",
+          "SubPathString": ""
+        },
+        "IdleAnimation": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "OpenAnimation": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "FlameMeshes": [
+          {
+            "AssetPathName": "/Game/Player/ThirdPerson/Mesh/Jetpacks/J_59_Bard/SM_FB59_Bard_Flame.SM_FB59_Bard_Flame",
+            "SubPathString": ""
+          }
+        ],
+        "DefaultMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/MI_Bard_03.MI_Bard_03",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::Jetpack",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 18,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Bard"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "19": {
+        "Mesh": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/Jetpacks/J_47_Marshall/SK_FB47_Marshall.SK_FB47_Marshall",
+          "SubPathString": ""
+        },
+        "IdleAnimation": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "OpenAnimation": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "FlameMeshes": [
+          {
+            "AssetPathName": "/Game/Player/ThirdPerson/Mesh/Jetpacks/J_47_Marshall/SM_FB47_Marshall_Flame.SM_FB47_Marshall_Flame",
+            "SubPathString": ""
+          }
+        ],
+        "DefaultMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/MI_Marshall_02.MI_Marshall_02",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::Jetpack",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 19,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Marshall"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "20": {
+        "Mesh": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/Jetpacks/J_42_Tinhead/SK_FB42_Tinhead.SK_FB42_Tinhead",
+          "SubPathString": ""
+        },
+        "IdleAnimation": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "OpenAnimation": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "FlameMeshes": [
+          {
+            "AssetPathName": "/Game/Player/ThirdPerson/Mesh/Jetpacks/J_42_Tinhead/SM_FB42_Tinhead_Flame.SM_FB42_Tinhead_Flame",
+            "SubPathString": ""
+          }
+        ],
+        "DefaultMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/MI_Tinhead_03.MI_Tinhead_03",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::Jetpack",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 20,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Tinhead"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "21": {
+        "Mesh": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/Jetpacks/J_51_Tusk/SK_FB51_Tusk.SK_FB51_Tusk",
+          "SubPathString": ""
+        },
+        "IdleAnimation": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "OpenAnimation": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "FlameMeshes": [
+          {
+            "AssetPathName": "/Game/Player/ThirdPerson/Mesh/Jetpacks/J_51_Tusk/SM_FB51_Tusk_Flame.SM_FB51_Tusk_Flame",
+            "SubPathString": ""
+          }
+        ],
+        "DefaultMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/MI_Tusk_05.MI_Tusk_05",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::Jetpack",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 21,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Tusk"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "22": {
+        "Mesh": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/Jetpacks/J_53_CyberViking/SK_FB53_Viking.SK_FB53_Viking",
+          "SubPathString": ""
+        },
+        "IdleAnimation": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "OpenAnimation": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "FlameMeshes": [
+          {
+            "AssetPathName": "/Game/Player/ThirdPerson/Mesh/Jetpacks/J_53_CyberViking/SM_FB53_Viking_Flame.SM_FB53_Viking_Flame",
+            "SubPathString": ""
+          }
+        ],
+        "DefaultMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/MI_Viking_02.MI_Viking_02",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::Jetpack",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 22,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Ironside"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "23": {
+        "Mesh": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/Jetpacks/J_52_Oliver/SK_FB52_Oliver.SK_FB52_Oliver",
+          "SubPathString": ""
+        },
+        "IdleAnimation": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "OpenAnimation": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "FlameMeshes": [
+          {
+            "AssetPathName": "/Game/Player/ThirdPerson/Mesh/Jetpacks/J_52_Oliver/SM_FB52_Oliver_flame.SM_FB52_Oliver_flame",
+            "SubPathString": ""
+          }
+        ],
+        "DefaultMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/MI_Oliver_04.MI_Oliver_04",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::Jetpack",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Rare",
+        "ID": 23,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Oliver"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "24": {
+        "Mesh": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/Jetpacks/J_56_Miner/SK_FB56_Miner.SK_FB56_Miner",
+          "SubPathString": ""
+        },
+        "IdleAnimation": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "OpenAnimation": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "FlameMeshes": [
+          {
+            "AssetPathName": "/Game/Player/ThirdPerson/Mesh/Jetpacks/J_56_Miner/SM_FB56_Miner_Flame.SM_FB56_Miner_Flame",
+            "SubPathString": ""
+          }
+        ],
+        "DefaultMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/MI_Miner_05.MI_Miner_05",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::Jetpack",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 24,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "HandsOnJack"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "25": {
+        "Mesh": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/Jetpacks/J_71_Explorer/SK_FB71_Explorer.SK_FB71_Explorer",
+          "SubPathString": ""
+        },
+        "IdleAnimation": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "OpenAnimation": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/Jetpacks/J_71_Explorer/Explorer_J_Open.Explorer_J_Open",
+          "SubPathString": ""
+        },
+        "FlameMeshes": [
+          {
+            "AssetPathName": "/Game/Player/ThirdPerson/Mesh/Jetpacks/J_71_Explorer/SM_FB71_Explorer_Flame.SM_FB71_Explorer_Flame",
+            "SubPathString": ""
+          }
+        ],
+        "DefaultMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/M_Exp_02.M_Exp_02",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::Jetpack",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Rare",
+        "ID": 25,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Ferdinand"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "26": {
+        "Mesh": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/Jetpacks/J_73_Baba/SK_FB73_Baba.SK_FB73_Baba",
+          "SubPathString": ""
+        },
+        "IdleAnimation": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/Jetpacks/J_73_Baba/FB73_Baba_Idle.FB73_Baba_Idle",
+          "SubPathString": ""
+        },
+        "OpenAnimation": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/Jetpacks/J_73_Baba/FB73_Baba_Active.FB73_Baba_Active",
+          "SubPathString": ""
+        },
+        "FlameMeshes": [
+          {
+            "AssetPathName": "/Game/Player/ThirdPerson/Mesh/Jetpacks/J_73_Baba/SM_FB73_Baba_Eyes.SM_FB73_Baba_Eyes",
+            "SubPathString": ""
+          },
+          {
+            "AssetPathName": "/Game/Player/ThirdPerson/Mesh/Jetpacks/J_73_Baba/SM_FB73_Baba_Flame.SM_FB73_Baba_Flame",
+            "SubPathString": ""
+          }
+        ],
+        "DefaultMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/M_Baba_01.M_Baba_01",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::Jetpack",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 26,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "BabaYaga"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "27": {
+        "Mesh": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/Jetpacks/J_58_Maximus/SK_FB58_Maximus.SK_FB58_Maximus",
+          "SubPathString": ""
+        },
+        "IdleAnimation": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "OpenAnimation": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/Jetpacks/J_58_Maximus/Maximus_Active_Anim.Maximus_Active_Anim",
+          "SubPathString": ""
+        },
+        "FlameMeshes": [
+          {
+            "AssetPathName": "/Game/Player/ThirdPerson/Mesh/Jetpacks/J_58_Maximus/SM_FB58_Maximus_Flame.SM_FB58_Maximus_Flame",
+            "SubPathString": ""
+          }
+        ],
+        "DefaultMaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/M_Cardinal_05.M_Cardinal_05",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::Jetpack",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 27,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Maximus"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "28": {
+        "Mesh": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "IdleAnimation": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "OpenAnimation": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "FlameMeshes": [],
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::Jetpack",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 28,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Adam"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "29": {
+        "Mesh": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "IdleAnimation": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "OpenAnimation": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "FlameMeshes": [],
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::Jetpack",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 29,
+        "DisplayName": {
+          "CultureInvariantString": "Murice"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      }
+    }
+  }
+]

@@ -1,0 +1,4496 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "TextureSets",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class SkinTextureSetData",
+        "ObjectPath": "/Script/PortalWarsGlobals"
+      }
+    },
+    "Rows": {
+      "1": {
+        "CustomizationType": "ECustomizationType::Armor",
+        "MeshName": "Toxic",
+        "TextureSetName": "Set1",
+        "Slots": [
+          {
+            "SlotName": "H_41",
+            "Textures": null
+          },
+          {
+            "SlotName": "L_41",
+            "Textures": null
+          },
+          {
+            "SlotName": "T_41",
+            "Textures": null
+          }
+        ]
+      },
+      "2": {
+        "CustomizationType": "ECustomizationType::Armor",
+        "MeshName": "Toxic",
+        "TextureSetName": "Set2",
+        "Slots": [
+          {
+            "SlotName": "H_41",
+            "Textures": null
+          },
+          {
+            "SlotName": "L_41",
+            "Textures": null
+          },
+          {
+            "SlotName": "T_41",
+            "Textures": null
+          }
+        ]
+      },
+      "3": {
+        "CustomizationType": "ECustomizationType::Armor",
+        "MeshName": "Toxic",
+        "TextureSetName": "Set3",
+        "Slots": [
+          {
+            "SlotName": "H_41",
+            "Textures": null
+          },
+          {
+            "SlotName": "L_41",
+            "Textures": null
+          },
+          {
+            "SlotName": "T_41",
+            "Textures": null
+          }
+        ]
+      },
+      "4": {
+        "CustomizationType": "ECustomizationType::Armor",
+        "MeshName": "Toxic",
+        "TextureSetName": "Set4",
+        "Slots": [
+          {
+            "SlotName": "H_41",
+            "Textures": null
+          },
+          {
+            "SlotName": "L_41",
+            "Textures": null
+          },
+          {
+            "SlotName": "T_41",
+            "Textures": null
+          }
+        ]
+      },
+      "5": {
+        "CustomizationType": "ECustomizationType::Armor",
+        "MeshName": "Marshall",
+        "TextureSetName": "Set1",
+        "Slots": [
+          {
+            "SlotName": "H_47",
+            "Textures": null
+          },
+          {
+            "SlotName": "L_47",
+            "Textures": null
+          },
+          {
+            "SlotName": "T_47",
+            "Textures": null
+          }
+        ]
+      },
+      "6": {
+        "CustomizationType": "ECustomizationType::Armor",
+        "MeshName": "Marshall",
+        "TextureSetName": "Set2",
+        "Slots": [
+          {
+            "SlotName": "H_47",
+            "Textures": null
+          },
+          {
+            "SlotName": "L_47",
+            "Textures": null
+          },
+          {
+            "SlotName": "T_47",
+            "Textures": null
+          }
+        ]
+      },
+      "7": {
+        "CustomizationType": "ECustomizationType::Armor",
+        "MeshName": "Marshall",
+        "TextureSetName": "Set3",
+        "Slots": [
+          {
+            "SlotName": "H_47",
+            "Textures": null
+          },
+          {
+            "SlotName": "L_47",
+            "Textures": null
+          },
+          {
+            "SlotName": "T_47",
+            "Textures": null
+          }
+        ]
+      },
+      "8": {
+        "CustomizationType": "ECustomizationType::Armor",
+        "MeshName": "Marshall",
+        "TextureSetName": "Set4",
+        "Slots": [
+          {
+            "SlotName": "H_47",
+            "Textures": null
+          },
+          {
+            "SlotName": "L_47",
+            "Textures": null
+          },
+          {
+            "SlotName": "T_47",
+            "Textures": null
+          }
+        ]
+      },
+      "9": {
+        "CustomizationType": "ECustomizationType::Armor",
+        "MeshName": "Gigabot",
+        "TextureSetName": "Set1",
+        "Slots": [
+          {
+            "SlotName": "H_44",
+            "Textures": null
+          },
+          {
+            "SlotName": "L_44",
+            "Textures": null
+          },
+          {
+            "SlotName": "T_44",
+            "Textures": null
+          }
+        ]
+      },
+      "10": {
+        "CustomizationType": "ECustomizationType::Armor",
+        "MeshName": "Gigabot",
+        "TextureSetName": "Set2",
+        "Slots": [
+          {
+            "SlotName": "H_44",
+            "Textures": null
+          },
+          {
+            "SlotName": "L_44",
+            "Textures": null
+          },
+          {
+            "SlotName": "T_44",
+            "Textures": null
+          }
+        ]
+      },
+      "11": {
+        "CustomizationType": "ECustomizationType::Armor",
+        "MeshName": "Gigabot",
+        "TextureSetName": "Set3",
+        "Slots": [
+          {
+            "SlotName": "H_44",
+            "Textures": null
+          },
+          {
+            "SlotName": "L_44",
+            "Textures": null
+          },
+          {
+            "SlotName": "T_44",
+            "Textures": null
+          }
+        ]
+      },
+      "12": {
+        "CustomizationType": "ECustomizationType::Armor",
+        "MeshName": "Gigabot",
+        "TextureSetName": "Set4",
+        "Slots": [
+          {
+            "SlotName": "H_44",
+            "Textures": null
+          },
+          {
+            "SlotName": "L_44",
+            "Textures": null
+          },
+          {
+            "SlotName": "T_44",
+            "Textures": null
+          }
+        ]
+      },
+      "13": {
+        "CustomizationType": "ECustomizationType::Armor",
+        "MeshName": "Rexy",
+        "TextureSetName": "Set1",
+        "Slots": [
+          {
+            "SlotName": "H_43",
+            "Textures": null
+          },
+          {
+            "SlotName": "L_43",
+            "Textures": null
+          },
+          {
+            "SlotName": "T_43",
+            "Textures": null
+          }
+        ]
+      },
+      "14": {
+        "CustomizationType": "ECustomizationType::Armor",
+        "MeshName": "Rexy",
+        "TextureSetName": "Set2",
+        "Slots": [
+          {
+            "SlotName": "H_43",
+            "Textures": null
+          },
+          {
+            "SlotName": "L_43",
+            "Textures": null
+          },
+          {
+            "SlotName": "T_43",
+            "Textures": null
+          }
+        ]
+      },
+      "15": {
+        "CustomizationType": "ECustomizationType::Armor",
+        "MeshName": "Rexy",
+        "TextureSetName": "Set3",
+        "Slots": [
+          {
+            "SlotName": "H_43",
+            "Textures": null
+          },
+          {
+            "SlotName": "L_43",
+            "Textures": null
+          },
+          {
+            "SlotName": "T_43",
+            "Textures": null
+          }
+        ]
+      },
+      "16": {
+        "CustomizationType": "ECustomizationType::Armor",
+        "MeshName": "Rexy",
+        "TextureSetName": "Set4",
+        "Slots": [
+          {
+            "SlotName": "H_43",
+            "Textures": null
+          },
+          {
+            "SlotName": "L_43",
+            "Textures": null
+          },
+          {
+            "SlotName": "T_43",
+            "Textures": null
+          }
+        ]
+      },
+      "17": {
+        "CustomizationType": "ECustomizationType::Armor",
+        "MeshName": "Tinhead",
+        "TextureSetName": "Set1",
+        "Slots": [
+          {
+            "SlotName": "H_42",
+            "Textures": null
+          },
+          {
+            "SlotName": "L_42",
+            "Textures": null
+          },
+          {
+            "SlotName": "T_42",
+            "Textures": null
+          }
+        ]
+      },
+      "18": {
+        "CustomizationType": "ECustomizationType::Armor",
+        "MeshName": "Tinhead",
+        "TextureSetName": "Set2",
+        "Slots": [
+          {
+            "SlotName": "H_42",
+            "Textures": null
+          },
+          {
+            "SlotName": "L_42",
+            "Textures": null
+          },
+          {
+            "SlotName": "T_42",
+            "Textures": null
+          }
+        ]
+      },
+      "19": {
+        "CustomizationType": "ECustomizationType::Armor",
+        "MeshName": "Tinhead",
+        "TextureSetName": "Set3",
+        "Slots": [
+          {
+            "SlotName": "H_42",
+            "Textures": null
+          },
+          {
+            "SlotName": "L_42",
+            "Textures": null
+          },
+          {
+            "SlotName": "T_42",
+            "Textures": null
+          }
+        ]
+      },
+      "20": {
+        "CustomizationType": "ECustomizationType::Armor",
+        "MeshName": "Tinhead",
+        "TextureSetName": "Set4",
+        "Slots": [
+          {
+            "SlotName": "H_42",
+            "Textures": null
+          },
+          {
+            "SlotName": "L_42",
+            "Textures": null
+          },
+          {
+            "SlotName": "T_42",
+            "Textures": null
+          }
+        ]
+      },
+      "21": {
+        "CustomizationType": "ECustomizationType::Armor",
+        "MeshName": "Volta",
+        "TextureSetName": "Set1",
+        "Slots": [
+          {
+            "SlotName": "H_36",
+            "Textures": null
+          },
+          {
+            "SlotName": "L_36",
+            "Textures": null
+          },
+          {
+            "SlotName": "T_36",
+            "Textures": null
+          }
+        ]
+      },
+      "22": {
+        "CustomizationType": "ECustomizationType::Armor",
+        "MeshName": "Volta",
+        "TextureSetName": "Set2",
+        "Slots": [
+          {
+            "SlotName": "H_36",
+            "Textures": null
+          },
+          {
+            "SlotName": "L_36",
+            "Textures": null
+          },
+          {
+            "SlotName": "T_36",
+            "Textures": null
+          }
+        ]
+      },
+      "23": {
+        "CustomizationType": "ECustomizationType::Armor",
+        "MeshName": "Volta",
+        "TextureSetName": "Set3",
+        "Slots": [
+          {
+            "SlotName": "H_36",
+            "Textures": null
+          },
+          {
+            "SlotName": "L_36",
+            "Textures": null
+          },
+          {
+            "SlotName": "T_36",
+            "Textures": null
+          }
+        ]
+      },
+      "24": {
+        "CustomizationType": "ECustomizationType::Armor",
+        "MeshName": "Volta",
+        "TextureSetName": "Set4",
+        "Slots": [
+          {
+            "SlotName": "H_36",
+            "Textures": null
+          },
+          {
+            "SlotName": "L_36",
+            "Textures": null
+          },
+          {
+            "SlotName": "T_36",
+            "Textures": null
+          }
+        ]
+      },
+      "25": {
+        "CustomizationType": "ECustomizationType::Armor",
+        "MeshName": "Deadeye",
+        "TextureSetName": "Legendary",
+        "Slots": [
+          {
+            "SlotName": "H_45",
+            "Textures": null
+          },
+          {
+            "SlotName": "T_45",
+            "Textures": null
+          },
+          {
+            "SlotName": "L_45",
+            "Textures": null
+          }
+        ]
+      },
+      "26": {
+        "CustomizationType": "ECustomizationType::Armor",
+        "MeshName": "Chance",
+        "TextureSetName": "Legendary",
+        "Slots": [
+          {
+            "SlotName": "H_48",
+            "Textures": null
+          },
+          {
+            "SlotName": "T_48",
+            "Textures": null
+          },
+          {
+            "SlotName": "L_48",
+            "Textures": null
+          }
+        ]
+      },
+      "27": {
+        "CustomizationType": "ECustomizationType::Armor",
+        "MeshName": "Firlock",
+        "TextureSetName": "Legendary",
+        "Slots": [
+          {
+            "SlotName": "H_49",
+            "Textures": null
+          },
+          {
+            "SlotName": "T_49",
+            "Textures": null
+          }
+        ]
+      },
+      "28": {
+        "CustomizationType": "ECustomizationType::Armor",
+        "MeshName": "Lucky",
+        "TextureSetName": "Legendary",
+        "Slots": [
+          {
+            "SlotName": "H_50",
+            "Textures": null
+          },
+          {
+            "SlotName": "T_50",
+            "Textures": null
+          },
+          {
+            "SlotName": "L_50",
+            "Textures": null
+          }
+        ]
+      },
+      "29": {
+        "CustomizationType": "ECustomizationType::Armor",
+        "MeshName": "Tusk",
+        "TextureSetName": "Legendary",
+        "Slots": [
+          {
+            "SlotName": "H_51",
+            "Textures": null
+          },
+          {
+            "SlotName": "T_51",
+            "Textures": null
+          },
+          {
+            "SlotName": "L_51",
+            "Textures": null
+          }
+        ]
+      },
+      "30": {
+        "CustomizationType": "ECustomizationType::Armor",
+        "MeshName": "Oliver",
+        "TextureSetName": "Legendary",
+        "Slots": [
+          {
+            "SlotName": "H_52",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Player/ThirdPerson/Textures/FB52_Oliver/Legendary/H_52_A.H_52_A",
+                "SubPathString": ""
+              }
+            }
+          },
+          {
+            "SlotName": "T_52",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Player/ThirdPerson/Textures/FB52_Oliver/Legendary/T_52_A.T_52_A",
+                "SubPathString": ""
+              }
+            }
+          },
+          {
+            "SlotName": "L_52",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Player/ThirdPerson/Textures/FB52_Oliver/Legendary/L_52_A.L_52_A",
+                "SubPathString": ""
+              }
+            }
+          }
+        ]
+      },
+      "31": {
+        "CustomizationType": "ECustomizationType::Armor",
+        "MeshName": "Rexy",
+        "TextureSetName": "Legendary",
+        "Slots": [
+          {
+            "SlotName": "H_43",
+            "Textures": null
+          },
+          {
+            "SlotName": "T_43",
+            "Textures": null
+          },
+          {
+            "SlotName": "L_43",
+            "Textures": null
+          }
+        ]
+      },
+      "32": {
+        "CustomizationType": "ECustomizationType::Armor",
+        "MeshName": "Gigabot",
+        "TextureSetName": "Legendary",
+        "Slots": [
+          {
+            "SlotName": "H_44",
+            "Textures": null
+          },
+          {
+            "SlotName": "L_44",
+            "Textures": null
+          },
+          {
+            "SlotName": "T_44",
+            "Textures": null
+          }
+        ]
+      },
+      "33": {
+        "CustomizationType": "ECustomizationType::Armor",
+        "MeshName": "Deadeye",
+        "TextureSetName": "Set1",
+        "Slots": [
+          {
+            "SlotName": "H_45",
+            "Textures": null
+          },
+          {
+            "SlotName": "T_45",
+            "Textures": null
+          },
+          {
+            "SlotName": "L_45",
+            "Textures": null
+          }
+        ]
+      },
+      "34": {
+        "CustomizationType": "ECustomizationType::DMR",
+        "MeshName": "ScifiV2",
+        "TextureSetName": "Scifi",
+        "Slots": [
+          {
+            "SlotName": "DMR_Rear",
+            "Textures": {
+              "ColorMask": {
+                "AssetPathName": "/Game/Weapons/DMR/Textures/Legendary/Scifi/Original/Rear_RGB.Rear_RGB",
+                "SubPathString": ""
+              }
+            }
+          },
+          {
+            "SlotName": "DMR_Front",
+            "Textures": {
+              "ColorMask": {
+                "AssetPathName": "/Game/Weapons/DMR/Textures/Legendary/Scifi/Original/Front_RGB.Front_RGB",
+                "SubPathString": ""
+              }
+            }
+          },
+          {
+            "SlotName": "DMR_Pad",
+            "Textures": {
+              "ColorMask": {
+                "AssetPathName": "/Game/Weapons/DMR/Textures/Legendary/Scifi/Original/Pad_RGB.Pad_RGB",
+                "SubPathString": ""
+              }
+            }
+          },
+          {
+            "SlotName": "DMR_Scope",
+            "Textures": {
+              "ColorMask": {
+                "AssetPathName": "/Game/Weapons/DMR/Textures/Legendary/Scifi/Original/Scope_RGB.Scope_RGB",
+                "SubPathString": ""
+              }
+            }
+          }
+        ]
+      },
+      "35": {
+        "CustomizationType": "ECustomizationType::Shotgun",
+        "MeshName": "Shoctopus",
+        "TextureSetName": "Default",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": null
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": null
+          }
+        ]
+      },
+      "36": {
+        "CustomizationType": "ECustomizationType::RocketLauncher",
+        "MeshName": "Crikey",
+        "TextureSetName": "Default",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": null
+          },
+          {
+            "SlotName": "Mid",
+            "Textures": null
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": null
+          }
+        ]
+      },
+      "37": {
+        "CustomizationType": "ECustomizationType::DMR",
+        "MeshName": "Hoot",
+        "TextureSetName": "Default",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": null
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": null
+          },
+          {
+            "SlotName": "Scope",
+            "Textures": null
+          },
+          {
+            "SlotName": "Pad",
+            "Textures": null
+          }
+        ]
+      },
+      "38": {
+        "CustomizationType": "ECustomizationType::DMR",
+        "MeshName": "Slimey",
+        "TextureSetName": "Default",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": null
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": null
+          },
+          {
+            "SlotName": "Scope",
+            "Textures": null
+          },
+          {
+            "SlotName": "Pad",
+            "Textures": null
+          }
+        ]
+      },
+      "39": {
+        "CustomizationType": "ECustomizationType::Bat",
+        "MeshName": "Cobb",
+        "TextureSetName": "Default",
+        "Slots": [
+          {
+            "SlotName": "Bat",
+            "Textures": null
+          }
+        ]
+      },
+      "40": {
+        "CustomizationType": "ECustomizationType::Pistol",
+        "MeshName": "Unicorn",
+        "TextureSetName": "Default",
+        "Slots": [
+          {
+            "SlotName": "Pistol",
+            "Textures": null
+          }
+        ]
+      },
+      "41": {
+        "CustomizationType": "ECustomizationType::Pistol",
+        "MeshName": "Snake",
+        "TextureSetName": "Default",
+        "Slots": [
+          {
+            "SlotName": "Pistol",
+            "Textures": null
+          }
+        ]
+      },
+      "42": {
+        "CustomizationType": "ECustomizationType::Pistol",
+        "MeshName": "Sharks",
+        "TextureSetName": "Default",
+        "Slots": [
+          {
+            "SlotName": "Pistol",
+            "Textures": null
+          }
+        ]
+      },
+      "43": {
+        "CustomizationType": "ECustomizationType::PlasmaRifle",
+        "MeshName": "Dead Velvet",
+        "TextureSetName": "Default",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": null
+          },
+          {
+            "SlotName": "Mid",
+            "Textures": null
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": null
+          }
+        ]
+      },
+      "45": {
+        "CustomizationType": "ECustomizationType::PlasmaRifle",
+        "MeshName": "Default",
+        "TextureSetName": "Green Dragon",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": null
+          },
+          {
+            "SlotName": "Mid",
+            "Textures": null
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": null
+          }
+        ]
+      },
+      "46": {
+        "CustomizationType": "ECustomizationType::BattleRifle",
+        "MeshName": "Kingdom",
+        "TextureSetName": "Default",
+        "Slots": [
+          {
+            "SlotName": "Top",
+            "Textures": null
+          },
+          {
+            "SlotName": "Under",
+            "Textures": null
+          }
+        ]
+      },
+      "47": {
+        "CustomizationType": "ECustomizationType::SMG",
+        "MeshName": "Default",
+        "TextureSetName": "Kingdom",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": null
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": null
+          },
+          {
+            "SlotName": "Holo",
+            "Textures": null
+          }
+        ]
+      },
+      "48": {
+        "CustomizationType": "ECustomizationType::SMG",
+        "MeshName": "Default",
+        "TextureSetName": "Wildfire",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": null
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": null
+          },
+          {
+            "SlotName": "Holo",
+            "Textures": null
+          }
+        ]
+      },
+      "49": {
+        "CustomizationType": "ECustomizationType::Shotgun",
+        "MeshName": "Necron",
+        "TextureSetName": "Necro",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": null
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": null
+          }
+        ]
+      },
+      "50": {
+        "CustomizationType": "ECustomizationType::DMR",
+        "MeshName": "Necron",
+        "TextureSetName": "Necro",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": null
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": null
+          },
+          {
+            "SlotName": "Scope",
+            "Textures": null
+          },
+          {
+            "SlotName": "Pad",
+            "Textures": null
+          }
+        ]
+      },
+      "51": {
+        "CustomizationType": "ECustomizationType::PlasmaRifle",
+        "MeshName": "Necron",
+        "TextureSetName": "Necro",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": null
+          },
+          {
+            "SlotName": "Mid",
+            "Textures": null
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": null
+          }
+        ]
+      },
+      "52": {
+        "CustomizationType": "ECustomizationType::Pistol",
+        "MeshName": "Default",
+        "TextureSetName": "Racer",
+        "Slots": [
+          {
+            "SlotName": "Pistol",
+            "Textures": null
+          }
+        ]
+      },
+      "53": {
+        "CustomizationType": "ECustomizationType::Pistol",
+        "MeshName": "Default",
+        "TextureSetName": "Lockdown",
+        "Slots": [
+          {
+            "SlotName": "Pistol",
+            "Textures": null
+          }
+        ]
+      },
+      "54": {
+        "CustomizationType": "ECustomizationType::Armor",
+        "MeshName": "Ironside",
+        "TextureSetName": "Legendary",
+        "Slots": [
+          {
+            "SlotName": "FB53_H",
+            "Textures": null
+          },
+          {
+            "SlotName": "FB53_L",
+            "Textures": null
+          },
+          {
+            "SlotName": "FB53_T",
+            "Textures": null
+          }
+        ]
+      },
+      "55": {
+        "CustomizationType": "ECustomizationType::Armor",
+        "MeshName": "Skullbones",
+        "TextureSetName": "Halloween",
+        "Slots": [
+          {
+            "SlotName": "H_07",
+            "Textures": null
+          },
+          {
+            "SlotName": "T_07",
+            "Textures": null
+          },
+          {
+            "SlotName": "L_07",
+            "Textures": null
+          }
+        ]
+      },
+      "56": {
+        "CustomizationType": "ECustomizationType::Armor",
+        "MeshName": "Skullbones",
+        "TextureSetName": "Tin",
+        "Slots": [
+          {
+            "SlotName": "H_07",
+            "Textures": null
+          },
+          {
+            "SlotName": "T_07",
+            "Textures": null
+          },
+          {
+            "SlotName": "L_07",
+            "Textures": null
+          }
+        ]
+      },
+      "57": {
+        "CustomizationType": "ECustomizationType::Armor",
+        "MeshName": "Skullbones",
+        "TextureSetName": "Jacky",
+        "Slots": [
+          {
+            "SlotName": "FB07_H",
+            "Textures": null
+          },
+          {
+            "SlotName": "FB07_T",
+            "Textures": null
+          },
+          {
+            "SlotName": "FB07_L",
+            "Textures": null
+          }
+        ]
+      },
+      "58": {
+        "CustomizationType": "ECustomizationType::PlasmaRifle",
+        "MeshName": "Pagan",
+        "TextureSetName": "PaganV2",
+        "Slots": [
+          {
+            "SlotName": "Pagan_Screen",
+            "Textures": null
+          },
+          {
+            "SlotName": "Front",
+            "Textures": null
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": null
+          },
+          {
+            "SlotName": "Mid",
+            "Textures": null
+          }
+        ]
+      },
+      "59": {
+        "CustomizationType": "ECustomizationType::Pistol",
+        "MeshName": "Default",
+        "TextureSetName": "Sealife",
+        "Slots": [
+          {
+            "SlotName": "Pistol",
+            "Textures": null
+          }
+        ]
+      },
+      "60": {
+        "CustomizationType": "ECustomizationType::Armor",
+        "MeshName": "Hands On Jack",
+        "TextureSetName": "Legendary",
+        "Slots": [
+          {
+            "SlotName": "H_56",
+            "Textures": null
+          },
+          {
+            "SlotName": "T_56",
+            "Textures": null
+          },
+          {
+            "SlotName": "L_56",
+            "Textures": null
+          }
+        ]
+      },
+      "61": {
+        "CustomizationType": "ECustomizationType::Armor",
+        "MeshName": "Henrick",
+        "TextureSetName": "Legendary",
+        "Slots": [
+          {
+            "SlotName": "FB57_H",
+            "Textures": null
+          },
+          {
+            "SlotName": "FB57_T",
+            "Textures": null
+          },
+          {
+            "SlotName": "FB57_L",
+            "Textures": null
+          }
+        ]
+      },
+      "62": {
+        "CustomizationType": "ECustomizationType::Jetpack",
+        "MeshName": "Stinger",
+        "TextureSetName": "Legendary",
+        "Slots": [
+          {
+            "SlotName": "Jetpack",
+            "Textures": null
+          }
+        ]
+      },
+      "63": {
+        "CustomizationType": "ECustomizationType::Armor",
+        "MeshName": "Bard",
+        "TextureSetName": "Legendary",
+        "Slots": [
+          {
+            "SlotName": "FB59_H",
+            "Textures": null
+          },
+          {
+            "SlotName": "FB59_T",
+            "Textures": null
+          },
+          {
+            "SlotName": "FB59_L",
+            "Textures": null
+          }
+        ]
+      },
+      "64": {
+        "CustomizationType": "ECustomizationType::AssaultRifle",
+        "MeshName": "Steampunk",
+        "TextureSetName": "Legendary",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": null
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": null
+          }
+        ]
+      },
+      "65": {
+        "CustomizationType": "ECustomizationType::Pistol",
+        "MeshName": "Default",
+        "TextureSetName": "Sprinkles",
+        "Slots": [
+          {
+            "SlotName": "Pistol",
+            "Textures": null
+          }
+        ]
+      },
+      "66": {
+        "CustomizationType": "ECustomizationType::AssaultRifle",
+        "MeshName": "Default",
+        "TextureSetName": "Sealife",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": null
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": null
+          }
+        ]
+      },
+      "67": {
+        "CustomizationType": "ECustomizationType::AssaultRifle",
+        "MeshName": "Default",
+        "TextureSetName": "Lockdown",
+        "Slots": [
+          {
+            "SlotName": "Rear",
+            "Textures": null
+          },
+          {
+            "SlotName": "Front",
+            "Textures": null
+          }
+        ]
+      },
+      "68": {
+        "CustomizationType": "ECustomizationType::AssaultRifle",
+        "MeshName": "Default",
+        "TextureSetName": "Sprinkles",
+        "Slots": [
+          {
+            "SlotName": "Rear",
+            "Textures": null
+          },
+          {
+            "SlotName": "Front",
+            "Textures": null
+          }
+        ]
+      },
+      "69": {
+        "CustomizationType": "ECustomizationType::AssaultRifle",
+        "MeshName": "Default",
+        "TextureSetName": "Racer",
+        "Slots": [
+          {
+            "SlotName": "Rear",
+            "Textures": null
+          },
+          {
+            "SlotName": "Front",
+            "Textures": null
+          }
+        ]
+      },
+      "70": {
+        "CustomizationType": "ECustomizationType::RocketLauncher",
+        "MeshName": "Default",
+        "TextureSetName": "Laim",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": null
+          },
+          {
+            "SlotName": "Mid",
+            "Textures": null
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": null
+          }
+        ]
+      },
+      "71": {
+        "CustomizationType": "ECustomizationType::Railgun",
+        "MeshName": "Default",
+        "TextureSetName": "Laim",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": null
+          },
+          {
+            "SlotName": "Mid",
+            "Textures": null
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": null
+          }
+        ]
+      },
+      "72": {
+        "CustomizationType": "ECustomizationType::SMG",
+        "MeshName": "Default",
+        "TextureSetName": "Laim",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": null
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": null
+          }
+        ]
+      },
+      "73": {
+        "CustomizationType": "ECustomizationType::Bat",
+        "MeshName": "Default",
+        "TextureSetName": "Laim",
+        "Slots": [
+          {
+            "SlotName": "Bat",
+            "Textures": null
+          }
+        ]
+      },
+      "74": {
+        "CustomizationType": "ECustomizationType::Armor",
+        "MeshName": "Lu'e",
+        "TextureSetName": "Legendary",
+        "Slots": [
+          {
+            "SlotName": "H_62",
+            "Textures": null
+          },
+          {
+            "SlotName": "T_62",
+            "Textures": null
+          },
+          {
+            "SlotName": "L_62",
+            "Textures": null
+          }
+        ]
+      },
+      "75": {
+        "CustomizationType": "ECustomizationType::AssaultRifle",
+        "MeshName": "Shark",
+        "TextureSetName": "Shark",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": null
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": null
+          }
+        ]
+      },
+      "76": {
+        "CustomizationType": "ECustomizationType::BattleRifle",
+        "MeshName": "Shark",
+        "TextureSetName": "Shark",
+        "Slots": [
+          {
+            "SlotName": "Top",
+            "Textures": null
+          },
+          {
+            "SlotName": "Under",
+            "Textures": null
+          }
+        ]
+      },
+      "77": {
+        "CustomizationType": "ECustomizationType::Shotgun",
+        "MeshName": "Shark",
+        "TextureSetName": "Shark",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": null
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": null
+          }
+        ]
+      },
+      "78": {
+        "CustomizationType": "ECustomizationType::Armor",
+        "MeshName": "Aqua",
+        "TextureSetName": "Legendary",
+        "Slots": [
+          {
+            "SlotName": "T_61",
+            "Textures": null
+          },
+          {
+            "SlotName": "H_61",
+            "Textures": null
+          }
+        ]
+      },
+      "79": {
+        "CustomizationType": "ECustomizationType::AssaultRifle",
+        "MeshName": "Default",
+        "TextureSetName": "Lego",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": null
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": null
+          }
+        ]
+      },
+      "80": {
+        "CustomizationType": "ECustomizationType::Pistol",
+        "MeshName": "Default",
+        "TextureSetName": "Electric",
+        "Slots": [
+          {
+            "SlotName": "Pistol",
+            "Textures": null
+          }
+        ]
+      },
+      "81": {
+        "CustomizationType": "ECustomizationType::Shotgun",
+        "MeshName": "Default",
+        "TextureSetName": "Electric",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": null
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": null
+          }
+        ]
+      },
+      "82": {
+        "CustomizationType": "ECustomizationType::Sniper",
+        "MeshName": "Default",
+        "TextureSetName": "Electric",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": null
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": null
+          }
+        ]
+      },
+      "83": {
+        "CustomizationType": "ECustomizationType::BattleRifle",
+        "MeshName": "Default",
+        "TextureSetName": "BlueFlower",
+        "Slots": [
+          {
+            "SlotName": "Top",
+            "Textures": null
+          },
+          {
+            "SlotName": "Under",
+            "Textures": null
+          }
+        ]
+      },
+      "84": {
+        "CustomizationType": "ECustomizationType::Railgun",
+        "MeshName": "Default",
+        "TextureSetName": "BlueFlower",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": null
+          },
+          {
+            "SlotName": "Mid",
+            "Textures": null
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": null
+          }
+        ]
+      },
+      "85": {
+        "CustomizationType": "ECustomizationType::SMG",
+        "MeshName": "Default",
+        "TextureSetName": "BlueFlower",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": null
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": null
+          }
+        ]
+      },
+      "86": {
+        "CustomizationType": "ECustomizationType::DMR",
+        "MeshName": "Xmas",
+        "TextureSetName": "Xmas",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": null
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": null
+          },
+          {
+            "SlotName": "Scope",
+            "Textures": null
+          }
+        ]
+      },
+      "87": {
+        "CustomizationType": "ECustomizationType::BattleRifle",
+        "MeshName": "Xmas",
+        "TextureSetName": "Xmas",
+        "Slots": [
+          {
+            "SlotName": "Top",
+            "Textures": null
+          },
+          {
+            "SlotName": "Under",
+            "Textures": null
+          }
+        ]
+      },
+      "88": {
+        "CustomizationType": "ECustomizationType::BattleRifle",
+        "MeshName": "Default",
+        "TextureSetName": "Haze",
+        "Slots": [
+          {
+            "SlotName": "Top",
+            "Textures": null
+          },
+          {
+            "SlotName": "Under",
+            "Textures": null
+          }
+        ]
+      },
+      "89": {
+        "CustomizationType": "ECustomizationType::DMR",
+        "MeshName": "Molten",
+        "TextureSetName": "Ice",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": null
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": null
+          }
+        ]
+      },
+      "90": {
+        "CustomizationType": "ECustomizationType::BattleRifle",
+        "MeshName": "Default",
+        "TextureSetName": "Racer",
+        "Slots": [
+          {
+            "SlotName": "Top",
+            "Textures": null
+          },
+          {
+            "SlotName": "Under",
+            "Textures": null
+          }
+        ]
+      },
+      "91": {
+        "CustomizationType": "ECustomizationType::DMR",
+        "MeshName": "Default",
+        "TextureSetName": "Racer",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": null
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": null
+          },
+          {
+            "SlotName": "Scope",
+            "Textures": null
+          }
+        ]
+      },
+      "92": {
+        "CustomizationType": "ECustomizationType::DMR",
+        "MeshName": "Default",
+        "TextureSetName": "Haze",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": null
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": null
+          },
+          {
+            "SlotName": "Scope",
+            "Textures": null
+          }
+        ]
+      },
+      "93": {
+        "CustomizationType": "ECustomizationType::Armor",
+        "MeshName": "Lu'e",
+        "TextureSetName": "Trim",
+        "Slots": [
+          {
+            "SlotName": "T_62",
+            "Textures": null
+          },
+          {
+            "SlotName": "L_62",
+            "Textures": null
+          }
+        ]
+      },
+      "94": {
+        "CustomizationType": "ECustomizationType::BattleRifle",
+        "MeshName": "Default",
+        "TextureSetName": "Sealife",
+        "Slots": [
+          {
+            "SlotName": "Top",
+            "Textures": null
+          },
+          {
+            "SlotName": "Under",
+            "Textures": null
+          }
+        ]
+      },
+      "95": {
+        "CustomizationType": "ECustomizationType::Armor",
+        "MeshName": "Music Head",
+        "TextureSetName": "Music",
+        "Slots": [
+          {
+            "SlotName": "H_60",
+            "Textures": null
+          }
+        ]
+      },
+      "96": {
+        "CustomizationType": "ECustomizationType::BattleRifle",
+        "MeshName": "Default",
+        "TextureSetName": "Sprinkles",
+        "Slots": [
+          {
+            "SlotName": "Top",
+            "Textures": null
+          },
+          {
+            "SlotName": "Under",
+            "Textures": null
+          }
+        ]
+      },
+      "97": {
+        "CustomizationType": "ECustomizationType::Armor",
+        "MeshName": "Sasha",
+        "TextureSetName": "BW",
+        "Slots": [
+          {
+            "SlotName": "H_69",
+            "Textures": null
+          },
+          {
+            "SlotName": "L_69",
+            "Textures": null
+          },
+          {
+            "SlotName": "T_69",
+            "Textures": null
+          }
+        ]
+      },
+      "98": {
+        "CustomizationType": "ECustomizationType::Shotgun",
+        "MeshName": "Lines",
+        "TextureSetName": "Line",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": null
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": null
+          }
+        ]
+      },
+      "99": {
+        "CustomizationType": "ECustomizationType::Railgun",
+        "MeshName": "Lines",
+        "TextureSetName": "Line",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": null
+          },
+          {
+            "SlotName": "Mid",
+            "Textures": null
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": null
+          }
+        ]
+      },
+      "100": {
+        "CustomizationType": "ECustomizationType::PlasmaRifle",
+        "MeshName": "Lines",
+        "TextureSetName": "Line",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": null
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": null
+          },
+          {
+            "SlotName": "Mid",
+            "Textures": null
+          }
+        ]
+      },
+      "101": {
+        "CustomizationType": "ECustomizationType::SMG",
+        "MeshName": "Default",
+        "TextureSetName": "Poker",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": null
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": null
+          },
+          {
+            "SlotName": "Holo",
+            "Textures": null
+          }
+        ]
+      },
+      "102": {
+        "CustomizationType": "ECustomizationType::AssaultRifle",
+        "MeshName": "Aquascape",
+        "TextureSetName": "Aqua",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": null
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": null
+          }
+        ]
+      },
+      "103": {
+        "CustomizationType": "ECustomizationType::Railgun",
+        "MeshName": "Aquascape",
+        "TextureSetName": "Aqua",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": null
+          },
+          {
+            "SlotName": "Mid",
+            "Textures": null
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": null
+          }
+        ]
+      },
+      "104": {
+        "CustomizationType": "ECustomizationType::RocketLauncher",
+        "MeshName": "Aquascape",
+        "TextureSetName": "Aqua",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": null
+          },
+          {
+            "SlotName": "Mid",
+            "Textures": null
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": null
+          }
+        ]
+      },
+      "105": {
+        "CustomizationType": "ECustomizationType::DMR",
+        "MeshName": "Toy",
+        "TextureSetName": "Toy",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": null
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": null
+          }
+        ]
+      },
+      "106": {
+        "CustomizationType": "ECustomizationType::PlasmaRifle",
+        "MeshName": "Milk",
+        "TextureSetName": "Milk",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": null
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": null
+          },
+          {
+            "SlotName": "Mid",
+            "Textures": null
+          }
+        ]
+      },
+      "107": {
+        "CustomizationType": "ECustomizationType::Railgun",
+        "MeshName": "Milk",
+        "TextureSetName": "Milk",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": null
+          },
+          {
+            "SlotName": "Mid",
+            "Textures": null
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": null
+          }
+        ]
+      },
+      "108": {
+        "CustomizationType": "ECustomizationType::RocketLauncher",
+        "MeshName": "Milk",
+        "TextureSetName": "Milk",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": null
+          },
+          {
+            "SlotName": "Mid",
+            "Textures": null
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": null
+          }
+        ]
+      },
+      "109": {
+        "CustomizationType": "ECustomizationType::PlasmaRifle",
+        "MeshName": "Medieval",
+        "TextureSetName": "Medieval",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": null
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": null
+          },
+          {
+            "SlotName": "Mid",
+            "Textures": null
+          }
+        ]
+      },
+      "110": {
+        "CustomizationType": "ECustomizationType::SMG",
+        "MeshName": "Medieval",
+        "TextureSetName": "Medieval",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": null
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": null
+          },
+          {
+            "SlotName": "Holo",
+            "Textures": null
+          }
+        ]
+      },
+      "111": {
+        "CustomizationType": "ECustomizationType::RocketLauncher",
+        "MeshName": "Medieval",
+        "TextureSetName": "Medieval",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": null
+          },
+          {
+            "SlotName": "Mid",
+            "Textures": null
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": null
+          }
+        ]
+      },
+      "112": {
+        "CustomizationType": "ECustomizationType::Armor",
+        "MeshName": "Ferdinand",
+        "TextureSetName": "Explorer",
+        "Slots": [
+          {
+            "SlotName": "L_71",
+            "Textures": null
+          },
+          {
+            "SlotName": "T_71",
+            "Textures": null
+          }
+        ]
+      },
+      "113": {
+        "CustomizationType": "ECustomizationType::Armor",
+        "MeshName": "Ironside",
+        "TextureSetName": "CM",
+        "Slots": [
+          {
+            "SlotName": "FB53_H",
+            "Textures": null
+          },
+          {
+            "SlotName": "FB53_L",
+            "Textures": null
+          },
+          {
+            "SlotName": "FB53_T",
+            "Textures": null
+          }
+        ]
+      },
+      "114": {
+        "CustomizationType": "ECustomizationType::Armor",
+        "MeshName": "Paladin",
+        "TextureSetName": "Dude",
+        "Slots": [
+          {
+            "SlotName": "A_75",
+            "Textures": null
+          },
+          {
+            "SlotName": "T_75",
+            "Textures": null
+          },
+          {
+            "SlotName": "L_75",
+            "Textures": null
+          },
+          {
+            "SlotName": "H_75",
+            "Textures": null
+          }
+        ]
+      },
+      "115": {
+        "CustomizationType": "ECustomizationType::Jetpack",
+        "MeshName": "Paladin",
+        "TextureSetName": "Dude",
+        "Slots": [
+          {
+            "SlotName": "J_75",
+            "Textures": null
+          }
+        ]
+      },
+      "116": {
+        "CustomizationType": "ECustomizationType::Pistol",
+        "MeshName": "Default",
+        "TextureSetName": "Evergreen",
+        "Slots": [
+          {
+            "SlotName": "Pistol",
+            "Textures": null
+          }
+        ]
+      },
+      "117": {
+        "CustomizationType": "ECustomizationType::Pistol",
+        "MeshName": "Default",
+        "TextureSetName": "RabidA",
+        "Slots": [
+          {
+            "SlotName": "Pistol",
+            "Textures": null
+          }
+        ]
+      },
+      "118": {
+        "CustomizationType": "ECustomizationType::Pistol",
+        "MeshName": "Default",
+        "TextureSetName": "RabidB",
+        "Slots": [
+          {
+            "SlotName": "Pistol",
+            "Textures": null
+          }
+        ]
+      },
+      "119": {
+        "CustomizationType": "ECustomizationType::Pistol",
+        "MeshName": "Default",
+        "TextureSetName": "ESportsA",
+        "Slots": [
+          {
+            "SlotName": "Pistol",
+            "Textures": null
+          }
+        ]
+      },
+      "120": {
+        "CustomizationType": "ECustomizationType::Pistol",
+        "MeshName": "Default",
+        "TextureSetName": "ESportsB",
+        "Slots": [
+          {
+            "SlotName": "Pistol",
+            "Textures": null
+          }
+        ]
+      },
+      "121": {
+        "CustomizationType": "ECustomizationType::Pistol",
+        "MeshName": "Default",
+        "TextureSetName": "ESportsC",
+        "Slots": [
+          {
+            "SlotName": "Pistol",
+            "Textures": null
+          }
+        ]
+      },
+      "122": {
+        "CustomizationType": "ECustomizationType::Pistol",
+        "MeshName": "Default",
+        "TextureSetName": "ESportsD",
+        "Slots": [
+          {
+            "SlotName": "Pistol",
+            "Textures": null
+          }
+        ]
+      },
+      "123": {
+        "CustomizationType": "ECustomizationType::Pistol",
+        "MeshName": "Default",
+        "TextureSetName": "ESportsE",
+        "Slots": [
+          {
+            "SlotName": "Pistol",
+            "Textures": null
+          }
+        ]
+      },
+      "124": {
+        "CustomizationType": "ECustomizationType::Pistol",
+        "MeshName": "Default",
+        "TextureSetName": "PantherB",
+        "Slots": [
+          {
+            "SlotName": "Pistol",
+            "Textures": null
+          }
+        ]
+      },
+      "125": {
+        "CustomizationType": "ECustomizationType::Pistol",
+        "MeshName": "Default",
+        "TextureSetName": "PantherA",
+        "Slots": [
+          {
+            "SlotName": "Pistol",
+            "Textures": null
+          }
+        ]
+      },
+      "126": {
+        "CustomizationType": "ECustomizationType::Pistol",
+        "MeshName": "Default",
+        "TextureSetName": "Bird",
+        "Slots": [
+          {
+            "SlotName": "Pistol",
+            "Textures": null
+          }
+        ]
+      },
+      "127": {
+        "CustomizationType": "ECustomizationType::Pistol",
+        "MeshName": "Default",
+        "TextureSetName": "Egypt",
+        "Slots": [
+          {
+            "SlotName": "Pistol",
+            "Textures": null
+          }
+        ]
+      },
+      "128": {
+        "CustomizationType": "ECustomizationType::AssaultRifle",
+        "MeshName": "Default",
+        "TextureSetName": "DrD",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": null
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": null
+          }
+        ]
+      },
+      "129": {
+        "CustomizationType": "ECustomizationType::AssaultRifle",
+        "MeshName": "Default",
+        "TextureSetName": "Shroud",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": null
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": null
+          }
+        ]
+      },
+      "130": {
+        "CustomizationType": "ECustomizationType::AssaultRifle",
+        "MeshName": "Default",
+        "TextureSetName": "Zeus",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": null
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": null
+          }
+        ]
+      },
+      "131": {
+        "CustomizationType": "ECustomizationType::Bat",
+        "MeshName": "Default",
+        "TextureSetName": "DrD",
+        "Slots": [
+          {
+            "SlotName": "Bat",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/Bat/Textures/Legendary/DrD/Bat_A.Bat_A",
+                "SubPathString": ""
+              }
+            }
+          }
+        ]
+      },
+      "132": {
+        "CustomizationType": "ECustomizationType::Bat",
+        "MeshName": "Default",
+        "TextureSetName": "Shroud",
+        "Slots": [
+          {
+            "SlotName": "Bat",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/Bat/Textures/Legendary/Shroud/Bat_A.Bat_A",
+                "SubPathString": ""
+              }
+            }
+          }
+        ]
+      },
+      "133": {
+        "CustomizationType": "ECustomizationType::BattleRifle",
+        "MeshName": "Default",
+        "TextureSetName": "Zeus",
+        "Slots": [
+          {
+            "SlotName": "Top",
+            "Textures": null
+          },
+          {
+            "SlotName": "Under",
+            "Textures": null
+          }
+        ]
+      },
+      "134": {
+        "CustomizationType": "ECustomizationType::BattleRifle",
+        "MeshName": "Default",
+        "TextureSetName": "DrD",
+        "Slots": [
+          {
+            "SlotName": "Top",
+            "Textures": null
+          },
+          {
+            "SlotName": "Under",
+            "Textures": null
+          }
+        ]
+      },
+      "135": {
+        "CustomizationType": "ECustomizationType::BattleRifle",
+        "MeshName": "Default",
+        "TextureSetName": "Hannya",
+        "Slots": [
+          {
+            "SlotName": "Top",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/BattleRifle/Textures/Legendary/Hannya/BR_Top_A.BR_Top_A",
+                "SubPathString": ""
+              }
+            }
+          },
+          {
+            "SlotName": "Under",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/BattleRifle/Textures/Legendary/Hannya/MI_BR_Under_Base_A.MI_BR_Under_Base_A",
+                "SubPathString": ""
+              }
+            }
+          }
+        ]
+      },
+      "136": {
+        "CustomizationType": "ECustomizationType::BattleRifle",
+        "MeshName": "Default",
+        "TextureSetName": "Shroud",
+        "Slots": [
+          {
+            "SlotName": "Top",
+            "Textures": null
+          },
+          {
+            "SlotName": "Under",
+            "Textures": null
+          }
+        ]
+      },
+      "137": {
+        "CustomizationType": "ECustomizationType::DMR",
+        "MeshName": "Default",
+        "TextureSetName": "Zeus",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": null
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": null
+          },
+          {
+            "SlotName": "Scope",
+            "Textures": null
+          }
+        ]
+      },
+      "138": {
+        "CustomizationType": "ECustomizationType::DMR",
+        "MeshName": "Default",
+        "TextureSetName": "DrD",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": null
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": null
+          },
+          {
+            "SlotName": "Scope",
+            "Textures": null
+          }
+        ]
+      },
+      "139": {
+        "CustomizationType": "ECustomizationType::DMR",
+        "MeshName": "Default",
+        "TextureSetName": "Shroud",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": null
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": null
+          },
+          {
+            "SlotName": "Scope",
+            "Textures": null
+          }
+        ]
+      },
+      "140": {
+        "CustomizationType": "ECustomizationType::DMR",
+        "MeshName": "Default",
+        "TextureSetName": "Hannya",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/DMR/Textures/Legendary/Hannya/DMR_Front_Mat_A.DMR_Front_Mat_A",
+                "SubPathString": ""
+              }
+            }
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/DMR/Textures/Legendary/Hannya/DMR_Rear_Mat_A.DMR_Rear_Mat_A",
+                "SubPathString": ""
+              }
+            }
+          },
+          {
+            "SlotName": "Scope",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/DMR/Textures/Legendary/Hannya/DMR_Scope_A.DMR_Scope_A",
+                "SubPathString": ""
+              }
+            }
+          }
+        ]
+      },
+      "141": {
+        "CustomizationType": "ECustomizationType::Pistol",
+        "MeshName": "Default",
+        "TextureSetName": "Zeus",
+        "Slots": [
+          {
+            "SlotName": "Pistol",
+            "Textures": null
+          }
+        ]
+      },
+      "142": {
+        "CustomizationType": "ECustomizationType::Pistol",
+        "MeshName": "Default",
+        "TextureSetName": "DrD",
+        "Slots": [
+          {
+            "SlotName": "Pistol",
+            "Textures": null
+          }
+        ]
+      },
+      "143": {
+        "CustomizationType": "ECustomizationType::Pistol",
+        "MeshName": "Default",
+        "TextureSetName": "Shroud",
+        "Slots": [
+          {
+            "SlotName": "Pistol",
+            "Textures": null
+          }
+        ]
+      },
+      "144": {
+        "CustomizationType": "ECustomizationType::Pistol",
+        "MeshName": "Default",
+        "TextureSetName": "Hannya",
+        "Slots": [
+          {
+            "SlotName": "Pistol",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/Pistol/Textures/Legendary/Hannya/M_Pistol_Custom_Inst_A.M_Pistol_Custom_Inst_A",
+                "SubPathString": ""
+              }
+            }
+          }
+        ]
+      },
+      "145": {
+        "CustomizationType": "ECustomizationType::PlasmaRifle",
+        "MeshName": "Default",
+        "TextureSetName": "Zeus",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": null
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": null
+          },
+          {
+            "SlotName": "Mid",
+            "Textures": null
+          }
+        ]
+      },
+      "146": {
+        "CustomizationType": "ECustomizationType::PlasmaRifle",
+        "MeshName": "Default",
+        "TextureSetName": "DrD",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": null
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": null
+          },
+          {
+            "SlotName": "Mid",
+            "Textures": null
+          }
+        ]
+      },
+      "147": {
+        "CustomizationType": "ECustomizationType::PlasmaRifle",
+        "MeshName": "Default",
+        "TextureSetName": "Shroud",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": null
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": null
+          },
+          {
+            "SlotName": "Mid",
+            "Textures": null
+          }
+        ]
+      },
+      "148": {
+        "CustomizationType": "ECustomizationType::PlasmaRifle",
+        "MeshName": "Default",
+        "TextureSetName": "Hannya",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/PlasmaRifle/Textures/Legendary/Hannya/PR_Front_A.PR_Front_A",
+                "SubPathString": ""
+              }
+            }
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/PlasmaRifle/Textures/Legendary/Hannya/PR_Rear_A.PR_Rear_A",
+                "SubPathString": ""
+              }
+            }
+          },
+          {
+            "SlotName": "Mid",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/PlasmaRifle/Textures/Legendary/Hannya/PR_Mid_A.PR_Mid_A",
+                "SubPathString": ""
+              }
+            }
+          }
+        ]
+      },
+      "149": {
+        "CustomizationType": "ECustomizationType::Railgun",
+        "MeshName": "Default",
+        "TextureSetName": "Zeus",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": null
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": null
+          },
+          {
+            "SlotName": "Mid",
+            "Textures": null
+          }
+        ]
+      },
+      "150": {
+        "CustomizationType": "ECustomizationType::Railgun",
+        "MeshName": "Default",
+        "TextureSetName": "DrD",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": null
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": null
+          },
+          {
+            "SlotName": "Mid",
+            "Textures": null
+          }
+        ]
+      },
+      "151": {
+        "CustomizationType": "ECustomizationType::Railgun",
+        "MeshName": "Default",
+        "TextureSetName": "Shroud",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": null
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": null
+          },
+          {
+            "SlotName": "Mid",
+            "Textures": null
+          }
+        ]
+      },
+      "152": {
+        "CustomizationType": "ECustomizationType::Railgun",
+        "MeshName": "Default",
+        "TextureSetName": "Hannya",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/RailGun/Textures/Legendary/Hannya/RG_Front_A.RG_Front_A",
+                "SubPathString": ""
+              }
+            }
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/RailGun/Textures/Legendary/Hannya/RG_Rear_A.RG_Rear_A",
+                "SubPathString": ""
+              }
+            }
+          },
+          {
+            "SlotName": "Mid",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/RailGun/Textures/Legendary/Hannya/RG_Mid_A.RG_Mid_A",
+                "SubPathString": ""
+              }
+            }
+          }
+        ]
+      },
+      "153": {
+        "CustomizationType": "ECustomizationType::RocketLauncher",
+        "MeshName": "Default",
+        "TextureSetName": "Zeus",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": null
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": null
+          },
+          {
+            "SlotName": "Mid",
+            "Textures": null
+          }
+        ]
+      },
+      "154": {
+        "CustomizationType": "ECustomizationType::RocketLauncher",
+        "MeshName": "Default",
+        "TextureSetName": "DrD",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": null
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": null
+          },
+          {
+            "SlotName": "Mid",
+            "Textures": null
+          }
+        ]
+      },
+      "155": {
+        "CustomizationType": "ECustomizationType::RocketLauncher",
+        "MeshName": "Default",
+        "TextureSetName": "Shroud",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": null
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": null
+          },
+          {
+            "SlotName": "Mid",
+            "Textures": null
+          }
+        ]
+      },
+      "156": {
+        "CustomizationType": "ECustomizationType::RocketLauncher",
+        "MeshName": "Default",
+        "TextureSetName": "Hannya",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/RocketLauncher/Textures/Legendary/Hannya/T_RLFront_A.T_RLFront_A",
+                "SubPathString": ""
+              }
+            }
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/RocketLauncher/Textures/Legendary/Hannya/T_RLRear_A.T_RLRear_A",
+                "SubPathString": ""
+              }
+            }
+          },
+          {
+            "SlotName": "Mid",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/RocketLauncher/Textures/Legendary/Hannya/T_RLMid_A.T_RLMid_A",
+                "SubPathString": ""
+              }
+            }
+          }
+        ]
+      },
+      "157": {
+        "CustomizationType": "ECustomizationType::Shotgun",
+        "MeshName": "Default",
+        "TextureSetName": "Zeus",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": null
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": null
+          }
+        ]
+      },
+      "158": {
+        "CustomizationType": "ECustomizationType::Shotgun",
+        "MeshName": "Default",
+        "TextureSetName": "DrD",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": null
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": null
+          }
+        ]
+      },
+      "159": {
+        "CustomizationType": "ECustomizationType::Shotgun",
+        "MeshName": "Default",
+        "TextureSetName": "Shroud",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": null
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": null
+          }
+        ]
+      },
+      "160": {
+        "CustomizationType": "ECustomizationType::Shotgun",
+        "MeshName": "Default",
+        "TextureSetName": "Hannya",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/Shotgun/Textures/Legendary/Hannya/SG_Front_A.SG_Front_A",
+                "SubPathString": ""
+              }
+            }
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/Shotgun/Textures/Legendary/Hannya/SG_Rear_A.SG_Rear_A",
+                "SubPathString": ""
+              }
+            }
+          }
+        ]
+      },
+      "161": {
+        "CustomizationType": "ECustomizationType::SMG",
+        "MeshName": "Default",
+        "TextureSetName": "Zeus",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": null
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": null
+          },
+          {
+            "SlotName": "Holo",
+            "Textures": null
+          }
+        ]
+      },
+      "162": {
+        "CustomizationType": "ECustomizationType::SMG",
+        "MeshName": "Default",
+        "TextureSetName": "DrD",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": null
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": null
+          },
+          {
+            "SlotName": "Holo",
+            "Textures": null
+          }
+        ]
+      },
+      "163": {
+        "CustomizationType": "ECustomizationType::SMG",
+        "MeshName": "Default",
+        "TextureSetName": "Shroud",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": null
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": null
+          },
+          {
+            "SlotName": "Holo",
+            "Textures": null
+          }
+        ]
+      },
+      "164": {
+        "CustomizationType": "ECustomizationType::SMG",
+        "MeshName": "Default",
+        "TextureSetName": "Hannya",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/SMG/Textures/Legendary/Hannya/MI_SMG_Front_A.MI_SMG_Front_A",
+                "SubPathString": ""
+              }
+            }
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/SMG/Textures/Legendary/Hannya/MI_SMG_Rear_A.MI_SMG_Rear_A",
+                "SubPathString": ""
+              }
+            }
+          },
+          {
+            "SlotName": "Holo",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/SMG/Textures/Legendary/Hannya/MI_SMG_Holosight_A.MI_SMG_Holosight_A",
+                "SubPathString": ""
+              }
+            }
+          }
+        ]
+      },
+      "165": {
+        "CustomizationType": "ECustomizationType::Sniper",
+        "MeshName": "Default",
+        "TextureSetName": "Zeus",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": null
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": null
+          }
+        ]
+      },
+      "166": {
+        "CustomizationType": "ECustomizationType::Sniper",
+        "MeshName": "Default",
+        "TextureSetName": "DrD",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": null
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": null
+          }
+        ]
+      },
+      "167": {
+        "CustomizationType": "ECustomizationType::Sniper",
+        "MeshName": "Default",
+        "TextureSetName": "Shroud",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": null
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": null
+          }
+        ]
+      },
+      "168": {
+        "CustomizationType": "ECustomizationType::Sniper",
+        "MeshName": "Default",
+        "TextureSetName": "Hannya",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/SniperRifle/Textures/Legendary/Hannya/MI_Sniper_Front_A.MI_Sniper_Front_A",
+                "SubPathString": ""
+              }
+            }
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/SniperRifle/Textures/Legendary/Hannya/MI_Sniper_Rear_A.MI_Sniper_Rear_A",
+                "SubPathString": ""
+              }
+            }
+          }
+        ]
+      },
+      "169": {
+        "CustomizationType": "ECustomizationType::AssaultRifle",
+        "MeshName": "Default",
+        "TextureSetName": "Hannya",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/AssaultRifle/Textures/Legendary/Hannya/MI_AR_Front_A.MI_AR_Front_A",
+                "SubPathString": ""
+              }
+            }
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/AssaultRifle/Textures/Legendary/Hannya/MI_AR_Rear_A.MI_AR_Rear_A",
+                "SubPathString": ""
+              }
+            }
+          }
+        ]
+      },
+      "170": {
+        "CustomizationType": "ECustomizationType::BattleRifle",
+        "MeshName": "Macro",
+        "TextureSetName": "Macro",
+        "Slots": [
+          {
+            "SlotName": "Top",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/BattleRifle/Textures/Legendary/Macro/BR_Top_A.BR_Top_A",
+                "SubPathString": ""
+              }
+            }
+          },
+          {
+            "SlotName": "Under",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/BattleRifle/Textures/Legendary/Macro/BR_Under_A.BR_Under_A",
+                "SubPathString": ""
+              }
+            }
+          }
+        ]
+      },
+      "171": {
+        "CustomizationType": "ECustomizationType::DMR",
+        "MeshName": "Macro",
+        "TextureSetName": "Macro",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/DMR/Textures/Legendary/Macro/DMR_Front_A.DMR_Front_A",
+                "SubPathString": ""
+              }
+            }
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/DMR/Textures/Legendary/Macro/DMR_Rear_A.DMR_Rear_A",
+                "SubPathString": ""
+              }
+            }
+          },
+          {
+            "SlotName": "Scope",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/DMR/Textures/Legendary/Macro/DMR_Scope_A.DMR_Scope_A",
+                "SubPathString": ""
+              }
+            }
+          }
+        ]
+      },
+      "172": {
+        "CustomizationType": "ECustomizationType::Pistol",
+        "MeshName": "Macro",
+        "TextureSetName": "Macro",
+        "Slots": [
+          {
+            "SlotName": "Pistol",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/Pistol/Textures/Legendary/Macro/MI_Pistol_A.MI_Pistol_A",
+                "SubPathString": ""
+              }
+            }
+          }
+        ]
+      },
+      "173": {
+        "CustomizationType": "ECustomizationType::PlasmaRifle",
+        "MeshName": "Macro",
+        "TextureSetName": "Macro",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/PlasmaRifle/Textures/Legendary/Macro/PR_Front_A.PR_Front_A",
+                "SubPathString": ""
+              }
+            }
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/PlasmaRifle/Textures/Legendary/Macro/PR_Rear_A.PR_Rear_A",
+                "SubPathString": ""
+              }
+            }
+          },
+          {
+            "SlotName": "Mid",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/PlasmaRifle/Textures/Legendary/Macro/PR_Mid_A.PR_Mid_A",
+                "SubPathString": ""
+              }
+            }
+          }
+        ]
+      },
+      "174": {
+        "CustomizationType": "ECustomizationType::Railgun",
+        "MeshName": "Macro",
+        "TextureSetName": "Macro",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/RailGun/Textures/Legendary/Macro/RG_Front_A.RG_Front_A",
+                "SubPathString": ""
+              }
+            }
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/RailGun/Textures/Legendary/Macro/RG_Rear_A.RG_Rear_A",
+                "SubPathString": ""
+              }
+            }
+          },
+          {
+            "SlotName": "Mid",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/RailGun/Textures/Legendary/Macro/RG_Mid_A.RG_Mid_A",
+                "SubPathString": ""
+              }
+            }
+          }
+        ]
+      },
+      "175": {
+        "CustomizationType": "ECustomizationType::RocketLauncher",
+        "MeshName": "Macro",
+        "TextureSetName": "Macro",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/RocketLauncher/Textures/Legendary/Macro/T_RLFront_A.T_RLFront_A",
+                "SubPathString": ""
+              }
+            }
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/RocketLauncher/Textures/Legendary/Macro/T_RLRear_A.T_RLRear_A",
+                "SubPathString": ""
+              }
+            }
+          },
+          {
+            "SlotName": "Mid",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/RocketLauncher/Textures/Legendary/Macro/T_RLMid_A.T_RLMid_A",
+                "SubPathString": ""
+              }
+            }
+          }
+        ]
+      },
+      "176": {
+        "CustomizationType": "ECustomizationType::Shotgun",
+        "MeshName": "Macro",
+        "TextureSetName": "Macro",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/Shotgun/Textures/Legendary/Macro/SG_Front_A.SG_Front_A",
+                "SubPathString": ""
+              }
+            }
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/Shotgun/Textures/Legendary/Macro/SG_Rear_A.SG_Rear_A",
+                "SubPathString": ""
+              }
+            }
+          }
+        ]
+      },
+      "177": {
+        "CustomizationType": "ECustomizationType::SMG",
+        "MeshName": "Macro",
+        "TextureSetName": "Macro",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/SMG/Textures/Legendary/Macro/MI_SMG_Front_A.MI_SMG_Front_A",
+                "SubPathString": ""
+              }
+            }
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/SMG/Textures/Legendary/Macro/MI_SMG_Rear_A.MI_SMG_Rear_A",
+                "SubPathString": ""
+              }
+            }
+          },
+          {
+            "SlotName": "Holo",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/SMG/Textures/Legendary/Macro/MI_SMG_Holosight_A.MI_SMG_Holosight_A",
+                "SubPathString": ""
+              }
+            }
+          }
+        ]
+      },
+      "178": {
+        "CustomizationType": "ECustomizationType::Sniper",
+        "MeshName": "Macro",
+        "TextureSetName": "Macro",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/SniperRifle/Textures/Legendary/Macro/MI_Sniper_Front_A.MI_Sniper_Front_A",
+                "SubPathString": ""
+              }
+            }
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/SniperRifle/Textures/Legendary/Macro/MI_Sniper_Rear_A.MI_Sniper_Rear_A",
+                "SubPathString": ""
+              }
+            }
+          }
+        ]
+      },
+      "179": {
+        "CustomizationType": "ECustomizationType::AssaultRifle",
+        "MeshName": "Macro",
+        "TextureSetName": "Macro",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/AssaultRifle/Textures/Legendary/Macro/MI_AR_Front_A.MI_AR_Front_A",
+                "SubPathString": ""
+              }
+            }
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/AssaultRifle/Textures/Legendary/Macro/MI_AR_Rear_A.MI_AR_Rear_A",
+                "SubPathString": ""
+              }
+            }
+          }
+        ]
+      },
+      "180": {
+        "CustomizationType": "ECustomizationType::BattleRifle",
+        "MeshName": "Default",
+        "TextureSetName": "Merica",
+        "Slots": [
+          {
+            "SlotName": "Top",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/BattleRifle/Textures/Legendary/Merica/BR_Top_A.BR_Top_A",
+                "SubPathString": ""
+              }
+            }
+          },
+          {
+            "SlotName": "Under",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/BattleRifle/Textures/Legendary/Merica/BR_Under_A.BR_Under_A",
+                "SubPathString": ""
+              }
+            }
+          }
+        ]
+      },
+      "181": {
+        "CustomizationType": "ECustomizationType::DMR",
+        "MeshName": "Default",
+        "TextureSetName": "Merica",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/DMR/Textures/Legendary/Merica/DMR_Front_A.DMR_Front_A",
+                "SubPathString": ""
+              }
+            }
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/DMR/Textures/Legendary/Merica/DMR_Rear_A.DMR_Rear_A",
+                "SubPathString": ""
+              }
+            }
+          },
+          {
+            "SlotName": "Scope",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/DMR/Textures/Legendary/Merica/DMR_Scope_A.DMR_Scope_A",
+                "SubPathString": ""
+              }
+            }
+          }
+        ]
+      },
+      "182": {
+        "CustomizationType": "ECustomizationType::Pistol",
+        "MeshName": "Default",
+        "TextureSetName": "Merica",
+        "Slots": [
+          {
+            "SlotName": "Pistol",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/Pistol/Textures/Legendary/Merica/MI_Pistol_A.MI_Pistol_A",
+                "SubPathString": ""
+              }
+            }
+          }
+        ]
+      },
+      "183": {
+        "CustomizationType": "ECustomizationType::PlasmaRifle",
+        "MeshName": "Default",
+        "TextureSetName": "Merica",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/PlasmaRifle/Textures/Legendary/Merica/PR_Front_A.PR_Front_A",
+                "SubPathString": ""
+              }
+            }
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/PlasmaRifle/Textures/Legendary/Merica/PR_Rear_A.PR_Rear_A",
+                "SubPathString": ""
+              }
+            }
+          },
+          {
+            "SlotName": "Mid",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/PlasmaRifle/Textures/Legendary/Merica/PR_Mid_A.PR_Mid_A",
+                "SubPathString": ""
+              }
+            }
+          }
+        ]
+      },
+      "184": {
+        "CustomizationType": "ECustomizationType::Railgun",
+        "MeshName": "Default",
+        "TextureSetName": "Merica",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/RailGun/Textures/Legendary/Merica/RG_Front_A.RG_Front_A",
+                "SubPathString": ""
+              }
+            }
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/RailGun/Textures/Legendary/Merica/RG_Rear_A.RG_Rear_A",
+                "SubPathString": ""
+              }
+            }
+          },
+          {
+            "SlotName": "Mid",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/RailGun/Textures/Legendary/Merica/RG_Mid_A.RG_Mid_A",
+                "SubPathString": ""
+              }
+            }
+          }
+        ]
+      },
+      "185": {
+        "CustomizationType": "ECustomizationType::RocketLauncher",
+        "MeshName": "Default",
+        "TextureSetName": "Merica",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/RocketLauncher/Textures/Legendary/Merica/T_RLFront_A.T_RLFront_A",
+                "SubPathString": ""
+              }
+            }
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/RocketLauncher/Textures/Legendary/Merica/T_RLRear_A.T_RLRear_A",
+                "SubPathString": ""
+              }
+            }
+          },
+          {
+            "SlotName": "Mid",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/RocketLauncher/Textures/Legendary/Merica/T_RLMid_A.T_RLMid_A",
+                "SubPathString": ""
+              }
+            }
+          }
+        ]
+      },
+      "186": {
+        "CustomizationType": "ECustomizationType::Shotgun",
+        "MeshName": "Default",
+        "TextureSetName": "Merica",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/Shotgun/Textures/Legendary/Merica/SG_Front_A.SG_Front_A",
+                "SubPathString": ""
+              }
+            }
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/Shotgun/Textures/Legendary/Merica/SG_Rear_A.SG_Rear_A",
+                "SubPathString": ""
+              }
+            }
+          }
+        ]
+      },
+      "187": {
+        "CustomizationType": "ECustomizationType::SMG",
+        "MeshName": "Default",
+        "TextureSetName": "Merica",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/SMG/Textures/Legendary/Merica/MI_SMG_Front_A.MI_SMG_Front_A",
+                "SubPathString": ""
+              }
+            }
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/SMG/Textures/Legendary/Merica/MI_SMG_Rear_A.MI_SMG_Rear_A",
+                "SubPathString": ""
+              }
+            }
+          },
+          {
+            "SlotName": "Holo",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/SMG/Textures/Legendary/Merica/MI_SMG_Holosight_A.MI_SMG_Holosight_A",
+                "SubPathString": ""
+              }
+            }
+          }
+        ]
+      },
+      "188": {
+        "CustomizationType": "ECustomizationType::Sniper",
+        "MeshName": "Default",
+        "TextureSetName": "Merica",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/SniperRifle/Textures/Legendary/Merica/MI_Sniper_Front_A.MI_Sniper_Front_A",
+                "SubPathString": ""
+              }
+            }
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/SniperRifle/Textures/Legendary/Merica/MI_Sniper_Rear_A.MI_Sniper_Rear_A",
+                "SubPathString": ""
+              }
+            }
+          }
+        ]
+      },
+      "189": {
+        "CustomizationType": "ECustomizationType::AssaultRifle",
+        "MeshName": "Default",
+        "TextureSetName": "Merica",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/AssaultRifle/Textures/Legendary/Merica/MI_AR_Front_A.MI_AR_Front_A",
+                "SubPathString": ""
+              }
+            }
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/AssaultRifle/Textures/Legendary/Merica/MI_AR_Rear_A.MI_AR_Rear_A",
+                "SubPathString": ""
+              }
+            }
+          }
+        ]
+      },
+      "190": {
+        "CustomizationType": "ECustomizationType::BattleRifle",
+        "MeshName": "Default",
+        "TextureSetName": "MOBO",
+        "Slots": [
+          {
+            "SlotName": "Top",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/BattleRifle/Textures/Legendary/MOBO/BR_Top_A.BR_Top_A",
+                "SubPathString": ""
+              }
+            }
+          },
+          {
+            "SlotName": "Under",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/BattleRifle/Textures/Legendary/MOBO/BR_Under_A.BR_Under_A",
+                "SubPathString": ""
+              }
+            }
+          }
+        ]
+      },
+      "191": {
+        "CustomizationType": "ECustomizationType::DMR",
+        "MeshName": "Default",
+        "TextureSetName": "MOBO",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/DMR/Textures/Legendary/MOBO/DMR_Front_A.DMR_Front_A",
+                "SubPathString": ""
+              }
+            }
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/DMR/Textures/Legendary/MOBO/DMR_Rear_A.DMR_Rear_A",
+                "SubPathString": ""
+              }
+            }
+          },
+          {
+            "SlotName": "Scope",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/DMR/Textures/Legendary/MOBO/DMR_Scope_A.DMR_Scope_A",
+                "SubPathString": ""
+              }
+            }
+          }
+        ]
+      },
+      "192": {
+        "CustomizationType": "ECustomizationType::Pistol",
+        "MeshName": "Default",
+        "TextureSetName": "MOBO",
+        "Slots": [
+          {
+            "SlotName": "Pistol",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/Pistol/Textures/Legendary/MOBO/MI_Pistol_A.MI_Pistol_A",
+                "SubPathString": ""
+              }
+            }
+          }
+        ]
+      },
+      "193": {
+        "CustomizationType": "ECustomizationType::PlasmaRifle",
+        "MeshName": "Default",
+        "TextureSetName": "MOBO",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/PlasmaRifle/Textures/Legendary/MOBO/PR_Front_A.PR_Front_A",
+                "SubPathString": ""
+              }
+            }
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/PlasmaRifle/Textures/Legendary/MOBO/PR_Rear_A.PR_Rear_A",
+                "SubPathString": ""
+              }
+            }
+          },
+          {
+            "SlotName": "Mid",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/PlasmaRifle/Textures/Legendary/MOBO/PR_Mid_A.PR_Mid_A",
+                "SubPathString": ""
+              }
+            }
+          }
+        ]
+      },
+      "194": {
+        "CustomizationType": "ECustomizationType::Railgun",
+        "MeshName": "Default",
+        "TextureSetName": "MOBO",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/RailGun/Textures/Legendary/MOBO/RG_Front_A.RG_Front_A",
+                "SubPathString": ""
+              }
+            }
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/RailGun/Textures/Legendary/MOBO/RG_Rear_A.RG_Rear_A",
+                "SubPathString": ""
+              }
+            }
+          },
+          {
+            "SlotName": "Mid",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/RailGun/Textures/Legendary/MOBO/RG_Mid_A.RG_Mid_A",
+                "SubPathString": ""
+              }
+            }
+          }
+        ]
+      },
+      "195": {
+        "CustomizationType": "ECustomizationType::RocketLauncher",
+        "MeshName": "Default",
+        "TextureSetName": "MOBO",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/RocketLauncher/Textures/Legendary/MOBO/T_RLFront_A.T_RLFront_A",
+                "SubPathString": ""
+              }
+            }
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/RocketLauncher/Textures/Legendary/MOBO/T_RLRear_A.T_RLRear_A",
+                "SubPathString": ""
+              }
+            }
+          },
+          {
+            "SlotName": "Mid",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/RocketLauncher/Textures/Legendary/MOBO/T_RLMid_A.T_RLMid_A",
+                "SubPathString": ""
+              }
+            }
+          }
+        ]
+      },
+      "196": {
+        "CustomizationType": "ECustomizationType::Shotgun",
+        "MeshName": "Default",
+        "TextureSetName": "MOBO",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/Shotgun/Textures/Legendary/MOBO/SG_Front_A.SG_Front_A",
+                "SubPathString": ""
+              }
+            }
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/Shotgun/Textures/Legendary/MOBO/SG_Rear_A.SG_Rear_A",
+                "SubPathString": ""
+              }
+            }
+          }
+        ]
+      },
+      "197": {
+        "CustomizationType": "ECustomizationType::SMG",
+        "MeshName": "Default",
+        "TextureSetName": "MOBO",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/SMG/Textures/Legendary/MOBO/MI_SMG_Front_A.MI_SMG_Front_A",
+                "SubPathString": ""
+              }
+            }
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/SMG/Textures/Legendary/MOBO/MI_SMG_Rear_A.MI_SMG_Rear_A",
+                "SubPathString": ""
+              }
+            }
+          },
+          {
+            "SlotName": "Holo",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/SMG/Textures/Legendary/MOBO/MI_SMG_Holosight_A.MI_SMG_Holosight_A",
+                "SubPathString": ""
+              }
+            }
+          }
+        ]
+      },
+      "198": {
+        "CustomizationType": "ECustomizationType::Sniper",
+        "MeshName": "Default",
+        "TextureSetName": "MOBO",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/SniperRifle/Textures/Legendary/MOBO/MI_Sniper_Front_A.MI_Sniper_Front_A",
+                "SubPathString": ""
+              }
+            }
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/SniperRifle/Textures/Legendary/MOBO/MI_Sniper_Rear_A.MI_Sniper_Rear_A",
+                "SubPathString": ""
+              }
+            }
+          }
+        ]
+      },
+      "199": {
+        "CustomizationType": "ECustomizationType::AssaultRifle",
+        "MeshName": "Default",
+        "TextureSetName": "MOBO",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/AssaultRifle/Textures/Legendary/MOBO/MI_AR_Front_A.MI_AR_Front_A",
+                "SubPathString": ""
+              }
+            }
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/AssaultRifle/Textures/Legendary/MOBO/MI_AR_Rear_A.MI_AR_Rear_A",
+                "SubPathString": ""
+              }
+            }
+          }
+        ]
+      },
+      "200": {
+        "CustomizationType": "ECustomizationType::BattleRifle",
+        "MeshName": "Summit",
+        "TextureSetName": "Summit",
+        "Slots": [
+          {
+            "SlotName": "Top",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/BattleRifle/Textures/Legendary/Summit/BR_Top_A.BR_Top_A",
+                "SubPathString": ""
+              }
+            }
+          },
+          {
+            "SlotName": "Under",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/BattleRifle/Textures/Legendary/Summit/BR_Under_A.BR_Under_A",
+                "SubPathString": ""
+              }
+            }
+          }
+        ]
+      },
+      "201": {
+        "CustomizationType": "ECustomizationType::DMR",
+        "MeshName": "Summit",
+        "TextureSetName": "Summit",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/DMR/Textures/Legendary/Summit/DMR_Front_A.DMR_Front_A",
+                "SubPathString": ""
+              }
+            }
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/DMR/Textures/Legendary/Summit/DMR_Rear_A.DMR_Rear_A",
+                "SubPathString": ""
+              }
+            }
+          },
+          {
+            "SlotName": "Scope",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/DMR/Textures/Legendary/Summit/DMR_Scope_A.DMR_Scope_A",
+                "SubPathString": ""
+              }
+            }
+          }
+        ]
+      },
+      "202": {
+        "CustomizationType": "ECustomizationType::Pistol",
+        "MeshName": "Summit",
+        "TextureSetName": "Summit",
+        "Slots": [
+          {
+            "SlotName": "Pistol",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/Pistol/Textures/Legendary/Summit/MI_Pistol_A.MI_Pistol_A",
+                "SubPathString": ""
+              }
+            }
+          }
+        ]
+      },
+      "203": {
+        "CustomizationType": "ECustomizationType::PlasmaRifle",
+        "MeshName": "Summit",
+        "TextureSetName": "Summit",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/PlasmaRifle/Textures/Legendary/Summit/PR_Front_A.PR_Front_A",
+                "SubPathString": ""
+              }
+            }
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/PlasmaRifle/Textures/Legendary/Summit/PR_Rear_A.PR_Rear_A",
+                "SubPathString": ""
+              }
+            }
+          },
+          {
+            "SlotName": "Mid",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/PlasmaRifle/Textures/Legendary/Summit/PR_Mid_A.PR_Mid_A",
+                "SubPathString": ""
+              }
+            }
+          }
+        ]
+      },
+      "204": {
+        "CustomizationType": "ECustomizationType::Railgun",
+        "MeshName": "Summit",
+        "TextureSetName": "Summit",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/RailGun/Textures/Legendary/Summit/RG_Front_A.RG_Front_A",
+                "SubPathString": ""
+              }
+            }
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/RailGun/Textures/Legendary/Summit/RG_Rear_A.RG_Rear_A",
+                "SubPathString": ""
+              }
+            }
+          },
+          {
+            "SlotName": "Mid",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/RailGun/Textures/Legendary/Summit/RG_Mid_A.RG_Mid_A",
+                "SubPathString": ""
+              }
+            }
+          }
+        ]
+      },
+      "205": {
+        "CustomizationType": "ECustomizationType::RocketLauncher",
+        "MeshName": "Summit",
+        "TextureSetName": "Summit",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/RocketLauncher/Textures/Legendary/Summit/T_RLFront_A.T_RLFront_A",
+                "SubPathString": ""
+              }
+            }
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/RocketLauncher/Textures/Legendary/Summit/T_RLRear_A.T_RLRear_A",
+                "SubPathString": ""
+              }
+            }
+          },
+          {
+            "SlotName": "Mid",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/RocketLauncher/Textures/Legendary/Summit/T_RLMid_A.T_RLMid_A",
+                "SubPathString": ""
+              }
+            }
+          }
+        ]
+      },
+      "206": {
+        "CustomizationType": "ECustomizationType::Shotgun",
+        "MeshName": "Summit",
+        "TextureSetName": "Summit",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/Shotgun/Textures/Legendary/Summit/SG_Front_A.SG_Front_A",
+                "SubPathString": ""
+              }
+            }
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/Shotgun/Textures/Legendary/Summit/SG_Rear_A.SG_Rear_A",
+                "SubPathString": ""
+              }
+            }
+          }
+        ]
+      },
+      "207": {
+        "CustomizationType": "ECustomizationType::SMG",
+        "MeshName": "Summit",
+        "TextureSetName": "Summit",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/SMG/Textures/Legendary/Summit/MI_SMG_Front_A.MI_SMG_Front_A",
+                "SubPathString": ""
+              }
+            }
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/SMG/Textures/Legendary/Summit/MI_SMG_Rear_A.MI_SMG_Rear_A",
+                "SubPathString": ""
+              }
+            }
+          },
+          {
+            "SlotName": "Holo",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/SMG/Textures/Legendary/Summit/MI_SMG_Holosight_A.MI_SMG_Holosight_A",
+                "SubPathString": ""
+              }
+            }
+          }
+        ]
+      },
+      "208": {
+        "CustomizationType": "ECustomizationType::Sniper",
+        "MeshName": "Summit",
+        "TextureSetName": "Summit",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/SniperRifle/Textures/Legendary/Summit/MI_Sniper_Front_A.MI_Sniper_Front_A",
+                "SubPathString": ""
+              }
+            }
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/SniperRifle/Textures/Legendary/Summit/MI_Sniper_Rear_A.MI_Sniper_Rear_A",
+                "SubPathString": ""
+              }
+            }
+          }
+        ]
+      },
+      "209": {
+        "CustomizationType": "ECustomizationType::AssaultRifle",
+        "MeshName": "Summit",
+        "TextureSetName": "Summit",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/AssaultRifle/Textures/Legendary/Summit/MI_AR_Front_A.MI_AR_Front_A",
+                "SubPathString": ""
+              }
+            }
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/AssaultRifle/Textures/Legendary/Summit/MI_AR_Rear_A.MI_AR_Rear_A",
+                "SubPathString": ""
+              }
+            }
+          }
+        ]
+      },
+      "210": {
+        "CustomizationType": "ECustomizationType::Bat",
+        "MeshName": "Default",
+        "TextureSetName": "Macro",
+        "Slots": [
+          {
+            "SlotName": "Bat",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/Bat/Textures/Legendary/Macro/Bat_A.Bat_A",
+                "SubPathString": ""
+              }
+            }
+          }
+        ]
+      },
+      "211": {
+        "CustomizationType": "ECustomizationType::Bat",
+        "MeshName": "Default",
+        "TextureSetName": "Summit",
+        "Slots": [
+          {
+            "SlotName": "Bat",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/Bat/Textures/Legendary/Summit/Bat_A.Bat_A",
+                "SubPathString": ""
+              }
+            }
+          }
+        ]
+      },
+      "212": {
+        "CustomizationType": "ECustomizationType::BattleRifle",
+        "MeshName": "Default",
+        "TextureSetName": "PS",
+        "Slots": [
+          {
+            "SlotName": "Top",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/BattleRifle/Textures/Legendary/PS/MI_BR_Top_Base_A.MI_BR_Top_Base_A",
+                "SubPathString": ""
+              }
+            }
+          },
+          {
+            "SlotName": "Under",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/BattleRifle/Textures/Legendary/PS/MI_BR_Under_Base_A.MI_BR_Under_Base_A",
+                "SubPathString": ""
+              }
+            }
+          }
+        ]
+      },
+      "213": {
+        "CustomizationType": "ECustomizationType::BattleRifle",
+        "MeshName": "Default",
+        "TextureSetName": "Xbox",
+        "Slots": [
+          {
+            "SlotName": "Top",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/BattleRifle/Textures/Legendary/Xbox/MI_BR_Top_Base_A.MI_BR_Top_Base_A",
+                "SubPathString": ""
+              }
+            }
+          },
+          {
+            "SlotName": "Under",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/BattleRifle/Textures/Legendary/Xbox/MI_BR_Under_Base_A.MI_BR_Under_Base_A",
+                "SubPathString": ""
+              }
+            }
+          }
+        ]
+      },
+      "214": {
+        "CustomizationType": "ECustomizationType::DMR",
+        "MeshName": "Default",
+        "TextureSetName": "PS",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/DMR/Textures/Legendary/PS/DMR_Front_A.DMR_Front_A",
+                "SubPathString": ""
+              }
+            }
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/DMR/Textures/Legendary/PS/DMR_Rear_A.DMR_Rear_A",
+                "SubPathString": ""
+              }
+            }
+          },
+          {
+            "SlotName": "Scope",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/DMR/Textures/Legendary/PS/DMR_Scope_A.DMR_Scope_A",
+                "SubPathString": ""
+              }
+            }
+          }
+        ]
+      },
+      "215": {
+        "CustomizationType": "ECustomizationType::DMR",
+        "MeshName": "Default",
+        "TextureSetName": "Xbox",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/DMR/Textures/Legendary/Xbox/DMR_Front_Mat_A.DMR_Front_Mat_A",
+                "SubPathString": ""
+              }
+            }
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/DMR/Textures/Legendary/Xbox/DMR_Rear_Mat_A.DMR_Rear_Mat_A",
+                "SubPathString": ""
+              }
+            }
+          },
+          {
+            "SlotName": "Scope",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/DMR/Textures/Legendary/Xbox/DMR_Scope_Mat_A.DMR_Scope_Mat_A",
+                "SubPathString": ""
+              }
+            }
+          }
+        ]
+      },
+      "216": {
+        "CustomizationType": "ECustomizationType::Pistol",
+        "MeshName": "Default",
+        "TextureSetName": "PS",
+        "Slots": [
+          {
+            "SlotName": "Pistol",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/Pistol/Textures/Legendary/PS/M_Pistol_Custom_Inst_A.M_Pistol_Custom_Inst_A",
+                "SubPathString": ""
+              }
+            }
+          }
+        ]
+      },
+      "217": {
+        "CustomizationType": "ECustomizationType::Pistol",
+        "MeshName": "Default",
+        "TextureSetName": "Xbox",
+        "Slots": [
+          {
+            "SlotName": "Pistol",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/Pistol/Textures/Legendary/Xbox/M_Pistol_Custom_Inst_A.M_Pistol_Custom_Inst_A",
+                "SubPathString": ""
+              }
+            }
+          }
+        ]
+      },
+      "218": {
+        "CustomizationType": "ECustomizationType::Armor",
+        "MeshName": "Toxic",
+        "TextureSetName": "PS",
+        "Slots": [
+          {
+            "SlotName": "H_41",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Player/ThirdPerson/Textures/FB41_Toxic/Legendary/PS/H_bio_A.H_bio_A",
+                "SubPathString": ""
+              }
+            }
+          },
+          {
+            "SlotName": "L_41",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Player/ThirdPerson/Textures/FB41_Toxic/Legendary/PS/L_bio_A.L_bio_A",
+                "SubPathString": ""
+              }
+            }
+          },
+          {
+            "SlotName": "T_41",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Player/ThirdPerson/Textures/FB41_Toxic/Legendary/PS/T_bio_A.T_bio_A",
+                "SubPathString": ""
+              }
+            }
+          }
+        ]
+      },
+      "219": {
+        "CustomizationType": "ECustomizationType::Armor",
+        "MeshName": "Toxic",
+        "TextureSetName": "Xbox",
+        "Slots": [
+          {
+            "SlotName": "H_41",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Player/ThirdPerson/Textures/FB41_Toxic/Legendary/Xbox/H_bio_A.H_bio_A",
+                "SubPathString": ""
+              }
+            }
+          },
+          {
+            "SlotName": "L_41",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Player/ThirdPerson/Textures/FB41_Toxic/Legendary/Xbox/L_bio_A.L_bio_A",
+                "SubPathString": ""
+              }
+            }
+          },
+          {
+            "SlotName": "T_41",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Player/ThirdPerson/Textures/FB41_Toxic/Legendary/Xbox/T_bio_A.T_bio_A",
+                "SubPathString": ""
+              }
+            }
+          }
+        ]
+      },
+      "220": {
+        "CustomizationType": "ECustomizationType::DMR",
+        "MeshName": "Default",
+        "TextureSetName": "Chroma",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": null
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": null
+          },
+          {
+            "SlotName": "Scope",
+            "Textures": null
+          }
+        ]
+      },
+      "221": {
+        "CustomizationType": "ECustomizationType::Pistol",
+        "MeshName": "Default",
+        "TextureSetName": "Chroma",
+        "Slots": [
+          {
+            "SlotName": "Pistol",
+            "Textures": null
+          }
+        ]
+      },
+      "222": {
+        "CustomizationType": "ECustomizationType::Pistol",
+        "MeshName": "Default",
+        "TextureSetName": "Chroma2",
+        "Slots": [
+          {
+            "SlotName": "Pistol",
+            "Textures": null
+          }
+        ]
+      },
+      "223": {
+        "CustomizationType": "ECustomizationType::Jetpack",
+        "MeshName": "Ferdinand",
+        "TextureSetName": "Rustic",
+        "Slots": [
+          {
+            "SlotName": "J_71",
+            "Textures": null
+          }
+        ]
+      },
+      "224": {
+        "CustomizationType": "ECustomizationType::Jetpack",
+        "MeshName": "Baba Yaga",
+        "TextureSetName": "Obsidian",
+        "Slots": [
+          {
+            "SlotName": "J_73",
+            "Textures": null
+          }
+        ]
+      },
+      "225": {
+        "CustomizationType": "ECustomizationType::DMR",
+        "MeshName": "Default",
+        "TextureSetName": "H_Bronze",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": null
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": null
+          },
+          {
+            "SlotName": "Scope",
+            "Textures": null
+          }
+        ]
+      },
+      "226": {
+        "CustomizationType": "ECustomizationType::DMR",
+        "MeshName": "Default",
+        "TextureSetName": "H_Silver",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": null
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": null
+          },
+          {
+            "SlotName": "Scope",
+            "Textures": null
+          }
+        ]
+      },
+      "227": {
+        "CustomizationType": "ECustomizationType::DMR",
+        "MeshName": "Default",
+        "TextureSetName": "H_Gold",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": null
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": null
+          },
+          {
+            "SlotName": "Scope",
+            "Textures": null
+          }
+        ]
+      },
+      "228": {
+        "CustomizationType": "ECustomizationType::DMR",
+        "MeshName": "Default",
+        "TextureSetName": "H_Purple",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": null
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": null
+          },
+          {
+            "SlotName": "Scope",
+            "Textures": null
+          }
+        ]
+      }
+    }
+  }
+]

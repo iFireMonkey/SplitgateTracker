@@ -1,0 +1,903 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "Skins_Portal",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class PortalCustomizationItem",
+        "ObjectPath": "/Script/PortalWarsGlobals"
+      },
+      "bIgnoreExtraFields": true,
+      "bIgnoreMissingFields": true
+    },
+    "Rows": {
+      "0": {
+        "Mesh": {
+          "AssetPathName": "/Game/Portals/Meshes/Portal_Plume.Portal_Plume",
+          "SubPathString": ""
+        },
+        "MaterialInstance": {
+          "AssetPathName": "/Game/Portals/Materials/Inner/MA_PortalInner_Plume.MA_PortalInner_Plume",
+          "SubPathString": ""
+        },
+        "RingMesh": {
+          "AssetPathName": "/Game/Portals/Meshes/Portal_Frames/SM_PortalRing_Plume.SM_PortalRing_Plume",
+          "SubPathString": ""
+        },
+        "RingMaterialInstance": {
+          "AssetPathName": "/Game/Portals/Materials/Ring/Portal_Plume_Plume.Portal_Plume_Plume",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Portal",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Default",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 0,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Default"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "12": {
+        "Mesh": {
+          "AssetPathName": "/Game/Portals/Meshes/Portal_Lazer.Portal_Lazer",
+          "SubPathString": ""
+        },
+        "MaterialInstance": {
+          "AssetPathName": "/Game/Portals/Materials/Inner/MA_PortalInner_Lazer.MA_PortalInner_Lazer",
+          "SubPathString": ""
+        },
+        "RingMesh": {
+          "AssetPathName": "/Game/Portals/Meshes/Portal_Frames/SM_PortalRing_Lazer.SM_PortalRing_Lazer",
+          "SubPathString": ""
+        },
+        "RingMaterialInstance": {
+          "AssetPathName": "/Game/Portals/Materials/Ring/MA_PortalRing_Lazer.MA_PortalRing_Lazer",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Portal",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Rare",
+        "ID": 12,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Lumen"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "13": {
+        "Mesh": {
+          "AssetPathName": "/Game/Portals/Meshes/Portal_Webs.Portal_Webs",
+          "SubPathString": ""
+        },
+        "MaterialInstance": {
+          "AssetPathName": "/Game/Portals/Materials/Inner/MA_PortalInner_Web.MA_PortalInner_Web",
+          "SubPathString": ""
+        },
+        "RingMesh": {
+          "AssetPathName": "/Game/Portals/Meshes/Portal_Frames/SM_PortalRing_Web.SM_PortalRing_Web",
+          "SubPathString": ""
+        },
+        "RingMaterialInstance": {
+          "AssetPathName": "/Game/Portals/Materials/Ring/Portal_Plume_Webs.Portal_Plume_Webs",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Portal",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Rare",
+        "ID": 13,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Webs"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "14": {
+        "Mesh": {
+          "AssetPathName": "/Game/Portals/Meshes/Portal_Void.Portal_Void",
+          "SubPathString": ""
+        },
+        "MaterialInstance": {
+          "AssetPathName": "/Game/Portals/Materials/Inner/MA_PortalInner_Void.MA_PortalInner_Void",
+          "SubPathString": ""
+        },
+        "RingMesh": {
+          "AssetPathName": "/Game/Portals/Meshes/Portal_Frames/SM_PortalRing_Void.SM_PortalRing_Void",
+          "SubPathString": ""
+        },
+        "RingMaterialInstance": {
+          "AssetPathName": "/Game/Portals/Materials/Ring/Portal_Plume_Void.Portal_Plume_Void",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Portal",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 14,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Void"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "15": {
+        "Mesh": {
+          "AssetPathName": "/Game/Portals/Meshes/Portal_Buzz.Portal_Buzz",
+          "SubPathString": ""
+        },
+        "MaterialInstance": {
+          "AssetPathName": "/Game/Portals/Materials/Inner/MA_PortalInner_Buzz.MA_PortalInner_Buzz",
+          "SubPathString": ""
+        },
+        "RingMesh": {
+          "AssetPathName": "/Game/Portals/Meshes/Portal_Frames/SM_PortalRing_Buzz.SM_PortalRing_Buzz",
+          "SubPathString": ""
+        },
+        "RingMaterialInstance": {
+          "AssetPathName": "/Game/Portals/Materials/Ring/Portal_Plume_Buzz.Portal_Plume_Buzz",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Portal",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::BattlePass",
+          "AvailabilityInfo": "Beta"
+        },
+        "Rarity": "ECustomizationRarity::Rare",
+        "ID": 15,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Cyan"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "16": {
+        "Mesh": {
+          "AssetPathName": "/Game/Portals/Meshes/Portal_Beyond.Portal_Beyond",
+          "SubPathString": ""
+        },
+        "MaterialInstance": {
+          "AssetPathName": "/Game/Portals/Materials/Inner/MA_PortalInner_Beyond.MA_PortalInner_Beyond",
+          "SubPathString": ""
+        },
+        "RingMesh": {
+          "AssetPathName": "/Game/Portals/Meshes/Portal_Frames/SM_PortalRing_Beyond.SM_PortalRing_Beyond",
+          "SubPathString": ""
+        },
+        "RingMaterialInstance": {
+          "AssetPathName": "/Game/Portals/Materials/Ring/Portal_Plume_Beyond.Portal_Plume_Beyond",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Portal",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 16,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Beyond"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "17": {
+        "Mesh": {
+          "AssetPathName": "/Game/Portals/Meshes/Portal_Treasure.Portal_Treasure",
+          "SubPathString": ""
+        },
+        "MaterialInstance": {
+          "AssetPathName": "/Game/Portals/Materials/Inner/MA_PortalInner_Treasure.MA_PortalInner_Treasure",
+          "SubPathString": ""
+        },
+        "RingMesh": {
+          "AssetPathName": "/Game/Portals/Meshes/Portal_Frames/SM_PortalRing_Treasure.SM_PortalRing_Treasure",
+          "SubPathString": ""
+        },
+        "RingMaterialInstance": {
+          "AssetPathName": "/Game/Portals/Materials/Ring/Portal_Plume_Treasure.Portal_Plume_Treasure",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Portal",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 17,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Treasure"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "18": {
+        "Mesh": {
+          "AssetPathName": "/Game/Portals/Meshes/Portal_Reaching.Portal_Reaching",
+          "SubPathString": ""
+        },
+        "MaterialInstance": {
+          "AssetPathName": "/Game/Portals/Materials/Inner/MA_PortalInner_Reaching.MA_PortalInner_Reaching",
+          "SubPathString": ""
+        },
+        "RingMesh": {
+          "AssetPathName": "/Game/Portals/Meshes/Portal_Frames/SM_PortalRing_Reaching.SM_PortalRing_Reaching",
+          "SubPathString": ""
+        },
+        "RingMaterialInstance": {
+          "AssetPathName": "/Game/Portals/Materials/Ring/Portal_Plume_Reaching.Portal_Plume_Reaching",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Portal",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 18,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Breach"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "19": {
+        "Mesh": {
+          "AssetPathName": "/Game/Portals/Meshes/Portal_Sunder.Portal_Sunder",
+          "SubPathString": ""
+        },
+        "MaterialInstance": {
+          "AssetPathName": "/Game/Portals/Materials/Inner/MA_PortalInner_Sunder.MA_PortalInner_Sunder",
+          "SubPathString": ""
+        },
+        "RingMesh": {
+          "AssetPathName": "/Game/Portals/Meshes/Portal_Frames/SM_PortalRing_Sunder.SM_PortalRing_Sunder",
+          "SubPathString": ""
+        },
+        "RingMaterialInstance": {
+          "AssetPathName": "/Game/Portals/Materials/Ring/Portal_Plume_Sunder.Portal_Plume_Sunder",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Portal",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 19,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Sunder"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "20": {
+        "Mesh": {
+          "AssetPathName": "/Game/Portals/Meshes/Portal_Rift.Portal_Rift",
+          "SubPathString": ""
+        },
+        "MaterialInstance": {
+          "AssetPathName": "/Game/Portals/Materials/Inner/MA_PortalInner_Rift.MA_PortalInner_Rift",
+          "SubPathString": ""
+        },
+        "RingMesh": {
+          "AssetPathName": "/Game/Portals/Meshes/Portal_Frames/SM_PortalRing_Rift.SM_PortalRing_Rift",
+          "SubPathString": ""
+        },
+        "RingMaterialInstance": {
+          "AssetPathName": "/Game/Portals/Materials/Ring/Portal_Plume_Rift.Portal_Plume_Rift",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Portal",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::DLC",
+          "AvailabilityInfo": "GoldEdition"
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 20,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Rift"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "21": {
+        "Mesh": {
+          "AssetPathName": "/Game/Portals/Meshes/Portal_Return.Portal_Return",
+          "SubPathString": ""
+        },
+        "MaterialInstance": {
+          "AssetPathName": "/Game/Portals/Materials/Inner/MA_PortalInner_Return.MA_PortalInner_Return",
+          "SubPathString": ""
+        },
+        "RingMesh": {
+          "AssetPathName": "/Game/Portals/Meshes/Portal_Frames/SM_PortalRing_Return.SM_PortalRing_Return",
+          "SubPathString": ""
+        },
+        "RingMaterialInstance": {
+          "AssetPathName": "/Game/Portals/Materials/Ring/Portal_Plume_Return.Portal_Plume_Return",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Portal",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 21,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Return"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "22": {
+        "Mesh": {
+          "AssetPathName": "/Game/Portals/Meshes/Portal_Inverse.Portal_Inverse",
+          "SubPathString": ""
+        },
+        "MaterialInstance": {
+          "AssetPathName": "/Game/Portals/Materials/Inner/MA_PortalInner_Inverse.MA_PortalInner_Inverse",
+          "SubPathString": ""
+        },
+        "RingMesh": {
+          "AssetPathName": "/Game/Portals/Meshes/Portal_Frames/SM_PortalRing_Inverse.SM_PortalRing_Inverse",
+          "SubPathString": ""
+        },
+        "RingMaterialInstance": {
+          "AssetPathName": "/Game/Portals/Materials/Ring/Portal_Plume_Inverse.Portal_Plume_Inverse",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Portal",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 22,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Inverse"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "23": {
+        "Mesh": {
+          "AssetPathName": "/Game/Portals/Meshes/Portal_Divide.Portal_Divide",
+          "SubPathString": ""
+        },
+        "MaterialInstance": {
+          "AssetPathName": "/Game/Portals/Materials/Inner/MA_PortalInner_Divide.MA_PortalInner_Divide",
+          "SubPathString": ""
+        },
+        "RingMesh": {
+          "AssetPathName": "/Game/Portals/Meshes/Portal_Frames/SM_PortalRing_Divide.SM_PortalRing_Divide",
+          "SubPathString": ""
+        },
+        "RingMaterialInstance": {
+          "AssetPathName": "/Game/Portals/Materials/Ring/Portal_Plume_Divide.Portal_Plume_Divide",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Portal",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 23,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Divide"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "24": {
+        "Mesh": {
+          "AssetPathName": "/Game/Portals/Meshes/Portal_Holy.Portal_Holy",
+          "SubPathString": ""
+        },
+        "MaterialInstance": {
+          "AssetPathName": "/Game/Portals/Materials/Inner/MA_PortalInner_Holy.MA_PortalInner_Holy",
+          "SubPathString": ""
+        },
+        "RingMesh": {
+          "AssetPathName": "/Game/Portals/Meshes/Portal_Frames/SM_PortalRing_Holy.SM_PortalRing_Holy",
+          "SubPathString": ""
+        },
+        "RingMaterialInstance": {
+          "AssetPathName": "/Game/Portals/Materials/Ring/Portal_Plume_War.Portal_Plume_War",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Portal",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 24,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Holy"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "25": {
+        "Mesh": {
+          "AssetPathName": "/Game/Portals/Meshes/Portal_War.Portal_War",
+          "SubPathString": ""
+        },
+        "MaterialInstance": {
+          "AssetPathName": "/Game/Portals/Materials/Inner/MA_PortalInner_War.MA_PortalInner_War",
+          "SubPathString": ""
+        },
+        "RingMesh": {
+          "AssetPathName": "/Game/Portals/Meshes/Portal_Frames/SM_PortalRing_War.SM_PortalRing_War",
+          "SubPathString": ""
+        },
+        "RingMaterialInstance": {
+          "AssetPathName": "/Game/Portals/Materials/Ring/Portal_Plume_War.Portal_Plume_War",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Portal",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 25,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "War"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "26": {
+        "Mesh": {
+          "AssetPathName": "/Game/Portals/Meshes/Portal_Indie.Portal_Indie",
+          "SubPathString": ""
+        },
+        "MaterialInstance": {
+          "AssetPathName": "/Game/Portals/Materials/Inner/MA_PortalInner_Indie.MA_PortalInner_Indie",
+          "SubPathString": ""
+        },
+        "RingMesh": {
+          "AssetPathName": "/Game/Portals/Meshes/Portal_Frames/SM_PortalRing_Indie.SM_PortalRing_Indie",
+          "SubPathString": ""
+        },
+        "RingMaterialInstance": {
+          "AssetPathName": "/Game/Portals/Materials/Ring/Portal_Plume_Indie.Portal_Plume_Indie",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Portal",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Rare",
+        "ID": 26,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Indie"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "28": {
+        "Mesh": {
+          "AssetPathName": "/Game/Portals/Meshes/Portal_Sparkles.Portal_Sparkles",
+          "SubPathString": ""
+        },
+        "MaterialInstance": {
+          "AssetPathName": "/Game/Portals/Materials/Inner/MA_PortalInner_Sparkles.MA_PortalInner_Sparkles",
+          "SubPathString": ""
+        },
+        "RingMesh": {
+          "AssetPathName": "/Game/Portals/Meshes/Portal_Frames/SM_PortalRing_Sparkles.SM_PortalRing_Sparkles",
+          "SubPathString": ""
+        },
+        "RingMaterialInstance": {
+          "AssetPathName": "/Game/Portals/Materials/Ring/Portal_Plume_Sparkles.Portal_Plume_Sparkles",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Portal",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::BattlePass",
+          "AvailabilityInfo": "Season0"
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 28,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Honeycomb"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "29": {
+        "Mesh": {
+          "AssetPathName": "/Game/Portals/Meshes/Portal_DejaVu.Portal_DejaVu",
+          "SubPathString": ""
+        },
+        "MaterialInstance": {
+          "AssetPathName": "/Game/Portals/Materials/Inner/MA_PortalInner_DejaVu.MA_PortalInner_DejaVu",
+          "SubPathString": ""
+        },
+        "RingMesh": {
+          "AssetPathName": "/Game/Portals/Meshes/Portal_Frames/SM_PortalRing_DejaVu.SM_PortalRing_DejaVu",
+          "SubPathString": ""
+        },
+        "RingMaterialInstance": {
+          "AssetPathName": "/Game/Portals/Materials/Ring/Portal_Plume_DejaVu.Portal_Plume_DejaVu",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Portal",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Rare",
+        "ID": 29,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "DejuVu"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "30": {
+        "Mesh": {
+          "AssetPathName": "/Game/Portals/Meshes/Portal_Fractured.Portal_Fractured",
+          "SubPathString": ""
+        },
+        "MaterialInstance": {
+          "AssetPathName": "/Game/Portals/Materials/Inner/MA_PortalInner_Fractured.MA_PortalInner_Fractured",
+          "SubPathString": ""
+        },
+        "RingMesh": {
+          "AssetPathName": "/Game/Portals/Meshes/Portal_Frames/SM_PortalRing_Fractured.SM_PortalRing_Fractured",
+          "SubPathString": ""
+        },
+        "RingMaterialInstance": {
+          "AssetPathName": "/Game/Portals/Materials/Ring/Portal_Plume_Fractured.Portal_Plume_Fractured",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Portal",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Rare",
+        "ID": 30,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Fractured"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "31": {
+        "Mesh": {
+          "AssetPathName": "/Game/Portals/Meshes/Portal_Flower.Portal_Flower",
+          "SubPathString": ""
+        },
+        "MaterialInstance": {
+          "AssetPathName": "/Game/Portals/Materials/Inner/MA_PortalInner_Flowers.MA_PortalInner_Flowers",
+          "SubPathString": ""
+        },
+        "RingMesh": {
+          "AssetPathName": "/Game/Portals/Meshes/Portal_Frames/SM_PortalRing_Flowers.SM_PortalRing_Flowers",
+          "SubPathString": ""
+        },
+        "RingMaterialInstance": {
+          "AssetPathName": "/Game/Portals/Materials/Ring/Portal_Plume_Flowers.Portal_Plume_Flowers",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Portal",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Rare",
+        "ID": 31,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Flower"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "32": {
+        "Mesh": {
+          "AssetPathName": "/Game/Portals/Meshes/Portal_Fallout.Portal_Fallout",
+          "SubPathString": ""
+        },
+        "MaterialInstance": {
+          "AssetPathName": "/Game/Portals/Materials/Inner/MA_PortalInner_Fallout.MA_PortalInner_Fallout",
+          "SubPathString": ""
+        },
+        "RingMesh": {
+          "AssetPathName": "/Game/Portals/Meshes/Portal_Frames/SM_PortalRing_Fallout.SM_PortalRing_Fallout",
+          "SubPathString": ""
+        },
+        "RingMaterialInstance": {
+          "AssetPathName": "/Game/Portals/Materials/Ring/Portal_Plume_Fallout.Portal_Plume_Fallout",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Portal",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 32,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "FALLOUT"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "33": {
+        "Mesh": {
+          "AssetPathName": "/Game/Portals/Meshes/Portal_Wonder.Portal_Wonder",
+          "SubPathString": ""
+        },
+        "MaterialInstance": {
+          "AssetPathName": "/Game/Portals/Materials/Inner/MA_PortalInner_Wonder.MA_PortalInner_Wonder",
+          "SubPathString": ""
+        },
+        "RingMesh": {
+          "AssetPathName": "/Game/Portals/Meshes/Portal_Frames/SM_PortalRing_Wonder.SM_PortalRing_Wonder",
+          "SubPathString": ""
+        },
+        "RingMaterialInstance": {
+          "AssetPathName": "/Game/Portals/Materials/Ring/Portal_Plume_Wonder.Portal_Plume_Wonder",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Portal",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Rare",
+        "ID": 33,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "WONDER"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "34": {
+        "Mesh": {
+          "AssetPathName": "/Game/Portals/Meshes/Portal_Royal.Portal_Royal",
+          "SubPathString": ""
+        },
+        "MaterialInstance": {
+          "AssetPathName": "/Game/Portals/Materials/Inner/MA_PortalInner_Royal.MA_PortalInner_Royal",
+          "SubPathString": ""
+        },
+        "RingMesh": {
+          "AssetPathName": "/Game/Portals/Meshes/Portal_Frames/SM_PortalRing_Royal.SM_PortalRing_Royal",
+          "SubPathString": ""
+        },
+        "RingMaterialInstance": {
+          "AssetPathName": "/Game/Portals/Materials/Ring/Portal_Plume_Royal.Portal_Plume_Royal",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Portal",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Rare",
+        "ID": 34,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "ROYAL"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "35": {
+        "Mesh": {
+          "AssetPathName": "/Game/Portals/Meshes/Portal_Nebula.Portal_Nebula",
+          "SubPathString": ""
+        },
+        "MaterialInstance": {
+          "AssetPathName": "/Game/Portals/Materials/Inner/MA_PortalInner_Nebula.MA_PortalInner_Nebula",
+          "SubPathString": ""
+        },
+        "RingMesh": {
+          "AssetPathName": "/Game/Portals/Meshes/Portal_Frames/SM_PortalRing_Nebula.SM_PortalRing_Nebula",
+          "SubPathString": ""
+        },
+        "RingMaterialInstance": {
+          "AssetPathName": "/Game/Portals/Materials/Ring/Portal_Plume_Nebula.Portal_Plume_Nebula",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Portal",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Rare",
+        "ID": 35,
+        "DisplayName": {
+          "CultureInvariantString": "Nebula"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      }
+    }
+  }
+]

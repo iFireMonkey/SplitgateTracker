@@ -1,0 +1,856 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "NameTags",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class NameTagCustomizationItem",
+        "ObjectPath": "/Script/PortalWarsGlobals"
+      },
+      "bIgnoreExtraFields": true,
+      "bIgnoreMissingFields": true
+    },
+    "Rows": {
+      "0": {
+        "TextColor": {
+          "R": 1.0,
+          "G": 1.0,
+          "B": 1.0,
+          "A": 1.0,
+          "Hex": "FFFFFF"
+        },
+        "CustomizationType": "ECustomizationType::NameTag",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Default",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 0,
+        "DisplayName": {
+          "Namespace": "NameTags",
+          "Key": "DisplayName_0",
+          "SourceString": "None"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "1": {
+        "TextColor": {
+          "R": 1.0,
+          "G": 0.0,
+          "B": 1.0,
+          "A": 1.0,
+          "Hex": "FF00FF"
+        },
+        "CustomizationType": "ECustomizationType::NameTag",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Developer",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 1,
+        "DisplayName": {
+          "Namespace": "NameTags",
+          "Key": "DisplayName_1",
+          "SourceString": "Developer"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "2": {
+        "TextColor": {
+          "R": 0.012983,
+          "G": 0.679543,
+          "B": 0.982251,
+          "A": 1.0,
+          "Hex": "03ADFA"
+        },
+        "CustomizationType": "ECustomizationType::NameTag",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Partner",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 2,
+        "DisplayName": {
+          "Namespace": "NameTags",
+          "Key": "DisplayName_2",
+          "SourceString": "Partnered Streamer"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "3": {
+        "TextColor": {
+          "R": 1.0,
+          "G": 1.0,
+          "B": 1.0,
+          "A": 1.0,
+          "Hex": "FFFFFF"
+        },
+        "CustomizationType": "ECustomizationType::NameTag",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Streamer",
+          "AvailabilityInfo": "Streamer"
+        },
+        "Rarity": "ECustomizationRarity::Rare",
+        "ID": 3,
+        "DisplayName": {
+          "Namespace": "NameTags",
+          "Key": "DisplayName_3",
+          "SourceString": "Streamer"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "4": {
+        "TextColor": {
+          "R": 1.0,
+          "G": 1.0,
+          "B": 1.0,
+          "A": 1.0,
+          "Hex": "FFFFFF"
+        },
+        "CustomizationType": "ECustomizationType::NameTag",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Streamer",
+          "AvailabilityInfo": "Content Creator"
+        },
+        "Rarity": "ECustomizationRarity::Rare",
+        "ID": 4,
+        "DisplayName": {
+          "Namespace": "NameTags",
+          "Key": "DisplayName_4",
+          "SourceString": "Content Creator"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "5": {
+        "TextColor": {
+          "R": 1.0,
+          "G": 1.0,
+          "B": 1.0,
+          "A": 1.0,
+          "Hex": "FFFFFF"
+        },
+        "CustomizationType": "ECustomizationType::NameTag",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Reward",
+          "AvailabilityInfo": "Moderator"
+        },
+        "Rarity": "ECustomizationRarity::Rare",
+        "ID": 5,
+        "DisplayName": {
+          "Namespace": "NameTags",
+          "Key": "DisplayName_5",
+          "SourceString": "Moderator"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "6": {
+        "TextColor": {
+          "R": 0.913099,
+          "G": 0.617207,
+          "B": 0.002732,
+          "A": 1.0,
+          "Hex": "E99D01"
+        },
+        "CustomizationType": "ECustomizationType::NameTag",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Reward",
+          "AvailabilityInfo": "Tournament Champion"
+        },
+        "Rarity": "ECustomizationRarity::Rare",
+        "ID": 6,
+        "DisplayName": {
+          "Namespace": "NameTags",
+          "Key": "DisplayName_6",
+          "SourceString": "Tournament Champion"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "7": {
+        "TextColor": {
+          "R": 0.913099,
+          "G": 0.617207,
+          "B": 0.002732,
+          "A": 1.0,
+          "Hex": "E99D01"
+        },
+        "CustomizationType": "ECustomizationType::NameTag",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Reward",
+          "AvailabilityInfo": "League Champion"
+        },
+        "Rarity": "ECustomizationRarity::Rare",
+        "ID": 7,
+        "DisplayName": {
+          "Namespace": "NameTags",
+          "Key": "DisplayName_7",
+          "SourceString": "League Champion"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "8": {
+        "TextColor": {
+          "R": 0.913099,
+          "G": 0.617207,
+          "B": 0.002732,
+          "A": 1.0,
+          "Hex": "E99D01"
+        },
+        "CustomizationType": "ECustomizationType::NameTag",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Reward",
+          "AvailabilityInfo": "Amateur Champ"
+        },
+        "Rarity": "ECustomizationRarity::Rare",
+        "ID": 8,
+        "DisplayName": {
+          "Namespace": "NameTags",
+          "Key": "DisplayName_8",
+          "SourceString": "Amateur Champ"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "9": {
+        "TextColor": {
+          "R": 0.913099,
+          "G": 0.617207,
+          "B": 0.002732,
+          "A": 1.0,
+          "Hex": "E99D01"
+        },
+        "CustomizationType": "ECustomizationType::NameTag",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Reward",
+          "AvailabilityInfo": "Semi-Pro Champ"
+        },
+        "Rarity": "ECustomizationRarity::Rare",
+        "ID": 9,
+        "DisplayName": {
+          "Namespace": "NameTags",
+          "Key": "DisplayName_9",
+          "SourceString": "Semi-Pro Champ"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "10": {
+        "TextColor": {
+          "R": 0.913099,
+          "G": 0.617207,
+          "B": 0.002732,
+          "A": 1.0,
+          "Hex": "E99D01"
+        },
+        "CustomizationType": "ECustomizationType::NameTag",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Reward",
+          "AvailabilityInfo": "League Champion"
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 10,
+        "DisplayName": {
+          "Namespace": "NameTags",
+          "Key": "DisplayName_10",
+          "SourceString": "Pro Champion"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "12": {
+        "TextColor": {
+          "R": 1.0,
+          "G": 0.114338,
+          "B": 0.134234,
+          "A": 1.0,
+          "Hex": "FF1D22"
+        },
+        "CustomizationType": "ECustomizationType::NameTag",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::BattlePass",
+          "AvailabilityInfo": "Season3"
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 12,
+        "DisplayName": {
+          "Namespace": "NameTags",
+          "Key": "DisplayName_12",
+          "SourceString": "Wormhole Warrior"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "13": {
+        "TextColor": {
+          "R": 1.0,
+          "G": 0.114338,
+          "B": 0.134234,
+          "A": 1.0,
+          "Hex": "FF1D22"
+        },
+        "CustomizationType": "ECustomizationType::NameTag",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::BattlePass",
+          "AvailabilityInfo": "Season3"
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 13,
+        "DisplayName": {
+          "Namespace": "NameTags",
+          "Key": "DisplayName_13",
+          "SourceString": "Gunner"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "15": {
+        "TextColor": {
+          "R": 1.0,
+          "G": 0.114338,
+          "B": 0.134234,
+          "A": 1.0,
+          "Hex": "FF1D22"
+        },
+        "CustomizationType": "ECustomizationType::NameTag",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::BattlePass",
+          "AvailabilityInfo": "Season3"
+        },
+        "Rarity": "ECustomizationRarity::Rare",
+        "ID": 15,
+        "DisplayName": {
+          "Namespace": "NameTags",
+          "Key": "DisplayName_15",
+          "SourceString": "Space Cadet"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "16": {
+        "TextColor": {
+          "R": 1.0,
+          "G": 0.114338,
+          "B": 0.134234,
+          "A": 1.0,
+          "Hex": "FF1D22"
+        },
+        "CustomizationType": "ECustomizationType::NameTag",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::ReferralPass",
+          "AvailabilityInfo": "Beta"
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 16,
+        "DisplayName": {
+          "Namespace": "NameTags",
+          "Key": "DisplayName_16",
+          "SourceString": "Recruiter"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "17": {
+        "TextColor": {
+          "R": 0.316457,
+          "G": 0.910192,
+          "B": 1.0,
+          "A": 1.0,
+          "Hex": "51E8FF"
+        },
+        "CustomizationType": "ECustomizationType::NameTag",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Reward",
+          "AvailabilityInfo": "Community Coach"
+        },
+        "Rarity": "ECustomizationRarity::Rare",
+        "ID": 17,
+        "DisplayName": {
+          "Namespace": "NameTags",
+          "Key": "DisplayName_17",
+          "SourceString": "Community Coach"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "18": {
+        "TextColor": {
+          "R": 1.0,
+          "G": 0.114338,
+          "B": 0.134234,
+          "A": 1.0,
+          "Hex": "FF1D22"
+        },
+        "CustomizationType": "ECustomizationType::NameTag",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Reward",
+          "AvailabilityInfo": "SPLITMAS"
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 18,
+        "DisplayName": {
+          "Namespace": "NameTags",
+          "Key": "DisplayName_18",
+          "SourceString": "SPLITMAS"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "19": {
+        "TextColor": {
+          "R": 1.0,
+          "G": 0.0,
+          "B": 0.031996,
+          "A": 1.0,
+          "Hex": "FF0008"
+        },
+        "CustomizationType": "ECustomizationType::NameTag",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 19,
+        "DisplayName": {
+          "Namespace": "NameTags",
+          "Key": "DisplayName_19",
+          "SourceString": "CHAMPIONS CLUB"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "20": {
+        "TextColor": {
+          "R": 1.0,
+          "G": 0.071981,
+          "B": 0.111783,
+          "A": 1.0,
+          "Hex": "FF121D"
+        },
+        "CustomizationType": "ECustomizationType::NameTag",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 20,
+        "DisplayName": {
+          "Namespace": "NameTags",
+          "Key": "DisplayName_20",
+          "SourceString": "NOOB"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "21": {
+        "TextColor": {
+          "R": 1.0,
+          "G": 0.114338,
+          "B": 0.134234,
+          "A": 1.0,
+          "Hex": "FF1D22"
+        },
+        "CustomizationType": "ECustomizationType::NameTag",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::BattlePass",
+          "AvailabilityInfo": "Beta"
+        },
+        "Rarity": "ECustomizationRarity::Rare",
+        "ID": 21,
+        "DisplayName": {
+          "Namespace": "NameTags",
+          "Key": "DisplayName_21",
+          "SourceString": "Beta Tester"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "22": {
+        "TextColor": {
+          "R": 1.0,
+          "G": 0.25,
+          "B": 0.0,
+          "A": 1.0,
+          "Hex": "FF4000"
+        },
+        "CustomizationType": "ECustomizationType::NameTag",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Reward",
+          "AvailabilityInfo": "Legacy"
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 22,
+        "DisplayName": {
+          "Namespace": "NameTags",
+          "Key": "DisplayName_22",
+          "SourceString": "Legacy"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "23": {
+        "TextColor": {
+          "R": 1.0,
+          "G": 0.25,
+          "B": 0.0,
+          "A": 1.0,
+          "Hex": "FF4000"
+        },
+        "CustomizationType": "ECustomizationType::NameTag",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Reward",
+          "AvailabilityInfo": "LegacyStreak"
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 23,
+        "DisplayName": {
+          "Namespace": "NameTags",
+          "Key": "DisplayName_23",
+          "SourceString": "Legacy Streaker"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "24": {
+        "TextColor": {
+          "R": 1.0,
+          "G": 1.0,
+          "B": 1.0,
+          "A": 1.0,
+          "Hex": "FFFFFF"
+        },
+        "CustomizationType": "ECustomizationType::NameTag",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::BattlePass",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 24,
+        "DisplayName": {
+          "Namespace": "NameTags",
+          "Key": "DisplayName_24",
+          "SourceString": "Season 0 Noob"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "25": {
+        "TextColor": {
+          "R": 1.0,
+          "G": 0.114338,
+          "B": 0.134234,
+          "A": 1.0,
+          "Hex": "FF1D22"
+        },
+        "CustomizationType": "ECustomizationType::NameTag",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::BattlePass",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 25,
+        "DisplayName": {
+          "Namespace": "NameTags",
+          "Key": "DisplayName_25",
+          "SourceString": "Season 0 Veteran"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "26": {
+        "TextColor": {
+          "R": 1.0,
+          "G": 0.114338,
+          "B": 0.134234,
+          "A": 1.0,
+          "Hex": "FF1D22"
+        },
+        "CustomizationType": "ECustomizationType::NameTag",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::BattlePass",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Rare",
+        "ID": 26,
+        "DisplayName": {
+          "Namespace": "NameTags",
+          "Key": "DisplayName_26",
+          "SourceString": "Splitgang"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "27": {
+        "TextColor": {
+          "R": 1.0,
+          "G": 0.114338,
+          "B": 0.134234,
+          "A": 1.0,
+          "Hex": "FF1D22"
+        },
+        "CustomizationType": "ECustomizationType::NameTag",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::BattlePass",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 27,
+        "DisplayName": {
+          "Namespace": "NameTags",
+          "Key": "DisplayName_27",
+          "SourceString": "Hillboy"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "28": {
+        "TextColor": {
+          "R": 1.0,
+          "G": 0.114338,
+          "B": 0.134234,
+          "A": 1.0,
+          "Hex": "FF1D22"
+        },
+        "CustomizationType": "ECustomizationType::NameTag",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::BattlePass",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 28,
+        "DisplayName": {
+          "Namespace": "NameTags",
+          "Key": "DisplayName_28",
+          "SourceString": "Fragger"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "29": {
+        "TextColor": {
+          "R": 1.0,
+          "G": 0.114338,
+          "B": 0.134234,
+          "A": 1.0,
+          "Hex": "FF1D22"
+        },
+        "CustomizationType": "ECustomizationType::NameTag",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::BattlePass",
+          "AvailabilityInfo": "Beta"
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 29,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "BetaFish"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "30": {
+        "TextColor": {
+          "R": 1.0,
+          "G": 0.114338,
+          "B": 0.134234,
+          "A": 1.0,
+          "Hex": "FF1D22"
+        },
+        "CustomizationType": "ECustomizationType::NameTag",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::ReferralPass",
+          "AvailabilityInfo": "Season0"
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 30,
+        "DisplayName": {
+          "Namespace": "NameTags",
+          "Key": "DisplayName_30",
+          "SourceString": "Season 0 Recruiter"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      }
+    }
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "Tips",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class TipData",
+        "ObjectPath": "/Script/PortalWarsGlobals"
+      }
+    },
+    "Rows": {
+      "0": {
+        "KeyboardOnly": false,
+        "Text": {
+          "Namespace": "Tips",
+          "Key": "Text_0",
+          "SourceString": "EMP grenades don't damage players, but they destroy enemy portals. Press <ACTION NAME=\"GRENADE\" WIDTH=\"40\" HEIGHT=\"60\" STRETCH=\"FILL\" PADDING=\"0 20 0 0\"/> to throw a grenade."
+        }
+      },
+      "1": {
+        "KeyboardOnly": true,
+        "Text": {
+          "Namespace": "Tips",
+          "Key": "Text_1",
+          "SourceString": "Want to trash talk your enemies in game? Press <ACTION NAME=\"PTT_PROXIMITY\" WIDTH=\"40\" HEIGHT=\"60\" STRETCH=\"FILL\" PADDING=\"0 20 0 0\"/> to use proximity voice chat!"
+        }
+      },
+      "2": {
+        "KeyboardOnly": false,
+        "Text": {
+          "Namespace": "Tips",
+          "Key": "Text_2",
+          "SourceString": "Stuck at the bottom of the map? Look up and around for a portal wall to get yourself back in the action."
+        }
+      },
+      "3": {
+        "KeyboardOnly": false,
+        "Text": {
+          "Namespace": "Tips",
+          "Key": "Text_3",
+          "SourceString": "Try looking for a portal wall behind your enemy. If you can teleport behind them, they won't know what hit them!"
+        }
+      },
+      "4": {
+        "KeyboardOnly": false,
+        "Text": {
+          "Namespace": "Tips",
+          "Key": "Text_4",
+          "SourceString": "Keep an eye out for power weapons around the map. They are much more effective in combat than the weapons you start with."
+        }
+      },
+      "5": {
+        "KeyboardOnly": false,
+        "Text": {
+          "Namespace": "Tips",
+          "Key": "Text_5",
+          "SourceString": "Struggling with portals? Check out the race courses in the Training section of the Play options."
+        }
+      },
+      "6": {
+        "KeyboardOnly": false,
+        "Text": {
+          "Namespace": "Tips",
+          "Key": "Text_6",
+          "SourceString": "Looking to earn more XP? Try completing a challenge or inviting a friend to earn an XP boost!"
+        }
+      },
+      "7": {
+        "KeyboardOnly": false,
+        "Text": {
+          "Namespace": "Tips",
+          "Key": "Text_7",
+          "SourceString": "Keep an eye out for flashing portals. It means an enemy is on the other side."
+        }
+      },
+      "8": {
+        "KeyboardOnly": false,
+        "Text": {
+          "Namespace": "Tips",
+          "Key": "Text_8",
+          "SourceString": "Don't forget to use your jetpack! Double tap and hold jump to activate it."
+        }
+      },
+      "9": {
+        "KeyboardOnly": false,
+        "Text": {
+          "Namespace": "Tips",
+          "Key": "Text_9",
+          "SourceString": "Press <ACTION NAME=\"MELEE\" WIDTH=\"40\" HEIGHT=\"60\" STRETCH=\"FILL\" PADDING=\"0 20 0 0\"/> to melee enemies you are close to. Melees do at least 50 damage but scale up with your speed."
+        }
+      },
+      "10": {
+        "KeyboardOnly": false,
+        "Text": {
+          "Namespace": "Tips",
+          "Key": "Text_10",
+          "SourceString": "If you jump through a portal at high speed, you will come out the other portal at high speed. Use this to get to strategic locations on maps like Highwind and Outpost!"
+        }
+      },
+      "11": {
+        "KeyboardOnly": false,
+        "Text": {
+          "Namespace": "Tips",
+          "Key": "Text_11",
+          "SourceString": "Hold <ACTION NAME=\"SPRINT\" WIDTH=\"40\" HEIGHT=\"60\" STRETCH=\"FILL\" PADDING=\"0 20 0 0\"/> while in the air to gain speed."
+        }
+      },
+      "12": {
+        "KeyboardOnly": false,
+        "Text": {
+          "Namespace": "Tips",
+          "Key": "Text_12",
+          "SourceString": "You can emote before, after, and during a match. Press <ACTION NAME=\"PLAYEMOTE\" WIDTH=\"40\" HEIGHT=\"60\" STRETCH=\"FILL\" PADDING=\"0 20 0 0\"/>."
+        }
+      },
+      "13": {
+        "KeyboardOnly": false,
+        "Text": {
+          "Namespace": "Tips",
+          "Key": "Text_13",
+          "SourceString": "If you see a dead body, walk over to it and try crouching repeatedly. Press <ACTION NAME=\"CROUCH\" WIDTH=\"40\" HEIGHT=\"60\" STRETCH=\"FILL\" PADDING=\"0 20 0 0\"/> to crouch."
+        }
+      },
+      "14": {
+        "KeyboardOnly": false,
+        "Text": {
+          "Namespace": "Tips",
+          "Key": "Text_14",
+          "SourceString": "Looking to be more involved in the community or have feedback about the game? Head to discord.gg/splitgate and come say hi!"
+        }
+      },
+      "15": {
+        "KeyboardOnly": true,
+        "Text": {
+          "Namespace": "Tips",
+          "Key": "Text_15",
+          "SourceString": "Want to admire that awesome gun you're carrying? Press <ACTION NAME=\"INSPECT\" WIDTH=\"40\" HEIGHT=\"60\" STRETCH=\"FILL\" PADDING=\"0 20 0 0\"/> to inspect it."
+        }
+      }
+    }
+  }
+]

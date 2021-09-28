@@ -1,0 +1,439 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "Medals",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class MedalData",
+        "ObjectPath": "/Script/PortalWarsGlobals"
+      }
+    },
+    "Rows": {
+      "MultiKill1": {
+        "SoundName": "DoubleKill",
+        "ID": 0,
+        "DisplayName": {
+          "Namespace": "Medals",
+          "Key": "DisplayName_MultiKill1",
+          "SourceString": "Double Kill"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Medals/medal_multikill1.medal_multikill1",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "MultiKill2": {
+        "SoundName": "TripleKill",
+        "ID": 1,
+        "DisplayName": {
+          "Namespace": "Medals",
+          "Key": "DisplayName_MultiKill2",
+          "SourceString": "Triple Kill"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Medals/medal_multikill2.medal_multikill2",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "MultiKill3": {
+        "SoundName": "QuadKill",
+        "ID": 2,
+        "DisplayName": {
+          "Namespace": "Medals",
+          "Key": "DisplayName_MultiKill3",
+          "SourceString": "Killeidoscope"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Medals/medal_multikill3.medal_multikill3",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "MultiKill4": {
+        "SoundName": "QuintKill",
+        "ID": 3,
+        "DisplayName": {
+          "Namespace": "Medals",
+          "Key": "DisplayName_MultiKill4",
+          "SourceString": "Killiteration"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Medals/medal_multikill4.medal_multikill4",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "MultiKill5": {
+        "SoundName": "SixKill",
+        "ID": 4,
+        "DisplayName": {
+          "Namespace": "Medals",
+          "Key": "DisplayName_MultiKill5",
+          "SourceString": "Killsanity"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Medals/medal_multikill5.medal_multikill5",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "KillStreak1": {
+        "SoundName": "KillStreak1",
+        "ID": 5,
+        "DisplayName": {
+          "Namespace": "Medals",
+          "Key": "DisplayName_KillStreak1",
+          "SourceString": "Killing Spree"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Medals/medal_killstreak1.medal_killstreak1",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "KillStreak2": {
+        "SoundName": "KillStreak2",
+        "ID": 6,
+        "DisplayName": {
+          "Namespace": "Medals",
+          "Key": "DisplayName_KillStreak2",
+          "SourceString": "Killection Agency"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Medals/medal_killstreak2.medal_killstreak2",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "KillStreak3": {
+        "SoundName": "KillStreak3",
+        "ID": 7,
+        "DisplayName": {
+          "Namespace": "Medals",
+          "Key": "DisplayName_KillStreak3",
+          "SourceString": "Fragtastic"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Medals/medal_killstreak3.medal_killstreak3",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "KillStreak4": {
+        "SoundName": "KillStreak4",
+        "ID": 8,
+        "DisplayName": {
+          "Namespace": "Medals",
+          "Key": "DisplayName_KillStreak4",
+          "SourceString": "King of Carnage"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Medals/medal_killstreak4.medal_killstreak4",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "KillStreak5": {
+        "SoundName": "KillStreak5",
+        "ID": 9,
+        "DisplayName": {
+          "Namespace": "Medals",
+          "Key": "DisplayName_KillStreak5",
+          "SourceString": "Absolute Mad Lad"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Medals/medal_killstreak5.medal_killstreak5",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "KillStreak6": {
+        "SoundName": "KillStreak6",
+        "ID": 10,
+        "DisplayName": {
+          "Namespace": "Medals",
+          "Key": "DisplayName_KillStreak6",
+          "SourceString": "Superkillifragelisticextrakilladocious"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Medals/medal_killstreak6.medal_killstreak6",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "Assist": {
+        "SoundName": "",
+        "ID": 11,
+        "DisplayName": {
+          "Namespace": "Medals",
+          "Key": "DisplayName_AssistKill",
+          "SourceString": "Assist Kill"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Medals/medal_assist.medal_assist",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "TeabagConfirmed": {
+        "SoundName": "TeabagConfirmed",
+        "ID": 12,
+        "DisplayName": {
+          "Namespace": "Medals",
+          "Key": "DisplayName_TeabagConfirmed",
+          "SourceString": "Teabag Confirmed"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Medals/medal_teabagconfirmed.medal_teabagconfirmed",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "TeammateConfirmedTeabag": {
+        "SoundName": "TeabagConfirmed",
+        "ID": 13,
+        "DisplayName": {
+          "Namespace": "Medals",
+          "Key": "DisplayName_TeammateConfirmedTeabag",
+          "SourceString": "Teammate Confirmed Teabag"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Medals/medal_teamateconfirmedteabag.medal_teamateconfirmedteabag",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "DeniedTeabag": {
+        "SoundName": "TeabagDenied",
+        "ID": 14,
+        "DisplayName": {
+          "Namespace": "Medals",
+          "Key": "DisplayName_DeniedTeabag",
+          "SourceString": "Teabag Denied"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Medals/medal_teabagdenied.medal_teabagdenied",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "EnemyDeniedTeabag": {
+        "SoundName": "EnemyTeabagDenied",
+        "ID": 15,
+        "DisplayName": {
+          "Namespace": "Medals",
+          "Key": "DisplayName_EnemyDeniedTeabag",
+          "SourceString": "Enemy Denied Teabag"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Medals/medal_enemydeniedteabag.medal_enemydeniedteabag",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "KillThroughPortal": {
+        "SoundName": "",
+        "ID": 16,
+        "DisplayName": {
+          "Namespace": "Medals",
+          "Key": "DisplayName_KillThroughPortal",
+          "SourceString": "Kill Through Portal"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Medals/medal_killthroughportal.medal_killthroughportal",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "PortalKill": {
+        "SoundName": "",
+        "ID": 17,
+        "DisplayName": {
+          "Namespace": "Medals",
+          "Key": "DisplayName_PortalKill",
+          "SourceString": "Portal Kill"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Medals/medal_portalkill.medal_portalkill",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "HeadshotKill": {
+        "SoundName": "",
+        "ID": 18,
+        "DisplayName": {
+          "Namespace": "Medals",
+          "Key": "DisplayName_HeadshotKill",
+          "SourceString": "Headshot"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Medals/medal_headshotkill.medal_headshotkill",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "Revenge": {
+        "SoundName": "",
+        "ID": 19,
+        "DisplayName": {
+          "Namespace": "Medals",
+          "Key": "DisplayName_Revenge",
+          "SourceString": "Revenge"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Medals/medal_revenge.medal_revenge",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "KingSlayer": {
+        "SoundName": "KingSlayer",
+        "ID": 20,
+        "DisplayName": {
+          "Namespace": "Medals",
+          "Key": "DisplayName_KingSlayer",
+          "SourceString": "King Slayer"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Medals/medal_kingslayer.medal_kingslayer",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "VIPKill": {
+        "SoundName": "VIPKill",
+        "ID": 21,
+        "DisplayName": {
+          "Namespace": "Medals",
+          "Key": "DisplayName_VIPKill",
+          "SourceString": "VIP Kill"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Medals/medal_vipkill.medal_vipkill",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "FirstBlood": {
+        "SoundName": "FirstBlood",
+        "ID": 22,
+        "DisplayName": {
+          "Namespace": "Medals",
+          "Key": "DisplayName_FirstBlood",
+          "SourceString": "First Blood"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Medals/medal_firstblood.medal_firstblood",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "Collateral": {
+        "SoundName": "Collateral",
+        "ID": 23,
+        "DisplayName": {
+          "Namespace": "Medals",
+          "Key": "DisplayName_Collateral",
+          "SourceString": "Collateral"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Medals/medal_collateral.medal_collateral",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "NoScope": {
+        "SoundName": "NoScope",
+        "ID": 24,
+        "DisplayName": {
+          "Namespace": "Medals",
+          "Key": "DisplayName_NoScope",
+          "SourceString": "No Scope"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Medals/medal_noscope.medal_noscope",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      }
+    }
+  }
+]

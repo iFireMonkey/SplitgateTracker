@@ -1,0 +1,189 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "NiceTexts",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class TextTableRow",
+        "ObjectPath": "/Script/PortalWarsGlobals"
+      }
+    },
+    "Rows": {
+      "0": {
+        "Text": {
+          "Namespace": "NiceTexts",
+          "Key": "Text_0",
+          "SourceString": "I am having a lot of fun playing with you all :)"
+        }
+      },
+      "1": {
+        "Text": {
+          "Namespace": "NiceTexts",
+          "Key": "Text_1",
+          "SourceString": "Great job everyone!"
+        }
+      },
+      "2": {
+        "Text": {
+          "Namespace": "NiceTexts",
+          "Key": "Text_2",
+          "SourceString": "You guys are good at this game!"
+        }
+      },
+      "3": {
+        "Text": {
+          "Namespace": "NiceTexts",
+          "Key": "Text_3",
+          "SourceString": "How is everyone doing today?"
+        }
+      },
+      "4": {
+        "Text": {
+          "Namespace": "NiceTexts",
+          "Key": "Text_4",
+          "SourceString": "Do you follow Splitgate on twitter?"
+        }
+      },
+      "5": {
+        "Text": {
+          "Namespace": "NiceTexts",
+          "Key": "Text_5",
+          "SourceString": "I can't wait to buy the Battle Pass after this game!"
+        }
+      },
+      "6": {
+        "Text": {
+          "Namespace": "NiceTexts",
+          "Key": "Text_6",
+          "SourceString": "Hey guys, let's all press B right now and emote together!"
+        }
+      },
+      "7": {
+        "Text": {
+          "Namespace": "NiceTexts",
+          "Key": "Text_7",
+          "SourceString": "I love the community over at Discord.gg/splitgate!"
+        }
+      },
+      "8": {
+        "Text": {
+          "Namespace": "NiceTexts",
+          "Key": "Text_8",
+          "SourceString": "I like turtles"
+        }
+      },
+      "9": {
+        "Text": {
+          "Namespace": "NiceTexts",
+          "Key": "Text_9",
+          "SourceString": "I'm not very good at this game but I'm working on it"
+        }
+      },
+      "10": {
+        "Text": {
+          "Namespace": "NiceTexts",
+          "Key": "Text_10",
+          "SourceString": "Check out this new Daily Item!"
+        }
+      },
+      "11": {
+        "Text": {
+          "Namespace": "NiceTexts",
+          "Key": "Text_11",
+          "SourceString": "Don't forget to wash your hands!"
+        }
+      },
+      "12": {
+        "Text": {
+          "Namespace": "NiceTexts",
+          "Key": "Text_12",
+          "SourceString": "glhf"
+        }
+      },
+      "13": {
+        "Text": {
+          "Namespace": "NiceTexts",
+          "Key": "Text_13",
+          "SourceString": "Have you guys stopped bathing like I have?"
+        }
+      },
+      "14": {
+        "Text": {
+          "Namespace": "NiceTexts",
+          "Key": "Text_14",
+          "SourceString": "Darn it, I forgot to wipe :'("
+        }
+      },
+      "15": {
+        "Text": {
+          "Namespace": "NiceTexts",
+          "Key": "Text_15",
+          "SourceString": "I can fit my thumb in my nose"
+        }
+      },
+      "16": {
+        "Text": {
+          "Namespace": "NiceTexts",
+          "Key": "Text_16",
+          "SourceString": "It is fun to share!"
+        }
+      },
+      "17": {
+        "Text": {
+          "Namespace": "NiceTexts",
+          "Key": "Text_17",
+          "SourceString": "I just have so much love in my heart"
+        }
+      },
+      "18": {
+        "Text": {
+          "Namespace": "NiceTexts",
+          "Key": "Text_18",
+          "SourceString": "I appreciate your ancestors"
+        }
+      },
+      "19": {
+        "Text": {
+          "Namespace": "NiceTexts",
+          "Key": "Text_19",
+          "SourceString": "Call me, maybe?"
+        }
+      },
+      "20": {
+        "Text": {
+          "Namespace": "NiceTexts",
+          "Key": "Text_20",
+          "SourceString": "Have you guys heard Audriix's new song? It's amazing!"
+        }
+      },
+      "21": {
+        "Text": {
+          "Namespace": "NiceTexts",
+          "Key": "Text_21",
+          "SourceString": "We can help the elderly…together"
+        }
+      },
+      "22": {
+        "Text": {
+          "Namespace": "NiceTexts",
+          "Key": "Text_22",
+          "SourceString": "I regret my tattoo"
+        }
+      },
+      "23": {
+        "Text": {
+          "Namespace": "NiceTexts",
+          "Key": "Text_23",
+          "SourceString": "They picked on me in school"
+        }
+      },
+      "24": {
+        "Text": {
+          "Namespace": "NiceTexts",
+          "Key": "Text_24",
+          "SourceString": "My pants are too tight"
+        }
+      }
+    }
+  }
+]

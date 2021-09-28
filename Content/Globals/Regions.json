@@ -1,0 +1,146 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "Regions",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class RegionData",
+        "ObjectPath": "/Script/PortalWarsGlobals"
+      }
+    },
+    "Rows": {
+      "0": {
+        "PingURL": "52.27.27.105:31337",
+        "InternalName": "US_WEST",
+        "Selectability": [
+          "ERegionSelectability::Custom",
+          "ERegionSelectability::Matchmaking"
+        ],
+        "ID": 0,
+        "DisplayName": {
+          "Namespace": "ServerRegions",
+          "Key": "US_WEST",
+          "SourceString": "US West"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "1": {
+        "PingURL": "52.202.31.200:31337",
+        "InternalName": "US_EAST",
+        "Selectability": [
+          "ERegionSelectability::Custom",
+          "ERegionSelectability::Matchmaking"
+        ],
+        "ID": 1,
+        "DisplayName": {
+          "Namespace": "ServerRegions",
+          "Key": "US_EAST",
+          "SourceString": "US East"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "2": {
+        "PingURL": "3.126.186.52:31337",
+        "InternalName": "EU_CENTRAL",
+        "Selectability": [
+          "ERegionSelectability::Custom",
+          "ERegionSelectability::Matchmaking"
+        ],
+        "ID": 2,
+        "DisplayName": {
+          "Namespace": "ServerRegions",
+          "Key": "EU_CENTRAL",
+          "SourceString": "Europe"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "3": {
+        "PingURL": "18.180.197.16:31337",
+        "InternalName": "JAPAN",
+        "Selectability": [
+          "ERegionSelectability::Custom",
+          "ERegionSelectability::Matchmaking"
+        ],
+        "ID": 3,
+        "DisplayName": {
+          "Namespace": "ServerRegions",
+          "Key": "JAPAN",
+          "SourceString": "East Asia"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "4": {
+        "PingURL": "54.252.31.108:31337",
+        "InternalName": "AUSTRALIA",
+        "Selectability": [
+          "ERegionSelectability::Custom",
+          "ERegionSelectability::Matchmaking"
+        ],
+        "ID": 4,
+        "DisplayName": {
+          "Namespace": "ServerRegions",
+          "Key": "AUSTRALIA",
+          "SourceString": "Australia"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "5": {
+        "PingURL": "54.233.158.104:31337",
+        "InternalName": "SOUTH_AMERICA",
+        "Selectability": [
+          "ERegionSelectability::Custom",
+          "ERegionSelectability::Matchmaking"
+        ],
+        "ID": 5,
+        "DisplayName": {
+          "Namespace": "ServerRegions",
+          "Key": "SOUTH_AMERICA",
+          "SourceString": "South America"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      }
+    }
+  }
+]

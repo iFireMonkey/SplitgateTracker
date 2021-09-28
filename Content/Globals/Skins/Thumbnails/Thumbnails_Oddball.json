@@ -1,0 +1,124 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "Thumbnails_Oddball",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class ThumbnailData",
+        "ObjectPath": "/Script/PortalWarsGlobals"
+      }
+    },
+    "Rows": {
+      "0-0": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Oddball/Oddball_0-0_T.Oddball_0-0_T",
+          "SubPathString": ""
+        }
+      },
+      "1-197": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Oddball/Oddball_1-197_T.Oddball_1-197_T",
+          "SubPathString": ""
+        }
+      },
+      "1-198": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Oddball/Oddball_1-198_T.Oddball_1-198_T",
+          "SubPathString": ""
+        }
+      },
+      "1-199": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Oddball/Oddball_1-199_T.Oddball_1-199_T",
+          "SubPathString": ""
+        }
+      },
+      "1-200": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Oddball/Oddball_1-200_T.Oddball_1-200_T",
+          "SubPathString": ""
+        }
+      },
+      "2-201": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Oddball/Oddball_2-201_T.Oddball_2-201_T",
+          "SubPathString": ""
+        }
+      },
+      "3-202": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Oddball/Oddball_3-202_T.Oddball_3-202_T",
+          "SubPathString": ""
+        }
+      },
+      "4-203": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Oddball/Oddball_4-203_T.Oddball_4-203_T",
+          "SubPathString": ""
+        }
+      },
+      "5-320": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Oddball/Oddball_5-320_T.Oddball_5-320_T",
+          "SubPathString": ""
+        }
+      },
+      "6-332": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Oddball/Oddball_6-332_T.Oddball_6-332_T",
+          "SubPathString": ""
+        }
+      },
+      "7-451": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Oddball/Oddball_7-451_T.Oddball_7-451_T",
+          "SubPathString": ""
+        }
+      }
+    }
+  }
+]

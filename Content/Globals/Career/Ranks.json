@@ -1,0 +1,176 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "Ranks",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class RankData",
+        "ObjectPath": "/Script/PortalWarsGlobals"
+      }
+    },
+    "Rows": {
+      "-1": {
+        "RankDownXP": 0,
+        "RankUpXP": 0,
+        "ID": -1,
+        "DisplayName": {
+          "Namespace": "Ranks",
+          "Key": "DisplayName_-1",
+          "SourceString": "Unranked"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Ranks/Null.Null",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "/Game/Thumbnails/Ranks/Null-Small.Null-Small",
+          "SubPathString": ""
+        }
+      },
+      "0": {
+        "RankDownXP": 0,
+        "RankUpXP": 999,
+        "ID": 0,
+        "DisplayName": {
+          "Namespace": "Ranks",
+          "Key": "DisplayName_0",
+          "SourceString": "Brass"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Ranks/Brass.Brass",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "/Game/Thumbnails/Ranks/Brass_Small.Brass_Small",
+          "SubPathString": ""
+        }
+      },
+      "1": {
+        "RankDownXP": 1000,
+        "RankUpXP": 1499,
+        "ID": 1,
+        "DisplayName": {
+          "Namespace": "Ranks",
+          "Key": "DisplayName_1",
+          "SourceString": "Bronze"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Ranks/Bronze.Bronze",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "/Game/Thumbnails/Ranks/Bronze-Small.Bronze-Small",
+          "SubPathString": ""
+        }
+      },
+      "2": {
+        "RankDownXP": 1500,
+        "RankUpXP": 1999,
+        "ID": 2,
+        "DisplayName": {
+          "Namespace": "Ranks",
+          "Key": "DisplayName_2",
+          "SourceString": "Silver"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Ranks/Silver.Silver",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "/Game/Thumbnails/Ranks/Silver-Small.Silver-Small",
+          "SubPathString": ""
+        }
+      },
+      "3": {
+        "RankDownXP": 2000,
+        "RankUpXP": 2499,
+        "ID": 3,
+        "DisplayName": {
+          "Namespace": "Ranks",
+          "Key": "DisplayName_3",
+          "SourceString": "Gold"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Ranks/Gold.Gold",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "/Game/Thumbnails/Ranks/Gold-Small.Gold-Small",
+          "SubPathString": ""
+        }
+      },
+      "4": {
+        "RankDownXP": 2500,
+        "RankUpXP": 2999,
+        "ID": 4,
+        "DisplayName": {
+          "Namespace": "Ranks",
+          "Key": "DisplayName_4",
+          "SourceString": "Platinum"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Ranks/Platinum.Platinum",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "/Game/Thumbnails/Ranks/Platinum-Small.Platinum-Small",
+          "SubPathString": ""
+        }
+      },
+      "5": {
+        "RankDownXP": 3000,
+        "RankUpXP": 3499,
+        "ID": 5,
+        "DisplayName": {
+          "Namespace": "Ranks",
+          "Key": "DisplayName_5",
+          "SourceString": "Diamond"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Ranks/Diamond.Diamond",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "/Game/Thumbnails/Ranks/Diamond-Small.Diamond-Small",
+          "SubPathString": ""
+        }
+      },
+      "6": {
+        "RankDownXP": 3500,
+        "RankUpXP": 3999,
+        "ID": 6,
+        "DisplayName": {
+          "Namespace": "Ranks",
+          "Key": "DisplayName_6",
+          "SourceString": "Master"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Ranks/Master.Master",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "/Game/Thumbnails/Ranks/Master-Small.Master-Small",
+          "SubPathString": ""
+        }
+      },
+      "7": {
+        "RankDownXP": 4000,
+        "RankUpXP": 100000,
+        "ID": 7,
+        "DisplayName": {
+          "Namespace": "Ranks",
+          "Key": "DisplayName_7",
+          "SourceString": "Champion"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Ranks/Champion.Champion",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "/Game/Thumbnails/Ranks/Champion-Small.Champion-Small",
+          "SubPathString": ""
+        }
+      }
+    }
+  }
+]

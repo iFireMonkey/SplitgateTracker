@@ -1,0 +1,346 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "Unlocks",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class UnlockData",
+        "ObjectPath": "/Script/PortalWarsGlobals"
+      }
+    },
+    "Rows": {
+      "0": {
+        "UnlockType": "EUnlockType::Challenges",
+        "PlaylistName": "",
+        "IconImage": {
+          "AssetPathName": "/Game/Thumbnails/Icons/icon-challenges.icon-challenges",
+          "SubPathString": ""
+        },
+        "MedalImage": {
+          "AssetPathName": "/Game/UI/Progression/Unlock/Textures/unlock-challenges-medal.unlock-challenges-medal",
+          "SubPathString": ""
+        },
+        "MessageText": {
+          "Namespace": "Unlocks",
+          "Key": "Text_0",
+          "SourceString": "CONGRATULATIONS! YOU CAN NOW COMPLETE CHALLENGES!"
+        },
+        "Notes": [
+          {
+            "Text": {
+              "Namespace": "",
+              "Key": "83EC8103463F0783C19D46BAB6F480E3",
+              "SourceString": "New challenges every week and season!"
+            },
+            "bIsImportant": false
+          },
+          {
+            "Text": {
+              "Namespace": "",
+              "Key": "D6364EE74EA00132CDC06F9F63BFF844",
+              "SourceString": "Earn additional XP and reward drops!"
+            },
+            "bIsImportant": false
+          },
+          {
+            "Text": {
+              "Namespace": "",
+              "Key": "0B146FEC47FB5106CE83329E5B15EA23",
+              "SourceString": "Complete all seasonal challenges to earn the season reward!"
+            },
+            "bIsImportant": true
+          }
+        ],
+        "ID": 0,
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "752FC6314D8102FC37EAF387E27081D3",
+          "SourceString": "WEEKLY AND SEASONAL CHALLENGES"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/UI/Progression/Unlock/Textures/unlock-challenges.unlock-challenges",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "1": {
+        "UnlockType": "EUnlockType::Playlist",
+        "PlaylistName": "UNRANKED_TEAM_RUMBLE",
+        "IconImage": {
+          "AssetPathName": "/Game/Thumbnails/Icons/icon-team-rumble.icon-team-rumble",
+          "SubPathString": ""
+        },
+        "MedalImage": {
+          "AssetPathName": "/Game/UI/Progression/Unlock/Textures/unlock-team-rumble-medal.unlock-team-rumble-medal",
+          "SubPathString": ""
+        },
+        "MessageText": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_CongratsUnlockedNewPlaylist"
+        },
+        "Notes": [
+          {
+            "Text": {
+              "Namespace": "",
+              "Key": "304599A648018985A847009258222BAF",
+              "SourceString": "Variety of fun, chaotic 4v4 game modes!"
+            },
+            "bIsImportant": false
+          },
+          {
+            "Text": {
+              "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+              "Key": "UIText_25pctBonus"
+            },
+            "bIsImportant": false
+          },
+          {
+            "Text": {
+              "Namespace": "",
+              "Key": "1CC762B44CF1A20D6994848987A76AA8",
+              "SourceString": "Modifiers to health, gravity, ammo, big heads and more!"
+            },
+            "bIsImportant": false
+          }
+        ],
+        "ID": 1,
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "3E030C57443DA1A857E27C9117CB3019",
+          "SourceString": "TEAM RUMBLE"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/UI/Progression/Unlock/Textures/unlock-team-rumble.unlock-team-rumble",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "2": {
+        "UnlockType": "EUnlockType::Playlist",
+        "PlaylistName": "UNRANKED_FREE_FOR_ALL",
+        "IconImage": {
+          "AssetPathName": "/Game/Thumbnails/Icons/icon-ffa-rumble.icon-ffa-rumble",
+          "SubPathString": ""
+        },
+        "MedalImage": {
+          "AssetPathName": "/Game/UI/Progression/Unlock/Textures/unlock-ffa-rumble-medal.unlock-ffa-rumble-medal",
+          "SubPathString": ""
+        },
+        "MessageText": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_CongratsUnlockedNewPlaylist"
+        },
+        "Notes": [
+          {
+            "Text": {
+              "Namespace": "",
+              "Key": "2CA2F58846B149F965A09B91DEEE205E",
+              "SourceString": "Variety of fun and classic Free For All game modes!"
+            },
+            "bIsImportant": false
+          },
+          {
+            "Text": {
+              "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+              "Key": "UIText_25pctBonus"
+            },
+            "bIsImportant": false
+          },
+          {
+            "Text": {
+              "Namespace": "",
+              "Key": "3DD952A947612254B0295384B7598EEC",
+              "SourceString": "Fan favorites include Gun Game and One in the Chamber"
+            },
+            "bIsImportant": false
+          }
+        ],
+        "ID": 2,
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "9381C73B4989AD44AB043E94B416B21C",
+          "SourceString": "FFA RUMBLE"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/UI/Progression/Unlock/Textures/unlock-ffa-rumble.unlock-ffa-rumble",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "3": {
+        "UnlockType": "EUnlockType::Playlist",
+        "PlaylistName": "RANKED_TEAM_HARDCORE",
+        "IconImage": {
+          "AssetPathName": "/Game/Thumbnails/Icons/icon-ranked.icon-ranked",
+          "SubPathString": ""
+        },
+        "MedalImage": {
+          "AssetPathName": "/Game/UI/Progression/Unlock/Textures/unlock-ranked-medal.unlock-ranked-medal",
+          "SubPathString": ""
+        },
+        "MessageText": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_CongratsUnlockedNewPlaylist"
+        },
+        "Notes": [
+          {
+            "Text": {
+              "Namespace": "",
+              "Key": "FABBFF0142AAA2E862CFC5BF2FAFF2FA",
+              "SourceString": "New 4v4 game modes with players at YOUR skill level!"
+            },
+            "bIsImportant": false
+          },
+          {
+            "Text": {
+              "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+              "Key": "UIText_25pctBonus"
+            },
+            "bIsImportant": false
+          },
+          {
+            "Text": {
+              "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+              "Key": "UIText_NoteMayExperienceLongWaits"
+            },
+            "bIsImportant": true
+          }
+        ],
+        "ID": 4,
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "8A9B83B8445A1200985E8AA2242E1662",
+          "SourceString": "RANKED 4v4"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/UI/Progression/Unlock/Textures/unlock-ranked.unlock-ranked",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "4": {
+        "UnlockType": "EUnlockType::Playlist",
+        "PlaylistName": "RANKED_TEAM_TAKEDOWN",
+        "IconImage": {
+          "AssetPathName": "/Game/Thumbnails/Icons/icon-takedown.icon-takedown",
+          "SubPathString": ""
+        },
+        "MedalImage": {
+          "AssetPathName": "/Game/UI/Progression/Unlock/Textures/unlock-takedown-medal.unlock-takedown-medal",
+          "SubPathString": ""
+        },
+        "MessageText": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_CongratsUnlockedNewPlaylist"
+        },
+        "Notes": [
+          {
+            "Text": {
+              "Namespace": "",
+              "Key": "19CE739D4739FD3380EE5AB4743F13B6",
+              "SourceString": "Round-based 3v3 game mode on ALL NEW MAPS!"
+            },
+            "bIsImportant": false
+          },
+          {
+            "Text": {
+              "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+              "Key": "UIText_25pctBonus"
+            },
+            "bIsImportant": false
+          },
+          {
+            "Text": {
+              "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+              "Key": "UIText_NoteMayExperienceLongWaits"
+            },
+            "bIsImportant": true
+          }
+        ],
+        "ID": 5,
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "2578AC714C45D99935F7C6A58ABE79D7",
+          "SourceString": "RANKED TAKEDOWN"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/UI/Progression/Unlock/Textures/unlock-takedown.unlock-takedown",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "5": {
+        "UnlockType": "EUnlockType::Challenges",
+        "PlaylistName": "",
+        "IconImage": {
+          "AssetPathName": "/Game/Thumbnails/Icons/icon-challenges.icon-challenges",
+          "SubPathString": ""
+        },
+        "MedalImage": {
+          "AssetPathName": "/Game/UI/Progression/Unlock/Textures/unlock-challenges-medal.unlock-challenges-medal",
+          "SubPathString": ""
+        },
+        "MessageText": {
+          "Namespace": "Unlocks",
+          "Key": "2B09AD4D4EA535E13A3719B9BBC17853",
+          "SourceString": "CONGRATULATIONS! YOU CAN NOW COMPLETE WEAPON CHALLENGES!"
+        },
+        "Notes": [
+          {
+            "Text": {
+              "Namespace": "",
+              "Key": "22D8E8B346D983CD6E3F8FA844B0AF90",
+              "SourceString": "Earn new skins for all your weapons!"
+            },
+            "bIsImportant": false
+          },
+          {
+            "Text": {
+              "Namespace": "",
+              "Key": "A60332CB4DA47BE612AF7C97591028D4",
+              "SourceString": "Get rewarded for amazing plays!"
+            },
+            "bIsImportant": false
+          },
+          {
+            "Text": {
+              "Namespace": "",
+              "Key": "660E943A4F695A758544FC91CC3EEA1F",
+              "SourceString": "Complete all weapon challenges to earn legendary gold skins!"
+            },
+            "bIsImportant": true
+          }
+        ],
+        "ID": 6,
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "DF866BBA4EC2B7712E1AE6899692FC3A",
+          "SourceString": "WEAPON CHALLENGES"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/UI/Progression/Unlock/Textures/unlock-challenges.unlock-challenges",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      }
+    }
+  }
+]

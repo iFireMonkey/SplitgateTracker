@@ -1,0 +1,314 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "ProgressionIcons",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class ProgressionIconData",
+        "ObjectPath": "/Script/PortalWarsGlobals"
+      }
+    },
+    "Rows": {
+      "0": {
+        "Level": 0,
+        "ID": 0,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Levels/icon-xp-1+.icon-xp-1+",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "1": {
+        "Level": 10,
+        "ID": 1,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Levels/icon-xp-10+.icon-xp-10+",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "2": {
+        "Level": 20,
+        "ID": 2,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Levels/icon-xp-20+.icon-xp-20+",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "3": {
+        "Level": 30,
+        "ID": 3,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Levels/icon-xp-30+.icon-xp-30+",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "4": {
+        "Level": 40,
+        "ID": 4,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Levels/icon-xp-40+.icon-xp-40+",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "5": {
+        "Level": 50,
+        "ID": 5,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Levels/icon-xp-50+.icon-xp-50+",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "6": {
+        "Level": 60,
+        "ID": 6,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Levels/icon-xp-60+.icon-xp-60+",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "7": {
+        "Level": 70,
+        "ID": 7,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Levels/icon-xp-70+.icon-xp-70+",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "8": {
+        "Level": 80,
+        "ID": 8,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Levels/icon-xp-80+.icon-xp-80+",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "9": {
+        "Level": 90,
+        "ID": 9,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Levels/icon-xp-90+.icon-xp-90+",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "10": {
+        "Level": 100,
+        "ID": 10,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Levels/icon-xp-100+.icon-xp-100+",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "11": {
+        "Level": 200,
+        "ID": 11,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Levels/icon-xp-200+.icon-xp-200+",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "12": {
+        "Level": 300,
+        "ID": 12,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Levels/icon-xp-300+.icon-xp-300+",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "13": {
+        "Level": 400,
+        "ID": 13,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Levels/icon-xp-400+.icon-xp-400+",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "14": {
+        "Level": 500,
+        "ID": 14,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Levels/icon-xp-500+.icon-xp-500+",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "15": {
+        "Level": 600,
+        "ID": 15,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Levels/icon-xp-600+.icon-xp-600+",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "16": {
+        "Level": 700,
+        "ID": 16,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Levels/icon-xp-700+.icon-xp-700+",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "17": {
+        "Level": 800,
+        "ID": 17,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Levels/icon-xp-800+.icon-xp-800+",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "18": {
+        "Level": 900,
+        "ID": 18,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Levels/icon-xp-900+.icon-xp-900+",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "19": {
+        "Level": 1000,
+        "ID": 19,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Levels/icon-xp-1k+.icon-xp-1k+",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      }
+    }
+  }
+]

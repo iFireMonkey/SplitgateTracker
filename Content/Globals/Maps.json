@@ -1,0 +1,493 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "Maps",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class MapData",
+        "ObjectPath": "/Script/PortalWarsGlobals"
+      }
+    },
+    "Rows": {
+      "0": {
+        "MapName": "Stadium",
+        "Selectability": [
+          "EMapSelectability::Default",
+          "EMapSelectability::Race"
+        ],
+        "ID": 0,
+        "DisplayName": {
+          "Namespace": "Maps",
+          "Key": "Maps_0",
+          "SourceString": "Stadium"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Maps/StadiumScreenshot.StadiumScreenshot",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "1": {
+        "MapName": "Pantheon",
+        "Selectability": [
+          "EMapSelectability::Default",
+          "EMapSelectability::Race"
+        ],
+        "ID": 1,
+        "DisplayName": {
+          "Namespace": "Maps",
+          "Key": "Maps_1",
+          "SourceString": "Pantheon"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Maps/PantheonScreenshot.PantheonScreenshot",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "2": {
+        "MapName": "Helix",
+        "Selectability": [
+          "EMapSelectability::Default",
+          "EMapSelectability::Race"
+        ],
+        "ID": 2,
+        "DisplayName": {
+          "Namespace": "Maps",
+          "Key": "Maps_2",
+          "SourceString": "Helix"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Maps/HelixScreenshot.HelixScreenshot",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "3": {
+        "MapName": "Silo",
+        "Selectability": [
+          "EMapSelectability::Default",
+          "EMapSelectability::Race"
+        ],
+        "ID": 3,
+        "DisplayName": {
+          "Namespace": "Maps",
+          "Key": "Maps_3",
+          "SourceString": "Club Silo"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Maps/ClubSiloScreenshot.ClubSiloScreenshot",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "4": {
+        "MapName": "Atlantis",
+        "Selectability": [
+          "EMapSelectability::Default",
+          "EMapSelectability::Race"
+        ],
+        "ID": 4,
+        "DisplayName": {
+          "Namespace": "Maps",
+          "Key": "Maps_4",
+          "SourceString": "Atlantis"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Maps/AtlantisScreenshot.AtlantisScreenshot",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "5": {
+        "MapName": "Highwind",
+        "Selectability": [
+          "EMapSelectability::Default",
+          "EMapSelectability::Race"
+        ],
+        "ID": 5,
+        "DisplayName": {
+          "Namespace": "Maps",
+          "Key": "Maps_5",
+          "SourceString": "Highwind"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Maps/HighwindScreenshot.HighwindScreenshot",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "6": {
+        "MapName": "Olympus",
+        "Selectability": [
+          "EMapSelectability::Default",
+          "EMapSelectability::Race"
+        ],
+        "ID": 6,
+        "DisplayName": {
+          "Namespace": "Maps",
+          "Key": "Maps_6",
+          "SourceString": "Olympus"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Maps/OlympusScreenshot.OlympusScreenshot",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "7": {
+        "MapName": "Karman_Station",
+        "Selectability": [
+          "EMapSelectability::Default",
+          "EMapSelectability::Race"
+        ],
+        "ID": 7,
+        "DisplayName": {
+          "Namespace": "Maps",
+          "Key": "Maps_7",
+          "SourceString": "Karman Station"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Maps/KarmanScreenshot.KarmanScreenshot",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "8": {
+        "MapName": "Abyss",
+        "Selectability": [
+          "EMapSelectability::Default",
+          "EMapSelectability::Race"
+        ],
+        "ID": 8,
+        "DisplayName": {
+          "Namespace": "Maps",
+          "Key": "Maps_8",
+          "SourceString": "Abyss"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Maps/AbyssScreenshot.AbyssScreenshot",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "9": {
+        "MapName": "Oasis",
+        "Selectability": [
+          "EMapSelectability::Default",
+          "EMapSelectability::Race"
+        ],
+        "ID": 9,
+        "DisplayName": {
+          "Namespace": "Maps",
+          "Key": "Maps_9",
+          "SourceString": "Oasis"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Maps/OasisScreenshot.OasisScreenshot",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "10": {
+        "MapName": "Tutorial",
+        "Selectability": [],
+        "ID": 10,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "GameModes_Tutorial"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Maps/TutorialScreenshot.TutorialScreenshot",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "11": {
+        "MapName": "Lavawell",
+        "Selectability": [
+          "EMapSelectability::Default",
+          "EMapSelectability::Race"
+        ],
+        "ID": 11,
+        "DisplayName": {
+          "Namespace": "Maps",
+          "Key": "Maps_11",
+          "SourceString": "Lavawell"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Maps/LavawellScreenshot.LavawellScreenshot",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "12": {
+        "MapName": "Crag",
+        "Selectability": [
+          "EMapSelectability::Default",
+          "EMapSelectability::Race"
+        ],
+        "ID": 12,
+        "DisplayName": {
+          "Namespace": "Maps",
+          "Key": "Maps_12",
+          "SourceString": "Crag"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Maps/CragScreenshot.CragScreenshot",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "19": {
+        "MapName": "Impact",
+        "Selectability": [
+          "EMapSelectability::Default",
+          "EMapSelectability::Race"
+        ],
+        "ID": 19,
+        "DisplayName": {
+          "Namespace": "Maps",
+          "Key": "Maps_19",
+          "SourceString": "Impact"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Maps/ImpactScreenshot.ImpactScreenshot",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "21": {
+        "MapName": "Foregone_Destruction",
+        "Selectability": [
+          "EMapSelectability::Default",
+          "EMapSelectability::Race"
+        ],
+        "ID": 21,
+        "DisplayName": {
+          "Namespace": "Maps",
+          "Key": "Maps_21",
+          "SourceString": "Foregone Destruction"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Maps/ForegoneScreenshot.ForegoneScreenshot",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "13": {
+        "MapName": "Simulation_Alpha",
+        "Selectability": [
+          "EMapSelectability::Default"
+        ],
+        "ID": 13,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Map_Simulation_Alpha"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Maps/AlphaScreenshot.AlphaScreenshot",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "14": {
+        "MapName": "Simulation_Bravo",
+        "Selectability": [
+          "EMapSelectability::Default"
+        ],
+        "ID": 14,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Map_Simulation_Bravo"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Maps/BravoScreenshot.BravoScreenshot",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "15": {
+        "MapName": "Simulation_Charlie",
+        "Selectability": [
+          "EMapSelectability::Default"
+        ],
+        "ID": 15,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Map_Simulation_Charlie"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Maps/CharlieScreenshot.CharlieScreenshot",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "16": {
+        "MapName": "Simulation_Delta",
+        "Selectability": [
+          "EMapSelectability::Default"
+        ],
+        "ID": 16,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Map_Simulation_Delta"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Maps/DeltaScreenshot.DeltaScreenshot",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "17": {
+        "MapName": "Simulation_Echo",
+        "Selectability": [
+          "EMapSelectability::Default"
+        ],
+        "ID": 17,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Map_Simulation_Echo"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Maps/EchoScreenshot.EchoScreenshot",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "18": {
+        "MapName": "Simulation_Foxtrot",
+        "Selectability": [
+          "EMapSelectability::Default"
+        ],
+        "ID": 18,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Map_Simulation_Foxtrot"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Maps/FoxtrotScreenshot.FoxtrotScreenshot",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "20": {
+        "MapName": "PracticeRange",
+        "Selectability": [],
+        "ID": 20,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Map_Practice_Range"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Maps/Range_Screenshot.Range_Screenshot",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "22": {
+        "MapName": "Simulation_Golf",
+        "Selectability": [
+          "EMapSelectability::Default"
+        ],
+        "ID": 22,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Map_Simulation_Golf"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Maps/GolfScreenshot.GolfScreenshot",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "99": {
+        "MapName": "Lobby",
+        "Selectability": [],
+        "ID": 99,
+        "DisplayName": {
+          "Namespace": "Maps",
+          "Key": "Maps_99",
+          "SourceString": "Lobby"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/KeyArt/KeyArt.KeyArt",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      }
+    }
+  }
+]

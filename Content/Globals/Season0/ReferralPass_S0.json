@@ -1,0 +1,266 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "ReferralPass_S0",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class RewardPassData",
+        "ObjectPath": "/Script/PortalWarsGlobals"
+      }
+    },
+    "Rows": {
+      "1": {
+        "MinXP": 0,
+        "MaxXP": 0,
+        "FreeRewards": [
+          {
+            "RewardType": "ERewardType::Customization",
+            "RewardValue": 0,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::NameTag",
+              "CustomizationValue": "30"
+            },
+            "IsLocked": false
+          }
+        ],
+        "PremiumRewards": [],
+        "ID": 1,
+        "DisplayName": {
+          "CultureInvariantString": "Level 1"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "2": {
+        "MinXP": 0,
+        "MaxXP": 0,
+        "FreeRewards": [
+          {
+            "RewardType": "ERewardType::Drop",
+            "RewardValue": 1,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::None",
+              "CustomizationValue": ""
+            },
+            "IsLocked": false
+          }
+        ],
+        "PremiumRewards": [],
+        "ID": 2,
+        "DisplayName": {
+          "CultureInvariantString": "Level 2"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "3": {
+        "MinXP": 0,
+        "MaxXP": 0,
+        "FreeRewards": [
+          {
+            "RewardType": "ERewardType::Customization",
+            "RewardValue": 0,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::BattleRifle",
+              "CustomizationValue": "0-283"
+            },
+            "IsLocked": false
+          }
+        ],
+        "PremiumRewards": [],
+        "ID": 3,
+        "DisplayName": {
+          "CultureInvariantString": "Level 3"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "4": {
+        "MinXP": 0,
+        "MaxXP": 0,
+        "FreeRewards": [
+          {
+            "RewardType": "ERewardType::Drop",
+            "RewardValue": 1,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::None",
+              "CustomizationValue": ""
+            },
+            "IsLocked": false
+          }
+        ],
+        "PremiumRewards": [],
+        "ID": 4,
+        "DisplayName": {
+          "CultureInvariantString": "Level 4"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "5": {
+        "MinXP": 0,
+        "MaxXP": 0,
+        "FreeRewards": [
+          {
+            "RewardType": "ERewardType::Customization",
+            "RewardValue": 0,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::Banner",
+              "CustomizationValue": "43"
+            },
+            "IsLocked": false
+          }
+        ],
+        "PremiumRewards": [],
+        "ID": 5,
+        "DisplayName": {
+          "CultureInvariantString": "Level 5"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "6": {
+        "MinXP": 0,
+        "MaxXP": 0,
+        "FreeRewards": [
+          {
+            "RewardType": "ERewardType::Drop",
+            "RewardValue": 1,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::None",
+              "CustomizationValue": ""
+            },
+            "IsLocked": false
+          }
+        ],
+        "PremiumRewards": [],
+        "ID": 6,
+        "DisplayName": {
+          "CultureInvariantString": "Level 6"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "7": {
+        "MinXP": 0,
+        "MaxXP": 0,
+        "FreeRewards": [
+          {
+            "RewardType": "ERewardType::Customization",
+            "RewardValue": 0,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::Portal",
+              "CustomizationValue": "34"
+            },
+            "IsLocked": false
+          }
+        ],
+        "PremiumRewards": [],
+        "ID": 7,
+        "DisplayName": {
+          "CultureInvariantString": "Level 7"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "8": {
+        "MinXP": 0,
+        "MaxXP": 0,
+        "FreeRewards": [
+          {
+            "RewardType": "ERewardType::Drop",
+            "RewardValue": 1,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::None",
+              "CustomizationValue": ""
+            },
+            "IsLocked": false
+          }
+        ],
+        "PremiumRewards": [],
+        "ID": 8,
+        "DisplayName": {
+          "CultureInvariantString": "Level 8"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "9": {
+        "MinXP": 0,
+        "MaxXP": 0,
+        "FreeRewards": [
+          {
+            "RewardType": "ERewardType::Customization",
+            "RewardValue": 0,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::Armor",
+              "CustomizationValue": "61-352"
+            },
+            "IsLocked": false
+          }
+        ],
+        "PremiumRewards": [],
+        "ID": 9,
+        "DisplayName": {
+          "CultureInvariantString": "Level 9"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      }
+    }
+  }
+]

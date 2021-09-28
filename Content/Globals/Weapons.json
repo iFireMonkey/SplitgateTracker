@@ -1,0 +1,451 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "Weapons",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class WeaponMetadata",
+        "ObjectPath": "/Script/PortalWarsGlobals"
+      }
+    },
+    "Rows": {
+      "0": {
+        "DefaultClass": {
+          "AssetPathName": "/Game/Weapons/AssaultRifle/AssaultRifle_BP.AssaultRifle_BP_C",
+          "SubPathString": ""
+        },
+        "CrosshairWeaponID": 0,
+        "ShortDisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "WeaponShortName_AssaultRifle"
+        },
+        "ID": 0,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_Assault_Rifle"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Weapons/icon_weapon_asssaultrifle.icon_weapon_asssaultrifle",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "1": {
+        "DefaultClass": {
+          "AssetPathName": "/Game/Weapons/BattleRifle/BattleRifle_BP.BattleRifle_BP_C",
+          "SubPathString": ""
+        },
+        "CrosshairWeaponID": 1,
+        "ShortDisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "WeaponShortName_BattleRifle"
+        },
+        "ID": 1,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_Battle_Rifle"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Weapons/icon_weapon_battlerifle.icon_weapon_battlerifle",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "2": {
+        "DefaultClass": {
+          "AssetPathName": "/Game/Weapons/Pistol/Pistol_BP.Pistol_BP_C",
+          "SubPathString": ""
+        },
+        "CrosshairWeaponID": 2,
+        "ShortDisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "WeaponShortName_Pistol"
+        },
+        "ID": 2,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_Pistol"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Weapons/icon_weapon_handgun.icon_weapon_handgun",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "3": {
+        "DefaultClass": {
+          "AssetPathName": "/Game/Weapons/PlasmaRifle/PlasmaRifle_BP.PlasmaRifle_BP_C",
+          "SubPathString": ""
+        },
+        "CrosshairWeaponID": 3,
+        "ShortDisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "WeaponShortName_PlasmaRifle"
+        },
+        "ID": 3,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_Plasma_Rifle"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Weapons/icon_weapon_plasma.icon_weapon_plasma",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "4": {
+        "DefaultClass": {
+          "AssetPathName": "/Game/Weapons/RailGun/RailGun_BP.RailGun_BP_C",
+          "SubPathString": ""
+        },
+        "CrosshairWeaponID": 4,
+        "ShortDisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "WeaponShortName_Railgun"
+        },
+        "ID": 4,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_Railgun"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Weapons/icon_weapon_railgun.icon_weapon_railgun",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "5": {
+        "DefaultClass": {
+          "AssetPathName": "/Game/Weapons/RocketLauncher/RocketLauncher_BP.RocketLauncher_BP_C",
+          "SubPathString": ""
+        },
+        "CrosshairWeaponID": 5,
+        "ShortDisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "WeaponShortName_RocketLauncher"
+        },
+        "ID": 5,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_Rocket_Launcher"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Weapons/icon_weapon_rocketlauncher.icon_weapon_rocketlauncher",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "6": {
+        "DefaultClass": {
+          "AssetPathName": "/Game/Weapons/Shotgun/Shotgun_BP.Shotgun_BP_C",
+          "SubPathString": ""
+        },
+        "CrosshairWeaponID": 6,
+        "ShortDisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "WeaponShortName_Shotgun"
+        },
+        "ID": 6,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_Shotgun"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Weapons/icon_weapon_shotgun.icon_weapon_shotgun",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "7": {
+        "DefaultClass": {
+          "AssetPathName": "/Game/Weapons/SMG/SMG_BP.SMG_BP_C",
+          "SubPathString": ""
+        },
+        "CrosshairWeaponID": 7,
+        "ShortDisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "WeaponShortName_SMG"
+        },
+        "ID": 7,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_SMG"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Weapons/icon_weapon_smg.icon_weapon_smg",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "8": {
+        "DefaultClass": {
+          "AssetPathName": "/Game/Weapons/SniperRifle/Sniper_BP.Sniper_BP_C",
+          "SubPathString": ""
+        },
+        "CrosshairWeaponID": 8,
+        "ShortDisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "WeaponShortName_Sniper"
+        },
+        "ID": 8,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_Sniper"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Weapons/icon_weapon_sniper.icon_weapon_sniper",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "9": {
+        "DefaultClass": {
+          "AssetPathName": "/Game/Weapons/BattleRifle/SWATBattleRifle_BP.SWATBattleRifle_BP_C",
+          "SubPathString": ""
+        },
+        "CrosshairWeaponID": 1,
+        "ShortDisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "WeaponShortName_BattleRifle"
+        },
+        "ID": 9,
+        "DisplayName": {
+          "Namespace": "Weapons",
+          "Key": "DisplayName_9",
+          "SourceString": "SWAT BR"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Weapons/icon_weapon_battlerifle.icon_weapon_battlerifle",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "10": {
+        "DefaultClass": {
+          "AssetPathName": "/Game/Weapons/DMR/SWATDMR_BP.SWATDMR_BP_C",
+          "SubPathString": ""
+        },
+        "CrosshairWeaponID": 16,
+        "ShortDisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "WeaponShortName_Carbine"
+        },
+        "ID": 10,
+        "DisplayName": {
+          "Namespace": "Weapons",
+          "Key": "DisplayName_10",
+          "SourceString": "SWAT Carbine"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Weapons/icon_weapon_carbine_dmr.icon_weapon_carbine_dmr",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "11": {
+        "DefaultClass": {
+          "AssetPathName": "/Game/Weapons/RailGun/InstaGib_RailGun_BP.InstaGib_RailGun_BP_C",
+          "SubPathString": ""
+        },
+        "CrosshairWeaponID": 4,
+        "ShortDisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "WeaponShortName_Railgun"
+        },
+        "ID": 11,
+        "DisplayName": {
+          "Namespace": "Weapons",
+          "Key": "DisplayName_11",
+          "SourceString": "Instagib Railgun"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Weapons/icon_weapon_railgun.icon_weapon_railgun",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "12": {
+        "DefaultClass": {
+          "AssetPathName": "/Game/Weapons/Oddball/Oddball_BP.Oddball_BP_C",
+          "SubPathString": ""
+        },
+        "CrosshairWeaponID": 12,
+        "ShortDisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "WeaponShortName_Oddball"
+        },
+        "ID": 12,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_Oddball"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/UI/Textures/skull.skull",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "13": {
+        "DefaultClass": {
+          "AssetPathName": "/Game/Weapons/Flag/FlagItem_BP.FlagItem_BP_C",
+          "SubPathString": ""
+        },
+        "CrosshairWeaponID": 13,
+        "ShortDisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "WeaponShortName_Flag"
+        },
+        "ID": 13,
+        "DisplayName": {
+          "Namespace": "Weapons",
+          "Key": "DisplayName_13",
+          "SourceString": "Flag"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Weapons/icon_flag.icon_flag",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "14": {
+        "DefaultClass": {
+          "AssetPathName": "/Game/Weapons/Fists/Fists_BP.Fists_BP_C",
+          "SubPathString": ""
+        },
+        "CrosshairWeaponID": 14,
+        "ShortDisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "WeaponShortName_Fists"
+        },
+        "ID": 14,
+        "DisplayName": {
+          "Namespace": "Weapons",
+          "Key": "DisplayName_14",
+          "SourceString": "Fists"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Weapons/icon_melee.icon_melee",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "15": {
+        "DefaultClass": {
+          "AssetPathName": "/Game/Weapons/Bat/Bat_BP.Bat_BP_C",
+          "SubPathString": ""
+        },
+        "CrosshairWeaponID": 15,
+        "ShortDisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "WeaponShortName_BFB"
+        },
+        "ID": 15,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_The_BFB"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Weapons/icon_weapon_bat.icon_weapon_bat",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "16": {
+        "DefaultClass": {
+          "AssetPathName": "/Game/Weapons/DMR/DMR_BP.DMR_BP_C",
+          "SubPathString": ""
+        },
+        "CrosshairWeaponID": 16,
+        "ShortDisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "WeaponShortName_Carbine"
+        },
+        "ID": 16,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_Carbine"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Weapons/icon_weapon_carbine_dmr.icon_weapon_carbine_dmr",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "17": {
+        "DefaultClass": {
+          "AssetPathName": "/Game/Weapons/DMR/OITCDMR_BP.OITCDMR_BP_C",
+          "SubPathString": ""
+        },
+        "CrosshairWeaponID": 16,
+        "ShortDisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "WeaponShortName_Carbine"
+        },
+        "ID": 17,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_Carbine"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Weapons/icon_weapon_carbine_dmr.icon_weapon_carbine_dmr",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      }
+    }
+  }
+]

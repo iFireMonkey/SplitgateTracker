@@ -1,0 +1,671 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "Tutorial",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class TutorialStageData",
+        "ObjectPath": "/Script/PortalWarsGlobals"
+      }
+    },
+    "Rows": {
+      "0": {
+        "Steps": [
+          {
+            "Description": {
+              "TableId": "/Game/Localization/TutorialStrings.TutorialStrings",
+              "Key": "TutorialStage00_00"
+            },
+            "InputActions": [
+              "MoveForward"
+            ],
+            "GoalID": 0
+          }
+        ],
+        "VideoInfo": {
+          "MediaSource": {
+            "AssetPathName": "/Game/Movies/Tutorial/Tutorial_Stage1.Tutorial_Stage1",
+            "SubPathString": ""
+          },
+          "Subtitles": []
+        },
+        "ID": 0,
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "248C260540AE65B9EE183A8AC7649219",
+          "SourceString": "Movement"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "1": {
+        "Steps": [
+          {
+            "Description": {
+              "TableId": "/Game/Localization/TutorialStrings.TutorialStrings",
+              "Key": "TutorialStage01_00"
+            },
+            "InputActions": [
+              "Crouch"
+            ],
+            "GoalID": 0
+          }
+        ],
+        "VideoInfo": {
+          "MediaSource": {
+            "AssetPathName": "/Game/Movies/Tutorial/Tutorial_Stage2.Tutorial_Stage2",
+            "SubPathString": ""
+          },
+          "Subtitles": []
+        },
+        "ID": 1,
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "B033006041FA6057F261F9A8AE425E76",
+          "SourceString": "Crouch"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "2": {
+        "Steps": [
+          {
+            "Description": {
+              "TableId": "/Game/Localization/TutorialStrings.TutorialStrings",
+              "Key": "TutorialStage02_00"
+            },
+            "InputActions": [
+              "Jump"
+            ],
+            "GoalID": 0
+          },
+          {
+            "Description": {
+              "TableId": "/Game/Localization/TutorialStrings.TutorialStrings",
+              "Key": "TutorialStage02_01"
+            },
+            "InputActions": [
+              "Jump"
+            ],
+            "GoalID": 1
+          },
+          {
+            "Description": {
+              "TableId": "/Game/Localization/TutorialStrings.TutorialStrings",
+              "Key": "TutorialStage02_02"
+            },
+            "InputActions": [
+              "Sprint",
+              "Jump"
+            ],
+            "GoalID": 2
+          }
+        ],
+        "VideoInfo": {
+          "MediaSource": {
+            "AssetPathName": "/Game/Movies/Tutorial/Tutorial_Stage3.Tutorial_Stage3",
+            "SubPathString": ""
+          },
+          "Subtitles": []
+        },
+        "ID": 2,
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "6359E10843F62D16A6FF058B5ED1A66B",
+          "SourceString": "Jump & Sprint"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "3": {
+        "Steps": [
+          {
+            "Description": {
+              "TableId": "/Game/Localization/TutorialStrings.TutorialStrings",
+              "Key": "TutorialStage03_00"
+            },
+            "InputActions": [
+              "Jump",
+              "Jump"
+            ],
+            "GoalID": 0
+          },
+          {
+            "Description": {
+              "TableId": "/Game/Localization/TutorialStrings.TutorialStrings",
+              "Key": "TutorialStage03_01"
+            },
+            "InputActions": [
+              "Jump",
+              "Jump"
+            ],
+            "GoalID": 1
+          },
+          {
+            "Description": {
+              "TableId": "/Game/Localization/TutorialStrings.TutorialStrings",
+              "Key": "TutorialStage03_02"
+            },
+            "InputActions": [
+              "Jump",
+              "Jump"
+            ],
+            "GoalID": 2
+          }
+        ],
+        "VideoInfo": {
+          "MediaSource": {
+            "AssetPathName": "/Game/Movies/Tutorial/Tutorial_Stage4.Tutorial_Stage4",
+            "SubPathString": ""
+          },
+          "Subtitles": []
+        },
+        "ID": 3,
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "8876BFBA42524278E2291D834E67A7D1",
+          "SourceString": "Jetpack"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "4": {
+        "Steps": [
+          {
+            "Description": {
+              "TableId": "/Game/Localization/TutorialStrings.TutorialStrings",
+              "Key": "TutorialStage04_00"
+            },
+            "InputActions": [
+              "Action"
+            ],
+            "GoalID": 0
+          },
+          {
+            "Description": {
+              "TableId": "/Game/Localization/TutorialStrings.TutorialStrings",
+              "Key": "TutorialStage04_01"
+            },
+            "InputActions": [
+              "Fire"
+            ],
+            "GoalID": 1
+          },
+          {
+            "Description": {
+              "TableId": "/Game/Localization/TutorialStrings.TutorialStrings",
+              "Key": "TutorialStage04_02"
+            },
+            "InputActions": [
+              "Action"
+            ],
+            "GoalID": 2
+          },
+          {
+            "Description": {
+              "TableId": "/Game/Localization/TutorialStrings.TutorialStrings",
+              "Key": "TutorialStage04_03"
+            },
+            "InputActions": [
+              "Fire"
+            ],
+            "GoalID": 3
+          },
+          {
+            "Description": {
+              "TableId": "/Game/Localization/TutorialStrings.TutorialStrings",
+              "Key": "TutorialStage04_04"
+            },
+            "InputActions": [
+              "Action"
+            ],
+            "GoalID": 4
+          },
+          {
+            "Description": {
+              "TableId": "/Game/Localization/TutorialStrings.TutorialStrings",
+              "Key": "TutorialStage04_05"
+            },
+            "InputActions": [
+              "Fire"
+            ],
+            "GoalID": 5
+          }
+        ],
+        "VideoInfo": {
+          "MediaSource": {
+            "AssetPathName": "/Game/Movies/Tutorial/Tutorial_Stage5.Tutorial_Stage5",
+            "SubPathString": ""
+          },
+          "Subtitles": []
+        },
+        "ID": 4,
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "FE7C61164F4261797B2316BCC0DF106F",
+          "SourceString": "Weapons"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "5": {
+        "Steps": [
+          {
+            "Description": {
+              "TableId": "/Game/Localization/TutorialStrings.TutorialStrings",
+              "Key": "TutorialStage05_00"
+            },
+            "InputActions": [
+              "FirePortal_L",
+              "FirePortal_R"
+            ],
+            "GoalID": 0
+          },
+          {
+            "Description": {
+              "TableId": "/Game/Localization/TutorialStrings.TutorialStrings",
+              "Key": "TutorialStage05_01"
+            },
+            "InputActions": [
+              "ClosePortal_L",
+              "ClosePortal_R"
+            ],
+            "GoalID": 2
+          },
+          {
+            "Description": {
+              "TableId": "/Game/Localization/TutorialStrings.TutorialStrings",
+              "Key": "TutorialStage05_02"
+            },
+            "InputActions": [
+              "FirePortal_L",
+              "FirePortal_R"
+            ],
+            "GoalID": 4
+          }
+        ],
+        "VideoInfo": {
+          "MediaSource": {
+            "AssetPathName": "/Game/Movies/Tutorial/Tutorial_Stage6.Tutorial_Stage6",
+            "SubPathString": ""
+          },
+          "Subtitles": []
+        },
+        "ID": 5,
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "2BD5C591452839F6607805A8C803F554",
+          "SourceString": "Portals"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "6": {
+        "Steps": [
+          {
+            "Description": {
+              "TableId": "/Game/Localization/TutorialStrings.TutorialStrings",
+              "Key": "TutorialStage06_00"
+            },
+            "InputActions": [
+              "FirePortal_L",
+              "FirePortal_R"
+            ],
+            "GoalID": 0
+          },
+          {
+            "Description": {
+              "TableId": "/Game/Localization/TutorialStrings.TutorialStrings",
+              "Key": "TutorialStage06_01"
+            },
+            "InputActions": [
+              "FirePortal_L",
+              "FirePortal_R"
+            ],
+            "GoalID": 1
+          }
+        ],
+        "VideoInfo": {
+          "MediaSource": {
+            "AssetPathName": "/Game/Movies/Tutorial/Tutorial_Stage7.Tutorial_Stage7",
+            "SubPathString": ""
+          },
+          "Subtitles": []
+        },
+        "ID": 6,
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "7FF008484A7BECA5C2FAA5ACC3C8B92B",
+          "SourceString": "Elevator"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "7": {
+        "Steps": [
+          {
+            "Description": {
+              "TableId": "/Game/Localization/TutorialStrings.TutorialStrings",
+              "Key": "TutorialStage07_00"
+            },
+            "InputActions": [
+              "MoveForward"
+            ],
+            "GoalID": 0
+          },
+          {
+            "Description": {
+              "TableId": "/Game/Localization/TutorialStrings.TutorialStrings",
+              "Key": "TutorialStage07_01"
+            },
+            "InputActions": [],
+            "GoalID": 1
+          },
+          {
+            "Description": {
+              "TableId": "/Game/Localization/TutorialStrings.TutorialStrings",
+              "Key": "TutorialStage07_02"
+            },
+            "InputActions": [
+              "Grenade"
+            ],
+            "GoalID": 2
+          }
+        ],
+        "VideoInfo": {
+          "MediaSource": {
+            "AssetPathName": "/Game/Movies/Tutorial/Tutorial_Stage8.Tutorial_Stage8",
+            "SubPathString": ""
+          },
+          "Subtitles": []
+        },
+        "ID": 7,
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "6A3F3CAC4A1134ACB2024C8CFE8A9431",
+          "SourceString": "Enemy Portals"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "8": {
+        "Steps": [
+          {
+            "Description": {
+              "TableId": "/Game/Localization/TutorialStrings.TutorialStrings",
+              "Key": "TutorialStage08_00"
+            },
+            "InputActions": [
+              "FirePortal_L",
+              "FirePortal_R"
+            ],
+            "GoalID": 0
+          },
+          {
+            "Description": {
+              "TableId": "/Game/Localization/TutorialStrings.TutorialStrings",
+              "Key": "TutorialStage08_01"
+            },
+            "InputActions": [
+              "Melee"
+            ],
+            "GoalID": 2
+          }
+        ],
+        "VideoInfo": {
+          "MediaSource": {
+            "AssetPathName": "/Game/Movies/Tutorial/Tutorial_Stage9.Tutorial_Stage9",
+            "SubPathString": ""
+          },
+          "Subtitles": []
+        },
+        "ID": 8,
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "D4D4C6E142A05B8163B7F1B263EA7A3A",
+          "SourceString": "Melee Flank"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "9": {
+        "Steps": [
+          {
+            "Description": {
+              "TableId": "/Game/Localization/TutorialStrings.TutorialStrings",
+              "Key": "TutorialStage09_00"
+            },
+            "InputActions": [
+              "Fire"
+            ],
+            "GoalID": 0
+          },
+          {
+            "Description": {
+              "TableId": "/Game/Localization/TutorialStrings.TutorialStrings",
+              "Key": "TutorialStage09_01"
+            },
+            "InputActions": [
+              "FirePortal_L",
+              "FirePortal_R"
+            ],
+            "GoalID": 4
+          },
+          {
+            "Description": {
+              "TableId": "/Game/Localization/TutorialStrings.TutorialStrings",
+              "Key": "TutorialStage09_02"
+            },
+            "InputActions": [
+              "Fire"
+            ],
+            "GoalID": 5
+          }
+        ],
+        "VideoInfo": {
+          "MediaSource": {
+            "AssetPathName": "/Game/Movies/Tutorial/Tutorial_Stage10.Tutorial_Stage10",
+            "SubPathString": ""
+          },
+          "Subtitles": []
+        },
+        "ID": 9,
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "641CCF434E42D53C5186E6AEA143D47F",
+          "SourceString": "Shoot Through Portals"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "10": {
+        "Steps": [
+          {
+            "Description": {
+              "TableId": "/Game/Localization/TutorialStrings.TutorialStrings",
+              "Key": "TutorialStage10_00"
+            },
+            "InputActions": [
+              "PlayEmote"
+            ],
+            "GoalID": 0
+          },
+          {
+            "Description": {
+              "TableId": "/Game/Localization/TutorialStrings.TutorialStrings",
+              "Key": "TutorialStage10_01"
+            },
+            "InputActions": [
+              "PlayEmote"
+            ],
+            "GoalID": 1
+          },
+          {
+            "Description": {
+              "TableId": "/Game/Localization/TutorialStrings.TutorialStrings",
+              "Key": "TutorialStage10_02"
+            },
+            "InputActions": [
+              "PTT_Team"
+            ],
+            "GoalID": 2
+          },
+          {
+            "Description": {
+              "TableId": "/Game/Localization/TutorialStrings.TutorialStrings",
+              "Key": "TutorialStage10_03"
+            },
+            "InputActions": [
+              "PTT_Proximity"
+            ],
+            "GoalID": 3
+          }
+        ],
+        "VideoInfo": {
+          "MediaSource": {
+            "AssetPathName": "/Game/Movies/Tutorial/Tutorial_Stage11.Tutorial_Stage11",
+            "SubPathString": ""
+          },
+          "Subtitles": []
+        },
+        "ID": 10,
+        "DisplayName": {
+          "Namespace": "",
+          "Key": "8988C2DD4347DB8BD84A4FB4CA4A2D6C",
+          "SourceString": "Player Interaction"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "11": {
+        "Steps": [],
+        "VideoInfo": {
+          "MediaSource": {
+            "AssetPathName": "/Game/Movies/Tutorial/Tutorial_Complete.Tutorial_Complete",
+            "SubPathString": ""
+          },
+          "Subtitles": [
+            {
+              "StartTimeSeconds": 0,
+              "EndTimeSeconds": 3,
+              "TableKey": "TutorialStageFinal_00a"
+            },
+            {
+              "StartTimeSeconds": 3,
+              "EndTimeSeconds": 5,
+              "TableKey": "TutorialStageFinal_01a"
+            },
+            {
+              "StartTimeSeconds": 5,
+              "EndTimeSeconds": 14,
+              "TableKey": "TutorialStageFinal_02a"
+            },
+            {
+              "StartTimeSeconds": 14,
+              "EndTimeSeconds": 17,
+              "TableKey": "TutorialStageFinal_03a"
+            },
+            {
+              "StartTimeSeconds": 17,
+              "EndTimeSeconds": 18,
+              "TableKey": "TutorialStageFinal_04a"
+            },
+            {
+              "StartTimeSeconds": 18,
+              "EndTimeSeconds": 20,
+              "TableKey": "TutorialStageFinal_05a"
+            },
+            {
+              "StartTimeSeconds": 20,
+              "EndTimeSeconds": 22,
+              "TableKey": "TutorialStageFinal_06a"
+            },
+            {
+              "StartTimeSeconds": 22,
+              "EndTimeSeconds": 26,
+              "TableKey": "TutorialStageFinal_07a"
+            }
+          ]
+        },
+        "ID": 11,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      }
+    }
+  }
+]

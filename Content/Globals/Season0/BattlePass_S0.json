@@ -1,0 +1,2831 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "BattlePass_S0",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class RewardPassData",
+        "ObjectPath": "/Script/PortalWarsGlobals"
+      }
+    },
+    "Rows": {
+      "1": {
+        "MinXP": 0,
+        "MaxXP": 25000,
+        "FreeRewards": [],
+        "PremiumRewards": [
+          {
+            "RewardType": "ERewardType::Customization",
+            "RewardValue": 0,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::AssaultRifle",
+              "CustomizationValue": "21-385"
+            },
+            "IsLocked": false
+          },
+          {
+            "RewardType": "ERewardType::XPBoost",
+            "RewardValue": 5,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::None",
+              "CustomizationValue": ""
+            },
+            "IsLocked": false
+          },
+          {
+            "RewardType": "ERewardType::Customization",
+            "RewardValue": 0,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::Armor",
+              "CustomizationValue": "75-414"
+            },
+            "IsLocked": false
+          },
+          {
+            "RewardType": "ERewardType::Customization",
+            "RewardValue": 0,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::Jetpack",
+              "CustomizationValue": "27-414"
+            },
+            "IsLocked": false
+          }
+        ],
+        "ID": 1,
+        "DisplayName": {
+          "CultureInvariantString": "Level 1"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "2": {
+        "MinXP": 25000,
+        "MaxXP": 50000,
+        "FreeRewards": [
+          {
+            "RewardType": "ERewardType::Currency",
+            "RewardValue": 100,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::None",
+              "CustomizationValue": ""
+            },
+            "IsLocked": false
+          }
+        ],
+        "PremiumRewards": [],
+        "ID": 2,
+        "DisplayName": {
+          "CultureInvariantString": "Level 2"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "3": {
+        "MinXP": 50000,
+        "MaxXP": 75000,
+        "FreeRewards": [],
+        "PremiumRewards": [
+          {
+            "RewardType": "ERewardType::Customization",
+            "RewardValue": 0,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::RocketLauncher",
+              "CustomizationValue": "0-530"
+            },
+            "IsLocked": false
+          }
+        ],
+        "ID": 3,
+        "DisplayName": {
+          "CultureInvariantString": "Level 3"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "4": {
+        "MinXP": 75000,
+        "MaxXP": 100000,
+        "FreeRewards": [],
+        "PremiumRewards": [
+          {
+            "RewardType": "ERewardType::Customization",
+            "RewardValue": 0,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::Bat",
+              "CustomizationValue": "0-527"
+            },
+            "IsLocked": false
+          }
+        ],
+        "ID": 4,
+        "DisplayName": {
+          "CultureInvariantString": "Level 4"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "5": {
+        "MinXP": 100000,
+        "MaxXP": 125000,
+        "FreeRewards": [
+          {
+            "RewardType": "ERewardType::Drop",
+            "RewardValue": 1,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::None",
+              "CustomizationValue": ""
+            },
+            "IsLocked": false
+          }
+        ],
+        "PremiumRewards": [],
+        "ID": 5,
+        "DisplayName": {
+          "CultureInvariantString": "Level 5"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "6": {
+        "MinXP": 125000,
+        "MaxXP": 150000,
+        "FreeRewards": [],
+        "PremiumRewards": [
+          {
+            "RewardType": "ERewardType::Customization",
+            "RewardValue": 0,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::Jetpack",
+              "CustomizationValue": "24-302"
+            },
+            "IsLocked": false
+          }
+        ],
+        "ID": 6,
+        "DisplayName": {
+          "CultureInvariantString": "Level 6"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "7": {
+        "MinXP": 150000,
+        "MaxXP": 175000,
+        "FreeRewards": [],
+        "PremiumRewards": [
+          {
+            "RewardType": "ERewardType::Customization",
+            "RewardValue": 0,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::Armor",
+              "CustomizationValue": "55-302"
+            },
+            "IsLocked": false
+          }
+        ],
+        "ID": 7,
+        "DisplayName": {
+          "CultureInvariantString": "Level 7"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "8": {
+        "MinXP": 175000,
+        "MaxXP": 200000,
+        "FreeRewards": [
+          {
+            "RewardType": "ERewardType::Customization",
+            "RewardValue": 0,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::Pistol",
+              "CustomizationValue": "0-529"
+            },
+            "IsLocked": false
+          }
+        ],
+        "PremiumRewards": [],
+        "ID": 8,
+        "DisplayName": {
+          "CultureInvariantString": "Level 8"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "9": {
+        "MinXP": 200000,
+        "MaxXP": 225000,
+        "FreeRewards": [],
+        "PremiumRewards": [
+          {
+            "RewardType": "ERewardType::Customization",
+            "RewardValue": 0,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::Railgun",
+              "CustomizationValue": "0-430"
+            },
+            "IsLocked": false
+          }
+        ],
+        "ID": 9,
+        "DisplayName": {
+          "CultureInvariantString": "Level 9"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "10": {
+        "MinXP": 225000,
+        "MaxXP": 250000,
+        "FreeRewards": [],
+        "PremiumRewards": [
+          {
+            "RewardType": "ERewardType::Customization",
+            "RewardValue": 0,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::PlasmaRifle",
+              "CustomizationValue": "0-530"
+            },
+            "IsLocked": false
+          }
+        ],
+        "ID": 10,
+        "DisplayName": {
+          "CultureInvariantString": "Level 10"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "11": {
+        "MinXP": 250000,
+        "MaxXP": 275000,
+        "FreeRewards": [],
+        "PremiumRewards": [
+          {
+            "RewardType": "ERewardType::Customization",
+            "RewardValue": 0,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::PortalGun",
+              "CustomizationValue": "0-521"
+            },
+            "IsLocked": false
+          }
+        ],
+        "ID": 11,
+        "DisplayName": {
+          "CultureInvariantString": "Level 11"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "12": {
+        "MinXP": 275000,
+        "MaxXP": 300000,
+        "FreeRewards": [],
+        "PremiumRewards": [
+          {
+            "RewardType": "ERewardType::Currency",
+            "RewardValue": 100,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::None",
+              "CustomizationValue": ""
+            },
+            "IsLocked": false
+          }
+        ],
+        "ID": 12,
+        "DisplayName": {
+          "CultureInvariantString": "Level 12"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "13": {
+        "MinXP": 300000,
+        "MaxXP": 325000,
+        "FreeRewards": [],
+        "PremiumRewards": [
+          {
+            "RewardType": "ERewardType::Customization",
+            "RewardValue": 0,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::Spray",
+              "CustomizationValue": "124"
+            },
+            "IsLocked": false
+          }
+        ],
+        "ID": 13,
+        "DisplayName": {
+          "CultureInvariantString": "Level 13"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "14": {
+        "MinXP": 325000,
+        "MaxXP": 350000,
+        "FreeRewards": [],
+        "PremiumRewards": [
+          {
+            "RewardType": "ERewardType::Customization",
+            "RewardValue": 0,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::PortalGun",
+              "CustomizationValue": "0-527"
+            },
+            "IsLocked": false
+          }
+        ],
+        "ID": 14,
+        "DisplayName": {
+          "CultureInvariantString": "Level 14"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "15": {
+        "MinXP": 350000,
+        "MaxXP": 375000,
+        "FreeRewards": [
+          {
+            "RewardType": "ERewardType::Drop",
+            "RewardValue": 1,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::None",
+              "CustomizationValue": ""
+            },
+            "IsLocked": false
+          }
+        ],
+        "PremiumRewards": [],
+        "ID": 15,
+        "DisplayName": {
+          "CultureInvariantString": "Level 15"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "16": {
+        "MinXP": 375000,
+        "MaxXP": 400000,
+        "FreeRewards": [],
+        "PremiumRewards": [
+          {
+            "RewardType": "ERewardType::Customization",
+            "RewardValue": 0,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::Jetpack",
+              "CustomizationValue": "27-413"
+            },
+            "IsLocked": false
+          }
+        ],
+        "ID": 16,
+        "DisplayName": {
+          "CultureInvariantString": "Level 16"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "17": {
+        "MinXP": 400000,
+        "MaxXP": 425000,
+        "FreeRewards": [],
+        "PremiumRewards": [
+          {
+            "RewardType": "ERewardType::Customization",
+            "RewardValue": 0,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::Armor",
+              "CustomizationValue": "75-413"
+            },
+            "IsLocked": false
+          }
+        ],
+        "ID": 17,
+        "DisplayName": {
+          "CultureInvariantString": "Level 17"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "18": {
+        "MinXP": 425000,
+        "MaxXP": 450000,
+        "FreeRewards": [
+          {
+            "RewardType": "ERewardType::Customization",
+            "RewardValue": 0,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::BattleRifle",
+              "CustomizationValue": "0-531"
+            },
+            "IsLocked": false
+          }
+        ],
+        "PremiumRewards": [],
+        "ID": 18,
+        "DisplayName": {
+          "CultureInvariantString": "Level 18"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "19": {
+        "MinXP": 450000,
+        "MaxXP": 475000,
+        "FreeRewards": [],
+        "PremiumRewards": [
+          {
+            "RewardType": "ERewardType::Customization",
+            "RewardValue": 0,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::DMR",
+              "CustomizationValue": "0-430"
+            },
+            "IsLocked": false
+          }
+        ],
+        "ID": 19,
+        "DisplayName": {
+          "CultureInvariantString": "Level 19"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "20": {
+        "MinXP": 475000,
+        "MaxXP": 500000,
+        "FreeRewards": [],
+        "PremiumRewards": [
+          {
+            "RewardType": "ERewardType::Customization",
+            "RewardValue": 0,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::Sniper",
+              "CustomizationValue": "0-521"
+            },
+            "IsLocked": false
+          }
+        ],
+        "ID": 20,
+        "DisplayName": {
+          "CultureInvariantString": "Level 20"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "21": {
+        "MinXP": 500000,
+        "MaxXP": 525000,
+        "FreeRewards": [
+          {
+            "RewardType": "ERewardType::Customization",
+            "RewardValue": 0,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::NameTag",
+              "CustomizationValue": "24"
+            },
+            "IsLocked": false
+          }
+        ],
+        "PremiumRewards": [],
+        "ID": 21,
+        "DisplayName": {
+          "CultureInvariantString": "Level 21"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "22": {
+        "MinXP": 525000,
+        "MaxXP": 550000,
+        "FreeRewards": [],
+        "PremiumRewards": [
+          {
+            "RewardType": "ERewardType::Currency",
+            "RewardValue": 100,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::None",
+              "CustomizationValue": ""
+            },
+            "IsLocked": false
+          }
+        ],
+        "ID": 22,
+        "DisplayName": {
+          "CultureInvariantString": "Level 22"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "23": {
+        "MinXP": 550000,
+        "MaxXP": 575000,
+        "FreeRewards": [],
+        "PremiumRewards": [
+          {
+            "RewardType": "ERewardType::Customization",
+            "RewardValue": 0,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::Banner",
+              "CustomizationValue": "39"
+            },
+            "IsLocked": false
+          }
+        ],
+        "ID": 23,
+        "DisplayName": {
+          "CultureInvariantString": "Level 23"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "24": {
+        "MinXP": 575000,
+        "MaxXP": 600000,
+        "FreeRewards": [],
+        "PremiumRewards": [
+          {
+            "RewardType": "ERewardType::Customization",
+            "RewardValue": 0,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::PortalGun",
+              "CustomizationValue": "7-521"
+            },
+            "IsLocked": false
+          }
+        ],
+        "ID": 24,
+        "DisplayName": {
+          "CultureInvariantString": "Level 24"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "25": {
+        "MinXP": 600000,
+        "MaxXP": 625000,
+        "FreeRewards": [
+          {
+            "RewardType": "ERewardType::Drop",
+            "RewardValue": 1,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::None",
+              "CustomizationValue": ""
+            },
+            "IsLocked": false
+          }
+        ],
+        "PremiumRewards": [],
+        "ID": 25,
+        "DisplayName": {
+          "CultureInvariantString": "Level 25"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "26": {
+        "MinXP": 625000,
+        "MaxXP": 650000,
+        "FreeRewards": [],
+        "PremiumRewards": [
+          {
+            "RewardType": "ERewardType::Customization",
+            "RewardValue": 0,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::Shotgun",
+              "CustomizationValue": "0-527"
+            },
+            "IsLocked": false
+          }
+        ],
+        "ID": 26,
+        "DisplayName": {
+          "CultureInvariantString": "Level 26"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "27": {
+        "MinXP": 650000,
+        "MaxXP": 675000,
+        "FreeRewards": [],
+        "PremiumRewards": [
+          {
+            "RewardType": "ERewardType::Customization",
+            "RewardValue": 0,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::PlasmaRifle",
+              "CustomizationValue": "0-429"
+            },
+            "IsLocked": false
+          }
+        ],
+        "ID": 27,
+        "DisplayName": {
+          "CultureInvariantString": "Level 27"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "28": {
+        "MinXP": 675000,
+        "MaxXP": 700000,
+        "FreeRewards": [
+          {
+            "RewardType": "ERewardType::Customization",
+            "RewardValue": 0,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::AssaultRifle",
+              "CustomizationValue": "0-528"
+            },
+            "IsLocked": false
+          }
+        ],
+        "PremiumRewards": [],
+        "ID": 28,
+        "DisplayName": {
+          "CultureInvariantString": "Level 28"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "29": {
+        "MinXP": 700000,
+        "MaxXP": 725000,
+        "FreeRewards": [],
+        "PremiumRewards": [
+          {
+            "RewardType": "ERewardType::Customization",
+            "RewardValue": 0,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::NameTag",
+              "CustomizationValue": "27"
+            },
+            "IsLocked": false
+          }
+        ],
+        "ID": 29,
+        "DisplayName": {
+          "CultureInvariantString": "Level 29"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "30": {
+        "MinXP": 725000,
+        "MaxXP": 750000,
+        "FreeRewards": [],
+        "PremiumRewards": [
+          {
+            "RewardType": "ERewardType::XPBoost",
+            "RewardValue": 5,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::None",
+              "CustomizationValue": ""
+            },
+            "IsLocked": false
+          }
+        ],
+        "ID": 30,
+        "DisplayName": {
+          "CultureInvariantString": "Level 30"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "31": {
+        "MinXP": 750000,
+        "MaxXP": 775000,
+        "FreeRewards": [
+          {
+            "RewardType": "ERewardType::Customization",
+            "RewardValue": 0,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::SMG",
+              "CustomizationValue": "0-529"
+            },
+            "IsLocked": false
+          }
+        ],
+        "PremiumRewards": [],
+        "ID": 31,
+        "DisplayName": {
+          "CultureInvariantString": "Level 31"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "32": {
+        "MinXP": 775000,
+        "MaxXP": 800000,
+        "FreeRewards": [],
+        "PremiumRewards": [
+          {
+            "RewardType": "ERewardType::Currency",
+            "RewardValue": 100,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::None",
+              "CustomizationValue": ""
+            },
+            "IsLocked": false
+          }
+        ],
+        "ID": 32,
+        "DisplayName": {
+          "CultureInvariantString": "Level 32"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "33": {
+        "MinXP": 800000,
+        "MaxXP": 825000,
+        "FreeRewards": [],
+        "PremiumRewards": [
+          {
+            "RewardType": "ERewardType::Customization",
+            "RewardValue": 0,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::RocketLauncher",
+              "CustomizationValue": "0-429"
+            },
+            "IsLocked": false
+          }
+        ],
+        "ID": 33,
+        "DisplayName": {
+          "CultureInvariantString": "Level 33"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "34": {
+        "MinXP": 825000,
+        "MaxXP": 850000,
+        "FreeRewards": [],
+        "PremiumRewards": [
+          {
+            "RewardType": "ERewardType::Customization",
+            "RewardValue": 0,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::Railgun",
+              "CustomizationValue": "0-521"
+            },
+            "IsLocked": false
+          }
+        ],
+        "ID": 34,
+        "DisplayName": {
+          "CultureInvariantString": "Level 34"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "35": {
+        "MinXP": 850000,
+        "MaxXP": 875000,
+        "FreeRewards": [
+          {
+            "RewardType": "ERewardType::Drop",
+            "RewardValue": 1,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::None",
+              "CustomizationValue": ""
+            },
+            "IsLocked": false
+          }
+        ],
+        "PremiumRewards": [],
+        "ID": 35,
+        "DisplayName": {
+          "CultureInvariantString": "Level 35"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "36": {
+        "MinXP": 875000,
+        "MaxXP": 900000,
+        "FreeRewards": [],
+        "PremiumRewards": [
+          {
+            "RewardType": "ERewardType::Customization",
+            "RewardValue": 0,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::Jetpack",
+              "CustomizationValue": "27-449"
+            },
+            "IsLocked": false
+          }
+        ],
+        "ID": 36,
+        "DisplayName": {
+          "CultureInvariantString": "Level 36"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "37": {
+        "MinXP": 900000,
+        "MaxXP": 925000,
+        "FreeRewards": [],
+        "PremiumRewards": [
+          {
+            "RewardType": "ERewardType::Customization",
+            "RewardValue": 0,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::Armor",
+              "CustomizationValue": "75-449"
+            },
+            "IsLocked": false
+          }
+        ],
+        "ID": 37,
+        "DisplayName": {
+          "CultureInvariantString": "Level 37"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "38": {
+        "MinXP": 925000,
+        "MaxXP": 950000,
+        "FreeRewards": [
+          {
+            "RewardType": "ERewardType::Customization",
+            "RewardValue": 0,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::Shotgun",
+              "CustomizationValue": "0-529"
+            },
+            "IsLocked": false
+          }
+        ],
+        "PremiumRewards": [],
+        "ID": 38,
+        "DisplayName": {
+          "CultureInvariantString": "Level 38"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "39": {
+        "MinXP": 950000,
+        "MaxXP": 975000,
+        "FreeRewards": [],
+        "PremiumRewards": [
+          {
+            "RewardType": "ERewardType::Customization",
+            "RewardValue": 0,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::PortalGun",
+              "CustomizationValue": "0-529"
+            },
+            "IsLocked": false
+          }
+        ],
+        "ID": 39,
+        "DisplayName": {
+          "CultureInvariantString": "Level 39"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "40": {
+        "MinXP": 975000,
+        "MaxXP": 1000000,
+        "FreeRewards": [],
+        "PremiumRewards": [
+          {
+            "RewardType": "ERewardType::Customization",
+            "RewardValue": 0,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::PortalGun",
+              "CustomizationValue": "7-527"
+            },
+            "IsLocked": false
+          }
+        ],
+        "ID": 40,
+        "DisplayName": {
+          "CultureInvariantString": "Level 40"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "41": {
+        "MinXP": 1000000,
+        "MaxXP": 1025000,
+        "FreeRewards": [
+          {
+            "RewardType": "ERewardType::Customization",
+            "RewardValue": 0,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::Sniper",
+              "CustomizationValue": "0-531"
+            },
+            "IsLocked": false
+          }
+        ],
+        "PremiumRewards": [],
+        "ID": 41,
+        "DisplayName": {
+          "CultureInvariantString": "Level 41"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "42": {
+        "MinXP": 1025000,
+        "MaxXP": 1050000,
+        "FreeRewards": [],
+        "PremiumRewards": [
+          {
+            "RewardType": "ERewardType::Currency",
+            "RewardValue": 100,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::None",
+              "CustomizationValue": ""
+            },
+            "IsLocked": false
+          }
+        ],
+        "ID": 42,
+        "DisplayName": {
+          "CultureInvariantString": "Level 42"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "43": {
+        "MinXP": 1050000,
+        "MaxXP": 1075000,
+        "FreeRewards": [],
+        "PremiumRewards": [
+          {
+            "RewardType": "ERewardType::Customization",
+            "RewardValue": 0,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::AssaultRifle",
+              "CustomizationValue": "0-530"
+            },
+            "IsLocked": false
+          }
+        ],
+        "ID": 43,
+        "DisplayName": {
+          "CultureInvariantString": "Level 43"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "44": {
+        "MinXP": 1075000,
+        "MaxXP": 1100000,
+        "FreeRewards": [],
+        "PremiumRewards": [
+          {
+            "RewardType": "ERewardType::Customization",
+            "RewardValue": 0,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::Pistol",
+              "CustomizationValue": "0-525"
+            },
+            "IsLocked": false
+          }
+        ],
+        "ID": 44,
+        "DisplayName": {
+          "CultureInvariantString": "Level 44"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "45": {
+        "MinXP": 1100000,
+        "MaxXP": 1125000,
+        "FreeRewards": [
+          {
+            "RewardType": "ERewardType::Drop",
+            "RewardValue": 1,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::None",
+              "CustomizationValue": ""
+            },
+            "IsLocked": false
+          }
+        ],
+        "PremiumRewards": [],
+        "ID": 45,
+        "DisplayName": {
+          "CultureInvariantString": "Level 45"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "46": {
+        "MinXP": 1125000,
+        "MaxXP": 1150000,
+        "FreeRewards": [],
+        "PremiumRewards": [
+          {
+            "RewardType": "ERewardType::Customization",
+            "RewardValue": 0,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::Jetpack",
+              "CustomizationValue": "24-299"
+            },
+            "IsLocked": false
+          }
+        ],
+        "ID": 46,
+        "DisplayName": {
+          "CultureInvariantString": "Level 46"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "47": {
+        "MinXP": 1150000,
+        "MaxXP": 1175000,
+        "FreeRewards": [],
+        "PremiumRewards": [
+          {
+            "RewardType": "ERewardType::Customization",
+            "RewardValue": 0,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::Armor",
+              "CustomizationValue": "55-299"
+            },
+            "IsLocked": false
+          }
+        ],
+        "ID": 47,
+        "DisplayName": {
+          "CultureInvariantString": "Level 47"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "48": {
+        "MinXP": 1175000,
+        "MaxXP": 1200000,
+        "FreeRewards": [
+          {
+            "RewardType": "ERewardType::Customization",
+            "RewardValue": 0,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::DMR",
+              "CustomizationValue": "0-531"
+            },
+            "IsLocked": false
+          }
+        ],
+        "PremiumRewards": [],
+        "ID": 48,
+        "DisplayName": {
+          "CultureInvariantString": "Level 48"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "49": {
+        "MinXP": 1200000,
+        "MaxXP": 1225000,
+        "FreeRewards": [],
+        "PremiumRewards": [
+          {
+            "RewardType": "ERewardType::Customization",
+            "RewardValue": 0,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::Jetpack",
+              "CustomizationValue": "27-447"
+            },
+            "IsLocked": false
+          }
+        ],
+        "ID": 49,
+        "DisplayName": {
+          "CultureInvariantString": "Level 49"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "50": {
+        "MinXP": 1225000,
+        "MaxXP": 1250000,
+        "FreeRewards": [],
+        "PremiumRewards": [
+          {
+            "RewardType": "ERewardType::Customization",
+            "RewardValue": 0,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::Armor",
+              "CustomizationValue": "75-447"
+            },
+            "IsLocked": false
+          }
+        ],
+        "ID": 50,
+        "DisplayName": {
+          "CultureInvariantString": "Level 50"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "51": {
+        "MinXP": 1250000,
+        "MaxXP": 1275000,
+        "FreeRewards": [
+          {
+            "RewardType": "ERewardType::Customization",
+            "RewardValue": 0,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::PlasmaRifle",
+              "CustomizationValue": "0-528"
+            },
+            "IsLocked": false
+          }
+        ],
+        "PremiumRewards": [],
+        "ID": 51,
+        "DisplayName": {
+          "CultureInvariantString": "Level 51"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "52": {
+        "MinXP": 1275000,
+        "MaxXP": 1300000,
+        "FreeRewards": [],
+        "PremiumRewards": [
+          {
+            "RewardType": "ERewardType::Currency",
+            "RewardValue": 100,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::None",
+              "CustomizationValue": ""
+            },
+            "IsLocked": false
+          }
+        ],
+        "ID": 52,
+        "DisplayName": {
+          "CultureInvariantString": "Level 52"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "53": {
+        "MinXP": 1300000,
+        "MaxXP": 1325000,
+        "FreeRewards": [],
+        "PremiumRewards": [
+          {
+            "RewardType": "ERewardType::Customization",
+            "RewardValue": 0,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::SMG",
+              "CustomizationValue": "0-525"
+            },
+            "IsLocked": false
+          }
+        ],
+        "ID": 53,
+        "DisplayName": {
+          "CultureInvariantString": "Level 53"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "54": {
+        "MinXP": 1325000,
+        "MaxXP": 1350000,
+        "FreeRewards": [],
+        "PremiumRewards": [
+          {
+            "RewardType": "ERewardType::Customization",
+            "RewardValue": 0,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::BattleRifle",
+              "CustomizationValue": "0-430"
+            },
+            "IsLocked": false
+          }
+        ],
+        "ID": 54,
+        "DisplayName": {
+          "CultureInvariantString": "Level 54"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "55": {
+        "MinXP": 1350000,
+        "MaxXP": 1375000,
+        "FreeRewards": [
+          {
+            "RewardType": "ERewardType::Drop",
+            "RewardValue": 1,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::None",
+              "CustomizationValue": ""
+            },
+            "IsLocked": false
+          }
+        ],
+        "PremiumRewards": [],
+        "ID": 55,
+        "DisplayName": {
+          "CultureInvariantString": "Level 55"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "56": {
+        "MinXP": 1375000,
+        "MaxXP": 1400000,
+        "FreeRewards": [],
+        "PremiumRewards": [],
+        "ID": 56,
+        "DisplayName": {
+          "CultureInvariantString": "Level 56"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "57": {
+        "MinXP": 1400000,
+        "MaxXP": 1425000,
+        "FreeRewards": [],
+        "PremiumRewards": [
+          {
+            "RewardType": "ERewardType::Customization",
+            "RewardValue": 0,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::NameTag",
+              "CustomizationValue": "28"
+            },
+            "IsLocked": false
+          }
+        ],
+        "ID": 57,
+        "DisplayName": {
+          "CultureInvariantString": "Level 57"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "58": {
+        "MinXP": 1425000,
+        "MaxXP": 1450000,
+        "FreeRewards": [
+          {
+            "RewardType": "ERewardType::Customization",
+            "RewardValue": 0,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::Railgun",
+              "CustomizationValue": "0-531"
+            },
+            "IsLocked": false
+          }
+        ],
+        "PremiumRewards": [],
+        "ID": 58,
+        "DisplayName": {
+          "CultureInvariantString": "Level 58"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "59": {
+        "MinXP": 1450000,
+        "MaxXP": 1475000,
+        "FreeRewards": [],
+        "PremiumRewards": [
+          {
+            "RewardType": "ERewardType::Customization",
+            "RewardValue": 0,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::Spray",
+              "CustomizationValue": "125"
+            },
+            "IsLocked": false
+          }
+        ],
+        "ID": 59,
+        "DisplayName": {
+          "CultureInvariantString": "Level 59"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "60": {
+        "MinXP": 1475000,
+        "MaxXP": 1500000,
+        "FreeRewards": [],
+        "PremiumRewards": [
+          {
+            "RewardType": "ERewardType::XPBoost",
+            "RewardValue": 5,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::None",
+              "CustomizationValue": ""
+            },
+            "IsLocked": false
+          }
+        ],
+        "ID": 60,
+        "DisplayName": {
+          "CultureInvariantString": "Level 60"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "61": {
+        "MinXP": 1500000,
+        "MaxXP": 1525000,
+        "FreeRewards": [
+          {
+            "RewardType": "ERewardType::Customization",
+            "RewardValue": 0,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::Bat",
+              "CustomizationValue": "0-529"
+            },
+            "IsLocked": false
+          }
+        ],
+        "PremiumRewards": [],
+        "ID": 61,
+        "DisplayName": {
+          "CultureInvariantString": "Level 61"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "62": {
+        "MinXP": 1525000,
+        "MaxXP": 1550000,
+        "FreeRewards": [],
+        "PremiumRewards": [
+          {
+            "RewardType": "ERewardType::Currency",
+            "RewardValue": 100,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::None",
+              "CustomizationValue": ""
+            },
+            "IsLocked": false
+          }
+        ],
+        "ID": 62,
+        "DisplayName": {
+          "CultureInvariantString": "Level 62"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "63": {
+        "MinXP": 1550000,
+        "MaxXP": 1575000,
+        "FreeRewards": [],
+        "PremiumRewards": [
+          {
+            "RewardType": "ERewardType::Customization",
+            "RewardValue": 0,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::Bat",
+              "CustomizationValue": "0-525"
+            },
+            "IsLocked": false
+          }
+        ],
+        "ID": 63,
+        "DisplayName": {
+          "CultureInvariantString": "Level 63"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "64": {
+        "MinXP": 1575000,
+        "MaxXP": 1600000,
+        "FreeRewards": [],
+        "PremiumRewards": [
+          {
+            "RewardType": "ERewardType::Customization",
+            "RewardValue": -527,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::Pistol",
+              "CustomizationValue": "0-527"
+            },
+            "IsLocked": false
+          }
+        ],
+        "ID": 64,
+        "DisplayName": {
+          "CultureInvariantString": "Level 64"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "65": {
+        "MinXP": 1600000,
+        "MaxXP": 1625000,
+        "FreeRewards": [
+          {
+            "RewardType": "ERewardType::Drop",
+            "RewardValue": 1,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::None",
+              "CustomizationValue": ""
+            },
+            "IsLocked": false
+          }
+        ],
+        "PremiumRewards": [],
+        "ID": 65,
+        "DisplayName": {
+          "CultureInvariantString": "Level 65"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "66": {
+        "MinXP": 1625000,
+        "MaxXP": 1650000,
+        "FreeRewards": [],
+        "PremiumRewards": [
+          {
+            "RewardType": "ERewardType::Customization",
+            "RewardValue": 0,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::Jetpack",
+              "CustomizationValue": "21-260"
+            },
+            "IsLocked": false
+          }
+        ],
+        "ID": 66,
+        "DisplayName": {
+          "CultureInvariantString": "Level 66"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "67": {
+        "MinXP": 1650000,
+        "MaxXP": 1675000,
+        "FreeRewards": [],
+        "PremiumRewards": [
+          {
+            "RewardType": "ERewardType::Customization",
+            "RewardValue": 0,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::Armor",
+              "CustomizationValue": "50-260"
+            },
+            "IsLocked": false
+          }
+        ],
+        "ID": 67,
+        "DisplayName": {
+          "CultureInvariantString": "Level 67"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "68": {
+        "MinXP": 1675000,
+        "MaxXP": 1700000,
+        "FreeRewards": [
+          {
+            "RewardType": "ERewardType::Customization",
+            "RewardValue": 0,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::RocketLauncher",
+              "CustomizationValue": "0-528"
+            },
+            "IsLocked": false
+          }
+        ],
+        "PremiumRewards": [],
+        "ID": 68,
+        "DisplayName": {
+          "CultureInvariantString": "Level 68"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "69": {
+        "MinXP": 1700000,
+        "MaxXP": 1725000,
+        "FreeRewards": [],
+        "PremiumRewards": [
+          {
+            "RewardType": "ERewardType::Customization",
+            "RewardValue": 0,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::PortalGun",
+              "CustomizationValue": "3-527"
+            },
+            "IsLocked": false
+          }
+        ],
+        "ID": 69,
+        "DisplayName": {
+          "CultureInvariantString": "Level 69"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "70": {
+        "MinXP": 1725000,
+        "MaxXP": 1750000,
+        "FreeRewards": [],
+        "PremiumRewards": [
+          {
+            "RewardType": "ERewardType::Customization",
+            "RewardValue": 0,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::Banner",
+              "CustomizationValue": "40"
+            },
+            "IsLocked": false
+          }
+        ],
+        "ID": 70,
+        "DisplayName": {
+          "CultureInvariantString": "Level 70"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "71": {
+        "MinXP": 1750000,
+        "MaxXP": 1775000,
+        "FreeRewards": [
+          {
+            "RewardType": "ERewardType::Customization",
+            "RewardValue": 0,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::NameTag",
+              "CustomizationValue": "26"
+            },
+            "IsLocked": false
+          }
+        ],
+        "PremiumRewards": [],
+        "ID": 71,
+        "DisplayName": {
+          "CultureInvariantString": "Level 71"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "72": {
+        "MinXP": 1775000,
+        "MaxXP": 1800000,
+        "FreeRewards": [],
+        "PremiumRewards": [
+          {
+            "RewardType": "ERewardType::Currency",
+            "RewardValue": 100,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::None",
+              "CustomizationValue": ""
+            },
+            "IsLocked": false
+          }
+        ],
+        "ID": 72,
+        "DisplayName": {
+          "CultureInvariantString": "Level 72"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "73": {
+        "MinXP": 1800000,
+        "MaxXP": 1825000,
+        "FreeRewards": [],
+        "PremiumRewards": [
+          {
+            "RewardType": "ERewardType::Customization",
+            "RewardValue": 0,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::Jetpack",
+              "CustomizationValue": "24-301"
+            },
+            "IsLocked": false
+          }
+        ],
+        "ID": 73,
+        "DisplayName": {
+          "CultureInvariantString": "Level 73"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "74": {
+        "MinXP": 1825000,
+        "MaxXP": 1850000,
+        "FreeRewards": [],
+        "PremiumRewards": [
+          {
+            "RewardType": "ERewardType::Customization",
+            "RewardValue": 0,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::Armor",
+              "CustomizationValue": "55-301"
+            },
+            "IsLocked": false
+          }
+        ],
+        "ID": 74,
+        "DisplayName": {
+          "CultureInvariantString": "Level 74"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "75": {
+        "MinXP": 1850000,
+        "MaxXP": 1875000,
+        "FreeRewards": [
+          {
+            "RewardType": "ERewardType::Drop",
+            "RewardValue": 1,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::None",
+              "CustomizationValue": ""
+            },
+            "IsLocked": false
+          }
+        ],
+        "PremiumRewards": [],
+        "ID": 75,
+        "DisplayName": {
+          "CultureInvariantString": "Level 75"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "76": {
+        "MinXP": 1875000,
+        "MaxXP": 1900000,
+        "FreeRewards": [],
+        "PremiumRewards": [
+          {
+            "RewardType": "ERewardType::Customization",
+            "RewardValue": 0,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::Sniper",
+              "CustomizationValue": "0-430"
+            },
+            "IsLocked": false
+          }
+        ],
+        "ID": 76,
+        "DisplayName": {
+          "CultureInvariantString": "Level 76"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "77": {
+        "MinXP": 1900000,
+        "MaxXP": 1925000,
+        "FreeRewards": [],
+        "PremiumRewards": [
+          {
+            "RewardType": "ERewardType::Customization",
+            "RewardValue": 0,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::DMR",
+              "CustomizationValue": "0-521"
+            },
+            "IsLocked": false
+          }
+        ],
+        "ID": 77,
+        "DisplayName": {
+          "CultureInvariantString": "Level 77"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "78": {
+        "MinXP": 1925000,
+        "MaxXP": 1950000,
+        "FreeRewards": [],
+        "PremiumRewards": [
+          {
+            "RewardType": "ERewardType::Customization",
+            "RewardValue": 0,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::Spray",
+              "CustomizationValue": "126"
+            },
+            "IsLocked": false
+          }
+        ],
+        "ID": 78,
+        "DisplayName": {
+          "CultureInvariantString": "Level 78"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "79": {
+        "MinXP": 1950000,
+        "MaxXP": 1975000,
+        "FreeRewards": [],
+        "PremiumRewards": [
+          {
+            "RewardType": "ERewardType::Customization",
+            "RewardValue": 0,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::Jetpack",
+              "CustomizationValue": "24-300"
+            },
+            "IsLocked": false
+          }
+        ],
+        "ID": 79,
+        "DisplayName": {
+          "CultureInvariantString": "Level 79"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "80": {
+        "MinXP": 1975000,
+        "MaxXP": 2000000,
+        "FreeRewards": [],
+        "PremiumRewards": [
+          {
+            "RewardType": "ERewardType::Customization",
+            "RewardValue": 0,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::Armor",
+              "CustomizationValue": "55-300"
+            },
+            "IsLocked": false
+          }
+        ],
+        "ID": 80,
+        "DisplayName": {
+          "CultureInvariantString": "Level 80"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "81": {
+        "MinXP": 2000000,
+        "MaxXP": 2025000,
+        "FreeRewards": [],
+        "PremiumRewards": [
+          {
+            "RewardType": "ERewardType::Customization",
+            "RewardValue": 0,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::Banner",
+              "CustomizationValue": "41"
+            },
+            "IsLocked": false
+          }
+        ],
+        "ID": 81,
+        "DisplayName": {
+          "CultureInvariantString": "Level 81"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "82": {
+        "MinXP": 2025000,
+        "MaxXP": 2050000,
+        "FreeRewards": [],
+        "PremiumRewards": [
+          {
+            "RewardType": "ERewardType::Currency",
+            "RewardValue": 100,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::None",
+              "CustomizationValue": ""
+            },
+            "IsLocked": false
+          }
+        ],
+        "ID": 82,
+        "DisplayName": {
+          "CultureInvariantString": "Level 82"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "83": {
+        "MinXP": 2050000,
+        "MaxXP": 2075000,
+        "FreeRewards": [],
+        "PremiumRewards": [
+          {
+            "RewardType": "ERewardType::Customization",
+            "RewardValue": 0,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::Jetpack",
+              "CustomizationValue": "21-242"
+            },
+            "IsLocked": false
+          }
+        ],
+        "ID": 83,
+        "DisplayName": {
+          "CultureInvariantString": "Level 83"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "84": {
+        "MinXP": 2075000,
+        "MaxXP": 2100000,
+        "FreeRewards": [],
+        "PremiumRewards": [
+          {
+            "RewardType": "ERewardType::Customization",
+            "RewardValue": 0,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::Armor",
+              "CustomizationValue": "50-242"
+            },
+            "IsLocked": false
+          }
+        ],
+        "ID": 84,
+        "DisplayName": {
+          "CultureInvariantString": "Level 84"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "85": {
+        "MinXP": 2100000,
+        "MaxXP": 2125000,
+        "FreeRewards": [
+          {
+            "RewardType": "ERewardType::Drop",
+            "RewardValue": 1,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::None",
+              "CustomizationValue": ""
+            },
+            "IsLocked": false
+          }
+        ],
+        "PremiumRewards": [],
+        "ID": 85,
+        "DisplayName": {
+          "CultureInvariantString": "Level 85"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "86": {
+        "MinXP": 2125000,
+        "MaxXP": 2150000,
+        "FreeRewards": [],
+        "PremiumRewards": [
+          {
+            "RewardType": "ERewardType::Customization",
+            "RewardValue": 0,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::PortalGun",
+              "CustomizationValue": "7-529"
+            },
+            "IsLocked": false
+          }
+        ],
+        "ID": 86,
+        "DisplayName": {
+          "CultureInvariantString": "Level 86"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "87": {
+        "MinXP": 2150000,
+        "MaxXP": 2175000,
+        "FreeRewards": [],
+        "PremiumRewards": [
+          {
+            "RewardType": "ERewardType::Customization",
+            "RewardValue": 0,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::AssaultRifle",
+              "CustomizationValue": "0-429"
+            },
+            "IsLocked": false
+          }
+        ],
+        "ID": 87,
+        "DisplayName": {
+          "CultureInvariantString": "Level 87"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "88": {
+        "MinXP": 2175000,
+        "MaxXP": 2200000,
+        "FreeRewards": [],
+        "PremiumRewards": [
+          {
+            "RewardType": "ERewardType::Customization",
+            "RewardValue": 0,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::Jetpack",
+              "CustomizationValue": "21-243"
+            },
+            "IsLocked": false
+          }
+        ],
+        "ID": 88,
+        "DisplayName": {
+          "CultureInvariantString": "Level 88"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "89": {
+        "MinXP": 2200000,
+        "MaxXP": 2225000,
+        "FreeRewards": [],
+        "PremiumRewards": [
+          {
+            "RewardType": "ERewardType::Customization",
+            "RewardValue": 0,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::Armor",
+              "CustomizationValue": "50-243"
+            },
+            "IsLocked": false
+          }
+        ],
+        "ID": 89,
+        "DisplayName": {
+          "CultureInvariantString": "Level 89"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "90": {
+        "MinXP": 2225000,
+        "MaxXP": 2250000,
+        "FreeRewards": [],
+        "PremiumRewards": [
+          {
+            "RewardType": "ERewardType::Customization",
+            "RewardValue": 0,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::NameTag",
+              "CustomizationValue": "25"
+            },
+            "IsLocked": false
+          }
+        ],
+        "ID": 90,
+        "DisplayName": {
+          "CultureInvariantString": "Level 90"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "91": {
+        "MinXP": 2250000,
+        "MaxXP": 2275000,
+        "FreeRewards": [
+          {
+            "RewardType": "ERewardType::XPBoost",
+            "RewardValue": 5,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::None",
+              "CustomizationValue": ""
+            },
+            "IsLocked": false
+          }
+        ],
+        "PremiumRewards": [],
+        "ID": 91,
+        "DisplayName": {
+          "CultureInvariantString": "Level 91"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "92": {
+        "MinXP": 2275000,
+        "MaxXP": 2300000,
+        "FreeRewards": [],
+        "PremiumRewards": [
+          {
+            "RewardType": "ERewardType::Currency",
+            "RewardValue": 100,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::None",
+              "CustomizationValue": ""
+            },
+            "IsLocked": false
+          }
+        ],
+        "ID": 92,
+        "DisplayName": {
+          "CultureInvariantString": "Level 92"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "93": {
+        "MinXP": 2300000,
+        "MaxXP": 2325000,
+        "FreeRewards": [],
+        "PremiumRewards": [
+          {
+            "RewardType": "ERewardType::Customization",
+            "RewardValue": 0,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::SMG",
+              "CustomizationValue": "0-527"
+            },
+            "IsLocked": false
+          }
+        ],
+        "ID": 93,
+        "DisplayName": {
+          "CultureInvariantString": "Level 93"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "94": {
+        "MinXP": 2325000,
+        "MaxXP": 2350000,
+        "FreeRewards": [],
+        "PremiumRewards": [
+          {
+            "RewardType": "ERewardType::Customization",
+            "RewardValue": 0,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::PortalGun",
+              "CustomizationValue": "3-521"
+            },
+            "IsLocked": false
+          }
+        ],
+        "ID": 94,
+        "DisplayName": {
+          "CultureInvariantString": "Level 94"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "95": {
+        "MinXP": 2350000,
+        "MaxXP": 2375000,
+        "FreeRewards": [
+          {
+            "RewardType": "ERewardType::Drop",
+            "RewardValue": 1,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::None",
+              "CustomizationValue": ""
+            },
+            "IsLocked": false
+          }
+        ],
+        "PremiumRewards": [],
+        "ID": 95,
+        "DisplayName": {
+          "CultureInvariantString": "Level 95"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "96": {
+        "MinXP": 2375000,
+        "MaxXP": 2400000,
+        "FreeRewards": [],
+        "PremiumRewards": [
+          {
+            "RewardType": "ERewardType::Customization",
+            "RewardValue": 0,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::BattleRifle",
+              "CustomizationValue": "0-521"
+            },
+            "IsLocked": false
+          }
+        ],
+        "ID": 96,
+        "DisplayName": {
+          "CultureInvariantString": "Level 96"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "97": {
+        "MinXP": 2400000,
+        "MaxXP": 2425000,
+        "FreeRewards": [],
+        "PremiumRewards": [
+          {
+            "RewardType": "ERewardType::Customization",
+            "RewardValue": 0,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::Shotgun",
+              "CustomizationValue": "0-525"
+            },
+            "IsLocked": false
+          }
+        ],
+        "ID": 97,
+        "DisplayName": {
+          "CultureInvariantString": "Level 97"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "98": {
+        "MinXP": 2425000,
+        "MaxXP": 2450000,
+        "FreeRewards": [],
+        "PremiumRewards": [
+          {
+            "RewardType": "ERewardType::Customization",
+            "RewardValue": 0,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::Portal",
+              "CustomizationValue": "28"
+            },
+            "IsLocked": false
+          }
+        ],
+        "ID": 98,
+        "DisplayName": {
+          "CultureInvariantString": "Level 98"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "99": {
+        "MinXP": 2450000,
+        "MaxXP": 2475000,
+        "FreeRewards": [],
+        "PremiumRewards": [
+          {
+            "RewardType": "ERewardType::Customization",
+            "RewardValue": 0,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::Jetpack",
+              "CustomizationValue": "21-447"
+            },
+            "IsLocked": false
+          }
+        ],
+        "ID": 99,
+        "DisplayName": {
+          "CultureInvariantString": "Level 99"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "100": {
+        "MinXP": 2475000,
+        "MaxXP": 2475000,
+        "FreeRewards": [],
+        "PremiumRewards": [
+          {
+            "RewardType": "ERewardType::Customization",
+            "RewardValue": 0,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::Armor",
+              "CustomizationValue": "77-447"
+            },
+            "IsLocked": false
+          }
+        ],
+        "ID": 100,
+        "DisplayName": {
+          "CultureInvariantString": "Level 100"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      }
+    }
+  }
+]

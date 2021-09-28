@@ -1,0 +1,2391 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "Emotes",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class EmoteCustomizationItem",
+        "ObjectPath": "/Script/PortalWarsGlobals"
+      },
+      "bIgnoreExtraFields": true,
+      "bIgnoreMissingFields": true
+    },
+    "Rows": {
+      "0": {
+        "AnimationSequence": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season1/A_Director_01.A_Director_01",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Emote",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Default",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 0,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Director"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "1": {
+        "AnimationSequence": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season1/A_Box_01.A_Box_01",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Emote",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Rare",
+        "ID": 1,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Boxing"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "2": {
+        "AnimationSequence": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season1/A_DramaticBattlePose_01.A_DramaticBattlePose_01",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Emote",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 2,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "BattlePose"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "3": {
+        "AnimationSequence": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season1/A_Exausted_01.A_Exausted_01",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Emote",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Rare",
+        "ID": 3,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Exhausted"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "4": {
+        "AnimationSequence": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season1/A_Fight_02.A_Fight_02",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Emote",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::BattlePass",
+          "AvailabilityInfo": "Season 1"
+        },
+        "Rarity": "ECustomizationRarity::Rare",
+        "ID": 4,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Fight"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "5": {
+        "AnimationSequence": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season1/A_FingerWave_01.A_FingerWave_01",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Emote",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::BattlePass",
+          "AvailabilityInfo": "Season 1"
+        },
+        "Rarity": "ECustomizationRarity::Rare",
+        "ID": 5,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "FingerWave"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "6": {
+        "AnimationSequence": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season1/A_Flex_01.A_Flex_01",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Emote",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 6,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Flexing"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "7": {
+        "AnimationSequence": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season1/A_Flex_02.A_Flex_02",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Emote",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::BattlePass",
+          "AvailabilityInfo": "Season 1"
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 7,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "HeroPose"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "8": {
+        "AnimationSequence": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season1/A_Hands_01.A_Hands_01",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Emote",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Rare",
+        "ID": 8,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Hands"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "9": {
+        "AnimationSequence": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season1/A_HandsOnHead_01.A_HandsOnHead_01",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Emote",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Rare",
+        "ID": 9,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "HandsonHead"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "10": {
+        "AnimationSequence": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season1/A_HoldPower_01.A_HoldPower_01",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Emote",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 10,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "PowerHold"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "11": {
+        "AnimationSequence": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season1/A_LeanForwad_01.A_LeanForwad_01",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Emote",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 11,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "ForwardLean"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "12": {
+        "AnimationSequence": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season1/A_Lotus_01.A_Lotus_01",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Emote",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::BattlePass",
+          "AvailabilityInfo": "Season 1"
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 12,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Levitate"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "13": {
+        "AnimationSequence": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season1/A_Metal_01.A_Metal_01",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Emote",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Rare",
+        "ID": 13,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "RockOn"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "14": {
+        "AnimationSequence": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season1/A_Metal_02.A_Metal_02",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Emote",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 14,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "RockBow"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "15": {
+        "AnimationSequence": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season1/A_Monkey_01.A_Monkey_01",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Emote",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::BattlePass",
+          "AvailabilityInfo": "Season 1"
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 15,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Monkey"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "16": {
+        "AnimationSequence": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season1/A_OverlyDramatic_01.A_OverlyDramatic_01",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Emote",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::BattlePass",
+          "AvailabilityInfo": "Season 1"
+        },
+        "Rarity": "ECustomizationRarity::Rare",
+        "ID": 16,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "DramaQueen"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "17": {
+        "AnimationSequence": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season1/A_PointToSelf_01.A_PointToSelf_01",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Emote",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::BattlePass",
+          "AvailabilityInfo": "Season 1"
+        },
+        "Rarity": "ECustomizationRarity::Rare",
+        "ID": 17,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "ImtheBest"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "18": {
+        "AnimationSequence": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season1/A_PointToSky_01.A_PointToSky_01",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Emote",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Rare",
+        "ID": 18,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Glorious"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "19": {
+        "AnimationSequence": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season1/A_Power_01.A_Power_01",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Emote",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 19,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "PowerUp"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "20": {
+        "AnimationSequence": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season1/A_Pray_01.A_Pray_01",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Emote",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Rare",
+        "ID": 20,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Pray"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "21": {
+        "AnimationSequence": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season1/A_Present_02.A_Present_02",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Emote",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 21,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Welcome"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "22": {
+        "AnimationSequence": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season1/A_Pulse_01fbx.A_Pulse_01fbx",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Emote",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Rare",
+        "ID": 22,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Pulse"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "23": {
+        "AnimationSequence": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season1/A_Sassy_01.A_Sassy_01",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Emote",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Rare",
+        "ID": 23,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Sassy"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "24": {
+        "AnimationSequence": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season1/A_ShoulderRoll_01.A_ShoulderRoll_01",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Emote",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Rare",
+        "ID": 24,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "ShoulderRoll"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "25": {
+        "AnimationSequence": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season1/A_SoSo_01.A_SoSo_01",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Emote",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 25,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "SoSo"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "26": {
+        "AnimationSequence": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season1/A_Stretch_01.A_Stretch_01",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Emote",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 26,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Stretch"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "27": {
+        "AnimationSequence": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season1/A_TaDah_01.A_TaDah_01",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Emote",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Rare",
+        "ID": 27,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "TaDa"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "28": {
+        "AnimationSequence": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season1/A_Tantrum_01.A_Tantrum_01",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Emote",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 28,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Tantrum"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "29": {
+        "AnimationSequence": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season1/A_TheTime_01.A_TheTime_01",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Emote",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Rare",
+        "ID": 29,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "LookattheTime"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "30": {
+        "AnimationSequence": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season1/A_Think_01.A_Think_01",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Emote",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 30,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Thinking"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "31": {
+        "AnimationSequence": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season1/A_Think_02.A_Think_02",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Emote",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 31,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Thoughtful"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "32": {
+        "AnimationSequence": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season1/A_Wave_01.A_Wave_01",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Emote",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 32,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Wave"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "33": {
+        "AnimationSequence": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season1/Ani_bow_01.Ani_bow_01",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Emote",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::BattlePass",
+          "AvailabilityInfo": "Season 1"
+        },
+        "Rarity": "ECustomizationRarity::Rare",
+        "ID": 33,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "StageBow"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "34": {
+        "AnimationSequence": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season1/Ani_buttSlap.Ani_buttSlap",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Emote",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 34,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "ButtSlap"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "35": {
+        "AnimationSequence": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season1/Ani_buttSlap_02.Ani_buttSlap_02",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Emote",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::BattlePass",
+          "AvailabilityInfo": "Season 1"
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 35,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "ReverseButtSlap"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "36": {
+        "AnimationSequence": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season1/Ani_callMe_01.Ani_callMe_01",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Emote",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 36,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "CallMe"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "37": {
+        "AnimationSequence": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season1/Ani_crossArms_01.Ani_crossArms_01",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Emote",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Rare",
+        "ID": 37,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "CrossedArms"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "38": {
+        "AnimationSequence": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season1/Ani_crouchChop_01.Ani_crouchChop_01",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Emote",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 38,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "CrotchChop"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "39": {
+        "AnimationSequence": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season1/Ani_dab_01.Ani_dab_01",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Emote",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 39,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Dab"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "40": {
+        "AnimationSequence": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season1/Ani_dustOff_01.Ani_dustOff_01",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Emote",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 40,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "DustOff"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "41": {
+        "AnimationSequence": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season1/Ani_eyesOnYou_01.Ani_eyesOnYou_01",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Emote",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Rare",
+        "ID": 41,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Eyesonyou"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "42": {
+        "AnimationSequence": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season1/Ani_facePalm_01.Ani_facePalm_01",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Emote",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 42,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "FacePalm"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "43": {
+        "AnimationSequence": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season1/Ani_fingerGun_01.Ani_fingerGun_01",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Emote",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 43,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "FingerGun"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "44": {
+        "AnimationSequence": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season1/Ani_fistPump_02.Ani_fistPump_02",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Emote",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 44,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "FistPump"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "45": {
+        "AnimationSequence": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season1/Ani_flex_01.Ani_flex_01",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Emote",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Rare",
+        "ID": 45,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Gunshow"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "46": {
+        "AnimationSequence": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season1/Ani_flex_02.Ani_flex_02",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Emote",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Rare",
+        "ID": 46,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Olympia"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "47": {
+        "AnimationSequence": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season1/Ani_halt_01.Ani_halt_01",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Emote",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Rare",
+        "ID": 47,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Halt"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "48": {
+        "AnimationSequence": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season1/Ani_handonHips_01.Ani_handonHips_01",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Emote",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 48,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "HandsonHips"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "49": {
+        "AnimationSequence": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season1/Ani_handPunch_01.Ani_handPunch_01",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Emote",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::BattlePass",
+          "AvailabilityInfo": "Season 1"
+        },
+        "Rarity": "ECustomizationRarity::Rare",
+        "ID": 49,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "KnuckleSandwich"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "50": {
+        "AnimationSequence": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season1/Ani_heart_01.Ani_heart_01",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Emote",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 50,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "3"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "51": {
+        "AnimationSequence": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season1/Ani_jojo_01.Ani_jojo_01",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Emote",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Rare",
+        "ID": 51,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "OMG"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "52": {
+        "AnimationSequence": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season1/Ani_knees_01.Ani_knees_01",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Emote",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 52,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Noooo"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "53": {
+        "AnimationSequence": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season1/Ani_kunfu_01.Ani_kunfu_01",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Emote",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Rare",
+        "ID": 53,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Comeatme"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "54": {
+        "AnimationSequence": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season1/Ani_neckSlit_01.Ani_neckSlit_01",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Emote",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::BattlePass",
+          "AvailabilityInfo": "Season 1"
+        },
+        "Rarity": "ECustomizationRarity::Rare",
+        "ID": 54,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "SlicingandDicing"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "55": {
+        "AnimationSequence": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season1/Ani_oK_01.Ani_oK_01",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Emote",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 55,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Ok"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "56": {
+        "AnimationSequence": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season1/Ani_point_01.Ani_point_01",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Emote",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 56,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "You"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "57": {
+        "AnimationSequence": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season1/Ani_praise_01.Ani_praise_01",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Emote",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Rare",
+        "ID": 57,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "PraisetheLord"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "58": {
+        "AnimationSequence": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season1/Ani_salute_02.Ani_salute_02",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Emote",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Rare",
+        "ID": 58,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "ReportingforDuty"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "59": {
+        "AnimationSequence": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season1/Ani_shrug_01.Ani_shrug_01",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Emote",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 59,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Shrug"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "60": {
+        "AnimationSequence": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season1/Ani_thrumbsUP_01.Ani_thrumbsUP_01",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Emote",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 60,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Thumbsup"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "61": {
+        "AnimationSequence": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season1/Ani_thumbsOnEars_01.Ani_thumbsOnEars_01",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Emote",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 61,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Hooligan"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "62": {
+        "AnimationSequence": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season1/Ani_thumsDown_01.Ani_thumsDown_01",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Emote",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 62,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "ThumbsDown"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "63": {
+        "AnimationSequence": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season1/Ani_victory_01.Ani_victory_01",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Emote",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 63,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Victory"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "64": {
+        "AnimationSequence": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season1/Ani_youHere_01.Ani_youHere_01",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Emote",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::BattlePass",
+          "AvailabilityInfo": "Season 1"
+        },
+        "Rarity": "ECustomizationRarity::Rare",
+        "ID": 64,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "GoingDown"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "65": {
+        "AnimationSequence": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season1/A_Looser_01.A_Looser_01",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Emote",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Rare",
+        "ID": 65,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Loser"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "66": {
+        "AnimationSequence": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season2/Anim_Bow.Anim_Bow",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Emote",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Rare",
+        "ID": 66,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "AtYourService"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "67": {
+        "AnimationSequence": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season2/Anim_Celebration_2.Anim_Celebration_2",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Emote",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::BattlePass",
+          "AvailabilityInfo": "Season 2"
+        },
+        "Rarity": "ECustomizationRarity::Rare",
+        "ID": 67,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Cheers"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "68": {
+        "AnimationSequence": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season2/Anim_Cheer.Anim_Cheer",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Emote",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 68,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Joy"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "69": {
+        "AnimationSequence": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season2/Anim_Chest_Beat.Anim_Chest_Beat",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Emote",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::BattlePass",
+          "AvailabilityInfo": "Season 2"
+        },
+        "Rarity": "ECustomizationRarity::Rare",
+        "ID": 69,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "ChestBeat"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "70": {
+        "AnimationSequence": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season2/Anim_Chicken_Taunt.Anim_Chicken_Taunt",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Emote",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 70,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "ChickenDance"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "71": {
+        "AnimationSequence": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season2/Anim_Death_Threat_01.Anim_Death_Threat_01",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Emote",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::BattlePass",
+          "AvailabilityInfo": "Season 2"
+        },
+        "Rarity": "ECustomizationRarity::Rare",
+        "ID": 71,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "DeathThreat"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "72": {
+        "AnimationSequence": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season2/Anim_Death_Threat_03.Anim_Death_Threat_03",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Emote",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 72,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "LockedandLoaded"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "73": {
+        "AnimationSequence": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season2/Anim_Fishing_Taunt.Anim_Fishing_Taunt",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Emote",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Rare",
+        "ID": 73,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Fishing"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "74": {
+        "AnimationSequence": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season2/Anim_Groin_Taunt.Anim_Groin_Taunt",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Emote",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 74,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "GroinChop"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "75": {
+        "AnimationSequence": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season2/Anim_Hat_Tip.Anim_Hat_Tip",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Emote",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::BattlePass",
+          "AvailabilityInfo": "Season 2"
+        },
+        "Rarity": "ECustomizationRarity::Rare",
+        "ID": 75,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "HatsOff"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "76": {
+        "AnimationSequence": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season2/Anim_Invisible_Lasso.Anim_Invisible_Lasso",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Emote",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Rare",
+        "ID": 76,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Lasso"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "77": {
+        "AnimationSequence": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season2/Anim_I_Cant_Hear_You.Anim_I_Cant_Hear_You",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Emote",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Rare",
+        "ID": 77,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "CrowdNoise"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "78": {
+        "AnimationSequence": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season2/Anim_Karate_Kick.Anim_Karate_Kick",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Emote",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 78,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "KaPOW"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "79": {
+        "AnimationSequence": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season2/Anim_Mime_In_A_Box.Anim_Mime_In_A_Box",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Emote",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 79,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Mime"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "80": {
+        "AnimationSequence": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season2/Anim_Mr_Universe.Anim_Mr_Universe",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Emote",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::BattlePass",
+          "AvailabilityInfo": "Season 2"
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 80,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "MrUniverse"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "81": {
+        "AnimationSequence": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season2/Anim_Ride_The_Bull_1.Anim_Ride_The_Bull_1",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Emote",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::BattlePass",
+          "AvailabilityInfo": "Season 2"
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 81,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "BullRider"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "82": {
+        "AnimationSequence": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season2/Anim_Ride_The_Bull_2.Anim_Ride_The_Bull_2",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Emote",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::BattlePass",
+          "AvailabilityInfo": "Season 2"
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 82,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "360BullRider"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "83": {
+        "AnimationSequence": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season2/Anim_Robo_Taunt.Anim_Robo_Taunt",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Emote",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 83,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Robogangsta"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "84": {
+        "AnimationSequence": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season2/Anim_Shake_Behind_Taunt.Anim_Shake_Behind_Taunt",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Emote",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 84,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "BootyShake"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "85": {
+        "AnimationSequence": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season2/Anim_Shield_Taunt.Anim_Shield_Taunt",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Emote",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::BattlePass",
+          "AvailabilityInfo": "Season 2"
+        },
+        "Rarity": "ECustomizationRarity::Rare",
+        "ID": 85,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Shielded"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "86": {
+        "AnimationSequence": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season2/Anim_Shoulder_Wave.Anim_Shoulder_Wave",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Emote",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::BattlePass",
+          "AvailabilityInfo": "Season 2"
+        },
+        "Rarity": "ECustomizationRarity::Rare",
+        "ID": 86,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "ShoulderWave"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "87": {
+        "AnimationSequence": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season2/Anim_Sword_Kneel.Anim_Sword_Kneel",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Emote",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Rare",
+        "ID": 87,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Honor"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "88": {
+        "AnimationSequence": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season2/Anim_Up_Yours.Anim_Up_Yours",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Emote",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Rare",
+        "ID": 88,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "UpYours"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "89": {
+        "AnimationSequence": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season2/Anim_Warm_Up.Anim_Warm_Up",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Emote",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::BattlePass",
+          "AvailabilityInfo": "Season 2"
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 89,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "GameTime"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "90": {
+        "AnimationSequence": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season2/Anim_Yes.Anim_Yes",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Emote",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Rare",
+        "ID": 90,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Yaaaass"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "91": {
+        "AnimationSequence": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season2/Dances/Anim_Dance_Taunt.Anim_Dance_Taunt",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Emote",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::BattlePass",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 91,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Macarena"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "92": {
+        "AnimationSequence": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season2/Dances/Anim_Slow_Rhythm_Dance_02.Anim_Slow_Rhythm_Dance_02",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Emote",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::BattlePass",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 92,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Ballerina"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "93": {
+        "AnimationSequence": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season2/Dances/Anim_Slow_Rhythm_Dance_10.Anim_Slow_Rhythm_Dance_10",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Emote",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::BattlePass",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Rare",
+        "ID": 93,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "BreakitDown"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "94": {
+        "AnimationSequence": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season2/Dances/Anim_Mid_Rhythm_Dance_12.Anim_Mid_Rhythm_Dance_12",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Emote",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::BattlePass",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 94,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "SplitgateShuffle"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      }
+    }
+  }
+]

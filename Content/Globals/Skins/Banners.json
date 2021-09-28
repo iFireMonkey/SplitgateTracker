@@ -1,0 +1,1239 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "Banners",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class BannerCustomizationItem",
+        "ObjectPath": "/Script/PortalWarsGlobals"
+      }
+    },
+    "Rows": {
+      "0": {
+        "ResourceObject": {
+          "AssetPathName": "/Game/Thumbnails/Banner/Nameplate_Default.Nameplate_Default",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Banner",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Default",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 0,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Default"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Banner/Nameplate_Default.Nameplate_Default",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "1": {
+        "ResourceObject": {
+          "AssetPathName": "/Game/Thumbnails/Banner/Nameplate_Splitgatev2.Nameplate_Splitgatev2",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Banner",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 1,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Splitgate"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Banner/Nameplate_Splitgatev2.Nameplate_Splitgatev2",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "2": {
+        "ResourceObject": {
+          "AssetPathName": "/Game/Thumbnails/Banner/Nameplate_Vaporwave1.Nameplate_Vaporwave1",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Banner",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 2,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Vaporwave"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Banner/Nameplate_Vaporwave1.Nameplate_Vaporwave1",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "3": {
+        "ResourceObject": {
+          "AssetPathName": "/Game/Thumbnails/Banner/Nameplate_Vaporwave2.Nameplate_Vaporwave2",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Banner",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::BattlePass",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 3,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Retro"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Banner/Nameplate_Vaporwave2.Nameplate_Vaporwave2",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "4": {
+        "ResourceObject": {
+          "AssetPathName": "/Game/Thumbnails/Banner/Nameplate_OrangeWave.Nameplate_OrangeWave",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Banner",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 4,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "OrangeWave"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Banner/Nameplate_OrangeWave.Nameplate_OrangeWave",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "5": {
+        "ResourceObject": {
+          "AssetPathName": "/Game/Thumbnails/Banner/Nameplate_Ocean.Nameplate_Ocean",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Banner",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::BattlePass",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 5,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Ocean"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Banner/Nameplate_Ocean.Nameplate_Ocean",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "6": {
+        "ResourceObject": {
+          "AssetPathName": "/Game/Thumbnails/Banner/Nameplate_Lowpoly.Nameplate_Lowpoly",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Banner",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::BattlePass",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 6,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Lowpoly"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Banner/Nameplate_Lowpoly.Nameplate_Lowpoly",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "7": {
+        "ResourceObject": {
+          "AssetPathName": "/Game/Thumbnails/Banner/Nameplate_Flare.Nameplate_Flare",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Banner",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::BattlePass",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Rare",
+        "ID": 7,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Flare"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Banner/Nameplate_Flare.Nameplate_Flare",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "8": {
+        "ResourceObject": {
+          "AssetPathName": "/Game/Thumbnails/Banner/Nameplate_Clouds.Nameplate_Clouds",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Banner",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::BattlePass",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Rare",
+        "ID": 8,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Clouds"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Banner/Nameplate_Clouds.Nameplate_Clouds",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "9": {
+        "ResourceObject": {
+          "AssetPathName": "/Game/Thumbnails/Banner/Nameplate_90s.Nameplate_90s",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Banner",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 9,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "90s"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Banner/Nameplate_90s.Nameplate_90s",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "10": {
+        "ResourceObject": {
+          "AssetPathName": "/Game/Thumbnails/Banner/Banner2Fixed.Banner2Fixed",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Banner",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Reward",
+          "AvailabilityInfo": "Season 2 Tourney Winner"
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 10,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "MostHated"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Banner/Banner2Fixed.Banner2Fixed",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "11": {
+        "ResourceObject": {
+          "AssetPathName": "/Game/Thumbnails/Banner/1.1",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Banner",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Rare",
+        "ID": 11,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "PurpleHaze"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Banner/1.1",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "12": {
+        "ResourceObject": {
+          "AssetPathName": "/Game/Thumbnails/Banner/2.2",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Banner",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Rare",
+        "ID": 12,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Grid"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Banner/2.2",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "13": {
+        "ResourceObject": {
+          "AssetPathName": "/Game/Thumbnails/Banner/3.3",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Banner",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Rare",
+        "ID": 13,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Skyfall"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Banner/3.3",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "14": {
+        "ResourceObject": {
+          "AssetPathName": "/Game/Thumbnails/Banner/4.4",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Banner",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Rare",
+        "ID": 14,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Autumn"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Banner/4.4",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "15": {
+        "ResourceObject": {
+          "AssetPathName": "/Game/Thumbnails/Banner/5.5",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Banner",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Rare",
+        "ID": 15,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Spring"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Banner/5.5",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "16": {
+        "ResourceObject": {
+          "AssetPathName": "/Game/Thumbnails/Banner/6.6",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Banner",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Rare",
+        "ID": 16,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Forest"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Banner/6.6",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "17": {
+        "ResourceObject": {
+          "AssetPathName": "/Game/Thumbnails/Banner/7.7",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Banner",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Rare",
+        "ID": 17,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Crimson"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Banner/7.7",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "18": {
+        "ResourceObject": {
+          "AssetPathName": "/Game/Thumbnails/Banner/8.8",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Banner",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Rare",
+        "ID": 18,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Starlight"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Banner/8.8",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "19": {
+        "ResourceObject": {
+          "AssetPathName": "/Game/Thumbnails/Banner/Lockdown.Lockdown",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Banner",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 19,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Lockdown"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Banner/Lockdown.Lockdown",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "20": {
+        "ResourceObject": {
+          "AssetPathName": "/Game/Thumbnails/Banner/Racer.Racer",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Banner",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 20,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Racer"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Banner/Racer.Racer",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "21": {
+        "ResourceObject": {
+          "AssetPathName": "/Game/Thumbnails/Banner/Sealife.Sealife",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Banner",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 21,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Sealife"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Banner/Sealife.Sealife",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "22": {
+        "ResourceObject": {
+          "AssetPathName": "/Game/Thumbnails/Banner/Sprinkles.Sprinkles",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Banner",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 22,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Sprinkles"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Banner/Sprinkles.Sprinkles",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "23": {
+        "ResourceObject": {
+          "AssetPathName": "/Game/Thumbnails/Banner/Acrylic_Banner.Acrylic_Banner",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Banner",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Rare",
+        "ID": 23,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Acrylic"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Banner/Acrylic_Banner.Acrylic_Banner",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "24": {
+        "ResourceObject": {
+          "AssetPathName": "/Game/Thumbnails/Banner/Blocks_Banner.Blocks_Banner",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Banner",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Rare",
+        "ID": 24,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Blocks"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Banner/Blocks_Banner.Blocks_Banner",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "25": {
+        "ResourceObject": {
+          "AssetPathName": "/Game/Thumbnails/Banner/Blue_Bolt_Banner.Blue_Bolt_Banner",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Banner",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Rare",
+        "ID": 25,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Haze"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Banner/Blue_Bolt_Banner.Blue_Bolt_Banner",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "26": {
+        "ResourceObject": {
+          "AssetPathName": "/Game/Thumbnails/Banner/Bang_Banner.Bang_Banner",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Banner",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Rare",
+        "ID": 26,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Bang"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Banner/Bang_Banner.Bang_Banner",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "27": {
+        "ResourceObject": {
+          "AssetPathName": "/Game/Thumbnails/Banner/Bork_Jr_Banner.Bork_Jr_Banner",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Banner",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Rare",
+        "ID": 27,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "BorkJr"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Banner/Bork_Jr_Banner.Bork_Jr_Banner",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "28": {
+        "ResourceObject": {
+          "AssetPathName": "/Game/Thumbnails/Banner/1G.1G",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Banner",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 28,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Summit1G"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Banner/1G.1G",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "29": {
+        "ResourceObject": {
+          "AssetPathName": "/Game/Thumbnails/Banner/Arrows.Arrows",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Banner",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 29,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Arrows"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Banner/Arrows.Arrows",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "30": {
+        "ResourceObject": {
+          "AssetPathName": "/Game/Thumbnails/Banner/CrazyEyes.CrazyEyes",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Banner",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 30,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "CrazyEyes"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Banner/CrazyEyes.CrazyEyes",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "31": {
+        "ResourceObject": {
+          "AssetPathName": "/Game/Thumbnails/Banner/DrDisrespect.DrDisrespect",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Banner",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 31,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "DrDisrespect"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Banner/DrDisrespect.DrDisrespect",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "32": {
+        "ResourceObject": {
+          "AssetPathName": "/Game/Thumbnails/Banner/FlowBanner.FlowBanner",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Banner",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 32,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Flow"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Banner/FlowBanner.FlowBanner",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "33": {
+        "ResourceObject": {
+          "AssetPathName": "/Game/Thumbnails/Banner/Planetary.Planetary",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Banner",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 33,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Planetary"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Banner/Planetary.Planetary",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "34": {
+        "ResourceObject": {
+          "AssetPathName": "/Game/Thumbnails/Banner/Rainbow.Rainbow",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Banner",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 34,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Rainbow"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Banner/Rainbow.Rainbow",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "35": {
+        "ResourceObject": {
+          "AssetPathName": "/Game/Thumbnails/Banner/RedSkull.RedSkull",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Banner",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 35,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "RedSkull"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Banner/RedSkull.RedSkull",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "36": {
+        "ResourceObject": {
+          "AssetPathName": "/Game/Thumbnails/Banner/Shrouds.Shrouds",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Banner",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 36,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Shroud"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Banner/Shrouds.Shrouds",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "37": {
+        "ResourceObject": {
+          "AssetPathName": "/Game/Thumbnails/Banner/SplitgateBetaBanner2.SplitgateBetaBanner2",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Banner",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::BattlePass",
+          "AvailabilityInfo": "Beta"
+        },
+        "Rarity": "ECustomizationRarity::Rare",
+        "ID": 37,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Beta"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Banner/SplitgateBetaBanner2.SplitgateBetaBanner2",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "38": {
+        "ResourceObject": {
+          "AssetPathName": "/Game/Thumbnails/Banner/SplitgateGoldEditionBanner.SplitgateGoldEditionBanner",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Banner",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::DLC",
+          "AvailabilityInfo": "GoldEdition"
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 38,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Gold"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Banner/SplitgateGoldEditionBanner.SplitgateGoldEditionBanner",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "39": {
+        "ResourceObject": {
+          "AssetPathName": "/Game/Thumbnails/Banner/MaximusBanner.MaximusBanner",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Banner",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::BattlePass",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 39,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Maximus"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Banner/MaximusBanner.MaximusBanner",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "40": {
+        "ResourceObject": {
+          "AssetPathName": "/Game/Thumbnails/Banner/HandsOnJackBanner.HandsOnJackBanner",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Banner",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::BattlePass",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 40,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "HandsOnJack"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Banner/HandsOnJackBanner.HandsOnJackBanner",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "41": {
+        "ResourceObject": {
+          "AssetPathName": "/Game/Thumbnails/Banner/TuskBanner.TuskBanner",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Banner",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::BattlePass",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 41,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Tusk"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Banner/TuskBanner.TuskBanner",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "42": {
+        "ResourceObject": {
+          "AssetPathName": "/Game/Thumbnails/Banner/Planetsurfer.Planetsurfer",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Banner",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 42,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "PlanetSurfer"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Banner/Planetsurfer.Planetsurfer",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "43": {
+        "ResourceObject": {
+          "AssetPathName": "/Game/Thumbnails/Banner/SplitgateBanner4.SplitgateBanner4",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Banner",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 43,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Splitter"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Banner/SplitgateBanner4.SplitgateBanner4",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "44": {
+        "ResourceObject": {
+          "AssetPathName": "/Game/Thumbnails/Banner/RocketManBanner.RocketManBanner",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Banner",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 44,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "RocketMan"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Banner/RocketManBanner.RocketManBanner",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "45": {
+        "ResourceObject": {
+          "AssetPathName": "/Game/Thumbnails/Banner/Aberration_Banner.Aberration_Banner",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Banner",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 45,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Aberration"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Banner/Aberration_Banner.Aberration_Banner",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "46": {
+        "ResourceObject": {
+          "AssetPathName": "/Game/Thumbnails/Banner/BetaFishBanner.BetaFishBanner",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Banner",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::BattlePass",
+          "AvailabilityInfo": "Beta"
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 46,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "BetaFish"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Banner/BetaFishBanner.BetaFishBanner",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "47": {
+        "ResourceObject": {
+          "AssetPathName": "/Game/Thumbnails/Banner/XboxBanner.XboxBanner",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Banner",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::DLC",
+          "AvailabilityInfo": "XboxPerks1"
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 47,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Xtreme"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Banner/XboxBanner.XboxBanner",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "48": {
+        "ResourceObject": {
+          "AssetPathName": "/Game/Thumbnails/Banner/PlaystationBanner.PlaystationBanner",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Banner",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::DLC",
+          "AvailabilityInfo": "PSPlus1"
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 48,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Playmaker"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Banner/PlaystationBanner.PlaystationBanner",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      }
+    }
+  }
+]

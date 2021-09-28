@@ -1,0 +1,93 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "CheckInRewards",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class CheckInData",
+        "ObjectPath": "/Script/PortalWarsGlobals"
+      }
+    },
+    "Rows": {
+      "0": {
+        "Rewards": [
+          {
+            "RewardType": "ERewardType::XP",
+            "RewardValue": 1000,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::None",
+              "CustomizationValue": ""
+            },
+            "IsLocked": false
+          },
+          {
+            "RewardType": "ERewardType::XP",
+            "RewardValue": 1000,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::None",
+              "CustomizationValue": ""
+            },
+            "IsLocked": false
+          },
+          {
+            "RewardType": "ERewardType::DoubleXP",
+            "RewardValue": 720,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::None",
+              "CustomizationValue": ""
+            },
+            "IsLocked": false
+          },
+          {
+            "RewardType": "ERewardType::Drop",
+            "RewardValue": 1,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::None",
+              "CustomizationValue": ""
+            },
+            "IsLocked": false
+          },
+          {
+            "RewardType": "ERewardType::XP",
+            "RewardValue": 2000,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::None",
+              "CustomizationValue": ""
+            },
+            "IsLocked": false
+          },
+          {
+            "RewardType": "ERewardType::XP",
+            "RewardValue": 2500,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::None",
+              "CustomizationValue": ""
+            },
+            "IsLocked": false
+          },
+          {
+            "RewardType": "ERewardType::Currency",
+            "RewardValue": 100,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::None",
+              "CustomizationValue": ""
+            },
+            "IsLocked": false
+          }
+        ],
+        "ID": 0,
+        "DisplayName": {
+          "CultureInvariantString": null
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      }
+    }
+  }
+]

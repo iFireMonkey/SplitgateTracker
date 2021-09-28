@@ -1,0 +1,964 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "Thumbnails_Emote",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class ThumbnailData",
+        "ObjectPath": "/Script/PortalWarsGlobals"
+      }
+    },
+    "Rows": {
+      "0": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Emote/Emote_0_T.Emote_0_T",
+          "SubPathString": ""
+        }
+      },
+      "1": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Emote/Emote_1_T.Emote_1_T",
+          "SubPathString": ""
+        }
+      },
+      "2": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Emote/Emote_2_T.Emote_2_T",
+          "SubPathString": ""
+        }
+      },
+      "3": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Emote/Emote_3_T.Emote_3_T",
+          "SubPathString": ""
+        }
+      },
+      "4": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Emote/Emote_4_T.Emote_4_T",
+          "SubPathString": ""
+        }
+      },
+      "5": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Emote/Emote_5_T.Emote_5_T",
+          "SubPathString": ""
+        }
+      },
+      "6": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Emote/Emote_6_T.Emote_6_T",
+          "SubPathString": ""
+        }
+      },
+      "7": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Emote/Emote_7_T.Emote_7_T",
+          "SubPathString": ""
+        }
+      },
+      "8": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Emote/Emote_8_T.Emote_8_T",
+          "SubPathString": ""
+        }
+      },
+      "9": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Emote/Emote_9_T.Emote_9_T",
+          "SubPathString": ""
+        }
+      },
+      "10": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Emote/Emote_10_T.Emote_10_T",
+          "SubPathString": ""
+        }
+      },
+      "11": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Emote/Emote_11_T.Emote_11_T",
+          "SubPathString": ""
+        }
+      },
+      "12": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Emote/Emote_12_T.Emote_12_T",
+          "SubPathString": ""
+        }
+      },
+      "13": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Emote/Emote_13_T.Emote_13_T",
+          "SubPathString": ""
+        }
+      },
+      "14": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Emote/Emote_14_T.Emote_14_T",
+          "SubPathString": ""
+        }
+      },
+      "15": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Emote/Emote_15_T.Emote_15_T",
+          "SubPathString": ""
+        }
+      },
+      "16": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Emote/Emote_16_T.Emote_16_T",
+          "SubPathString": ""
+        }
+      },
+      "17": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Emote/Emote_17_T.Emote_17_T",
+          "SubPathString": ""
+        }
+      },
+      "18": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Emote/Emote_18_T.Emote_18_T",
+          "SubPathString": ""
+        }
+      },
+      "19": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Emote/Emote_19_T.Emote_19_T",
+          "SubPathString": ""
+        }
+      },
+      "20": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Emote/Emote_20_T.Emote_20_T",
+          "SubPathString": ""
+        }
+      },
+      "21": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Emote/Emote_21_T.Emote_21_T",
+          "SubPathString": ""
+        }
+      },
+      "22": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Emote/Emote_22_T.Emote_22_T",
+          "SubPathString": ""
+        }
+      },
+      "23": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Emote/Emote_23_T.Emote_23_T",
+          "SubPathString": ""
+        }
+      },
+      "24": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Emote/Emote_24_T.Emote_24_T",
+          "SubPathString": ""
+        }
+      },
+      "25": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Emote/Emote_25_T.Emote_25_T",
+          "SubPathString": ""
+        }
+      },
+      "26": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Emote/Emote_26_T.Emote_26_T",
+          "SubPathString": ""
+        }
+      },
+      "27": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Emote/Emote_27_T.Emote_27_T",
+          "SubPathString": ""
+        }
+      },
+      "28": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Emote/Emote_28_T.Emote_28_T",
+          "SubPathString": ""
+        }
+      },
+      "29": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Emote/Emote_29_T.Emote_29_T",
+          "SubPathString": ""
+        }
+      },
+      "30": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Emote/Emote_30_T.Emote_30_T",
+          "SubPathString": ""
+        }
+      },
+      "31": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Emote/Emote_31_T.Emote_31_T",
+          "SubPathString": ""
+        }
+      },
+      "32": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Emote/Emote_32_T.Emote_32_T",
+          "SubPathString": ""
+        }
+      },
+      "33": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Emote/Emote_33_T.Emote_33_T",
+          "SubPathString": ""
+        }
+      },
+      "34": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Emote/Emote_34_T.Emote_34_T",
+          "SubPathString": ""
+        }
+      },
+      "35": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Emote/Emote_35_T.Emote_35_T",
+          "SubPathString": ""
+        }
+      },
+      "36": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Emote/Emote_36_T.Emote_36_T",
+          "SubPathString": ""
+        }
+      },
+      "37": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Emote/Emote_37_T.Emote_37_T",
+          "SubPathString": ""
+        }
+      },
+      "38": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Emote/Emote_38_T.Emote_38_T",
+          "SubPathString": ""
+        }
+      },
+      "39": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Emote/Emote_39_T.Emote_39_T",
+          "SubPathString": ""
+        }
+      },
+      "40": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Emote/Emote_40_T.Emote_40_T",
+          "SubPathString": ""
+        }
+      },
+      "41": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Emote/Emote_41_T.Emote_41_T",
+          "SubPathString": ""
+        }
+      },
+      "42": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Emote/Emote_42_T.Emote_42_T",
+          "SubPathString": ""
+        }
+      },
+      "43": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Emote/Emote_43_T.Emote_43_T",
+          "SubPathString": ""
+        }
+      },
+      "44": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Emote/Emote_44_T.Emote_44_T",
+          "SubPathString": ""
+        }
+      },
+      "45": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Emote/Emote_45_T.Emote_45_T",
+          "SubPathString": ""
+        }
+      },
+      "46": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Emote/Emote_46_T.Emote_46_T",
+          "SubPathString": ""
+        }
+      },
+      "47": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Emote/Emote_47_T.Emote_47_T",
+          "SubPathString": ""
+        }
+      },
+      "48": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Emote/Emote_48_T.Emote_48_T",
+          "SubPathString": ""
+        }
+      },
+      "49": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Emote/Emote_49_T.Emote_49_T",
+          "SubPathString": ""
+        }
+      },
+      "50": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Emote/Emote_50_T.Emote_50_T",
+          "SubPathString": ""
+        }
+      },
+      "51": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Emote/Emote_51_T.Emote_51_T",
+          "SubPathString": ""
+        }
+      },
+      "52": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Emote/Emote_52_T.Emote_52_T",
+          "SubPathString": ""
+        }
+      },
+      "53": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Emote/Emote_53_T.Emote_53_T",
+          "SubPathString": ""
+        }
+      },
+      "54": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Emote/Emote_54_T.Emote_54_T",
+          "SubPathString": ""
+        }
+      },
+      "55": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Emote/Emote_55_T.Emote_55_T",
+          "SubPathString": ""
+        }
+      },
+      "56": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Emote/Emote_56_T.Emote_56_T",
+          "SubPathString": ""
+        }
+      },
+      "57": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Emote/Emote_57_T.Emote_57_T",
+          "SubPathString": ""
+        }
+      },
+      "58": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Emote/Emote_58_T.Emote_58_T",
+          "SubPathString": ""
+        }
+      },
+      "59": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Emote/Emote_59_T.Emote_59_T",
+          "SubPathString": ""
+        }
+      },
+      "60": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Emote/Emote_60_T.Emote_60_T",
+          "SubPathString": ""
+        }
+      },
+      "61": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Emote/Emote_61_T.Emote_61_T",
+          "SubPathString": ""
+        }
+      },
+      "62": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Emote/Emote_62_T.Emote_62_T",
+          "SubPathString": ""
+        }
+      },
+      "63": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Emote/Emote_63_T.Emote_63_T",
+          "SubPathString": ""
+        }
+      },
+      "64": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Emote/Emote_64_T.Emote_64_T",
+          "SubPathString": ""
+        }
+      },
+      "65": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Emote/Emote_65_T.Emote_65_T",
+          "SubPathString": ""
+        }
+      },
+      "66": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Emote/Emote_66_T.Emote_66_T",
+          "SubPathString": ""
+        }
+      },
+      "67": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Emote/Emote_67_T.Emote_67_T",
+          "SubPathString": ""
+        }
+      },
+      "68": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Emote/Emote_68_T.Emote_68_T",
+          "SubPathString": ""
+        }
+      },
+      "69": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Emote/Emote_69_T.Emote_69_T",
+          "SubPathString": ""
+        }
+      },
+      "70": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Emote/Emote_70_T.Emote_70_T",
+          "SubPathString": ""
+        }
+      },
+      "71": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Emote/Emote_71_T.Emote_71_T",
+          "SubPathString": ""
+        }
+      },
+      "72": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Emote/Emote_72_T.Emote_72_T",
+          "SubPathString": ""
+        }
+      },
+      "73": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Emote/Emote_73_T.Emote_73_T",
+          "SubPathString": ""
+        }
+      },
+      "74": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Emote/Emote_74_T.Emote_74_T",
+          "SubPathString": ""
+        }
+      },
+      "75": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Emote/Emote_75_T.Emote_75_T",
+          "SubPathString": ""
+        }
+      },
+      "76": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Emote/Emote_76_T.Emote_76_T",
+          "SubPathString": ""
+        }
+      },
+      "77": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Emote/Emote_77_T.Emote_77_T",
+          "SubPathString": ""
+        }
+      },
+      "78": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Emote/Emote_78_T.Emote_78_T",
+          "SubPathString": ""
+        }
+      },
+      "79": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Emote/Emote_79_T.Emote_79_T",
+          "SubPathString": ""
+        }
+      },
+      "80": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Emote/Emote_80_T.Emote_80_T",
+          "SubPathString": ""
+        }
+      },
+      "81": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Emote/Emote_81_T.Emote_81_T",
+          "SubPathString": ""
+        }
+      },
+      "82": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Emote/Emote_82_T.Emote_82_T",
+          "SubPathString": ""
+        }
+      },
+      "83": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Emote/Emote_83_T.Emote_83_T",
+          "SubPathString": ""
+        }
+      },
+      "84": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Emote/Emote_84_T.Emote_84_T",
+          "SubPathString": ""
+        }
+      },
+      "85": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Emote/Emote_85_T.Emote_85_T",
+          "SubPathString": ""
+        }
+      },
+      "86": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Emote/Emote_86_T.Emote_86_T",
+          "SubPathString": ""
+        }
+      },
+      "87": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Emote/Emote_87_T.Emote_87_T",
+          "SubPathString": ""
+        }
+      },
+      "88": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Emote/Emote_88_T.Emote_88_T",
+          "SubPathString": ""
+        }
+      },
+      "89": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Emote/Emote_89_T.Emote_89_T",
+          "SubPathString": ""
+        }
+      },
+      "90": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Emote/Emote_90_T.Emote_90_T",
+          "SubPathString": ""
+        }
+      },
+      "91": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Emote/Emote_91_T.Emote_91_T",
+          "SubPathString": ""
+        }
+      },
+      "92": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Emote/Emote_92_T.Emote_92_T",
+          "SubPathString": ""
+        }
+      },
+      "93": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Emote/Emote_93_T.Emote_93_T",
+          "SubPathString": ""
+        }
+      },
+      "94": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Emote/Emote_94_T.Emote_94_T",
+          "SubPathString": ""
+        }
+      }
+    }
+  }
+]

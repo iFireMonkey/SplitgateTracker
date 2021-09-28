@@ -1,0 +1,779 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "Announcer",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class AnnouncerEvent",
+        "ObjectPath": "/Script/PortalWarsGlobals"
+      }
+    },
+    "Rows": {
+      "OneMinRemaining": {
+        "EventName": "play_vx_1min",
+        "SubtitleText": {
+          "Namespace": "Announcer",
+          "Key": "SubtitleText_OneMinRemaining",
+          "SourceString": "One minute remaining"
+        }
+      },
+      "FiveMinRemaining": {
+        "EventName": "play_vx_5min",
+        "SubtitleText": {
+          "Namespace": "Announcer",
+          "Key": "SubtitleText_FiveMinRemaining",
+          "SourceString": "Five minutes remaining"
+        }
+      },
+      "GameStartsIn": {
+        "EventName": "play_vx_gamestarts",
+        "SubtitleText": {
+          "Namespace": "Announcer",
+          "Key": "SubtitleText_GameStartsIn",
+          "SourceString": "Game starts in..."
+        }
+      },
+      "Countdown5": {
+        "EventName": "play_vx_countdown5",
+        "SubtitleText": {
+          "Namespace": "Announcer",
+          "Key": "SubtitleText_Countdown5",
+          "SourceString": "Five"
+        }
+      },
+      "Countdown4": {
+        "EventName": "play_vx_countdown4",
+        "SubtitleText": {
+          "Namespace": "Announcer",
+          "Key": "SubtitleText_Countdown4",
+          "SourceString": "Four"
+        }
+      },
+      "Countdown3": {
+        "EventName": "play_vx_countdown3",
+        "SubtitleText": {
+          "Namespace": "Announcer",
+          "Key": "SubtitleText_Countdown3",
+          "SourceString": "Three"
+        }
+      },
+      "Countdown2": {
+        "EventName": "play_vx_countdown2",
+        "SubtitleText": {
+          "Namespace": "Announcer",
+          "Key": "SubtitleText_Countdown2",
+          "SourceString": "Two"
+        }
+      },
+      "Countdown1": {
+        "EventName": "play_vx_countdown1",
+        "SubtitleText": {
+          "Namespace": "Announcer",
+          "Key": "SubtitleText_Countdown1",
+          "SourceString": "One"
+        }
+      },
+      "GameOver": {
+        "EventName": "play_vx_gameover",
+        "SubtitleText": {
+          "Namespace": "Announcer",
+          "Key": "SubtitleText_GameOver",
+          "SourceString": "Game over"
+        }
+      },
+      "Victory": {
+        "EventName": "play_vx_announcer_victory",
+        "SubtitleText": {
+          "Namespace": "Announcer",
+          "Key": "SubtitleText_Victory",
+          "SourceString": "Victory!"
+        }
+      },
+      "Defeat": {
+        "EventName": "play_vx_announcer_defeat",
+        "SubtitleText": {
+          "Namespace": "Announcer",
+          "Key": "SubtitleText_Defeat",
+          "SourceString": "Defeat"
+        }
+      },
+      "Draw": {
+        "EventName": "play_vx_announcer_draw",
+        "SubtitleText": {
+          "Namespace": "Announcer",
+          "Key": "SubtitleText_Draw",
+          "SourceString": "Draw"
+        }
+      },
+      "FFA": {
+        "EventName": "play_vx_ffa",
+        "SubtitleText": {
+          "Namespace": "Announcer",
+          "Key": "SubtitleText_FFA",
+          "SourceString": "Free For All"
+        }
+      },
+      "GainedLead": {
+        "EventName": "play_vx_announcer_gainedlead",
+        "SubtitleText": {
+          "Namespace": "Announcer",
+          "Key": "SubtitleText_GainedLead",
+          "SourceString": "Gained the lead"
+        }
+      },
+      "TiedLeader": {
+        "EventName": "play_vx_announcer_tiedleader",
+        "SubtitleText": {
+          "Namespace": "Announcer",
+          "Key": "SubtitleText_TiedLeader",
+          "SourceString": "Tied the leader"
+        }
+      },
+      "LostLead": {
+        "EventName": "play_vx_announcer_lostlead",
+        "SubtitleText": {
+          "Namespace": "Announcer",
+          "Key": "SubtitleText_LostLead",
+          "SourceString": "Lost the lead"
+        }
+      },
+      "TDM": {
+        "EventName": "play_vx_tdm",
+        "SubtitleText": {
+          "Namespace": "Announcer",
+          "Key": "SubtitleText_TDM",
+          "SourceString": "Team Deathmatch"
+        }
+      },
+      "KOTH": {
+        "EventName": "play_vx_koth",
+        "SubtitleText": {
+          "Namespace": "Announcer",
+          "Key": "SubtitleText_KOTH",
+          "SourceString": "King of the Hill"
+        }
+      },
+      "HillControlled": {
+        "EventName": "play_vx_announcer_hillcontrolled",
+        "SubtitleText": {
+          "Namespace": "Announcer",
+          "Key": "SubtitleText_HillControlled",
+          "SourceString": "Hill controlled"
+        }
+      },
+      "HillLost": {
+        "EventName": "play_vx_announcer_hilllost",
+        "SubtitleText": {
+          "Namespace": "Announcer",
+          "Key": "SubtitleText_HillLost",
+          "SourceString": "Hill lost"
+        }
+      },
+      "HillMoved": {
+        "EventName": "play_vx_hillmoved",
+        "SubtitleText": {
+          "Namespace": "Announcer",
+          "Key": "SubtitleText_HillMoved",
+          "SourceString": "Hill moved"
+        }
+      },
+      "HillContested": {
+        "EventName": "play_vx_hillcontested",
+        "SubtitleText": {
+          "Namespace": "Announcer",
+          "Key": "SubtitleText_HillContested",
+          "SourceString": "Hill contested"
+        }
+      },
+      "DOM": {
+        "EventName": "play_vx_announcer_dom",
+        "SubtitleText": {
+          "Namespace": "Announcer",
+          "Key": "SubtitleText_DOM",
+          "SourceString": "Domination"
+        }
+      },
+      "ASecured": {
+        "EventName": "play_vx_announcer_asecured",
+        "SubtitleText": {
+          "Namespace": "Announcer",
+          "Key": "SubtitleText_ASecured",
+          "SourceString": "A secured"
+        }
+      },
+      "Bsecured": {
+        "EventName": "play_vx_announcer_bsecured",
+        "SubtitleText": {
+          "Namespace": "Announcer",
+          "Key": "SubtitleText_Bsecured",
+          "SourceString": "B secured"
+        }
+      },
+      "Csecured": {
+        "EventName": "play_vx_announcer_csecured",
+        "SubtitleText": {
+          "Namespace": "Announcer",
+          "Key": "SubtitleText_Csecured",
+          "SourceString": "C secured"
+        }
+      },
+      "ALost": {
+        "EventName": "play_vx_announcer_alost",
+        "SubtitleText": {
+          "Namespace": "Announcer",
+          "Key": "SubtitleText_ALost",
+          "SourceString": "A lost"
+        }
+      },
+      "BLost": {
+        "EventName": "play_vx_announcer_blost",
+        "SubtitleText": {
+          "Namespace": "Announcer",
+          "Key": "SubtitleText_BLost",
+          "SourceString": "B lost"
+        }
+      },
+      "CLost": {
+        "EventName": "play_vx_announcer_clost",
+        "SubtitleText": {
+          "Namespace": "Announcer",
+          "Key": "SubtitleText_CLost",
+          "SourceString": "C lost"
+        }
+      },
+      "LosingA": {
+        "EventName": "play_vx_announcer_losinga",
+        "SubtitleText": {
+          "Namespace": "Announcer",
+          "Key": "SubtitleText_LosingA",
+          "SourceString": "Losing A"
+        }
+      },
+      "LosingB": {
+        "EventName": "play_vx_announcer_losingb",
+        "SubtitleText": {
+          "Namespace": "Announcer",
+          "Key": "SubtitleText_LosingB",
+          "SourceString": "Losing B"
+        }
+      },
+      "LosingC": {
+        "EventName": "play_vx_announcer_losingc",
+        "SubtitleText": {
+          "Namespace": "Announcer",
+          "Key": "SubtitleText_LosingC",
+          "SourceString": "Losing C"
+        }
+      },
+      "AllHillsSecured": {
+        "EventName": "play_vx_announcer_allhillssecured",
+        "SubtitleText": {
+          "Namespace": "Announcer",
+          "Key": "SubtitleText_AllHillsSecured",
+          "SourceString": "All hills secured"
+        }
+      },
+      "AllHillsLost": {
+        "EventName": "play_vx_announcer_allhillslost",
+        "SubtitleText": {
+          "Namespace": "Announcer",
+          "Key": "SubtitleText_AllHillsLost",
+          "SourceString": "All hills lost"
+        }
+      },
+      "OB": {
+        "EventName": "play_vx_announcer_oddball",
+        "SubtitleText": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_Oddball"
+        }
+      },
+      "TOB": {
+        "EventName": "play_vx_announcer_teamoddball",
+        "SubtitleText": {
+          "Namespace": "Announcer",
+          "Key": "SubtitleText_TOB",
+          "SourceString": "Team Oddball"
+        }
+      },
+      "BallStolen": {
+        "EventName": "play_vx_announcer_ballstolen",
+        "SubtitleText": {
+          "Namespace": "Announcer",
+          "Key": "SubtitleText_BallStolen",
+          "SourceString": "Ball stolen"
+        }
+      },
+      "BallSecured": {
+        "EventName": "play_vx_announcer_ballsecured",
+        "SubtitleText": {
+          "Namespace": "Announcer",
+          "Key": "SubtitleText_BallSecured",
+          "SourceString": "Ball secured"
+        }
+      },
+      "BallReset": {
+        "EventName": "play_vx_announcer_ballreset",
+        "SubtitleText": {
+          "Namespace": "Announcer",
+          "Key": "SubtitleText_BallReset",
+          "SourceString": "Ball reset"
+        }
+      },
+      "BallDropped": {
+        "EventName": "play_vx_announcer_balldropped",
+        "SubtitleText": {
+          "Namespace": "Announcer",
+          "Key": "SubtitleText_BallDropped",
+          "SourceString": "Ball dropped"
+        }
+      },
+      "BallTaken": {
+        "EventName": "play_vx_announcer_pickups_ball",
+        "SubtitleText": {
+          "Namespace": "Announcer",
+          "Key": "SubtitleText_BallTaken",
+          "SourceString": "Ball taken"
+        }
+      },
+      "CTF": {
+        "EventName": "play_vx_announcer_ctf",
+        "SubtitleText": {
+          "Namespace": "Announcer",
+          "Key": "SubtitleText_CTF",
+          "SourceString": "Capture the Flag"
+        }
+      },
+      "FlagTaken": {
+        "EventName": "play_vx_announcer_flagtaken",
+        "SubtitleText": {
+          "Namespace": "Announcer",
+          "Key": "SubtitleText_FlagTaken",
+          "SourceString": "Flag taken"
+        }
+      },
+      "FlagDropped": {
+        "EventName": "play_vx_announcer_flagdropped",
+        "SubtitleText": {
+          "Namespace": "Announcer",
+          "Key": "SubtitleText_FlagDropped",
+          "SourceString": "Flag dropped"
+        }
+      },
+      "FlagReset": {
+        "EventName": "play_vx_announcer_flagreset",
+        "SubtitleText": {
+          "Namespace": "Announcer",
+          "Key": "SubtitleText_FlagReset",
+          "SourceString": "Flag reset"
+        }
+      },
+      "FlagStolen": {
+        "EventName": "play_vx_announcer_flagstolen",
+        "SubtitleText": {
+          "Namespace": "Announcer",
+          "Key": "SubtitleText_FlagStolen",
+          "SourceString": "Flag stolen"
+        }
+      },
+      "FlagCaptured": {
+        "EventName": "play_vx_announcer_flagcaptured",
+        "SubtitleText": {
+          "Namespace": "Announcer",
+          "Key": "SubtitleText_FlagCaptured",
+          "SourceString": "Flag captured"
+        }
+      },
+      "IG": {
+        "EventName": "play_vx_announcer_instagib",
+        "SubtitleText": {
+          "Namespace": "Announcer",
+          "Key": "SubtitleText_IG",
+          "SourceString": "Instagib"
+        }
+      },
+      "TIG": {
+        "EventName": "play_vx_announcer_instagib",
+        "SubtitleText": {
+          "Namespace": "Announcer",
+          "Key": "SubtitleText_TIG",
+          "SourceString": "Team Instagib"
+        }
+      },
+      "SWAT": {
+        "EventName": "play_vx_announcer_pickups_teamswat",
+        "SubtitleText": {
+          "Namespace": "Announcer",
+          "Key": "SubtitleText_SWAT",
+          "SourceString": "SWAT"
+        }
+      },
+      "DoubleKill": {
+        "EventName": "play_vx_doublekill",
+        "SubtitleText": {
+          "Namespace": "Announcer",
+          "Key": "SubtitleText_DoubleKill",
+          "SourceString": "Double kill!"
+        }
+      },
+      "TripleKill": {
+        "EventName": "play_vx_triplekill",
+        "SubtitleText": {
+          "Namespace": "Announcer",
+          "Key": "SubtitleText_TripleKill",
+          "SourceString": "Triple kill!"
+        }
+      },
+      "QuadKill": {
+        "EventName": "play_vx_killeidoscope",
+        "SubtitleText": {
+          "Namespace": "Announcer",
+          "Key": "SubtitleText_QuadKill",
+          "SourceString": "Killeidescope!"
+        }
+      },
+      "QuintKill": {
+        "EventName": "play_vx_announcer_killiteration",
+        "SubtitleText": {
+          "Namespace": "Announcer",
+          "Key": "SubtitleText_QuintKill",
+          "SourceString": "Killiteration!"
+        }
+      },
+      "SixKill": {
+        "EventName": "play_vx_announcer_killsanity",
+        "SubtitleText": {
+          "Namespace": "Announcer",
+          "Key": "SubtitleText_SixKill",
+          "SourceString": "Killsanity!"
+        }
+      },
+      "KillStreak1": {
+        "EventName": "play_vx_killingspree",
+        "SubtitleText": {
+          "Namespace": "Announcer",
+          "Key": "SubtitleText_KillStreak1",
+          "SourceString": "Killing Spree!"
+        }
+      },
+      "KillStreak2": {
+        "EventName": "play_vx_killectionagency",
+        "SubtitleText": {
+          "Namespace": "Announcer",
+          "Key": "SubtitleText_KillStreak2",
+          "SourceString": "Killection Agency!"
+        }
+      },
+      "KillStreak3": {
+        "EventName": "play_vx_announcer_fragtastic",
+        "SubtitleText": {
+          "Namespace": "Announcer",
+          "Key": "SubtitleText_KillStreak3",
+          "SourceString": "Fragtastic!"
+        }
+      },
+      "KillStreak4": {
+        "EventName": "play_vx_announcer_kingofcarnage",
+        "SubtitleText": {
+          "Namespace": "Announcer",
+          "Key": "SubtitleText_KillStreak4",
+          "SourceString": "King of Carnage!"
+        }
+      },
+      "KillStreak5": {
+        "EventName": "play_vx_announcer_absolutemadlad",
+        "SubtitleText": {
+          "Namespace": "Announcer",
+          "Key": "SubtitleText_KillStreak5",
+          "SourceString": "Absolute Mad Lad!"
+        }
+      },
+      "KillStreak6": {
+        "EventName": "play_vx_supercalifrickenlicious",
+        "SubtitleText": {
+          "Namespace": "Announcer",
+          "Key": "SubtitleText_KillStreak6",
+          "SourceString": "Superkillifragilisticextrakillidocious!"
+        }
+      },
+      "TBC": {
+        "EventName": "play_vx_announcer_pickups_teabagconfirmed",
+        "SubtitleText": {
+          "Namespace": "Announcer",
+          "Key": "SubtitleText_TBC",
+          "SourceString": "Teabag Confirmed"
+        }
+      },
+      "TeabagConfirmed": {
+        "EventName": "play_sx_ui_teabag_confirmed",
+        "SubtitleText": {
+          "Namespace": "Announcer",
+          "Key": "SubtitleText_TeabagConfirmed",
+          "SourceString": "Teabag Confirmed"
+        }
+      },
+      "TeabagDenied": {
+        "EventName": "play_sx_ui_teabag_denied",
+        "SubtitleText": {
+          "Namespace": "Announcer",
+          "Key": "SubtitleText_TeabagDenied",
+          "SourceString": "Teabag Denied"
+        }
+      },
+      "EnemyTeabagDenied": {
+        "EventName": "play_sx_ui_teabag_enemy_denied",
+        "SubtitleText": {
+          "Namespace": "Announcer",
+          "Key": "SubtitleText_EnemyTeabagDenied",
+          "SourceString": "Enemy Denied Teabag"
+        }
+      },
+      "TeammateConfirmedTeabag": {
+        "EventName": "play_sx_ui_teabag_confirmed.play_sx_ui_teabag_confirmed",
+        "SubtitleText": {
+          "Namespace": "Announcer",
+          "Key": "SubtitleText_TeammateConfirmedTeabag",
+          "SourceString": "Teammate Confirmed Teabag"
+        }
+      },
+      "RACE": {
+        "EventName": "",
+        "SubtitleText": {
+          "CultureInvariantString": null
+        }
+      },
+      "VIPKill": {
+        "EventName": "play_sx_ui_teabag_confirmed",
+        "SubtitleText": {
+          "Namespace": "Announcer",
+          "Key": "SubtitleText_VIPKill",
+          "SourceString": "VIP Kill"
+        }
+      },
+      "RoundOver": {
+        "EventName": "play_vx_announcer_roundover",
+        "SubtitleText": {
+          "Namespace": "Announcer",
+          "Key": "SubtitleText_RoundOver",
+          "SourceString": "Round over"
+        }
+      },
+      "RoundWon": {
+        "EventName": "play_vx_announcer_pickups_roundwon",
+        "SubtitleText": {
+          "Namespace": "Announcer",
+          "Key": "SubtitleText_RoundWon",
+          "SourceString": "Round won"
+        }
+      },
+      "RoundTied": {
+        "EventName": "play_vx_announcer_pickups_roundtied",
+        "SubtitleText": {
+          "Namespace": "Announcer",
+          "Key": "SubtitleText_RoundTied",
+          "SourceString": "Round tied"
+        }
+      },
+      "RoundLost": {
+        "EventName": "play_vx_announcer_pickups_roundlost",
+        "SubtitleText": {
+          "Namespace": "Announcer",
+          "Key": "SubtitleText_RoundLost",
+          "SourceString": "Round lost"
+        }
+      },
+      "RoundStartsIn": {
+        "EventName": "play_vx_announcer_pickups_roundstartsin",
+        "SubtitleText": {
+          "Namespace": "Announcer",
+          "Key": "SubtitleText_RoundStartsIn",
+          "SourceString": "Round starts in..."
+        }
+      },
+      "LastManStanding": {
+        "EventName": "play_vx_announcer_pickups_lastmanstanding",
+        "SubtitleText": {
+          "Namespace": "Announcer",
+          "Key": "SubtitleText_LastManStanding",
+          "SourceString": "Last man standing"
+        }
+      },
+      "OneEnemyLeft": {
+        "EventName": "play_vx_announcer_pickups_oneenemyremaining",
+        "SubtitleText": {
+          "Namespace": "Announcer",
+          "Key": "SubtitleText_OneEnemyLeft",
+          "SourceString": "One enemy remaining"
+        }
+      },
+      "MatchPoint": {
+        "EventName": "play_vx_announcer_pickups_matchpoint",
+        "SubtitleText": {
+          "Namespace": "Announcer",
+          "Key": "SubtitleText_MatchPoint",
+          "SourceString": "Match point"
+        }
+      },
+      "TD": {
+        "EventName": "play_vx_announcer_pickups_takedown",
+        "SubtitleText": {
+          "Namespace": "Announcer",
+          "Key": "SubtitleText_TD",
+          "SourceString": "Takedown"
+        }
+      },
+      "FST": {
+        "EventName": "play_vx_announcer_pickups_fiesta",
+        "SubtitleText": {
+          "Namespace": "Announcer",
+          "Key": "SubtitleText_FST",
+          "SourceString": "Fiesta"
+        }
+      },
+      "OITC": {
+        "EventName": "play_vx_announcer_pickups_oneinthechamber",
+        "SubtitleText": {
+          "Namespace": "Announcer",
+          "Key": "SubtitleText_OITC",
+          "SourceString": "One in the chamber"
+        }
+      },
+      "ZVIP": {
+        "EventName": "play_vx_announcer_pickups_zombievip",
+        "SubtitleText": {
+          "Namespace": "Announcer",
+          "Key": "SubtitleText_ZVIP",
+          "SourceString": "Zombie VIP"
+        }
+      },
+      "SKOTH": {
+        "EventName": "play_vx_announcer_pickups_superkingofthehill",
+        "SubtitleText": {
+          "Namespace": "Announcer",
+          "Key": "SubtitleText_SKOTH",
+          "SourceString": "Super King of the Hill"
+        }
+      },
+      "SB": {
+        "EventName": "play_vx_announcer_pickups_splitball",
+        "SubtitleText": {
+          "Namespace": "Announcer",
+          "Key": "SubtitleText_SB",
+          "SourceString": "Split Ball"
+        }
+      },
+      "ROCKDOM": {
+        "EventName": "play_vx_announcer_pickups_rocketdomination",
+        "SubtitleText": {
+          "Namespace": "Announcer",
+          "Key": "SubtitleText_ROCKDOM",
+          "SourceString": "Rocket Domination"
+        }
+      },
+      "OLD": {
+        "EventName": "play_vx_announcer_pickups_oldschool",
+        "SubtitleText": {
+          "Namespace": "Announcer",
+          "Key": "SubtitleText_OLD",
+          "SourceString": "Old School"
+        }
+      },
+      "LTAG": {
+        "EventName": "play_vx_announcer_pickups_lasertag",
+        "SubtitleText": {
+          "Namespace": "Announcer",
+          "Key": "SubtitleText_LTAG",
+          "SourceString": "Laser Tag"
+        }
+      },
+      "BHS": {
+        "EventName": "play_vx_announcer_pickups_bigheadsnipers",
+        "SubtitleText": {
+          "Namespace": "Announcer",
+          "Key": "SubtitleText_BHS",
+          "SourceString": "Big Head Snipers"
+        }
+      },
+      "FirstBlood": {
+        "EventName": "play_vx_announcer_pickups_firstblood",
+        "SubtitleText": {
+          "Namespace": "Announcer",
+          "Key": "SubtitleText_FirstBlood",
+          "SourceString": "First Blood"
+        }
+      },
+      "KingSlayer": {
+        "EventName": "play_vx_announcer_pickups_kingslayer",
+        "SubtitleText": {
+          "Namespace": "Announcer",
+          "Key": "SubtitleText_KingSlayer",
+          "SourceString": "King Slayer"
+        }
+      },
+      "Revenge": {
+        "EventName": "play_vx_announcer_pickups_revenge",
+        "SubtitleText": {
+          "Namespace": "Announcer",
+          "Key": "SubtitleText_Revenge",
+          "SourceString": "Revenge"
+        }
+      },
+      "GG": {
+        "EventName": "play_vx_announcer_pickups_gungame",
+        "SubtitleText": {
+          "Namespace": "",
+          "Key": "80DCC9744D300ABA4099A1B9107078AC",
+          "SourceString": "Gun Game"
+        }
+      },
+      "NextKillWins": {
+        "EventName": "play_vx_announcer_pickups_nextkillwins",
+        "SubtitleText": {
+          "Namespace": "",
+          "Key": "AF00283A43C8E62BBB736F9D7E68F8B7",
+          "SourceString": "Next kill wins"
+        }
+      },
+      "VIP": {
+        "EventName": "play_vx_announcer_pickups_vip",
+        "SubtitleText": {
+          "Namespace": "Announcer",
+          "Key": "SubtitleText_VIP",
+          "SourceString": "VIP"
+        }
+      },
+      "VIPKilled": {
+        "EventName": "play_vx_announcer_pickups_vipkilled",
+        "SubtitleText": {
+          "Namespace": "Announcer",
+          "Key": "SubtitleText_VIPKilled",
+          "SourceString": "VIP Killed"
+        }
+      },
+      "Collateral": {
+        "EventName": "play_vx_announcer_pickups_collateral",
+        "SubtitleText": {
+          "Namespace": "Announcer",
+          "Key": "SubtitleText_Collateral",
+          "SourceString": "Collateral"
+        }
+      },
+      "NoScope": {
+        "EventName": "",
+        "SubtitleText": {
+          "Namespace": "",
+          "Key": "18F38F534D62DF266BE2C9939639E556",
+          "SourceString": "No Scope"
+        }
+      },
+      "Overtime": {
+        "EventName": "play_vx_announcer_pickups_overtime",
+        "SubtitleText": {
+          "Namespace": "",
+          "Key": "34C974664A984EBB28C924A8BFE2300F",
+          "SourceString": "Overtime"
+        }
+      }
+    }
+  }
+]

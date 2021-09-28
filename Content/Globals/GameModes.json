@@ -1,0 +1,6043 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "GameModes",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class GameModeData",
+        "ObjectPath": "/Script/PortalWarsGlobals"
+      }
+    },
+    "Rows": {
+      "0": {
+        "DefaultClass": {
+          "AssetPathName": "/Game/Blueprints/GameModes/TDM/Deathmatch_BP.Deathmatch_BP_C",
+          "SubPathString": ""
+        },
+        "Alias": "TDM",
+        "Config": {
+          "TeamGame": true,
+          "NumTeams": 2,
+          "ScoreLimit": 50,
+          "RespawnTime": 6,
+          "MaxOvertime": 480,
+          "DefaultInventoryIDs": [
+            16,
+            0
+          ],
+          "PickupsEnabled": true,
+          "PickupOverrides": [],
+          "ShouldDropWeaponPickups": true,
+          "ShouldShowRadar": true,
+          "KillcamEnabled": true,
+          "SpectateAlliesWhenDead": false,
+          "Modifiers": {
+            "EnableBoundaries": true,
+            "EnableJetpack": true,
+            "EnableSprint": true,
+            "EnablePortalGun": true,
+            "UnlimitedAmmo": false,
+            "UnlimitedClipSize": false,
+            "HeadshotsOnly": false,
+            "BigHeadMode": false,
+            "WalkSpeedModifier": 1.0,
+            "JumpHeightModifier": 1.0,
+            "GravityModifier": 1.0,
+            "ThrusterPackFuelModifier": 1.0,
+            "ThrusterPackBoostModifier": 1.0,
+            "MeleeDmgModifier": 1.0,
+            "HealthModifier": 1.0
+          },
+          "RandomWeapons": false,
+          "SwitchTeamsEnabled": false,
+          "MeleeHeavyMode": false,
+          "KOTHConfig": {
+            "RandomHillsEnabled": true
+          },
+          "VIPConfig": {
+            "DefaultInventoryIDs": [],
+            "VIPWalkSpeedModifier": -1.0
+          },
+          "ContaminationConfig": {
+            "DefaultInventoryIDs": [],
+            "InitialZombies": 2,
+            "SurvivalPoints": 0
+          },
+          "RoundConfig": {
+            "bUseRoundTimer": false,
+            "RoundTimeLimit": 60,
+            "bUseRoundScoreLimit": false,
+            "RoundScoreLimit": 30,
+            "bUseSetAmountOfRounds": false,
+            "bRandomWeapons": false,
+            "bRespawningDisabled": false
+          }
+        },
+        "ScoreConfig": {
+          "MinScore": 5,
+          "MaxScore": 1000,
+          "ScoreStep": 5
+        },
+        "MatchTime": 480,
+        "Description": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "GameModes_KillEnemyTeamToScore"
+        },
+        "ScoreFormatText": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_KillsToWin"
+        },
+        "SoundName": "TDM",
+        "MaxPlayers": 8,
+        "CompatibleWeaponIDs": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          15,
+          16,
+          14
+        ],
+        "Selectability": [
+          "EGameModeSelectability::Custom",
+          "EGameModeSelectability::Standard"
+        ],
+        "IconImage": {
+          "AssetPathName": "/Game/Thumbnails/Icons/icon-team-rumble.icon-team-rumble",
+          "SubPathString": ""
+        },
+        "ID": 0,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "GameModes_TeamDeathmatch"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/GameModes/TDM_Screenshot.TDM_Screenshot",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "1": {
+        "DefaultClass": {
+          "AssetPathName": "/Game/Blueprints/GameModes/TDM/Deathmatch_BP.Deathmatch_BP_C",
+          "SubPathString": ""
+        },
+        "Alias": "FFA",
+        "Config": {
+          "TeamGame": false,
+          "NumTeams": 2,
+          "ScoreLimit": 25,
+          "RespawnTime": 6,
+          "MaxOvertime": 480,
+          "DefaultInventoryIDs": [
+            16,
+            0
+          ],
+          "PickupsEnabled": true,
+          "PickupOverrides": [],
+          "ShouldDropWeaponPickups": true,
+          "ShouldShowRadar": true,
+          "KillcamEnabled": true,
+          "SpectateAlliesWhenDead": false,
+          "Modifiers": {
+            "EnableBoundaries": true,
+            "EnableJetpack": true,
+            "EnableSprint": true,
+            "EnablePortalGun": true,
+            "UnlimitedAmmo": false,
+            "UnlimitedClipSize": false,
+            "HeadshotsOnly": false,
+            "BigHeadMode": false,
+            "WalkSpeedModifier": 1.0,
+            "JumpHeightModifier": 1.0,
+            "GravityModifier": 1.0,
+            "ThrusterPackFuelModifier": 1.0,
+            "ThrusterPackBoostModifier": 1.0,
+            "MeleeDmgModifier": 1.0,
+            "HealthModifier": 1.0
+          },
+          "RandomWeapons": false,
+          "SwitchTeamsEnabled": false,
+          "MeleeHeavyMode": false,
+          "KOTHConfig": {
+            "RandomHillsEnabled": true
+          },
+          "VIPConfig": {
+            "DefaultInventoryIDs": [],
+            "VIPWalkSpeedModifier": -1.0
+          },
+          "ContaminationConfig": {
+            "DefaultInventoryIDs": [],
+            "InitialZombies": 2,
+            "SurvivalPoints": 0
+          },
+          "RoundConfig": {
+            "bUseRoundTimer": false,
+            "RoundTimeLimit": 60,
+            "bUseRoundScoreLimit": false,
+            "RoundScoreLimit": 30,
+            "bUseSetAmountOfRounds": false,
+            "bRandomWeapons": false,
+            "bRespawningDisabled": false
+          }
+        },
+        "ScoreConfig": {
+          "MinScore": 5,
+          "MaxScore": 1000,
+          "ScoreStep": 5
+        },
+        "MatchTime": 480,
+        "Description": {
+          "Namespace": "GameModes",
+          "Key": "Description_1",
+          "SourceString": "Kill everything that moves!"
+        },
+        "ScoreFormatText": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_KillsToWin"
+        },
+        "SoundName": "FFA",
+        "MaxPlayers": 6,
+        "CompatibleWeaponIDs": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          15,
+          16,
+          14
+        ],
+        "Selectability": [
+          "EGameModeSelectability::Custom",
+          "EGameModeSelectability::Standard"
+        ],
+        "IconImage": {
+          "AssetPathName": "/Game/Thumbnails/Icons/icon-ffa-rumble.icon-ffa-rumble",
+          "SubPathString": ""
+        },
+        "ID": 1,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "GameModes_FreeforAll"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/GameModes/FFA_Screenshot.FFA_Screenshot",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "2": {
+        "DefaultClass": {
+          "AssetPathName": "/Game/Blueprints/GameModes/KOTH/KOTH_BP.KOTH_BP_C",
+          "SubPathString": ""
+        },
+        "Alias": "KOTH",
+        "Config": {
+          "TeamGame": true,
+          "NumTeams": 2,
+          "ScoreLimit": 200,
+          "RespawnTime": 8,
+          "MaxOvertime": 60,
+          "DefaultInventoryIDs": [
+            16,
+            0
+          ],
+          "PickupsEnabled": true,
+          "PickupOverrides": [],
+          "ShouldDropWeaponPickups": true,
+          "ShouldShowRadar": true,
+          "KillcamEnabled": true,
+          "SpectateAlliesWhenDead": false,
+          "Modifiers": {
+            "EnableBoundaries": true,
+            "EnableJetpack": true,
+            "EnableSprint": true,
+            "EnablePortalGun": true,
+            "UnlimitedAmmo": false,
+            "UnlimitedClipSize": false,
+            "HeadshotsOnly": false,
+            "BigHeadMode": false,
+            "WalkSpeedModifier": 1.0,
+            "JumpHeightModifier": 1.0,
+            "GravityModifier": 1.0,
+            "ThrusterPackFuelModifier": 1.0,
+            "ThrusterPackBoostModifier": 1.0,
+            "MeleeDmgModifier": 1.0,
+            "HealthModifier": 1.0
+          },
+          "RandomWeapons": false,
+          "SwitchTeamsEnabled": false,
+          "MeleeHeavyMode": false,
+          "KOTHConfig": {
+            "RandomHillsEnabled": false
+          },
+          "VIPConfig": {
+            "DefaultInventoryIDs": [],
+            "VIPWalkSpeedModifier": -1.0
+          },
+          "ContaminationConfig": {
+            "DefaultInventoryIDs": [],
+            "InitialZombies": 2,
+            "SurvivalPoints": 0
+          },
+          "RoundConfig": {
+            "bUseRoundTimer": false,
+            "RoundTimeLimit": 60,
+            "bUseRoundScoreLimit": false,
+            "RoundScoreLimit": 30,
+            "bUseSetAmountOfRounds": false,
+            "bRandomWeapons": false,
+            "bRespawningDisabled": false
+          }
+        },
+        "ScoreConfig": {
+          "MinScore": 10,
+          "MaxScore": 1000,
+          "ScoreStep": 10
+        },
+        "MatchTime": 480,
+        "Description": {
+          "Namespace": "GameModes",
+          "Key": "Description_2",
+          "SourceString": "Score points by standing inside the hill."
+        },
+        "ScoreFormatText": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_PointsToWin"
+        },
+        "SoundName": "KOTH",
+        "MaxPlayers": 8,
+        "CompatibleWeaponIDs": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          15,
+          16,
+          14
+        ],
+        "Selectability": [
+          "EGameModeSelectability::Custom",
+          "EGameModeSelectability::Standard"
+        ],
+        "IconImage": {
+          "AssetPathName": "/Game/Thumbnails/Icons/icon-team-rumble.icon-team-rumble",
+          "SubPathString": ""
+        },
+        "ID": 2,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "GameModes_KingoftheHill"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/GameModes/KOTH_Screenshot.KOTH_Screenshot",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "3": {
+        "DefaultClass": {
+          "AssetPathName": "/Game/Blueprints/GameModes/Domination/Domination_BP.Domination_BP_C",
+          "SubPathString": ""
+        },
+        "Alias": "DOM",
+        "Config": {
+          "TeamGame": true,
+          "NumTeams": 2,
+          "ScoreLimit": 600,
+          "RespawnTime": 8,
+          "MaxOvertime": 480,
+          "DefaultInventoryIDs": [
+            16,
+            0
+          ],
+          "PickupsEnabled": true,
+          "PickupOverrides": [],
+          "ShouldDropWeaponPickups": true,
+          "ShouldShowRadar": true,
+          "KillcamEnabled": true,
+          "SpectateAlliesWhenDead": false,
+          "Modifiers": {
+            "EnableBoundaries": true,
+            "EnableJetpack": true,
+            "EnableSprint": true,
+            "EnablePortalGun": true,
+            "UnlimitedAmmo": false,
+            "UnlimitedClipSize": false,
+            "HeadshotsOnly": false,
+            "BigHeadMode": false,
+            "WalkSpeedModifier": 1.0,
+            "JumpHeightModifier": 1.0,
+            "GravityModifier": 1.0,
+            "ThrusterPackFuelModifier": 1.0,
+            "ThrusterPackBoostModifier": 1.0,
+            "MeleeDmgModifier": 1.0,
+            "HealthModifier": 1.0
+          },
+          "RandomWeapons": false,
+          "SwitchTeamsEnabled": false,
+          "MeleeHeavyMode": false,
+          "KOTHConfig": {
+            "RandomHillsEnabled": true
+          },
+          "VIPConfig": {
+            "DefaultInventoryIDs": [],
+            "VIPWalkSpeedModifier": -1.0
+          },
+          "ContaminationConfig": {
+            "DefaultInventoryIDs": [],
+            "InitialZombies": 2,
+            "SurvivalPoints": 0
+          },
+          "RoundConfig": {
+            "bUseRoundTimer": false,
+            "RoundTimeLimit": 60,
+            "bUseRoundScoreLimit": false,
+            "RoundScoreLimit": 30,
+            "bUseSetAmountOfRounds": false,
+            "bRandomWeapons": false,
+            "bRespawningDisabled": false
+          }
+        },
+        "ScoreConfig": {
+          "MinScore": 50,
+          "MaxScore": 1500,
+          "ScoreStep": 50
+        },
+        "MatchTime": 480,
+        "Description": {
+          "Namespace": "GameModes",
+          "Key": "Description_3",
+          "SourceString": "Score points by capturing and controlling the three hills. Once a hill is captured, you don't need to stay inside it."
+        },
+        "ScoreFormatText": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_PointsToWin"
+        },
+        "SoundName": "DOM",
+        "MaxPlayers": 8,
+        "CompatibleWeaponIDs": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          15,
+          16,
+          14
+        ],
+        "Selectability": [
+          "EGameModeSelectability::Custom",
+          "EGameModeSelectability::Standard"
+        ],
+        "IconImage": {
+          "AssetPathName": "/Game/Thumbnails/Icons/icon-team-rumble.icon-team-rumble",
+          "SubPathString": ""
+        },
+        "ID": 3,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "GameModes_Domination"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/GameModes/DOM_Screenshot.DOM_Screenshot",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "4": {
+        "DefaultClass": {
+          "AssetPathName": "/Game/Blueprints/GameModes/CTF/CTF_BP.CTF_BP_C",
+          "SubPathString": ""
+        },
+        "Alias": "CTF",
+        "Config": {
+          "TeamGame": true,
+          "NumTeams": 2,
+          "ScoreLimit": 5,
+          "RespawnTime": 8,
+          "MaxOvertime": 480,
+          "DefaultInventoryIDs": [
+            16,
+            0
+          ],
+          "PickupsEnabled": true,
+          "PickupOverrides": [],
+          "ShouldDropWeaponPickups": true,
+          "ShouldShowRadar": true,
+          "KillcamEnabled": true,
+          "SpectateAlliesWhenDead": false,
+          "Modifiers": {
+            "EnableBoundaries": true,
+            "EnableJetpack": true,
+            "EnableSprint": true,
+            "EnablePortalGun": true,
+            "UnlimitedAmmo": false,
+            "UnlimitedClipSize": false,
+            "HeadshotsOnly": false,
+            "BigHeadMode": false,
+            "WalkSpeedModifier": 1.0,
+            "JumpHeightModifier": 1.0,
+            "GravityModifier": 1.0,
+            "ThrusterPackFuelModifier": 1.0,
+            "ThrusterPackBoostModifier": 1.0,
+            "MeleeDmgModifier": 1.0,
+            "HealthModifier": 1.0
+          },
+          "RandomWeapons": false,
+          "SwitchTeamsEnabled": false,
+          "MeleeHeavyMode": false,
+          "KOTHConfig": {
+            "RandomHillsEnabled": true
+          },
+          "VIPConfig": {
+            "DefaultInventoryIDs": [],
+            "VIPWalkSpeedModifier": -1.0
+          },
+          "ContaminationConfig": {
+            "DefaultInventoryIDs": [],
+            "InitialZombies": 2,
+            "SurvivalPoints": 0
+          },
+          "RoundConfig": {
+            "bUseRoundTimer": false,
+            "RoundTimeLimit": 60,
+            "bUseRoundScoreLimit": false,
+            "RoundScoreLimit": 30,
+            "bUseSetAmountOfRounds": false,
+            "bRandomWeapons": false,
+            "bRespawningDisabled": false
+          }
+        },
+        "ScoreConfig": {
+          "MinScore": 1,
+          "MaxScore": 100,
+          "ScoreStep": 1
+        },
+        "MatchTime": 480,
+        "Description": {
+          "Namespace": "GameModes",
+          "Key": "Description_4",
+          "SourceString": "Steal the enemy team's flag and return it to your own base. Your flag must be present to score."
+        },
+        "ScoreFormatText": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_PointsToWin"
+        },
+        "SoundName": "CTF",
+        "MaxPlayers": 8,
+        "CompatibleWeaponIDs": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          15,
+          16,
+          14
+        ],
+        "Selectability": [
+          "EGameModeSelectability::Custom",
+          "EGameModeSelectability::Standard"
+        ],
+        "IconImage": {
+          "AssetPathName": "/Game/Thumbnails/Icons/icon-team-rumble.icon-team-rumble",
+          "SubPathString": ""
+        },
+        "ID": 4,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "GameModes_CapturetheFlag"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "5": {
+        "DefaultClass": {
+          "AssetPathName": "/Game/Blueprints/GameModes/TBC/TeabagConfirmed_BP.TeabagConfirmed_BP_C",
+          "SubPathString": ""
+        },
+        "Alias": "TBC",
+        "Config": {
+          "TeamGame": true,
+          "NumTeams": 2,
+          "ScoreLimit": 25,
+          "RespawnTime": 6,
+          "MaxOvertime": 480,
+          "DefaultInventoryIDs": [
+            16,
+            0
+          ],
+          "PickupsEnabled": true,
+          "PickupOverrides": [],
+          "ShouldDropWeaponPickups": true,
+          "ShouldShowRadar": true,
+          "KillcamEnabled": true,
+          "SpectateAlliesWhenDead": false,
+          "Modifiers": {
+            "EnableBoundaries": true,
+            "EnableJetpack": true,
+            "EnableSprint": true,
+            "EnablePortalGun": true,
+            "UnlimitedAmmo": false,
+            "UnlimitedClipSize": false,
+            "HeadshotsOnly": false,
+            "BigHeadMode": false,
+            "WalkSpeedModifier": 1.0,
+            "JumpHeightModifier": 1.0,
+            "GravityModifier": 1.0,
+            "ThrusterPackFuelModifier": 1.0,
+            "ThrusterPackBoostModifier": 1.0,
+            "MeleeDmgModifier": 1.0,
+            "HealthModifier": 1.0
+          },
+          "RandomWeapons": false,
+          "SwitchTeamsEnabled": false,
+          "MeleeHeavyMode": false,
+          "KOTHConfig": {
+            "RandomHillsEnabled": true
+          },
+          "VIPConfig": {
+            "DefaultInventoryIDs": [],
+            "VIPWalkSpeedModifier": -1.0
+          },
+          "ContaminationConfig": {
+            "DefaultInventoryIDs": [],
+            "InitialZombies": 2,
+            "SurvivalPoints": 0
+          },
+          "RoundConfig": {
+            "bUseRoundTimer": false,
+            "RoundTimeLimit": 60,
+            "bUseRoundScoreLimit": false,
+            "RoundScoreLimit": 30,
+            "bUseSetAmountOfRounds": false,
+            "bRandomWeapons": false,
+            "bRespawningDisabled": false
+          }
+        },
+        "ScoreConfig": {
+          "MinScore": 5,
+          "MaxScore": 1000,
+          "ScoreStep": 5
+        },
+        "MatchTime": 480,
+        "Description": {
+          "Namespace": "GameModes",
+          "Key": "Description_5",
+          "SourceString": "Teabag your enemies to score points. Teabag your teammates to prevent enemies from scoring points."
+        },
+        "ScoreFormatText": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_TeabagsToWin"
+        },
+        "SoundName": "TBC",
+        "MaxPlayers": 8,
+        "CompatibleWeaponIDs": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          15,
+          16,
+          14
+        ],
+        "Selectability": [
+          "EGameModeSelectability::Custom",
+          "EGameModeSelectability::Standard"
+        ],
+        "IconImage": {
+          "AssetPathName": "/Game/Thumbnails/Icons/icon-team-rumble.icon-team-rumble",
+          "SubPathString": ""
+        },
+        "ID": 5,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "GameModes_TeabagConfirmed"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/GameModes/TBC_Screenshot.TBC_Screenshot",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "6": {
+        "DefaultClass": {
+          "AssetPathName": "/Game/Blueprints/GameModes/TDM/Deathmatch_BP.Deathmatch_BP_C",
+          "SubPathString": ""
+        },
+        "Alias": "SWAT",
+        "Config": {
+          "TeamGame": true,
+          "NumTeams": 2,
+          "ScoreLimit": 50,
+          "RespawnTime": 3,
+          "MaxOvertime": 480,
+          "DefaultInventoryIDs": [
+            9,
+            10
+          ],
+          "PickupsEnabled": false,
+          "PickupOverrides": [],
+          "ShouldDropWeaponPickups": true,
+          "ShouldShowRadar": false,
+          "KillcamEnabled": true,
+          "SpectateAlliesWhenDead": false,
+          "Modifiers": {
+            "EnableBoundaries": true,
+            "EnableJetpack": true,
+            "EnableSprint": true,
+            "EnablePortalGun": true,
+            "UnlimitedAmmo": false,
+            "UnlimitedClipSize": false,
+            "HeadshotsOnly": false,
+            "BigHeadMode": false,
+            "WalkSpeedModifier": 1.0,
+            "JumpHeightModifier": 1.0,
+            "GravityModifier": 1.0,
+            "ThrusterPackFuelModifier": 1.0,
+            "ThrusterPackBoostModifier": 1.0,
+            "MeleeDmgModifier": 1.0,
+            "HealthModifier": 1.0
+          },
+          "RandomWeapons": false,
+          "SwitchTeamsEnabled": false,
+          "MeleeHeavyMode": false,
+          "KOTHConfig": {
+            "RandomHillsEnabled": true
+          },
+          "VIPConfig": {
+            "DefaultInventoryIDs": [],
+            "VIPWalkSpeedModifier": -1.0
+          },
+          "ContaminationConfig": {
+            "DefaultInventoryIDs": [],
+            "InitialZombies": 2,
+            "SurvivalPoints": 0
+          },
+          "RoundConfig": {
+            "bUseRoundTimer": false,
+            "RoundTimeLimit": 60,
+            "bUseRoundScoreLimit": false,
+            "RoundScoreLimit": 30,
+            "bUseSetAmountOfRounds": false,
+            "bRandomWeapons": false,
+            "bRespawningDisabled": false
+          }
+        },
+        "ScoreConfig": {
+          "MinScore": 5,
+          "MaxScore": 1000,
+          "ScoreStep": 5
+        },
+        "MatchTime": 480,
+        "Description": {
+          "Namespace": "GameModes",
+          "Key": "Description_6",
+          "SourceString": "Kill the enemy team to score points. Headshots are insta-kills!"
+        },
+        "ScoreFormatText": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_KillsToWin"
+        },
+        "SoundName": "SWAT",
+        "MaxPlayers": 8,
+        "CompatibleWeaponIDs": [
+          9,
+          10
+        ],
+        "Selectability": [
+          "EGameModeSelectability::Custom",
+          "EGameModeSelectability::Standard"
+        ],
+        "IconImage": {
+          "AssetPathName": "/Game/Thumbnails/Icons/icon-team-rumble.icon-team-rumble",
+          "SubPathString": ""
+        },
+        "ID": 6,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "GameModes_TeamSWAT"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/GameModes/SWAT_Screenshot.SWAT_Screenshot",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "7": {
+        "DefaultClass": {
+          "AssetPathName": "/Game/Blueprints/GameModes/Oddball/Oddball_BP.Oddball_BP_C",
+          "SubPathString": ""
+        },
+        "Alias": "OB",
+        "Config": {
+          "TeamGame": false,
+          "NumTeams": 2,
+          "ScoreLimit": 100,
+          "RespawnTime": 6,
+          "MaxOvertime": 480,
+          "DefaultInventoryIDs": [
+            16,
+            0
+          ],
+          "PickupsEnabled": true,
+          "PickupOverrides": [],
+          "ShouldDropWeaponPickups": true,
+          "ShouldShowRadar": true,
+          "KillcamEnabled": true,
+          "SpectateAlliesWhenDead": false,
+          "Modifiers": {
+            "EnableBoundaries": true,
+            "EnableJetpack": true,
+            "EnableSprint": true,
+            "EnablePortalGun": true,
+            "UnlimitedAmmo": false,
+            "UnlimitedClipSize": false,
+            "HeadshotsOnly": false,
+            "BigHeadMode": false,
+            "WalkSpeedModifier": 1.0,
+            "JumpHeightModifier": 1.0,
+            "GravityModifier": 1.0,
+            "ThrusterPackFuelModifier": 1.0,
+            "ThrusterPackBoostModifier": 1.0,
+            "MeleeDmgModifier": 1.0,
+            "HealthModifier": 1.0
+          },
+          "RandomWeapons": false,
+          "SwitchTeamsEnabled": false,
+          "MeleeHeavyMode": false,
+          "KOTHConfig": {
+            "RandomHillsEnabled": true
+          },
+          "VIPConfig": {
+            "DefaultInventoryIDs": [],
+            "VIPWalkSpeedModifier": -1.0
+          },
+          "ContaminationConfig": {
+            "DefaultInventoryIDs": [],
+            "InitialZombies": 2,
+            "SurvivalPoints": 0
+          },
+          "RoundConfig": {
+            "bUseRoundTimer": false,
+            "RoundTimeLimit": 60,
+            "bUseRoundScoreLimit": false,
+            "RoundScoreLimit": 30,
+            "bUseSetAmountOfRounds": false,
+            "bRandomWeapons": false,
+            "bRespawningDisabled": false
+          }
+        },
+        "ScoreConfig": {
+          "MinScore": 10,
+          "MaxScore": 1000,
+          "ScoreStep": 10
+        },
+        "MatchTime": 480,
+        "Description": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "GameModes_GrabBallAndRun"
+        },
+        "ScoreFormatText": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_PointsToWin"
+        },
+        "SoundName": "OB",
+        "MaxPlayers": 6,
+        "CompatibleWeaponIDs": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          15,
+          16,
+          14
+        ],
+        "Selectability": [
+          "EGameModeSelectability::Custom",
+          "EGameModeSelectability::Standard"
+        ],
+        "IconImage": {
+          "AssetPathName": "/Game/Thumbnails/Icons/icon-ffa-rumble.icon-ffa-rumble",
+          "SubPathString": ""
+        },
+        "ID": 7,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "GameModes_Oddball"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/GameModes/Oddball_Screenshot.Oddball_Screenshot",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "8": {
+        "DefaultClass": {
+          "AssetPathName": "/Game/Blueprints/GameModes/Oddball/Oddball_BP.Oddball_BP_C",
+          "SubPathString": ""
+        },
+        "Alias": "TOB",
+        "Config": {
+          "TeamGame": true,
+          "NumTeams": 2,
+          "ScoreLimit": 200,
+          "RespawnTime": 6,
+          "MaxOvertime": 480,
+          "DefaultInventoryIDs": [
+            16,
+            0
+          ],
+          "PickupsEnabled": true,
+          "PickupOverrides": [],
+          "ShouldDropWeaponPickups": true,
+          "ShouldShowRadar": true,
+          "KillcamEnabled": true,
+          "SpectateAlliesWhenDead": false,
+          "Modifiers": {
+            "EnableBoundaries": true,
+            "EnableJetpack": true,
+            "EnableSprint": true,
+            "EnablePortalGun": true,
+            "UnlimitedAmmo": false,
+            "UnlimitedClipSize": false,
+            "HeadshotsOnly": false,
+            "BigHeadMode": false,
+            "WalkSpeedModifier": 1.0,
+            "JumpHeightModifier": 1.0,
+            "GravityModifier": 1.0,
+            "ThrusterPackFuelModifier": 1.0,
+            "ThrusterPackBoostModifier": 1.0,
+            "MeleeDmgModifier": 1.0,
+            "HealthModifier": 1.0
+          },
+          "RandomWeapons": false,
+          "SwitchTeamsEnabled": false,
+          "MeleeHeavyMode": false,
+          "KOTHConfig": {
+            "RandomHillsEnabled": true
+          },
+          "VIPConfig": {
+            "DefaultInventoryIDs": [],
+            "VIPWalkSpeedModifier": -1.0
+          },
+          "ContaminationConfig": {
+            "DefaultInventoryIDs": [],
+            "InitialZombies": 2,
+            "SurvivalPoints": 0
+          },
+          "RoundConfig": {
+            "bUseRoundTimer": false,
+            "RoundTimeLimit": 60,
+            "bUseRoundScoreLimit": false,
+            "RoundScoreLimit": 30,
+            "bUseSetAmountOfRounds": false,
+            "bRandomWeapons": false,
+            "bRespawningDisabled": false
+          }
+        },
+        "ScoreConfig": {
+          "MinScore": 10,
+          "MaxScore": 1000,
+          "ScoreStep": 10
+        },
+        "MatchTime": 480,
+        "Description": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "GameModes_GrabBallAndRun"
+        },
+        "ScoreFormatText": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_PointsToWin"
+        },
+        "SoundName": "TOB",
+        "MaxPlayers": 8,
+        "CompatibleWeaponIDs": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          15,
+          16,
+          14
+        ],
+        "Selectability": [
+          "EGameModeSelectability::Custom",
+          "EGameModeSelectability::Standard"
+        ],
+        "IconImage": {
+          "AssetPathName": "/Game/Thumbnails/Icons/icon-team-rumble.icon-team-rumble",
+          "SubPathString": ""
+        },
+        "ID": 8,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "GameModes_TeamOddball"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/GameModes/Oddball_Screenshot.Oddball_Screenshot",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "9": {
+        "DefaultClass": {
+          "AssetPathName": "/Game/Blueprints/GameModes/TDM/Deathmatch_BP.Deathmatch_BP_C",
+          "SubPathString": ""
+        },
+        "Alias": "IG",
+        "Config": {
+          "TeamGame": false,
+          "NumTeams": 2,
+          "ScoreLimit": 25,
+          "RespawnTime": 3,
+          "MaxOvertime": 480,
+          "DefaultInventoryIDs": [
+            11
+          ],
+          "PickupsEnabled": false,
+          "PickupOverrides": [],
+          "ShouldDropWeaponPickups": true,
+          "ShouldShowRadar": true,
+          "KillcamEnabled": true,
+          "SpectateAlliesWhenDead": false,
+          "Modifiers": {
+            "EnableBoundaries": true,
+            "EnableJetpack": true,
+            "EnableSprint": true,
+            "EnablePortalGun": true,
+            "UnlimitedAmmo": true,
+            "UnlimitedClipSize": false,
+            "HeadshotsOnly": false,
+            "BigHeadMode": false,
+            "WalkSpeedModifier": 1.0,
+            "JumpHeightModifier": 1.0,
+            "GravityModifier": 1.0,
+            "ThrusterPackFuelModifier": 1.0,
+            "ThrusterPackBoostModifier": 1.0,
+            "MeleeDmgModifier": 1.0,
+            "HealthModifier": 1.0
+          },
+          "RandomWeapons": false,
+          "SwitchTeamsEnabled": false,
+          "MeleeHeavyMode": false,
+          "KOTHConfig": {
+            "RandomHillsEnabled": true
+          },
+          "VIPConfig": {
+            "DefaultInventoryIDs": [],
+            "VIPWalkSpeedModifier": -1.0
+          },
+          "ContaminationConfig": {
+            "DefaultInventoryIDs": [],
+            "InitialZombies": 2,
+            "SurvivalPoints": 0
+          },
+          "RoundConfig": {
+            "bUseRoundTimer": false,
+            "RoundTimeLimit": 60,
+            "bUseRoundScoreLimit": false,
+            "RoundScoreLimit": 30,
+            "bUseSetAmountOfRounds": false,
+            "bRandomWeapons": false,
+            "bRespawningDisabled": false
+          }
+        },
+        "ScoreConfig": {
+          "MinScore": 5,
+          "MaxScore": 1000,
+          "ScoreStep": 5
+        },
+        "MatchTime": 480,
+        "Description": {
+          "Namespace": "GameModes",
+          "Key": "Description_9",
+          "SourceString": "Kill everything that moves! Your railgun can be charged and fired almost instantly."
+        },
+        "ScoreFormatText": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_KillsToWin"
+        },
+        "SoundName": "IG",
+        "MaxPlayers": 6,
+        "CompatibleWeaponIDs": [
+          11
+        ],
+        "Selectability": [
+          "EGameModeSelectability::Custom",
+          "EGameModeSelectability::Standard"
+        ],
+        "IconImage": {
+          "AssetPathName": "/Game/Thumbnails/Icons/icon-ffa-rumble.icon-ffa-rumble",
+          "SubPathString": ""
+        },
+        "ID": 9,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "GameModes_Instagib"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/GameModes/Instagib_Screenshot.Instagib_Screenshot",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "10": {
+        "DefaultClass": {
+          "AssetPathName": "/Game/Blueprints/GameModes/TDM/Deathmatch_BP.Deathmatch_BP_C",
+          "SubPathString": ""
+        },
+        "Alias": "TIG",
+        "Config": {
+          "TeamGame": true,
+          "NumTeams": 2,
+          "ScoreLimit": 50,
+          "RespawnTime": 3,
+          "MaxOvertime": 480,
+          "DefaultInventoryIDs": [
+            11
+          ],
+          "PickupsEnabled": false,
+          "PickupOverrides": [],
+          "ShouldDropWeaponPickups": true,
+          "ShouldShowRadar": true,
+          "KillcamEnabled": true,
+          "SpectateAlliesWhenDead": false,
+          "Modifiers": {
+            "EnableBoundaries": true,
+            "EnableJetpack": true,
+            "EnableSprint": true,
+            "EnablePortalGun": true,
+            "UnlimitedAmmo": true,
+            "UnlimitedClipSize": false,
+            "HeadshotsOnly": false,
+            "BigHeadMode": false,
+            "WalkSpeedModifier": 1.0,
+            "JumpHeightModifier": 1.0,
+            "GravityModifier": 1.0,
+            "ThrusterPackFuelModifier": 1.0,
+            "ThrusterPackBoostModifier": 1.0,
+            "MeleeDmgModifier": 1.0,
+            "HealthModifier": 1.0
+          },
+          "RandomWeapons": false,
+          "SwitchTeamsEnabled": false,
+          "MeleeHeavyMode": false,
+          "KOTHConfig": {
+            "RandomHillsEnabled": true
+          },
+          "VIPConfig": {
+            "DefaultInventoryIDs": [],
+            "VIPWalkSpeedModifier": -1.0
+          },
+          "ContaminationConfig": {
+            "DefaultInventoryIDs": [],
+            "InitialZombies": 2,
+            "SurvivalPoints": 0
+          },
+          "RoundConfig": {
+            "bUseRoundTimer": false,
+            "RoundTimeLimit": 60,
+            "bUseRoundScoreLimit": false,
+            "RoundScoreLimit": 30,
+            "bUseSetAmountOfRounds": false,
+            "bRandomWeapons": false,
+            "bRespawningDisabled": false
+          }
+        },
+        "ScoreConfig": {
+          "MinScore": 5,
+          "MaxScore": 1000,
+          "ScoreStep": 5
+        },
+        "MatchTime": 480,
+        "Description": {
+          "Namespace": "GameModes",
+          "Key": "Description_10",
+          "SourceString": "Compete to see who will have the most kills. Your railgun can be charged and fired almost instantly."
+        },
+        "ScoreFormatText": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_KillsToWin"
+        },
+        "SoundName": "TIG",
+        "MaxPlayers": 8,
+        "CompatibleWeaponIDs": [
+          11
+        ],
+        "Selectability": [
+          "EGameModeSelectability::Custom",
+          "EGameModeSelectability::Standard"
+        ],
+        "IconImage": {
+          "AssetPathName": "/Game/Thumbnails/Icons/icon-team-rumble.icon-team-rumble",
+          "SubPathString": ""
+        },
+        "ID": 10,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "GameModes_TeamInstagib"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/GameModes/Instagib_Screenshot.Instagib_Screenshot",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "11": {
+        "DefaultClass": {
+          "AssetPathName": "/Game/Blueprints/GameModes/TDM/Deathmatch_BP.Deathmatch_BP_C",
+          "SubPathString": ""
+        },
+        "Alias": "DUOS",
+        "Config": {
+          "TeamGame": true,
+          "NumTeams": 2,
+          "ScoreLimit": 25,
+          "RespawnTime": 5,
+          "MaxOvertime": 480,
+          "DefaultInventoryIDs": [
+            16,
+            0
+          ],
+          "PickupsEnabled": true,
+          "PickupOverrides": [
+            {
+              "WeaponID": 4,
+              "IsEnabled": false,
+              "OverrideClips": false,
+              "AmmoClips": 2.0,
+              "OverrideSpawnTime": false,
+              "TimeBetweenSpawns": 60
+            },
+            {
+              "WeaponID": 5,
+              "IsEnabled": false,
+              "OverrideClips": false,
+              "AmmoClips": 2.0,
+              "OverrideSpawnTime": false,
+              "TimeBetweenSpawns": 60
+            },
+            {
+              "WeaponID": 6,
+              "IsEnabled": false,
+              "OverrideClips": false,
+              "AmmoClips": 2.0,
+              "OverrideSpawnTime": false,
+              "TimeBetweenSpawns": 60
+            },
+            {
+              "WeaponID": 15,
+              "IsEnabled": false,
+              "OverrideClips": false,
+              "AmmoClips": 2.0,
+              "OverrideSpawnTime": false,
+              "TimeBetweenSpawns": 60
+            },
+            {
+              "WeaponID": 8,
+              "IsEnabled": true,
+              "OverrideClips": true,
+              "AmmoClips": 1.0,
+              "OverrideSpawnTime": false,
+              "TimeBetweenSpawns": 60
+            },
+            {
+              "WeaponID": 7,
+              "IsEnabled": true,
+              "OverrideClips": true,
+              "AmmoClips": 1.5,
+              "OverrideSpawnTime": false,
+              "TimeBetweenSpawns": 60
+            }
+          ],
+          "ShouldDropWeaponPickups": true,
+          "ShouldShowRadar": true,
+          "KillcamEnabled": true,
+          "SpectateAlliesWhenDead": false,
+          "Modifiers": {
+            "EnableBoundaries": true,
+            "EnableJetpack": true,
+            "EnableSprint": true,
+            "EnablePortalGun": true,
+            "UnlimitedAmmo": false,
+            "UnlimitedClipSize": false,
+            "HeadshotsOnly": false,
+            "BigHeadMode": false,
+            "WalkSpeedModifier": 1.0,
+            "JumpHeightModifier": 1.0,
+            "GravityModifier": 1.0,
+            "ThrusterPackFuelModifier": 1.0,
+            "ThrusterPackBoostModifier": 1.0,
+            "MeleeDmgModifier": 1.0,
+            "HealthModifier": 1.0
+          },
+          "RandomWeapons": false,
+          "SwitchTeamsEnabled": false,
+          "MeleeHeavyMode": false,
+          "KOTHConfig": {
+            "RandomHillsEnabled": true
+          },
+          "VIPConfig": {
+            "DefaultInventoryIDs": [],
+            "VIPWalkSpeedModifier": -1.0
+          },
+          "ContaminationConfig": {
+            "DefaultInventoryIDs": [],
+            "InitialZombies": 2,
+            "SurvivalPoints": 0
+          },
+          "RoundConfig": {
+            "bUseRoundTimer": false,
+            "RoundTimeLimit": 60,
+            "bUseRoundScoreLimit": false,
+            "RoundScoreLimit": 30,
+            "bUseSetAmountOfRounds": false,
+            "bRandomWeapons": false,
+            "bRespawningDisabled": false
+          }
+        },
+        "ScoreConfig": {
+          "MinScore": 5,
+          "MaxScore": 1000,
+          "ScoreStep": 5
+        },
+        "MatchTime": 480,
+        "Description": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "GameModes_KillEnemyTeamToScore"
+        },
+        "ScoreFormatText": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_KillsToWin"
+        },
+        "SoundName": "TDM",
+        "MaxPlayers": 4,
+        "CompatibleWeaponIDs": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          15,
+          16
+        ],
+        "Selectability": [
+          "EGameModeSelectability::Standard"
+        ],
+        "IconImage": {
+          "AssetPathName": "/Game/Thumbnails/Icons/icon-team-rumble.icon-team-rumble",
+          "SubPathString": ""
+        },
+        "ID": 11,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "GameModes_TeamDoubles"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/GameModes/TDM_Screenshot.TDM_Screenshot",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "12": {
+        "DefaultClass": {
+          "AssetPathName": "/Game/Blueprints/GameModes/TDM/Deathmatch_BP.Deathmatch_BP_C",
+          "SubPathString": ""
+        },
+        "Alias": "BRS",
+        "Config": {
+          "TeamGame": true,
+          "NumTeams": 2,
+          "ScoreLimit": 50,
+          "RespawnTime": 6,
+          "MaxOvertime": 480,
+          "DefaultInventoryIDs": [
+            1
+          ],
+          "PickupsEnabled": false,
+          "PickupOverrides": [],
+          "ShouldDropWeaponPickups": true,
+          "ShouldShowRadar": true,
+          "KillcamEnabled": true,
+          "SpectateAlliesWhenDead": false,
+          "Modifiers": {
+            "EnableBoundaries": true,
+            "EnableJetpack": true,
+            "EnableSprint": true,
+            "EnablePortalGun": true,
+            "UnlimitedAmmo": false,
+            "UnlimitedClipSize": false,
+            "HeadshotsOnly": false,
+            "BigHeadMode": false,
+            "WalkSpeedModifier": 1.0,
+            "JumpHeightModifier": 1.0,
+            "GravityModifier": 1.0,
+            "ThrusterPackFuelModifier": 1.0,
+            "ThrusterPackBoostModifier": 1.0,
+            "MeleeDmgModifier": 1.0,
+            "HealthModifier": 1.0
+          },
+          "RandomWeapons": false,
+          "SwitchTeamsEnabled": false,
+          "MeleeHeavyMode": false,
+          "KOTHConfig": {
+            "RandomHillsEnabled": true
+          },
+          "VIPConfig": {
+            "DefaultInventoryIDs": [],
+            "VIPWalkSpeedModifier": -1.0
+          },
+          "ContaminationConfig": {
+            "DefaultInventoryIDs": [],
+            "InitialZombies": 2,
+            "SurvivalPoints": 0
+          },
+          "RoundConfig": {
+            "bUseRoundTimer": false,
+            "RoundTimeLimit": 60,
+            "bUseRoundScoreLimit": false,
+            "RoundScoreLimit": 30,
+            "bUseSetAmountOfRounds": false,
+            "bRandomWeapons": false,
+            "bRespawningDisabled": false
+          }
+        },
+        "ScoreConfig": {
+          "MinScore": 5,
+          "MaxScore": 1000,
+          "ScoreStep": 5
+        },
+        "MatchTime": 480,
+        "Description": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "GameModes_KillEnemyTeamToScore"
+        },
+        "ScoreFormatText": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_KillsToWin"
+        },
+        "SoundName": "TDM",
+        "MaxPlayers": 8,
+        "CompatibleWeaponIDs": [
+          1
+        ],
+        "Selectability": [
+          "EGameModeSelectability::Standard"
+        ],
+        "IconImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "ID": 12,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "GameModes_TeamBRs"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "13": {
+        "DefaultClass": {
+          "AssetPathName": "/Game/Blueprints/GameModes/TDM/Deathmatch_BP.Deathmatch_BP_C",
+          "SubPathString": ""
+        },
+        "Alias": "SNIPS",
+        "Config": {
+          "TeamGame": true,
+          "NumTeams": 2,
+          "ScoreLimit": 50,
+          "RespawnTime": 6,
+          "MaxOvertime": 480,
+          "DefaultInventoryIDs": [
+            8
+          ],
+          "PickupsEnabled": false,
+          "PickupOverrides": [],
+          "ShouldDropWeaponPickups": true,
+          "ShouldShowRadar": true,
+          "KillcamEnabled": true,
+          "SpectateAlliesWhenDead": false,
+          "Modifiers": {
+            "EnableBoundaries": true,
+            "EnableJetpack": true,
+            "EnableSprint": true,
+            "EnablePortalGun": true,
+            "UnlimitedAmmo": false,
+            "UnlimitedClipSize": false,
+            "HeadshotsOnly": false,
+            "BigHeadMode": false,
+            "WalkSpeedModifier": 1.0,
+            "JumpHeightModifier": 1.0,
+            "GravityModifier": 1.0,
+            "ThrusterPackFuelModifier": 1.0,
+            "ThrusterPackBoostModifier": 1.0,
+            "MeleeDmgModifier": 1.0,
+            "HealthModifier": 1.0
+          },
+          "RandomWeapons": false,
+          "SwitchTeamsEnabled": false,
+          "MeleeHeavyMode": false,
+          "KOTHConfig": {
+            "RandomHillsEnabled": true
+          },
+          "VIPConfig": {
+            "DefaultInventoryIDs": [],
+            "VIPWalkSpeedModifier": -1.0
+          },
+          "ContaminationConfig": {
+            "DefaultInventoryIDs": [],
+            "InitialZombies": 2,
+            "SurvivalPoints": 0
+          },
+          "RoundConfig": {
+            "bUseRoundTimer": false,
+            "RoundTimeLimit": 60,
+            "bUseRoundScoreLimit": false,
+            "RoundScoreLimit": 30,
+            "bUseSetAmountOfRounds": false,
+            "bRandomWeapons": false,
+            "bRespawningDisabled": false
+          }
+        },
+        "ScoreConfig": {
+          "MinScore": 5,
+          "MaxScore": 1000,
+          "ScoreStep": 5
+        },
+        "MatchTime": 480,
+        "Description": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "GameModes_KillEnemyTeamToScore"
+        },
+        "ScoreFormatText": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_KillsToWin"
+        },
+        "SoundName": "TDM",
+        "MaxPlayers": 8,
+        "CompatibleWeaponIDs": [
+          8
+        ],
+        "Selectability": [
+          "EGameModeSelectability::Standard"
+        ],
+        "IconImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "ID": 13,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "GameModes_TeamSnipers"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "14": {
+        "DefaultClass": {
+          "AssetPathName": "/Game/Blueprints/GameModes/TDM/Deathmatch_BP.Deathmatch_BP_C",
+          "SubPathString": ""
+        },
+        "Alias": "ROCKETS",
+        "Config": {
+          "TeamGame": true,
+          "NumTeams": 2,
+          "ScoreLimit": 50,
+          "RespawnTime": 6,
+          "MaxOvertime": 480,
+          "DefaultInventoryIDs": [
+            5
+          ],
+          "PickupsEnabled": false,
+          "PickupOverrides": [],
+          "ShouldDropWeaponPickups": true,
+          "ShouldShowRadar": true,
+          "KillcamEnabled": true,
+          "SpectateAlliesWhenDead": false,
+          "Modifiers": {
+            "EnableBoundaries": true,
+            "EnableJetpack": true,
+            "EnableSprint": true,
+            "EnablePortalGun": true,
+            "UnlimitedAmmo": false,
+            "UnlimitedClipSize": false,
+            "HeadshotsOnly": false,
+            "BigHeadMode": false,
+            "WalkSpeedModifier": 1.0,
+            "JumpHeightModifier": 1.0,
+            "GravityModifier": 1.0,
+            "ThrusterPackFuelModifier": 1.0,
+            "ThrusterPackBoostModifier": 1.0,
+            "MeleeDmgModifier": 1.0,
+            "HealthModifier": 1.0
+          },
+          "RandomWeapons": false,
+          "SwitchTeamsEnabled": false,
+          "MeleeHeavyMode": false,
+          "KOTHConfig": {
+            "RandomHillsEnabled": true
+          },
+          "VIPConfig": {
+            "DefaultInventoryIDs": [],
+            "VIPWalkSpeedModifier": -1.0
+          },
+          "ContaminationConfig": {
+            "DefaultInventoryIDs": [],
+            "InitialZombies": 2,
+            "SurvivalPoints": 0
+          },
+          "RoundConfig": {
+            "bUseRoundTimer": false,
+            "RoundTimeLimit": 60,
+            "bUseRoundScoreLimit": false,
+            "RoundScoreLimit": 30,
+            "bUseSetAmountOfRounds": false,
+            "bRandomWeapons": false,
+            "bRespawningDisabled": false
+          }
+        },
+        "ScoreConfig": {
+          "MinScore": 5,
+          "MaxScore": 1000,
+          "ScoreStep": 5
+        },
+        "MatchTime": 480,
+        "Description": {
+          "Namespace": "GameModes",
+          "Key": "Description_14",
+          "SourceString": "Kill the enemy team to score points. Aim for the feet!"
+        },
+        "ScoreFormatText": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_KillsToWin"
+        },
+        "SoundName": "TDM",
+        "MaxPlayers": 8,
+        "CompatibleWeaponIDs": [
+          5
+        ],
+        "Selectability": [
+          "EGameModeSelectability::Standard"
+        ],
+        "IconImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "ID": 14,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "GameModes_TeamRockets"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "15": {
+        "DefaultClass": {
+          "AssetPathName": "/Game/Blueprints/GameModes/TDM/Deathmatch_BP.Deathmatch_BP_C",
+          "SubPathString": ""
+        },
+        "Alias": "SHOTSNIP",
+        "Config": {
+          "TeamGame": true,
+          "NumTeams": 2,
+          "ScoreLimit": 50,
+          "RespawnTime": 6,
+          "MaxOvertime": 480,
+          "DefaultInventoryIDs": [
+            8,
+            6
+          ],
+          "PickupsEnabled": false,
+          "PickupOverrides": [],
+          "ShouldDropWeaponPickups": true,
+          "ShouldShowRadar": true,
+          "KillcamEnabled": true,
+          "SpectateAlliesWhenDead": false,
+          "Modifiers": {
+            "EnableBoundaries": true,
+            "EnableJetpack": true,
+            "EnableSprint": true,
+            "EnablePortalGun": true,
+            "UnlimitedAmmo": false,
+            "UnlimitedClipSize": false,
+            "HeadshotsOnly": false,
+            "BigHeadMode": false,
+            "WalkSpeedModifier": 1.0,
+            "JumpHeightModifier": 1.0,
+            "GravityModifier": 1.0,
+            "ThrusterPackFuelModifier": 1.0,
+            "ThrusterPackBoostModifier": 1.0,
+            "MeleeDmgModifier": 1.0,
+            "HealthModifier": 1.0
+          },
+          "RandomWeapons": false,
+          "SwitchTeamsEnabled": false,
+          "MeleeHeavyMode": false,
+          "KOTHConfig": {
+            "RandomHillsEnabled": true
+          },
+          "VIPConfig": {
+            "DefaultInventoryIDs": [],
+            "VIPWalkSpeedModifier": -1.0
+          },
+          "ContaminationConfig": {
+            "DefaultInventoryIDs": [],
+            "InitialZombies": 2,
+            "SurvivalPoints": 0
+          },
+          "RoundConfig": {
+            "bUseRoundTimer": false,
+            "RoundTimeLimit": 60,
+            "bUseRoundScoreLimit": false,
+            "RoundScoreLimit": 30,
+            "bUseSetAmountOfRounds": false,
+            "bRandomWeapons": false,
+            "bRespawningDisabled": false
+          }
+        },
+        "ScoreConfig": {
+          "MinScore": 5,
+          "MaxScore": 1000,
+          "ScoreStep": 5
+        },
+        "MatchTime": 480,
+        "Description": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "GameModes_KillEnemyTeamToScore"
+        },
+        "ScoreFormatText": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_KillsToWin"
+        },
+        "SoundName": "TDM",
+        "MaxPlayers": 8,
+        "CompatibleWeaponIDs": [
+          8,
+          6
+        ],
+        "Selectability": [
+          "EGameModeSelectability::Standard"
+        ],
+        "IconImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "ID": 15,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "GameModes_TeamShottySnipers"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/GameModes/ShottySnipes_Screenshot.ShottySnipes_Screenshot",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "16": {
+        "DefaultClass": {
+          "AssetPathName": "/Game/Blueprints/GameModes/TDM/Deathmatch_BP.Deathmatch_BP_C",
+          "SubPathString": ""
+        },
+        "Alias": "RTDM",
+        "Config": {
+          "TeamGame": true,
+          "NumTeams": 2,
+          "ScoreLimit": 50,
+          "RespawnTime": 6,
+          "MaxOvertime": 480,
+          "DefaultInventoryIDs": [
+            16,
+            2
+          ],
+          "PickupsEnabled": true,
+          "PickupOverrides": [],
+          "ShouldDropWeaponPickups": true,
+          "ShouldShowRadar": false,
+          "KillcamEnabled": true,
+          "SpectateAlliesWhenDead": false,
+          "Modifiers": {
+            "EnableBoundaries": true,
+            "EnableJetpack": true,
+            "EnableSprint": true,
+            "EnablePortalGun": true,
+            "UnlimitedAmmo": false,
+            "UnlimitedClipSize": false,
+            "HeadshotsOnly": false,
+            "BigHeadMode": false,
+            "WalkSpeedModifier": 1.0,
+            "JumpHeightModifier": 1.0,
+            "GravityModifier": 1.0,
+            "ThrusterPackFuelModifier": 1.0,
+            "ThrusterPackBoostModifier": 1.0,
+            "MeleeDmgModifier": 1.0,
+            "HealthModifier": 1.0
+          },
+          "RandomWeapons": false,
+          "SwitchTeamsEnabled": false,
+          "MeleeHeavyMode": false,
+          "KOTHConfig": {
+            "RandomHillsEnabled": true
+          },
+          "VIPConfig": {
+            "DefaultInventoryIDs": [],
+            "VIPWalkSpeedModifier": -1.0
+          },
+          "ContaminationConfig": {
+            "DefaultInventoryIDs": [],
+            "InitialZombies": 2,
+            "SurvivalPoints": 0
+          },
+          "RoundConfig": {
+            "bUseRoundTimer": false,
+            "RoundTimeLimit": 60,
+            "bUseRoundScoreLimit": false,
+            "RoundScoreLimit": 30,
+            "bUseSetAmountOfRounds": false,
+            "bRandomWeapons": false,
+            "bRespawningDisabled": false
+          }
+        },
+        "ScoreConfig": {
+          "MinScore": 5,
+          "MaxScore": 1000,
+          "ScoreStep": 5
+        },
+        "MatchTime": 480,
+        "Description": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "GameModes_KillEnemyTeamToScore_NoRadar"
+        },
+        "ScoreFormatText": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_KillsToWin"
+        },
+        "SoundName": "TDM",
+        "MaxPlayers": 8,
+        "CompatibleWeaponIDs": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          15,
+          16
+        ],
+        "Selectability": [
+          "EGameModeSelectability::Standard",
+          "EGameModeSelectability::Hardcore"
+        ],
+        "IconImage": {
+          "AssetPathName": "/Game/Thumbnails/Icons/icon-team-rumble.icon-team-rumble",
+          "SubPathString": ""
+        },
+        "ID": 16,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "GameModes_RankedTeamDeathmatch"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/GameModes/TDM_Screenshot.TDM_Screenshot",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "17": {
+        "DefaultClass": {
+          "AssetPathName": "/Game/Blueprints/GameModes/KOTH/KOTH_BP.KOTH_BP_C",
+          "SubPathString": ""
+        },
+        "Alias": "RKOTH",
+        "Config": {
+          "TeamGame": true,
+          "NumTeams": 2,
+          "ScoreLimit": 200,
+          "RespawnTime": 8,
+          "MaxOvertime": 60,
+          "DefaultInventoryIDs": [
+            16,
+            2
+          ],
+          "PickupsEnabled": true,
+          "PickupOverrides": [],
+          "ShouldDropWeaponPickups": true,
+          "ShouldShowRadar": false,
+          "KillcamEnabled": true,
+          "SpectateAlliesWhenDead": false,
+          "Modifiers": {
+            "EnableBoundaries": true,
+            "EnableJetpack": true,
+            "EnableSprint": true,
+            "EnablePortalGun": true,
+            "UnlimitedAmmo": false,
+            "UnlimitedClipSize": false,
+            "HeadshotsOnly": false,
+            "BigHeadMode": false,
+            "WalkSpeedModifier": 1.0,
+            "JumpHeightModifier": 1.0,
+            "GravityModifier": 1.0,
+            "ThrusterPackFuelModifier": 1.0,
+            "ThrusterPackBoostModifier": 1.0,
+            "MeleeDmgModifier": 1.0,
+            "HealthModifier": 1.0
+          },
+          "RandomWeapons": false,
+          "SwitchTeamsEnabled": false,
+          "MeleeHeavyMode": false,
+          "KOTHConfig": {
+            "RandomHillsEnabled": false
+          },
+          "VIPConfig": {
+            "DefaultInventoryIDs": [],
+            "VIPWalkSpeedModifier": -1.0
+          },
+          "ContaminationConfig": {
+            "DefaultInventoryIDs": [],
+            "InitialZombies": 2,
+            "SurvivalPoints": 0
+          },
+          "RoundConfig": {
+            "bUseRoundTimer": false,
+            "RoundTimeLimit": 60,
+            "bUseRoundScoreLimit": false,
+            "RoundScoreLimit": 30,
+            "bUseSetAmountOfRounds": false,
+            "bRandomWeapons": false,
+            "bRespawningDisabled": false
+          }
+        },
+        "ScoreConfig": {
+          "MinScore": 10,
+          "MaxScore": 1000,
+          "ScoreStep": 10
+        },
+        "MatchTime": 480,
+        "Description": {
+          "Namespace": "GameModes",
+          "Key": "Description_17",
+          "SourceString": "Score points by standing inside the hill. Radar is disabled."
+        },
+        "ScoreFormatText": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_PointsToWin"
+        },
+        "SoundName": "KOTH",
+        "MaxPlayers": 8,
+        "CompatibleWeaponIDs": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          15,
+          16
+        ],
+        "Selectability": [
+          "EGameModeSelectability::Standard",
+          "EGameModeSelectability::Hardcore"
+        ],
+        "IconImage": {
+          "AssetPathName": "/Game/Thumbnails/Icons/icon-team-rumble.icon-team-rumble",
+          "SubPathString": ""
+        },
+        "ID": 17,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "GameModes_RankedKingoftheHill"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/GameModes/KOTH_Screenshot.KOTH_Screenshot",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "18": {
+        "DefaultClass": {
+          "AssetPathName": "/Game/Blueprints/GameModes/Domination/Domination_BP.Domination_BP_C",
+          "SubPathString": ""
+        },
+        "Alias": "RDOM",
+        "Config": {
+          "TeamGame": true,
+          "NumTeams": 2,
+          "ScoreLimit": 600,
+          "RespawnTime": 8,
+          "MaxOvertime": 480,
+          "DefaultInventoryIDs": [
+            16,
+            2
+          ],
+          "PickupsEnabled": true,
+          "PickupOverrides": [],
+          "ShouldDropWeaponPickups": true,
+          "ShouldShowRadar": false,
+          "KillcamEnabled": true,
+          "SpectateAlliesWhenDead": false,
+          "Modifiers": {
+            "EnableBoundaries": true,
+            "EnableJetpack": true,
+            "EnableSprint": true,
+            "EnablePortalGun": true,
+            "UnlimitedAmmo": false,
+            "UnlimitedClipSize": false,
+            "HeadshotsOnly": false,
+            "BigHeadMode": false,
+            "WalkSpeedModifier": 1.0,
+            "JumpHeightModifier": 1.0,
+            "GravityModifier": 1.0,
+            "ThrusterPackFuelModifier": 1.0,
+            "ThrusterPackBoostModifier": 1.0,
+            "MeleeDmgModifier": 1.0,
+            "HealthModifier": 1.0
+          },
+          "RandomWeapons": false,
+          "SwitchTeamsEnabled": false,
+          "MeleeHeavyMode": false,
+          "KOTHConfig": {
+            "RandomHillsEnabled": true
+          },
+          "VIPConfig": {
+            "DefaultInventoryIDs": [],
+            "VIPWalkSpeedModifier": -1.0
+          },
+          "ContaminationConfig": {
+            "DefaultInventoryIDs": [],
+            "InitialZombies": 2,
+            "SurvivalPoints": 0
+          },
+          "RoundConfig": {
+            "bUseRoundTimer": false,
+            "RoundTimeLimit": 60,
+            "bUseRoundScoreLimit": false,
+            "RoundScoreLimit": 30,
+            "bUseSetAmountOfRounds": false,
+            "bRandomWeapons": false,
+            "bRespawningDisabled": false
+          }
+        },
+        "ScoreConfig": {
+          "MinScore": 50,
+          "MaxScore": 1500,
+          "ScoreStep": 50
+        },
+        "MatchTime": 480,
+        "Description": {
+          "Namespace": "GameModes",
+          "Key": "Description_18",
+          "SourceString": "Score points by capturing and controlling the three hills. Once a hill is captured, you don't need to stay inside it. Radar is disabled."
+        },
+        "ScoreFormatText": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_PointsToWin"
+        },
+        "SoundName": "DOM",
+        "MaxPlayers": 8,
+        "CompatibleWeaponIDs": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          15,
+          16
+        ],
+        "Selectability": [
+          "EGameModeSelectability::Standard",
+          "EGameModeSelectability::Hardcore"
+        ],
+        "IconImage": {
+          "AssetPathName": "/Game/Thumbnails/Icons/icon-team-rumble.icon-team-rumble",
+          "SubPathString": ""
+        },
+        "ID": 18,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "GameModes_RankedDomination"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/GameModes/DOM_Screenshot.DOM_Screenshot",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "19": {
+        "DefaultClass": {
+          "AssetPathName": "/Game/Blueprints/GameModes/Tutorial/Tutorial_BP.Tutorial_BP_C",
+          "SubPathString": ""
+        },
+        "Alias": "TUTORIAL",
+        "Config": {
+          "TeamGame": true,
+          "NumTeams": 2,
+          "ScoreLimit": 50,
+          "RespawnTime": 6,
+          "MaxOvertime": 480,
+          "DefaultInventoryIDs": [
+            16,
+            0
+          ],
+          "PickupsEnabled": true,
+          "PickupOverrides": [],
+          "ShouldDropWeaponPickups": true,
+          "ShouldShowRadar": true,
+          "KillcamEnabled": true,
+          "SpectateAlliesWhenDead": false,
+          "Modifiers": {
+            "EnableBoundaries": true,
+            "EnableJetpack": true,
+            "EnableSprint": true,
+            "EnablePortalGun": true,
+            "UnlimitedAmmo": false,
+            "UnlimitedClipSize": false,
+            "HeadshotsOnly": false,
+            "BigHeadMode": false,
+            "WalkSpeedModifier": 1.0,
+            "JumpHeightModifier": 1.0,
+            "GravityModifier": 1.0,
+            "ThrusterPackFuelModifier": 1.0,
+            "ThrusterPackBoostModifier": 1.0,
+            "MeleeDmgModifier": 1.0,
+            "HealthModifier": 1.0
+          },
+          "RandomWeapons": false,
+          "SwitchTeamsEnabled": false,
+          "MeleeHeavyMode": false,
+          "KOTHConfig": {
+            "RandomHillsEnabled": true
+          },
+          "VIPConfig": {
+            "DefaultInventoryIDs": [],
+            "VIPWalkSpeedModifier": -1.0
+          },
+          "ContaminationConfig": {
+            "DefaultInventoryIDs": [],
+            "InitialZombies": 2,
+            "SurvivalPoints": 0
+          },
+          "RoundConfig": {
+            "bUseRoundTimer": false,
+            "RoundTimeLimit": 60,
+            "bUseRoundScoreLimit": false,
+            "RoundScoreLimit": 30,
+            "bUseSetAmountOfRounds": false,
+            "bRandomWeapons": false,
+            "bRespawningDisabled": false
+          }
+        },
+        "ScoreConfig": {
+          "MinScore": 5,
+          "MaxScore": 1000,
+          "ScoreStep": 5
+        },
+        "MatchTime": 480,
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "ScoreFormatText": {
+          "CultureInvariantString": null
+        },
+        "SoundName": "",
+        "MaxPlayers": 1,
+        "CompatibleWeaponIDs": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          15,
+          16
+        ],
+        "Selectability": [],
+        "IconImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "ID": 19,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "GameModes_Tutorial"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "20": {
+        "DefaultClass": {
+          "AssetPathName": "/Game/Blueprints/GameModes/Race/PortalWarsRaceGameMode_BP.PortalWarsRaceGameMode_BP_C",
+          "SubPathString": ""
+        },
+        "Alias": "RACE",
+        "Config": {
+          "TeamGame": false,
+          "NumTeams": 2,
+          "ScoreLimit": 50,
+          "RespawnTime": 6,
+          "MaxOvertime": 480,
+          "DefaultInventoryIDs": [
+            16,
+            0
+          ],
+          "PickupsEnabled": true,
+          "PickupOverrides": [],
+          "ShouldDropWeaponPickups": true,
+          "ShouldShowRadar": true,
+          "KillcamEnabled": true,
+          "SpectateAlliesWhenDead": false,
+          "Modifiers": {
+            "EnableBoundaries": true,
+            "EnableJetpack": true,
+            "EnableSprint": true,
+            "EnablePortalGun": true,
+            "UnlimitedAmmo": false,
+            "UnlimitedClipSize": false,
+            "HeadshotsOnly": false,
+            "BigHeadMode": false,
+            "WalkSpeedModifier": 1.0,
+            "JumpHeightModifier": 1.0,
+            "GravityModifier": 1.0,
+            "ThrusterPackFuelModifier": 1.0,
+            "ThrusterPackBoostModifier": 1.0,
+            "MeleeDmgModifier": 1.0,
+            "HealthModifier": 1.0
+          },
+          "RandomWeapons": false,
+          "SwitchTeamsEnabled": false,
+          "MeleeHeavyMode": false,
+          "KOTHConfig": {
+            "RandomHillsEnabled": true
+          },
+          "VIPConfig": {
+            "DefaultInventoryIDs": [],
+            "VIPWalkSpeedModifier": -1.0
+          },
+          "ContaminationConfig": {
+            "DefaultInventoryIDs": [],
+            "InitialZombies": 2,
+            "SurvivalPoints": 0
+          },
+          "RoundConfig": {
+            "bUseRoundTimer": false,
+            "RoundTimeLimit": 60,
+            "bUseRoundScoreLimit": false,
+            "RoundScoreLimit": 30,
+            "bUseSetAmountOfRounds": false,
+            "bRandomWeapons": false,
+            "bRespawningDisabled": false
+          }
+        },
+        "ScoreConfig": {
+          "MinScore": 5,
+          "MaxScore": 1000,
+          "ScoreStep": 5
+        },
+        "MatchTime": 480,
+        "Description": {
+          "Namespace": "GameModes",
+          "Key": "Description_20",
+          "SourceString": "Race against the clock to collect all the disco balls.  Compete against yourself, your friends, and the world for the best time!"
+        },
+        "ScoreFormatText": {
+          "CultureInvariantString": null
+        },
+        "SoundName": "RACE",
+        "MaxPlayers": 1,
+        "CompatibleWeaponIDs": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          15,
+          16
+        ],
+        "Selectability": [],
+        "IconImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "ID": 20,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "GameModes_Race"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "21": {
+        "DefaultClass": {
+          "AssetPathName": "/Game/Blueprints/GameModes/CTF/CTF_BP.CTF_BP_C",
+          "SubPathString": ""
+        },
+        "Alias": "RCTF",
+        "Config": {
+          "TeamGame": true,
+          "NumTeams": 2,
+          "ScoreLimit": 5,
+          "RespawnTime": 8,
+          "MaxOvertime": 480,
+          "DefaultInventoryIDs": [
+            16,
+            2
+          ],
+          "PickupsEnabled": true,
+          "PickupOverrides": [],
+          "ShouldDropWeaponPickups": true,
+          "ShouldShowRadar": false,
+          "KillcamEnabled": true,
+          "SpectateAlliesWhenDead": false,
+          "Modifiers": {
+            "EnableBoundaries": true,
+            "EnableJetpack": true,
+            "EnableSprint": true,
+            "EnablePortalGun": true,
+            "UnlimitedAmmo": false,
+            "UnlimitedClipSize": false,
+            "HeadshotsOnly": false,
+            "BigHeadMode": false,
+            "WalkSpeedModifier": 1.0,
+            "JumpHeightModifier": 1.0,
+            "GravityModifier": 1.0,
+            "ThrusterPackFuelModifier": 1.0,
+            "ThrusterPackBoostModifier": 1.0,
+            "MeleeDmgModifier": 1.0,
+            "HealthModifier": 1.0
+          },
+          "RandomWeapons": false,
+          "SwitchTeamsEnabled": false,
+          "MeleeHeavyMode": false,
+          "KOTHConfig": {
+            "RandomHillsEnabled": true
+          },
+          "VIPConfig": {
+            "DefaultInventoryIDs": [],
+            "VIPWalkSpeedModifier": -1.0
+          },
+          "ContaminationConfig": {
+            "DefaultInventoryIDs": [],
+            "InitialZombies": 2,
+            "SurvivalPoints": 0
+          },
+          "RoundConfig": {
+            "bUseRoundTimer": false,
+            "RoundTimeLimit": 60,
+            "bUseRoundScoreLimit": false,
+            "RoundScoreLimit": 30,
+            "bUseSetAmountOfRounds": false,
+            "bRandomWeapons": false,
+            "bRespawningDisabled": false
+          }
+        },
+        "ScoreConfig": {
+          "MinScore": 1,
+          "MaxScore": 100,
+          "ScoreStep": 1
+        },
+        "MatchTime": 480,
+        "Description": {
+          "Namespace": "GameModes",
+          "Key": "Description_21",
+          "SourceString": "Steal the enemy team's flag and return it to your own base. Your flag must be on your base to score. Radar is disabled."
+        },
+        "ScoreFormatText": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_PointsToWin"
+        },
+        "SoundName": "CTF",
+        "MaxPlayers": 8,
+        "CompatibleWeaponIDs": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          15,
+          16
+        ],
+        "Selectability": [
+          "EGameModeSelectability::Standard",
+          "EGameModeSelectability::Hardcore"
+        ],
+        "IconImage": {
+          "AssetPathName": "/Game/Thumbnails/Icons/icon-team-rumble.icon-team-rumble",
+          "SubPathString": ""
+        },
+        "ID": 21,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "GameModes_RankedCapturetheFlag"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "22": {
+        "DefaultClass": {
+          "AssetPathName": "/Game/Blueprints/GameModes/TDM/Deathmatch_BP.Deathmatch_BP_C",
+          "SubPathString": ""
+        },
+        "Alias": "RDUOS",
+        "Config": {
+          "TeamGame": true,
+          "NumTeams": 2,
+          "ScoreLimit": 25,
+          "RespawnTime": 5,
+          "MaxOvertime": 480,
+          "DefaultInventoryIDs": [
+            16,
+            2
+          ],
+          "PickupsEnabled": true,
+          "PickupOverrides": [
+            {
+              "WeaponID": 4,
+              "IsEnabled": false,
+              "OverrideClips": false,
+              "AmmoClips": 2.0,
+              "OverrideSpawnTime": false,
+              "TimeBetweenSpawns": 60
+            },
+            {
+              "WeaponID": 5,
+              "IsEnabled": false,
+              "OverrideClips": false,
+              "AmmoClips": 2.0,
+              "OverrideSpawnTime": false,
+              "TimeBetweenSpawns": 60
+            },
+            {
+              "WeaponID": 6,
+              "IsEnabled": false,
+              "OverrideClips": false,
+              "AmmoClips": 2.0,
+              "OverrideSpawnTime": false,
+              "TimeBetweenSpawns": 60
+            },
+            {
+              "WeaponID": 15,
+              "IsEnabled": false,
+              "OverrideClips": false,
+              "AmmoClips": 2.0,
+              "OverrideSpawnTime": false,
+              "TimeBetweenSpawns": 60
+            },
+            {
+              "WeaponID": 8,
+              "IsEnabled": true,
+              "OverrideClips": true,
+              "AmmoClips": 1.0,
+              "OverrideSpawnTime": false,
+              "TimeBetweenSpawns": 60
+            },
+            {
+              "WeaponID": 7,
+              "IsEnabled": true,
+              "OverrideClips": true,
+              "AmmoClips": 1.5,
+              "OverrideSpawnTime": false,
+              "TimeBetweenSpawns": 60
+            }
+          ],
+          "ShouldDropWeaponPickups": true,
+          "ShouldShowRadar": false,
+          "KillcamEnabled": true,
+          "SpectateAlliesWhenDead": false,
+          "Modifiers": {
+            "EnableBoundaries": true,
+            "EnableJetpack": true,
+            "EnableSprint": true,
+            "EnablePortalGun": true,
+            "UnlimitedAmmo": false,
+            "UnlimitedClipSize": false,
+            "HeadshotsOnly": false,
+            "BigHeadMode": false,
+            "WalkSpeedModifier": 1.0,
+            "JumpHeightModifier": 1.0,
+            "GravityModifier": 1.0,
+            "ThrusterPackFuelModifier": 1.0,
+            "ThrusterPackBoostModifier": 1.0,
+            "MeleeDmgModifier": 1.0,
+            "HealthModifier": 1.0
+          },
+          "RandomWeapons": false,
+          "SwitchTeamsEnabled": false,
+          "MeleeHeavyMode": false,
+          "KOTHConfig": {
+            "RandomHillsEnabled": true
+          },
+          "VIPConfig": {
+            "DefaultInventoryIDs": [],
+            "VIPWalkSpeedModifier": -1.0
+          },
+          "ContaminationConfig": {
+            "DefaultInventoryIDs": [],
+            "InitialZombies": 2,
+            "SurvivalPoints": 0
+          },
+          "RoundConfig": {
+            "bUseRoundTimer": false,
+            "RoundTimeLimit": 60,
+            "bUseRoundScoreLimit": false,
+            "RoundScoreLimit": 30,
+            "bUseSetAmountOfRounds": false,
+            "bRandomWeapons": false,
+            "bRespawningDisabled": false
+          }
+        },
+        "ScoreConfig": {
+          "MinScore": 5,
+          "MaxScore": 1000,
+          "ScoreStep": 5
+        },
+        "MatchTime": 480,
+        "Description": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "GameModes_KillEnemyTeamToScore_NoRadar"
+        },
+        "ScoreFormatText": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_KillsToWin"
+        },
+        "SoundName": "TDM",
+        "MaxPlayers": 8,
+        "CompatibleWeaponIDs": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          15,
+          16
+        ],
+        "Selectability": [
+          "EGameModeSelectability::Standard",
+          "EGameModeSelectability::Hardcore"
+        ],
+        "IconImage": {
+          "AssetPathName": "/Game/Thumbnails/Icons/icon-team-rumble.icon-team-rumble",
+          "SubPathString": ""
+        },
+        "ID": 22,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "GameModes_RankedTeamDeathmatch"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/GameModes/TDM_Screenshot.TDM_Screenshot",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "23": {
+        "DefaultClass": {
+          "AssetPathName": "/Game/Blueprints/GameModes/TDM/Deathmatch_BP.Deathmatch_BP_C",
+          "SubPathString": ""
+        },
+        "Alias": "RFFA",
+        "Config": {
+          "TeamGame": false,
+          "NumTeams": 2,
+          "ScoreLimit": 25,
+          "RespawnTime": 6,
+          "MaxOvertime": 480,
+          "DefaultInventoryIDs": [
+            16,
+            2
+          ],
+          "PickupsEnabled": true,
+          "PickupOverrides": [],
+          "ShouldDropWeaponPickups": true,
+          "ShouldShowRadar": false,
+          "KillcamEnabled": true,
+          "SpectateAlliesWhenDead": false,
+          "Modifiers": {
+            "EnableBoundaries": true,
+            "EnableJetpack": true,
+            "EnableSprint": true,
+            "EnablePortalGun": true,
+            "UnlimitedAmmo": false,
+            "UnlimitedClipSize": false,
+            "HeadshotsOnly": false,
+            "BigHeadMode": false,
+            "WalkSpeedModifier": 1.0,
+            "JumpHeightModifier": 1.0,
+            "GravityModifier": 1.0,
+            "ThrusterPackFuelModifier": 1.0,
+            "ThrusterPackBoostModifier": 1.0,
+            "MeleeDmgModifier": 1.0,
+            "HealthModifier": 1.0
+          },
+          "RandomWeapons": false,
+          "SwitchTeamsEnabled": false,
+          "MeleeHeavyMode": false,
+          "KOTHConfig": {
+            "RandomHillsEnabled": true
+          },
+          "VIPConfig": {
+            "DefaultInventoryIDs": [],
+            "VIPWalkSpeedModifier": -1.0
+          },
+          "ContaminationConfig": {
+            "DefaultInventoryIDs": [],
+            "InitialZombies": 2,
+            "SurvivalPoints": 0
+          },
+          "RoundConfig": {
+            "bUseRoundTimer": false,
+            "RoundTimeLimit": 60,
+            "bUseRoundScoreLimit": false,
+            "RoundScoreLimit": 30,
+            "bUseSetAmountOfRounds": false,
+            "bRandomWeapons": false,
+            "bRespawningDisabled": false
+          }
+        },
+        "ScoreConfig": {
+          "MinScore": 5,
+          "MaxScore": 1000,
+          "ScoreStep": 5
+        },
+        "MatchTime": 480,
+        "Description": {
+          "Namespace": "GameModes",
+          "Key": "Description_23",
+          "SourceString": "Kill everything that moves! Radar is disabled."
+        },
+        "ScoreFormatText": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_KillsToWin"
+        },
+        "SoundName": "FFA",
+        "MaxPlayers": 6,
+        "CompatibleWeaponIDs": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          15,
+          16
+        ],
+        "Selectability": [
+          "EGameModeSelectability::Standard",
+          "EGameModeSelectability::Hardcore"
+        ],
+        "IconImage": {
+          "AssetPathName": "/Game/Thumbnails/Icons/icon-ffa-rumble.icon-ffa-rumble",
+          "SubPathString": ""
+        },
+        "ID": 23,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "GameModes_RankedFreeforAll"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/GameModes/FFA_Screenshot.FFA_Screenshot",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "24": {
+        "DefaultClass": {
+          "AssetPathName": "/Game/Blueprints/GameModes/VIP/VIP_BP.VIP_BP_C",
+          "SubPathString": ""
+        },
+        "Alias": "VIP",
+        "Config": {
+          "TeamGame": true,
+          "NumTeams": 2,
+          "ScoreLimit": 10,
+          "RespawnTime": 6,
+          "MaxOvertime": 480,
+          "DefaultInventoryIDs": [
+            16,
+            0
+          ],
+          "PickupsEnabled": true,
+          "PickupOverrides": [],
+          "ShouldDropWeaponPickups": true,
+          "ShouldShowRadar": true,
+          "KillcamEnabled": true,
+          "SpectateAlliesWhenDead": false,
+          "Modifiers": {
+            "EnableBoundaries": true,
+            "EnableJetpack": true,
+            "EnableSprint": true,
+            "EnablePortalGun": true,
+            "UnlimitedAmmo": false,
+            "UnlimitedClipSize": false,
+            "HeadshotsOnly": false,
+            "BigHeadMode": false,
+            "WalkSpeedModifier": 1.0,
+            "JumpHeightModifier": 1.0,
+            "GravityModifier": 1.0,
+            "ThrusterPackFuelModifier": 1.0,
+            "ThrusterPackBoostModifier": 1.0,
+            "MeleeDmgModifier": 1.0,
+            "HealthModifier": 1.0
+          },
+          "RandomWeapons": false,
+          "SwitchTeamsEnabled": false,
+          "MeleeHeavyMode": false,
+          "KOTHConfig": {
+            "RandomHillsEnabled": true
+          },
+          "VIPConfig": {
+            "DefaultInventoryIDs": [],
+            "VIPWalkSpeedModifier": -1.0
+          },
+          "ContaminationConfig": {
+            "DefaultInventoryIDs": [],
+            "InitialZombies": 2,
+            "SurvivalPoints": 0
+          },
+          "RoundConfig": {
+            "bUseRoundTimer": false,
+            "RoundTimeLimit": 60,
+            "bUseRoundScoreLimit": false,
+            "RoundScoreLimit": 30,
+            "bUseSetAmountOfRounds": false,
+            "bRandomWeapons": false,
+            "bRespawningDisabled": false
+          }
+        },
+        "ScoreConfig": {
+          "MinScore": 5,
+          "MaxScore": 1000,
+          "ScoreStep": 5
+        },
+        "MatchTime": 480,
+        "Description": {
+          "Namespace": "GameModes",
+          "Key": "Description_24",
+          "SourceString": "Each team has a designated VIP. Kill the VIP to score points. The VIP cannot spawn portals, but he has double the health!"
+        },
+        "ScoreFormatText": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_KillsToWin"
+        },
+        "SoundName": "VIP",
+        "MaxPlayers": 8,
+        "CompatibleWeaponIDs": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          15,
+          16,
+          14
+        ],
+        "Selectability": [
+          "EGameModeSelectability::Custom",
+          "EGameModeSelectability::Standard"
+        ],
+        "IconImage": {
+          "AssetPathName": "/Game/Thumbnails/Icons/icon-team-rumble.icon-team-rumble",
+          "SubPathString": ""
+        },
+        "ID": 24,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "GameModes_VIP"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/GameModes/VIP_Screenshot.VIP_Screenshot",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "25": {
+        "DefaultClass": {
+          "AssetPathName": "/Game/Blueprints/GameModes/TDM/Deathmatch_BP.Deathmatch_BP_C",
+          "SubPathString": ""
+        },
+        "Alias": "BHS",
+        "Config": {
+          "TeamGame": true,
+          "NumTeams": 2,
+          "ScoreLimit": 50,
+          "RespawnTime": 6,
+          "MaxOvertime": 480,
+          "DefaultInventoryIDs": [
+            8
+          ],
+          "PickupsEnabled": false,
+          "PickupOverrides": [],
+          "ShouldDropWeaponPickups": true,
+          "ShouldShowRadar": true,
+          "KillcamEnabled": true,
+          "SpectateAlliesWhenDead": false,
+          "Modifiers": {
+            "EnableBoundaries": true,
+            "EnableJetpack": true,
+            "EnableSprint": true,
+            "EnablePortalGun": true,
+            "UnlimitedAmmo": false,
+            "UnlimitedClipSize": false,
+            "HeadshotsOnly": false,
+            "BigHeadMode": true,
+            "WalkSpeedModifier": 1.0,
+            "JumpHeightModifier": 1.0,
+            "GravityModifier": 1.0,
+            "ThrusterPackFuelModifier": 1.0,
+            "ThrusterPackBoostModifier": 1.0,
+            "MeleeDmgModifier": 1.0,
+            "HealthModifier": 1.0
+          },
+          "RandomWeapons": false,
+          "SwitchTeamsEnabled": false,
+          "MeleeHeavyMode": false,
+          "KOTHConfig": {
+            "RandomHillsEnabled": true
+          },
+          "VIPConfig": {
+            "DefaultInventoryIDs": [],
+            "VIPWalkSpeedModifier": -1.0
+          },
+          "ContaminationConfig": {
+            "DefaultInventoryIDs": [],
+            "InitialZombies": 2,
+            "SurvivalPoints": 0
+          },
+          "RoundConfig": {
+            "bUseRoundTimer": false,
+            "RoundTimeLimit": 60,
+            "bUseRoundScoreLimit": false,
+            "RoundScoreLimit": 30,
+            "bUseSetAmountOfRounds": false,
+            "bRandomWeapons": false,
+            "bRespawningDisabled": false
+          }
+        },
+        "ScoreConfig": {
+          "MinScore": 5,
+          "MaxScore": 1000,
+          "ScoreStep": 5
+        },
+        "MatchTime": 480,
+        "Description": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "GameModes_KillEnemyTeamToScore"
+        },
+        "ScoreFormatText": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_KillsToWin"
+        },
+        "SoundName": "BHS",
+        "MaxPlayers": 8,
+        "CompatibleWeaponIDs": [
+          8
+        ],
+        "Selectability": [
+          "EGameModeSelectability::Standard"
+        ],
+        "IconImage": {
+          "AssetPathName": "/Game/Thumbnails/Icons/icon-team-rumble.icon-team-rumble",
+          "SubPathString": ""
+        },
+        "ID": 25,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "GameModes_BigHeadSnipers"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/GameModes/BigHeadSnipers_Screenshot.BigHeadSnipers_Screenshot",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "26": {
+        "DefaultClass": {
+          "AssetPathName": "/Game/Blueprints/GameModes/TDM/Deathmatch_BP.Deathmatch_BP_C",
+          "SubPathString": ""
+        },
+        "Alias": "LTAG",
+        "Config": {
+          "TeamGame": true,
+          "NumTeams": 2,
+          "ScoreLimit": 50,
+          "RespawnTime": 2,
+          "MaxOvertime": 480,
+          "DefaultInventoryIDs": [
+            3
+          ],
+          "PickupsEnabled": false,
+          "PickupOverrides": [],
+          "ShouldDropWeaponPickups": true,
+          "ShouldShowRadar": true,
+          "KillcamEnabled": true,
+          "SpectateAlliesWhenDead": false,
+          "Modifiers": {
+            "EnableBoundaries": true,
+            "EnableJetpack": true,
+            "EnableSprint": true,
+            "EnablePortalGun": true,
+            "UnlimitedAmmo": true,
+            "UnlimitedClipSize": false,
+            "HeadshotsOnly": false,
+            "BigHeadMode": true,
+            "WalkSpeedModifier": 1.5,
+            "JumpHeightModifier": 1.0,
+            "GravityModifier": 0.75,
+            "ThrusterPackFuelModifier": 2.0,
+            "ThrusterPackBoostModifier": 1.5,
+            "MeleeDmgModifier": 1.0,
+            "HealthModifier": 0.3
+          },
+          "RandomWeapons": false,
+          "SwitchTeamsEnabled": false,
+          "MeleeHeavyMode": false,
+          "KOTHConfig": {
+            "RandomHillsEnabled": false
+          },
+          "VIPConfig": {
+            "DefaultInventoryIDs": [],
+            "VIPWalkSpeedModifier": -1.0
+          },
+          "ContaminationConfig": {
+            "DefaultInventoryIDs": [],
+            "InitialZombies": 2,
+            "SurvivalPoints": 0
+          },
+          "RoundConfig": {
+            "bUseRoundTimer": false,
+            "RoundTimeLimit": 60,
+            "bUseRoundScoreLimit": false,
+            "RoundScoreLimit": 30,
+            "bUseSetAmountOfRounds": false,
+            "bRandomWeapons": false,
+            "bRespawningDisabled": false
+          }
+        },
+        "ScoreConfig": {
+          "MinScore": 5,
+          "MaxScore": 1000,
+          "ScoreStep": 5
+        },
+        "MatchTime": 480,
+        "Description": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "GameModes_KillEnemyTeamToScore"
+        },
+        "ScoreFormatText": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_KillsToWin"
+        },
+        "SoundName": "LTAG",
+        "MaxPlayers": 8,
+        "CompatibleWeaponIDs": [
+          3
+        ],
+        "Selectability": [
+          "EGameModeSelectability::Standard",
+          "EGameModeSelectability::Custom"
+        ],
+        "IconImage": {
+          "AssetPathName": "/Game/Thumbnails/Icons/icon-team-rumble.icon-team-rumble",
+          "SubPathString": ""
+        },
+        "ID": 26,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "GameModes_LaserTag"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/GameModes/LaserTag_Screenshot.LaserTag_Screenshot",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "27": {
+        "DefaultClass": {
+          "AssetPathName": "/Game/Blueprints/GameModes/TDM/Deathmatch_BP.Deathmatch_BP_C",
+          "SubPathString": ""
+        },
+        "Alias": "OLD",
+        "Config": {
+          "TeamGame": true,
+          "NumTeams": 2,
+          "ScoreLimit": 50,
+          "RespawnTime": 6,
+          "MaxOvertime": 480,
+          "DefaultInventoryIDs": [
+            1,
+            0
+          ],
+          "PickupsEnabled": true,
+          "PickupOverrides": [],
+          "ShouldDropWeaponPickups": true,
+          "ShouldShowRadar": true,
+          "KillcamEnabled": true,
+          "SpectateAlliesWhenDead": false,
+          "Modifiers": {
+            "EnableBoundaries": true,
+            "EnableJetpack": false,
+            "EnableSprint": false,
+            "EnablePortalGun": false,
+            "UnlimitedAmmo": false,
+            "UnlimitedClipSize": false,
+            "HeadshotsOnly": false,
+            "BigHeadMode": false,
+            "WalkSpeedModifier": 0.9,
+            "JumpHeightModifier": 1.5,
+            "GravityModifier": 0.9,
+            "ThrusterPackFuelModifier": 1.0,
+            "ThrusterPackBoostModifier": 1.0,
+            "MeleeDmgModifier": 1.0,
+            "HealthModifier": 1.5
+          },
+          "RandomWeapons": false,
+          "SwitchTeamsEnabled": false,
+          "MeleeHeavyMode": false,
+          "KOTHConfig": {
+            "RandomHillsEnabled": true
+          },
+          "VIPConfig": {
+            "DefaultInventoryIDs": [],
+            "VIPWalkSpeedModifier": -1.0
+          },
+          "ContaminationConfig": {
+            "DefaultInventoryIDs": [],
+            "InitialZombies": 2,
+            "SurvivalPoints": 0
+          },
+          "RoundConfig": {
+            "bUseRoundTimer": false,
+            "RoundTimeLimit": 60,
+            "bUseRoundScoreLimit": false,
+            "RoundScoreLimit": 30,
+            "bUseSetAmountOfRounds": false,
+            "bRandomWeapons": false,
+            "bRespawningDisabled": false
+          }
+        },
+        "ScoreConfig": {
+          "MinScore": 5,
+          "MaxScore": 1000,
+          "ScoreStep": 5
+        },
+        "MatchTime": 480,
+        "Description": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "GameModes_KillEnemyTeamToScore"
+        },
+        "ScoreFormatText": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_KillsToWin"
+        },
+        "SoundName": "OLD",
+        "MaxPlayers": 8,
+        "CompatibleWeaponIDs": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          15,
+          16
+        ],
+        "Selectability": [
+          "EGameModeSelectability::Standard",
+          "EGameModeSelectability::Custom"
+        ],
+        "IconImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "ID": 27,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "GameModes_OldSchoolSlayer"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "28": {
+        "DefaultClass": {
+          "AssetPathName": "/Game/Blueprints/GameModes/Domination/Domination_BP.Domination_BP_C",
+          "SubPathString": ""
+        },
+        "Alias": "ROCKDOM",
+        "Config": {
+          "TeamGame": true,
+          "NumTeams": 2,
+          "ScoreLimit": 600,
+          "RespawnTime": 8,
+          "MaxOvertime": 480,
+          "DefaultInventoryIDs": [
+            5
+          ],
+          "PickupsEnabled": false,
+          "PickupOverrides": [],
+          "ShouldDropWeaponPickups": true,
+          "ShouldShowRadar": true,
+          "KillcamEnabled": true,
+          "SpectateAlliesWhenDead": false,
+          "Modifiers": {
+            "EnableBoundaries": true,
+            "EnableJetpack": true,
+            "EnableSprint": true,
+            "EnablePortalGun": true,
+            "UnlimitedAmmo": true,
+            "UnlimitedClipSize": true,
+            "HeadshotsOnly": false,
+            "BigHeadMode": false,
+            "WalkSpeedModifier": 1.0,
+            "JumpHeightModifier": 2.5,
+            "GravityModifier": 1.0,
+            "ThrusterPackFuelModifier": 2.5,
+            "ThrusterPackBoostModifier": 1.0,
+            "MeleeDmgModifier": 1.0,
+            "HealthModifier": 1.5
+          },
+          "RandomWeapons": false,
+          "SwitchTeamsEnabled": false,
+          "MeleeHeavyMode": false,
+          "KOTHConfig": {
+            "RandomHillsEnabled": true
+          },
+          "VIPConfig": {
+            "DefaultInventoryIDs": [],
+            "VIPWalkSpeedModifier": -1.0
+          },
+          "ContaminationConfig": {
+            "DefaultInventoryIDs": [],
+            "InitialZombies": 2,
+            "SurvivalPoints": 0
+          },
+          "RoundConfig": {
+            "bUseRoundTimer": false,
+            "RoundTimeLimit": 60,
+            "bUseRoundScoreLimit": false,
+            "RoundScoreLimit": 30,
+            "bUseSetAmountOfRounds": false,
+            "bRandomWeapons": false,
+            "bRespawningDisabled": false
+          }
+        },
+        "ScoreConfig": {
+          "MinScore": 50,
+          "MaxScore": 1500,
+          "ScoreStep": 50
+        },
+        "MatchTime": 480,
+        "Description": {
+          "Namespace": "GameModes",
+          "Key": "Description_28",
+          "SourceString": "Score points by capturing and controlling the three hills. Once a hill is captured, you don't need to stay inside it."
+        },
+        "ScoreFormatText": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_PointsToWin"
+        },
+        "SoundName": "ROCKDOM",
+        "MaxPlayers": 8,
+        "CompatibleWeaponIDs": [
+          5
+        ],
+        "Selectability": [
+          "EGameModeSelectability::Standard",
+          "EGameModeSelectability::Custom"
+        ],
+        "IconImage": {
+          "AssetPathName": "/Game/Thumbnails/Icons/icon-team-rumble.icon-team-rumble",
+          "SubPathString": ""
+        },
+        "ID": 28,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "GameModes_RocketDomination"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/GameModes/DOM_Screenshot.DOM_Screenshot",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "29": {
+        "DefaultClass": {
+          "AssetPathName": "/Game/Blueprints/GameModes/Oddball/Oddball_BP.Oddball_BP_C",
+          "SubPathString": ""
+        },
+        "Alias": "SB",
+        "Config": {
+          "TeamGame": true,
+          "NumTeams": 2,
+          "ScoreLimit": 200,
+          "RespawnTime": 2,
+          "MaxOvertime": 480,
+          "DefaultInventoryIDs": [
+            15
+          ],
+          "PickupsEnabled": false,
+          "PickupOverrides": [],
+          "ShouldDropWeaponPickups": true,
+          "ShouldShowRadar": true,
+          "KillcamEnabled": true,
+          "SpectateAlliesWhenDead": false,
+          "Modifiers": {
+            "EnableBoundaries": true,
+            "EnableJetpack": true,
+            "EnableSprint": true,
+            "EnablePortalGun": false,
+            "UnlimitedAmmo": true,
+            "UnlimitedClipSize": true,
+            "HeadshotsOnly": false,
+            "BigHeadMode": false,
+            "WalkSpeedModifier": 1.5,
+            "JumpHeightModifier": 1.0,
+            "GravityModifier": 0.75,
+            "ThrusterPackFuelModifier": 2.0,
+            "ThrusterPackBoostModifier": 1.5,
+            "MeleeDmgModifier": 1.0,
+            "HealthModifier": 1.0
+          },
+          "RandomWeapons": false,
+          "SwitchTeamsEnabled": false,
+          "MeleeHeavyMode": false,
+          "KOTHConfig": {
+            "RandomHillsEnabled": true
+          },
+          "VIPConfig": {
+            "DefaultInventoryIDs": [],
+            "VIPWalkSpeedModifier": -1.0
+          },
+          "ContaminationConfig": {
+            "DefaultInventoryIDs": [],
+            "InitialZombies": 2,
+            "SurvivalPoints": 0
+          },
+          "RoundConfig": {
+            "bUseRoundTimer": false,
+            "RoundTimeLimit": 60,
+            "bUseRoundScoreLimit": false,
+            "RoundScoreLimit": 30,
+            "bUseSetAmountOfRounds": false,
+            "bRandomWeapons": false,
+            "bRespawningDisabled": false
+          }
+        },
+        "ScoreConfig": {
+          "MinScore": 10,
+          "MaxScore": 1000,
+          "ScoreStep": 10
+        },
+        "MatchTime": 480,
+        "Description": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "GameModes_GrabBallAndRun"
+        },
+        "ScoreFormatText": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_PointsToWin"
+        },
+        "SoundName": "SB",
+        "MaxPlayers": 8,
+        "CompatibleWeaponIDs": [
+          15
+        ],
+        "Selectability": [
+          "EGameModeSelectability::Standard",
+          "EGameModeSelectability::Custom"
+        ],
+        "IconImage": {
+          "AssetPathName": "/Game/Thumbnails/Icons/icon-team-rumble.icon-team-rumble",
+          "SubPathString": ""
+        },
+        "ID": 29,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "GameModes_SplitBall"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/GameModes/Splitball_Screenshot.Splitball_Screenshot",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "30": {
+        "DefaultClass": {
+          "AssetPathName": "/Game/Blueprints/GameModes/KOTH/KOTH_BP.KOTH_BP_C",
+          "SubPathString": ""
+        },
+        "Alias": "SKOTH",
+        "Config": {
+          "TeamGame": true,
+          "NumTeams": 2,
+          "ScoreLimit": 200,
+          "RespawnTime": 2,
+          "MaxOvertime": 60,
+          "DefaultInventoryIDs": [
+            6
+          ],
+          "PickupsEnabled": false,
+          "PickupOverrides": [],
+          "ShouldDropWeaponPickups": true,
+          "ShouldShowRadar": true,
+          "KillcamEnabled": true,
+          "SpectateAlliesWhenDead": false,
+          "Modifiers": {
+            "EnableBoundaries": true,
+            "EnableJetpack": true,
+            "EnableSprint": true,
+            "EnablePortalGun": true,
+            "UnlimitedAmmo": true,
+            "UnlimitedClipSize": true,
+            "HeadshotsOnly": false,
+            "BigHeadMode": false,
+            "WalkSpeedModifier": 1.5,
+            "JumpHeightModifier": 1.0,
+            "GravityModifier": 1.0,
+            "ThrusterPackFuelModifier": 1.0,
+            "ThrusterPackBoostModifier": 1.0,
+            "MeleeDmgModifier": 1.0,
+            "HealthModifier": 1.0
+          },
+          "RandomWeapons": false,
+          "SwitchTeamsEnabled": false,
+          "MeleeHeavyMode": false,
+          "KOTHConfig": {
+            "RandomHillsEnabled": true
+          },
+          "VIPConfig": {
+            "DefaultInventoryIDs": [],
+            "VIPWalkSpeedModifier": -1.0
+          },
+          "ContaminationConfig": {
+            "DefaultInventoryIDs": [],
+            "InitialZombies": 2,
+            "SurvivalPoints": 0
+          },
+          "RoundConfig": {
+            "bUseRoundTimer": false,
+            "RoundTimeLimit": 60,
+            "bUseRoundScoreLimit": false,
+            "RoundScoreLimit": 30,
+            "bUseSetAmountOfRounds": false,
+            "bRandomWeapons": false,
+            "bRespawningDisabled": false
+          }
+        },
+        "ScoreConfig": {
+          "MinScore": 10,
+          "MaxScore": 1000,
+          "ScoreStep": 10
+        },
+        "MatchTime": 480,
+        "Description": {
+          "Namespace": "GameModes",
+          "Key": "Description_30",
+          "SourceString": "Score points by standing inside the hill."
+        },
+        "ScoreFormatText": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_PointsToWin"
+        },
+        "SoundName": "SKOTH",
+        "MaxPlayers": 8,
+        "CompatibleWeaponIDs": [
+          6
+        ],
+        "Selectability": [
+          "EGameModeSelectability::Standard",
+          "EGameModeSelectability::Custom"
+        ],
+        "IconImage": {
+          "AssetPathName": "/Game/Thumbnails/Icons/icon-team-rumble.icon-team-rumble",
+          "SubPathString": ""
+        },
+        "ID": 30,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "GameModes_SuperKingofHill"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/GameModes/KOTH_Screenshot.KOTH_Screenshot",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "31": {
+        "DefaultClass": {
+          "AssetPathName": "/Game/Blueprints/GameModes/VIP/VIP_BP.VIP_BP_C",
+          "SubPathString": ""
+        },
+        "Alias": "ZVIP",
+        "Config": {
+          "TeamGame": true,
+          "NumTeams": 2,
+          "ScoreLimit": 15,
+          "RespawnTime": 6,
+          "MaxOvertime": 480,
+          "DefaultInventoryIDs": [
+            15
+          ],
+          "PickupsEnabled": false,
+          "PickupOverrides": [],
+          "ShouldDropWeaponPickups": true,
+          "ShouldShowRadar": false,
+          "KillcamEnabled": true,
+          "SpectateAlliesWhenDead": false,
+          "Modifiers": {
+            "EnableBoundaries": true,
+            "EnableJetpack": true,
+            "EnableSprint": true,
+            "EnablePortalGun": true,
+            "UnlimitedAmmo": true,
+            "UnlimitedClipSize": false,
+            "HeadshotsOnly": false,
+            "BigHeadMode": false,
+            "WalkSpeedModifier": 1.5,
+            "JumpHeightModifier": 1.0,
+            "GravityModifier": 1.0,
+            "ThrusterPackFuelModifier": 1.0,
+            "ThrusterPackBoostModifier": 1.0,
+            "MeleeDmgModifier": 1.0,
+            "HealthModifier": 0.5
+          },
+          "RandomWeapons": false,
+          "SwitchTeamsEnabled": false,
+          "MeleeHeavyMode": true,
+          "KOTHConfig": {
+            "RandomHillsEnabled": true
+          },
+          "VIPConfig": {
+            "DefaultInventoryIDs": [
+              6
+            ],
+            "VIPWalkSpeedModifier": 1.0
+          },
+          "ContaminationConfig": {
+            "DefaultInventoryIDs": [],
+            "InitialZombies": 2,
+            "SurvivalPoints": 0
+          },
+          "RoundConfig": {
+            "bUseRoundTimer": false,
+            "RoundTimeLimit": 60,
+            "bUseRoundScoreLimit": false,
+            "RoundScoreLimit": 30,
+            "bUseSetAmountOfRounds": false,
+            "bRandomWeapons": false,
+            "bRespawningDisabled": false
+          }
+        },
+        "ScoreConfig": {
+          "MinScore": 5,
+          "MaxScore": 1000,
+          "ScoreStep": 5
+        },
+        "MatchTime": 480,
+        "Description": {
+          "Namespace": "GameModes",
+          "Key": "Description_31",
+          "SourceString": "Each team has a designated VIP. Kill the VIP to score points. The VIP cannot spawn portals, but he has double the health!"
+        },
+        "ScoreFormatText": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_KillsToWin"
+        },
+        "SoundName": "ZVIP",
+        "MaxPlayers": 8,
+        "CompatibleWeaponIDs": [
+          15,
+          16
+        ],
+        "Selectability": [
+          "EGameModeSelectability::Standard",
+          "EGameModeSelectability::Custom"
+        ],
+        "IconImage": {
+          "AssetPathName": "/Game/Thumbnails/Icons/icon-team-rumble.icon-team-rumble",
+          "SubPathString": ""
+        },
+        "ID": 31,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "GameModes_ZombieVIP"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/GameModes/ZombieVIP_Screenshot.ZombieVIP_Screenshot",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "32": {
+        "DefaultClass": {
+          "AssetPathName": "/Game/Blueprints/GameModes/TDM/Deathmatch_BP.Deathmatch_BP_C",
+          "SubPathString": ""
+        },
+        "Alias": "WA",
+        "Config": {
+          "TeamGame": false,
+          "NumTeams": 2,
+          "ScoreLimit": 50,
+          "RespawnTime": 6,
+          "MaxOvertime": 480,
+          "DefaultInventoryIDs": [
+            16,
+            0
+          ],
+          "PickupsEnabled": true,
+          "PickupOverrides": [],
+          "ShouldDropWeaponPickups": true,
+          "ShouldShowRadar": true,
+          "KillcamEnabled": true,
+          "SpectateAlliesWhenDead": false,
+          "Modifiers": {
+            "EnableBoundaries": true,
+            "EnableJetpack": true,
+            "EnableSprint": true,
+            "EnablePortalGun": true,
+            "UnlimitedAmmo": false,
+            "UnlimitedClipSize": false,
+            "HeadshotsOnly": false,
+            "BigHeadMode": false,
+            "WalkSpeedModifier": 1.0,
+            "JumpHeightModifier": 1.0,
+            "GravityModifier": 1.0,
+            "ThrusterPackFuelModifier": 1.0,
+            "ThrusterPackBoostModifier": 1.0,
+            "MeleeDmgModifier": 1.0,
+            "HealthModifier": 1.0
+          },
+          "RandomWeapons": false,
+          "SwitchTeamsEnabled": false,
+          "MeleeHeavyMode": false,
+          "KOTHConfig": {
+            "RandomHillsEnabled": true
+          },
+          "VIPConfig": {
+            "DefaultInventoryIDs": [],
+            "VIPWalkSpeedModifier": -1.0
+          },
+          "ContaminationConfig": {
+            "DefaultInventoryIDs": [],
+            "InitialZombies": 2,
+            "SurvivalPoints": 0
+          },
+          "RoundConfig": {
+            "bUseRoundTimer": false,
+            "RoundTimeLimit": 60,
+            "bUseRoundScoreLimit": false,
+            "RoundScoreLimit": 30,
+            "bUseSetAmountOfRounds": false,
+            "bRandomWeapons": false,
+            "bRespawningDisabled": false
+          }
+        },
+        "ScoreConfig": {
+          "MinScore": 5,
+          "MaxScore": 1000,
+          "ScoreStep": 5
+        },
+        "MatchTime": 480,
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "ScoreFormatText": {
+          "CultureInvariantString": null
+        },
+        "SoundName": "",
+        "MaxPlayers": 8,
+        "CompatibleWeaponIDs": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          15,
+          16
+        ],
+        "Selectability": [],
+        "IconImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "ID": 32,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "GameModes_WaitingArea"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "33": {
+        "DefaultClass": {
+          "AssetPathName": "/Game/Blueprints/GameModes/TDM/Deathmatch_BP.Deathmatch_BP_C",
+          "SubPathString": ""
+        },
+        "Alias": "RWA",
+        "Config": {
+          "TeamGame": false,
+          "NumTeams": 2,
+          "ScoreLimit": 50,
+          "RespawnTime": 6,
+          "MaxOvertime": 480,
+          "DefaultInventoryIDs": [
+            16,
+            2
+          ],
+          "PickupsEnabled": true,
+          "PickupOverrides": [],
+          "ShouldDropWeaponPickups": true,
+          "ShouldShowRadar": false,
+          "KillcamEnabled": true,
+          "SpectateAlliesWhenDead": false,
+          "Modifiers": {
+            "EnableBoundaries": true,
+            "EnableJetpack": true,
+            "EnableSprint": true,
+            "EnablePortalGun": true,
+            "UnlimitedAmmo": false,
+            "UnlimitedClipSize": false,
+            "HeadshotsOnly": false,
+            "BigHeadMode": false,
+            "WalkSpeedModifier": 1.0,
+            "JumpHeightModifier": 1.0,
+            "GravityModifier": 1.0,
+            "ThrusterPackFuelModifier": 1.0,
+            "ThrusterPackBoostModifier": 1.0,
+            "MeleeDmgModifier": 1.0,
+            "HealthModifier": 1.0
+          },
+          "RandomWeapons": false,
+          "SwitchTeamsEnabled": false,
+          "MeleeHeavyMode": false,
+          "KOTHConfig": {
+            "RandomHillsEnabled": true
+          },
+          "VIPConfig": {
+            "DefaultInventoryIDs": [],
+            "VIPWalkSpeedModifier": -1.0
+          },
+          "ContaminationConfig": {
+            "DefaultInventoryIDs": [],
+            "InitialZombies": 2,
+            "SurvivalPoints": 0
+          },
+          "RoundConfig": {
+            "bUseRoundTimer": false,
+            "RoundTimeLimit": 60,
+            "bUseRoundScoreLimit": false,
+            "RoundScoreLimit": 30,
+            "bUseSetAmountOfRounds": false,
+            "bRandomWeapons": false,
+            "bRespawningDisabled": false
+          }
+        },
+        "ScoreConfig": {
+          "MinScore": 5,
+          "MaxScore": 1000,
+          "ScoreStep": 5
+        },
+        "MatchTime": 480,
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "ScoreFormatText": {
+          "CultureInvariantString": null
+        },
+        "SoundName": "",
+        "MaxPlayers": 8,
+        "CompatibleWeaponIDs": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          15,
+          16
+        ],
+        "Selectability": [],
+        "IconImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "ID": 33,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "GameModes_RankedWaitingArea"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "34": {
+        "DefaultClass": {
+          "AssetPathName": "/Game/Blueprints/GameModes/KOTH/KOTH_BP.KOTH_BP_C",
+          "SubPathString": ""
+        },
+        "Alias": "RDUOSKOTH",
+        "Config": {
+          "TeamGame": true,
+          "NumTeams": 2,
+          "ScoreLimit": 200,
+          "RespawnTime": 7,
+          "MaxOvertime": 60,
+          "DefaultInventoryIDs": [
+            16,
+            2
+          ],
+          "PickupsEnabled": true,
+          "PickupOverrides": [
+            {
+              "WeaponID": 4,
+              "IsEnabled": false,
+              "OverrideClips": false,
+              "AmmoClips": 2.0,
+              "OverrideSpawnTime": false,
+              "TimeBetweenSpawns": 60
+            },
+            {
+              "WeaponID": 5,
+              "IsEnabled": false,
+              "OverrideClips": false,
+              "AmmoClips": 2.0,
+              "OverrideSpawnTime": false,
+              "TimeBetweenSpawns": 60
+            },
+            {
+              "WeaponID": 6,
+              "IsEnabled": false,
+              "OverrideClips": false,
+              "AmmoClips": 2.0,
+              "OverrideSpawnTime": false,
+              "TimeBetweenSpawns": 60
+            },
+            {
+              "WeaponID": 15,
+              "IsEnabled": false,
+              "OverrideClips": false,
+              "AmmoClips": 2.0,
+              "OverrideSpawnTime": false,
+              "TimeBetweenSpawns": 60
+            },
+            {
+              "WeaponID": 8,
+              "IsEnabled": true,
+              "OverrideClips": true,
+              "AmmoClips": 1.0,
+              "OverrideSpawnTime": false,
+              "TimeBetweenSpawns": 60
+            },
+            {
+              "WeaponID": 7,
+              "IsEnabled": true,
+              "OverrideClips": true,
+              "AmmoClips": 1.5,
+              "OverrideSpawnTime": false,
+              "TimeBetweenSpawns": 60
+            }
+          ],
+          "ShouldDropWeaponPickups": true,
+          "ShouldShowRadar": false,
+          "KillcamEnabled": true,
+          "SpectateAlliesWhenDead": false,
+          "Modifiers": {
+            "EnableBoundaries": true,
+            "EnableJetpack": true,
+            "EnableSprint": true,
+            "EnablePortalGun": true,
+            "UnlimitedAmmo": false,
+            "UnlimitedClipSize": false,
+            "HeadshotsOnly": false,
+            "BigHeadMode": false,
+            "WalkSpeedModifier": 1.0,
+            "JumpHeightModifier": 1.0,
+            "GravityModifier": 1.0,
+            "ThrusterPackFuelModifier": 1.0,
+            "ThrusterPackBoostModifier": 1.0,
+            "MeleeDmgModifier": 1.0,
+            "HealthModifier": 1.0
+          },
+          "RandomWeapons": false,
+          "SwitchTeamsEnabled": false,
+          "MeleeHeavyMode": false,
+          "KOTHConfig": {
+            "RandomHillsEnabled": false
+          },
+          "VIPConfig": {
+            "DefaultInventoryIDs": [],
+            "VIPWalkSpeedModifier": -1.0
+          },
+          "ContaminationConfig": {
+            "DefaultInventoryIDs": [],
+            "InitialZombies": 2,
+            "SurvivalPoints": 0
+          },
+          "RoundConfig": {
+            "bUseRoundTimer": false,
+            "RoundTimeLimit": 60,
+            "bUseRoundScoreLimit": false,
+            "RoundScoreLimit": 30,
+            "bUseSetAmountOfRounds": false,
+            "bRandomWeapons": false,
+            "bRespawningDisabled": false
+          }
+        },
+        "ScoreConfig": {
+          "MinScore": 10,
+          "MaxScore": 1000,
+          "ScoreStep": 10
+        },
+        "MatchTime": 480,
+        "Description": {
+          "Namespace": "GameModes",
+          "Key": "Description_34",
+          "SourceString": "Score points by standing inside the hill. Radar is disabled."
+        },
+        "ScoreFormatText": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_PointsToWin"
+        },
+        "SoundName": "KOTH",
+        "MaxPlayers": 4,
+        "CompatibleWeaponIDs": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          15,
+          16
+        ],
+        "Selectability": [
+          "EGameModeSelectability::Standard",
+          "EGameModeSelectability::Hardcore"
+        ],
+        "IconImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "ID": 34,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "GameModes_RankedKingoftheHill"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "35": {
+        "DefaultClass": {
+          "AssetPathName": "/Game/Blueprints/GameModes/TDM/Deathmatch_BP.Deathmatch_BP_C",
+          "SubPathString": ""
+        },
+        "Alias": "RTDM3v3",
+        "Config": {
+          "TeamGame": true,
+          "NumTeams": 2,
+          "ScoreLimit": 50,
+          "RespawnTime": 5,
+          "MaxOvertime": 480,
+          "DefaultInventoryIDs": [
+            16,
+            2
+          ],
+          "PickupsEnabled": true,
+          "PickupOverrides": [
+            {
+              "WeaponID": 15,
+              "IsEnabled": true,
+              "OverrideClips": true,
+              "AmmoClips": 0.75,
+              "OverrideSpawnTime": false,
+              "TimeBetweenSpawns": 60
+            },
+            {
+              "WeaponID": 4,
+              "IsEnabled": true,
+              "OverrideClips": true,
+              "AmmoClips": 0.75,
+              "OverrideSpawnTime": false,
+              "TimeBetweenSpawns": 60
+            },
+            {
+              "WeaponID": 5,
+              "IsEnabled": true,
+              "OverrideClips": true,
+              "AmmoClips": 1.5,
+              "OverrideSpawnTime": false,
+              "TimeBetweenSpawns": 60
+            },
+            {
+              "WeaponID": 6,
+              "IsEnabled": true,
+              "OverrideClips": true,
+              "AmmoClips": 1.35,
+              "OverrideSpawnTime": false,
+              "TimeBetweenSpawns": 60
+            },
+            {
+              "WeaponID": 8,
+              "IsEnabled": true,
+              "OverrideClips": true,
+              "AmmoClips": 1.5,
+              "OverrideSpawnTime": false,
+              "TimeBetweenSpawns": 60
+            }
+          ],
+          "ShouldDropWeaponPickups": true,
+          "ShouldShowRadar": false,
+          "KillcamEnabled": true,
+          "SpectateAlliesWhenDead": false,
+          "Modifiers": {
+            "EnableBoundaries": true,
+            "EnableJetpack": true,
+            "EnableSprint": true,
+            "EnablePortalGun": true,
+            "UnlimitedAmmo": false,
+            "UnlimitedClipSize": false,
+            "HeadshotsOnly": false,
+            "BigHeadMode": false,
+            "WalkSpeedModifier": 1.0,
+            "JumpHeightModifier": 1.0,
+            "GravityModifier": 1.0,
+            "ThrusterPackFuelModifier": 1.0,
+            "ThrusterPackBoostModifier": 1.0,
+            "MeleeDmgModifier": 1.0,
+            "HealthModifier": 1.0
+          },
+          "RandomWeapons": false,
+          "SwitchTeamsEnabled": false,
+          "MeleeHeavyMode": false,
+          "KOTHConfig": {
+            "RandomHillsEnabled": true
+          },
+          "VIPConfig": {
+            "DefaultInventoryIDs": [],
+            "VIPWalkSpeedModifier": -1.0
+          },
+          "ContaminationConfig": {
+            "DefaultInventoryIDs": [],
+            "InitialZombies": 2,
+            "SurvivalPoints": 0
+          },
+          "RoundConfig": {
+            "bUseRoundTimer": false,
+            "RoundTimeLimit": 60,
+            "bUseRoundScoreLimit": false,
+            "RoundScoreLimit": 30,
+            "bUseSetAmountOfRounds": false,
+            "bRandomWeapons": false,
+            "bRespawningDisabled": false
+          }
+        },
+        "ScoreConfig": {
+          "MinScore": 5,
+          "MaxScore": 1000,
+          "ScoreStep": 5
+        },
+        "MatchTime": 480,
+        "Description": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "GameModes_KillEnemyTeamToScore_NoRadar"
+        },
+        "ScoreFormatText": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_KillsToWin"
+        },
+        "SoundName": "TDM",
+        "MaxPlayers": 8,
+        "CompatibleWeaponIDs": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          15,
+          16
+        ],
+        "Selectability": [
+          "EGameModeSelectability::Standard",
+          "EGameModeSelectability::Hardcore"
+        ],
+        "IconImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "ID": 35,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "GameModes_RankedTeamDeathmatch"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "36": {
+        "DefaultClass": {
+          "AssetPathName": "/Game/Blueprints/GameModes/KOTH/KOTH_BP.KOTH_BP_C",
+          "SubPathString": ""
+        },
+        "Alias": "RKOTH3v3",
+        "Config": {
+          "TeamGame": true,
+          "NumTeams": 2,
+          "ScoreLimit": 200,
+          "RespawnTime": 6,
+          "MaxOvertime": 60,
+          "DefaultInventoryIDs": [
+            16,
+            2
+          ],
+          "PickupsEnabled": true,
+          "PickupOverrides": [
+            {
+              "WeaponID": 15,
+              "IsEnabled": true,
+              "OverrideClips": true,
+              "AmmoClips": 0.75,
+              "OverrideSpawnTime": false,
+              "TimeBetweenSpawns": 60
+            },
+            {
+              "WeaponID": 4,
+              "IsEnabled": true,
+              "OverrideClips": true,
+              "AmmoClips": 0.75,
+              "OverrideSpawnTime": false,
+              "TimeBetweenSpawns": 60
+            },
+            {
+              "WeaponID": 5,
+              "IsEnabled": true,
+              "OverrideClips": true,
+              "AmmoClips": 1.5,
+              "OverrideSpawnTime": false,
+              "TimeBetweenSpawns": 60
+            },
+            {
+              "WeaponID": 6,
+              "IsEnabled": true,
+              "OverrideClips": true,
+              "AmmoClips": 1.35,
+              "OverrideSpawnTime": false,
+              "TimeBetweenSpawns": 60
+            },
+            {
+              "WeaponID": 8,
+              "IsEnabled": true,
+              "OverrideClips": true,
+              "AmmoClips": 1.5,
+              "OverrideSpawnTime": false,
+              "TimeBetweenSpawns": 60
+            }
+          ],
+          "ShouldDropWeaponPickups": true,
+          "ShouldShowRadar": false,
+          "KillcamEnabled": true,
+          "SpectateAlliesWhenDead": false,
+          "Modifiers": {
+            "EnableBoundaries": true,
+            "EnableJetpack": true,
+            "EnableSprint": true,
+            "EnablePortalGun": true,
+            "UnlimitedAmmo": false,
+            "UnlimitedClipSize": false,
+            "HeadshotsOnly": false,
+            "BigHeadMode": false,
+            "WalkSpeedModifier": 1.0,
+            "JumpHeightModifier": 1.0,
+            "GravityModifier": 1.0,
+            "ThrusterPackFuelModifier": 1.0,
+            "ThrusterPackBoostModifier": 1.0,
+            "MeleeDmgModifier": 1.0,
+            "HealthModifier": 1.0
+          },
+          "RandomWeapons": false,
+          "SwitchTeamsEnabled": false,
+          "MeleeHeavyMode": false,
+          "KOTHConfig": {
+            "RandomHillsEnabled": false
+          },
+          "VIPConfig": {
+            "DefaultInventoryIDs": [],
+            "VIPWalkSpeedModifier": -1.0
+          },
+          "ContaminationConfig": {
+            "DefaultInventoryIDs": [],
+            "InitialZombies": 2,
+            "SurvivalPoints": 0
+          },
+          "RoundConfig": {
+            "bUseRoundTimer": false,
+            "RoundTimeLimit": 60,
+            "bUseRoundScoreLimit": false,
+            "RoundScoreLimit": 30,
+            "bUseSetAmountOfRounds": false,
+            "bRandomWeapons": false,
+            "bRespawningDisabled": false
+          }
+        },
+        "ScoreConfig": {
+          "MinScore": 10,
+          "MaxScore": 1000,
+          "ScoreStep": 10
+        },
+        "MatchTime": 480,
+        "Description": {
+          "Namespace": "GameModes",
+          "Key": "Description_36",
+          "SourceString": "Score points by standing inside the hill. Radar is disabled."
+        },
+        "ScoreFormatText": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_PointsToWin"
+        },
+        "SoundName": "KOTH",
+        "MaxPlayers": 8,
+        "CompatibleWeaponIDs": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          15,
+          16
+        ],
+        "Selectability": [
+          "EGameModeSelectability::Standard",
+          "EGameModeSelectability::Hardcore"
+        ],
+        "IconImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "ID": 36,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "GameModes_RankedKingoftheHill"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "37": {
+        "DefaultClass": {
+          "AssetPathName": "/Game/Blueprints/GameModes/Domination/Domination_BP.Domination_BP_C",
+          "SubPathString": ""
+        },
+        "Alias": "RDOM3v3",
+        "Config": {
+          "TeamGame": true,
+          "NumTeams": 2,
+          "ScoreLimit": 600,
+          "RespawnTime": 6,
+          "MaxOvertime": 480,
+          "DefaultInventoryIDs": [
+            16,
+            2
+          ],
+          "PickupsEnabled": true,
+          "PickupOverrides": [
+            {
+              "WeaponID": 15,
+              "IsEnabled": true,
+              "OverrideClips": true,
+              "AmmoClips": 0.75,
+              "OverrideSpawnTime": false,
+              "TimeBetweenSpawns": 60
+            },
+            {
+              "WeaponID": 4,
+              "IsEnabled": true,
+              "OverrideClips": true,
+              "AmmoClips": 0.75,
+              "OverrideSpawnTime": false,
+              "TimeBetweenSpawns": 60
+            },
+            {
+              "WeaponID": 5,
+              "IsEnabled": true,
+              "OverrideClips": true,
+              "AmmoClips": 1.5,
+              "OverrideSpawnTime": false,
+              "TimeBetweenSpawns": 60
+            },
+            {
+              "WeaponID": 6,
+              "IsEnabled": true,
+              "OverrideClips": true,
+              "AmmoClips": 1.35,
+              "OverrideSpawnTime": false,
+              "TimeBetweenSpawns": 60
+            },
+            {
+              "WeaponID": 8,
+              "IsEnabled": true,
+              "OverrideClips": true,
+              "AmmoClips": 1.5,
+              "OverrideSpawnTime": false,
+              "TimeBetweenSpawns": 60
+            }
+          ],
+          "ShouldDropWeaponPickups": true,
+          "ShouldShowRadar": false,
+          "KillcamEnabled": true,
+          "SpectateAlliesWhenDead": false,
+          "Modifiers": {
+            "EnableBoundaries": true,
+            "EnableJetpack": true,
+            "EnableSprint": true,
+            "EnablePortalGun": true,
+            "UnlimitedAmmo": false,
+            "UnlimitedClipSize": false,
+            "HeadshotsOnly": false,
+            "BigHeadMode": false,
+            "WalkSpeedModifier": 1.0,
+            "JumpHeightModifier": 1.0,
+            "GravityModifier": 1.0,
+            "ThrusterPackFuelModifier": 1.0,
+            "ThrusterPackBoostModifier": 1.0,
+            "MeleeDmgModifier": 1.0,
+            "HealthModifier": 1.0
+          },
+          "RandomWeapons": false,
+          "SwitchTeamsEnabled": false,
+          "MeleeHeavyMode": false,
+          "KOTHConfig": {
+            "RandomHillsEnabled": true
+          },
+          "VIPConfig": {
+            "DefaultInventoryIDs": [],
+            "VIPWalkSpeedModifier": -1.0
+          },
+          "ContaminationConfig": {
+            "DefaultInventoryIDs": [],
+            "InitialZombies": 2,
+            "SurvivalPoints": 0
+          },
+          "RoundConfig": {
+            "bUseRoundTimer": false,
+            "RoundTimeLimit": 60,
+            "bUseRoundScoreLimit": false,
+            "RoundScoreLimit": 30,
+            "bUseSetAmountOfRounds": false,
+            "bRandomWeapons": false,
+            "bRespawningDisabled": false
+          }
+        },
+        "ScoreConfig": {
+          "MinScore": 50,
+          "MaxScore": 1500,
+          "ScoreStep": 50
+        },
+        "MatchTime": 480,
+        "Description": {
+          "Namespace": "GameModes",
+          "Key": "Description_37",
+          "SourceString": "Score points by capturing and controlling the three hills. Once a hill is captured, you don't need to stay inside it. Radar is disabled."
+        },
+        "ScoreFormatText": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_PointsToWin"
+        },
+        "SoundName": "DOM",
+        "MaxPlayers": 8,
+        "CompatibleWeaponIDs": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          15,
+          16
+        ],
+        "Selectability": [
+          "EGameModeSelectability::Standard",
+          "EGameModeSelectability::Hardcore"
+        ],
+        "IconImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "ID": 37,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "GameModes_RankedDomination"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "38": {
+        "DefaultClass": {
+          "AssetPathName": "/Game/Blueprints/GameModes/Takedown/Takedown_BP.Takedown_BP_C",
+          "SubPathString": ""
+        },
+        "Alias": "RTD",
+        "Config": {
+          "TeamGame": true,
+          "NumTeams": 2,
+          "ScoreLimit": 4,
+          "RespawnTime": 6,
+          "MaxOvertime": 480,
+          "DefaultInventoryIDs": [
+            16,
+            2
+          ],
+          "PickupsEnabled": true,
+          "PickupOverrides": [
+            {
+              "WeaponID": 8,
+              "IsEnabled": true,
+              "OverrideClips": true,
+              "AmmoClips": 1.0,
+              "OverrideSpawnTime": false,
+              "TimeBetweenSpawns": 60
+            },
+            {
+              "WeaponID": 7,
+              "IsEnabled": true,
+              "OverrideClips": true,
+              "AmmoClips": 1.5,
+              "OverrideSpawnTime": false,
+              "TimeBetweenSpawns": 60
+            }
+          ],
+          "ShouldDropWeaponPickups": true,
+          "ShouldShowRadar": false,
+          "KillcamEnabled": false,
+          "SpectateAlliesWhenDead": true,
+          "Modifiers": {
+            "EnableBoundaries": true,
+            "EnableJetpack": true,
+            "EnableSprint": true,
+            "EnablePortalGun": true,
+            "UnlimitedAmmo": false,
+            "UnlimitedClipSize": false,
+            "HeadshotsOnly": false,
+            "BigHeadMode": false,
+            "WalkSpeedModifier": 1.0,
+            "JumpHeightModifier": 1.0,
+            "GravityModifier": 1.0,
+            "ThrusterPackFuelModifier": 1.0,
+            "ThrusterPackBoostModifier": 1.0,
+            "MeleeDmgModifier": 1.0,
+            "HealthModifier": 1.0
+          },
+          "RandomWeapons": false,
+          "SwitchTeamsEnabled": false,
+          "MeleeHeavyMode": false,
+          "KOTHConfig": {
+            "RandomHillsEnabled": true
+          },
+          "VIPConfig": {
+            "DefaultInventoryIDs": [],
+            "VIPWalkSpeedModifier": -1.0
+          },
+          "ContaminationConfig": {
+            "DefaultInventoryIDs": [],
+            "InitialZombies": 2,
+            "SurvivalPoints": 0
+          },
+          "RoundConfig": {
+            "bUseRoundTimer": false,
+            "RoundTimeLimit": 300,
+            "bUseRoundScoreLimit": false,
+            "RoundScoreLimit": 30,
+            "bUseSetAmountOfRounds": false,
+            "bRandomWeapons": false,
+            "bRespawningDisabled": false
+          }
+        },
+        "ScoreConfig": {
+          "MinScore": 1,
+          "MaxScore": 5,
+          "ScoreStep": 1
+        },
+        "MatchTime": 3600,
+        "Description": {
+          "Namespace": "GameModes",
+          "Key": "Description_38",
+          "SourceString": "Eliminate the entire enemy team to win each round. Spawn times increase with each death!"
+        },
+        "ScoreFormatText": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_RoundsToWin"
+        },
+        "SoundName": "TD",
+        "MaxPlayers": 6,
+        "CompatibleWeaponIDs": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          15,
+          16
+        ],
+        "Selectability": [
+          "EGameModeSelectability::Standard",
+          "EGameModeSelectability::Hardcore",
+          "EGameModeSelectability::Custom"
+        ],
+        "IconImage": {
+          "AssetPathName": "/Game/Thumbnails/Icons/icon-team-rumble.icon-team-rumble",
+          "SubPathString": ""
+        },
+        "ID": 38,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "GameModes_RankedTakedown"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/GameModes/Takedown_Screenshot.Takedown_Screenshot",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "39": {
+        "DefaultClass": {
+          "AssetPathName": "/Game/Blueprints/GameModes/Fiesta/Fiesta_BP.Fiesta_BP_C",
+          "SubPathString": ""
+        },
+        "Alias": "FST",
+        "Config": {
+          "TeamGame": false,
+          "NumTeams": 2,
+          "ScoreLimit": 25,
+          "RespawnTime": 4,
+          "MaxOvertime": 480,
+          "DefaultInventoryIDs": [
+            16,
+            0
+          ],
+          "PickupsEnabled": false,
+          "PickupOverrides": [],
+          "ShouldDropWeaponPickups": true,
+          "ShouldShowRadar": true,
+          "KillcamEnabled": true,
+          "SpectateAlliesWhenDead": false,
+          "Modifiers": {
+            "EnableBoundaries": true,
+            "EnableJetpack": true,
+            "EnableSprint": true,
+            "EnablePortalGun": true,
+            "UnlimitedAmmo": false,
+            "UnlimitedClipSize": false,
+            "HeadshotsOnly": false,
+            "BigHeadMode": false,
+            "WalkSpeedModifier": 1.0,
+            "JumpHeightModifier": 1.0,
+            "GravityModifier": 1.0,
+            "ThrusterPackFuelModifier": 1.0,
+            "ThrusterPackBoostModifier": 1.0,
+            "MeleeDmgModifier": 1.0,
+            "HealthModifier": 1.0
+          },
+          "RandomWeapons": true,
+          "SwitchTeamsEnabled": false,
+          "MeleeHeavyMode": false,
+          "KOTHConfig": {
+            "RandomHillsEnabled": true
+          },
+          "VIPConfig": {
+            "DefaultInventoryIDs": [],
+            "VIPWalkSpeedModifier": -1.0
+          },
+          "ContaminationConfig": {
+            "DefaultInventoryIDs": [],
+            "InitialZombies": 2,
+            "SurvivalPoints": 0
+          },
+          "RoundConfig": {
+            "bUseRoundTimer": false,
+            "RoundTimeLimit": 60,
+            "bUseRoundScoreLimit": false,
+            "RoundScoreLimit": 30,
+            "bUseSetAmountOfRounds": false,
+            "bRandomWeapons": false,
+            "bRespawningDisabled": false
+          }
+        },
+        "ScoreConfig": {
+          "MinScore": 5,
+          "MaxScore": 1000,
+          "ScoreStep": 5
+        },
+        "MatchTime": 480,
+        "Description": {
+          "Namespace": "GameModes",
+          "Key": "Description_39",
+          "SourceString": "Kill the enemies to score points. Loadouts are random!"
+        },
+        "ScoreFormatText": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_KillsToWin"
+        },
+        "SoundName": "FST",
+        "MaxPlayers": 8,
+        "CompatibleWeaponIDs": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          15,
+          16
+        ],
+        "Selectability": [
+          "EGameModeSelectability::Custom",
+          "EGameModeSelectability::Standard"
+        ],
+        "IconImage": {
+          "AssetPathName": "/Game/Thumbnails/Icons/icon-ffa-rumble.icon-ffa-rumble",
+          "SubPathString": ""
+        },
+        "ID": 39,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "GameModes_Fiesta"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/GameModes/Fiesta_Screenshot.Fiesta_Screenshot",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "40": {
+        "DefaultClass": {
+          "AssetPathName": "/Game/Blueprints/GameModes/Fiesta/Fiesta_BP.Fiesta_BP_C",
+          "SubPathString": ""
+        },
+        "Alias": "TFST",
+        "Config": {
+          "TeamGame": true,
+          "NumTeams": 2,
+          "ScoreLimit": 50,
+          "RespawnTime": 4,
+          "MaxOvertime": 480,
+          "DefaultInventoryIDs": [
+            16,
+            0
+          ],
+          "PickupsEnabled": false,
+          "PickupOverrides": [],
+          "ShouldDropWeaponPickups": true,
+          "ShouldShowRadar": true,
+          "KillcamEnabled": true,
+          "SpectateAlliesWhenDead": false,
+          "Modifiers": {
+            "EnableBoundaries": true,
+            "EnableJetpack": true,
+            "EnableSprint": true,
+            "EnablePortalGun": true,
+            "UnlimitedAmmo": false,
+            "UnlimitedClipSize": false,
+            "HeadshotsOnly": false,
+            "BigHeadMode": false,
+            "WalkSpeedModifier": 1.0,
+            "JumpHeightModifier": 1.0,
+            "GravityModifier": 1.0,
+            "ThrusterPackFuelModifier": 1.0,
+            "ThrusterPackBoostModifier": 1.0,
+            "MeleeDmgModifier": 1.0,
+            "HealthModifier": 1.0
+          },
+          "RandomWeapons": true,
+          "SwitchTeamsEnabled": false,
+          "MeleeHeavyMode": false,
+          "KOTHConfig": {
+            "RandomHillsEnabled": true
+          },
+          "VIPConfig": {
+            "DefaultInventoryIDs": [],
+            "VIPWalkSpeedModifier": -1.0
+          },
+          "ContaminationConfig": {
+            "DefaultInventoryIDs": [],
+            "InitialZombies": 2,
+            "SurvivalPoints": 0
+          },
+          "RoundConfig": {
+            "bUseRoundTimer": false,
+            "RoundTimeLimit": 60,
+            "bUseRoundScoreLimit": false,
+            "RoundScoreLimit": 30,
+            "bUseSetAmountOfRounds": false,
+            "bRandomWeapons": false,
+            "bRespawningDisabled": false
+          }
+        },
+        "ScoreConfig": {
+          "MinScore": 5,
+          "MaxScore": 1000,
+          "ScoreStep": 5
+        },
+        "MatchTime": 480,
+        "Description": {
+          "Namespace": "GameModes",
+          "Key": "Description_40",
+          "SourceString": "Kill the enemy team to score points. Loadouts are random!"
+        },
+        "ScoreFormatText": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_KillsToWin"
+        },
+        "SoundName": "FST",
+        "MaxPlayers": 8,
+        "CompatibleWeaponIDs": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          15,
+          16
+        ],
+        "Selectability": [
+          "EGameModeSelectability::Custom",
+          "EGameModeSelectability::Standard"
+        ],
+        "IconImage": {
+          "AssetPathName": "/Game/Thumbnails/Icons/icon-team-rumble.icon-team-rumble",
+          "SubPathString": ""
+        },
+        "ID": 40,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "GameModes_TeamFiesta"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/GameModes/Fiesta_Screenshot.Fiesta_Screenshot",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "41": {
+        "DefaultClass": {
+          "AssetPathName": "/Game/Blueprints/GameModes/OITC/OITC_BP.OITC_BP_C",
+          "SubPathString": ""
+        },
+        "Alias": "OITC",
+        "Config": {
+          "TeamGame": false,
+          "NumTeams": 2,
+          "ScoreLimit": 25,
+          "RespawnTime": 4,
+          "MaxOvertime": 480,
+          "DefaultInventoryIDs": [
+            17
+          ],
+          "PickupsEnabled": false,
+          "PickupOverrides": [],
+          "ShouldDropWeaponPickups": false,
+          "ShouldShowRadar": true,
+          "KillcamEnabled": true,
+          "SpectateAlliesWhenDead": false,
+          "Modifiers": {
+            "EnableBoundaries": true,
+            "EnableJetpack": true,
+            "EnableSprint": true,
+            "EnablePortalGun": true,
+            "UnlimitedAmmo": false,
+            "UnlimitedClipSize": false,
+            "HeadshotsOnly": false,
+            "BigHeadMode": false,
+            "WalkSpeedModifier": 1.0,
+            "JumpHeightModifier": 1.0,
+            "GravityModifier": 1.0,
+            "ThrusterPackFuelModifier": 1.0,
+            "ThrusterPackBoostModifier": 1.0,
+            "MeleeDmgModifier": 1.0,
+            "HealthModifier": 0.25
+          },
+          "RandomWeapons": false,
+          "SwitchTeamsEnabled": false,
+          "MeleeHeavyMode": true,
+          "KOTHConfig": {
+            "RandomHillsEnabled": true
+          },
+          "VIPConfig": {
+            "DefaultInventoryIDs": [],
+            "VIPWalkSpeedModifier": -1.0
+          },
+          "ContaminationConfig": {
+            "DefaultInventoryIDs": [],
+            "InitialZombies": 2,
+            "SurvivalPoints": 0
+          },
+          "RoundConfig": {
+            "bUseRoundTimer": false,
+            "RoundTimeLimit": 60,
+            "bUseRoundScoreLimit": false,
+            "RoundScoreLimit": 30,
+            "bUseSetAmountOfRounds": false,
+            "bRandomWeapons": false,
+            "bRespawningDisabled": false
+          }
+        },
+        "ScoreConfig": {
+          "MinScore": 5,
+          "MaxScore": 1000,
+          "ScoreStep": 5
+        },
+        "MatchTime": 480,
+        "Description": {
+          "Namespace": "GameModes",
+          "Key": "Description_41",
+          "SourceString": "Kill the enemies to score points. You have one bullet to use and you get another bullet each time you get a kill!"
+        },
+        "ScoreFormatText": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_KillsToWin"
+        },
+        "SoundName": "OITC",
+        "MaxPlayers": 8,
+        "CompatibleWeaponIDs": [
+          17
+        ],
+        "Selectability": [
+          "EGameModeSelectability::Custom",
+          "EGameModeSelectability::Standard"
+        ],
+        "IconImage": {
+          "AssetPathName": "/Game/Thumbnails/Icons/icon-ffa-rumble.icon-ffa-rumble",
+          "SubPathString": ""
+        },
+        "ID": 41,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "GameModes_OneintheChamper"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/GameModes/OITC_Screenshot.OITC_Screenshot",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "42": {
+        "DefaultClass": {
+          "AssetPathName": "/Game/Blueprints/GameModes/OITC/OITC_BP.OITC_BP_C",
+          "SubPathString": ""
+        },
+        "Alias": "TOITC",
+        "Config": {
+          "TeamGame": true,
+          "NumTeams": 2,
+          "ScoreLimit": 50,
+          "RespawnTime": 4,
+          "MaxOvertime": 480,
+          "DefaultInventoryIDs": [
+            17
+          ],
+          "PickupsEnabled": false,
+          "PickupOverrides": [],
+          "ShouldDropWeaponPickups": false,
+          "ShouldShowRadar": true,
+          "KillcamEnabled": true,
+          "SpectateAlliesWhenDead": false,
+          "Modifiers": {
+            "EnableBoundaries": true,
+            "EnableJetpack": true,
+            "EnableSprint": true,
+            "EnablePortalGun": true,
+            "UnlimitedAmmo": false,
+            "UnlimitedClipSize": false,
+            "HeadshotsOnly": false,
+            "BigHeadMode": false,
+            "WalkSpeedModifier": 1.0,
+            "JumpHeightModifier": 1.0,
+            "GravityModifier": 1.0,
+            "ThrusterPackFuelModifier": 1.0,
+            "ThrusterPackBoostModifier": 1.0,
+            "MeleeDmgModifier": 1.0,
+            "HealthModifier": 0.25
+          },
+          "RandomWeapons": false,
+          "SwitchTeamsEnabled": false,
+          "MeleeHeavyMode": true,
+          "KOTHConfig": {
+            "RandomHillsEnabled": true
+          },
+          "VIPConfig": {
+            "DefaultInventoryIDs": [],
+            "VIPWalkSpeedModifier": -1.0
+          },
+          "ContaminationConfig": {
+            "DefaultInventoryIDs": [],
+            "InitialZombies": 2,
+            "SurvivalPoints": 0
+          },
+          "RoundConfig": {
+            "bUseRoundTimer": false,
+            "RoundTimeLimit": 60,
+            "bUseRoundScoreLimit": false,
+            "RoundScoreLimit": 30,
+            "bUseSetAmountOfRounds": false,
+            "bRandomWeapons": false,
+            "bRespawningDisabled": false
+          }
+        },
+        "ScoreConfig": {
+          "MinScore": 5,
+          "MaxScore": 1000,
+          "ScoreStep": 5
+        },
+        "MatchTime": 480,
+        "Description": {
+          "Namespace": "GameModes",
+          "Key": "Description_42",
+          "SourceString": "Kill the enemy team to score points. You have one bullet to use and you get another bullet each time you get a kill!"
+        },
+        "ScoreFormatText": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_KillsToWin"
+        },
+        "SoundName": "OITC",
+        "MaxPlayers": 8,
+        "CompatibleWeaponIDs": [
+          17
+        ],
+        "Selectability": [
+          "EGameModeSelectability::Custom",
+          "EGameModeSelectability::Standard"
+        ],
+        "IconImage": {
+          "AssetPathName": "/Game/Thumbnails/Icons/icon-team-rumble.icon-team-rumble",
+          "SubPathString": ""
+        },
+        "ID": 42,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "GameModes_TeamOneintheChamber"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/GameModes/OITC_Screenshot.OITC_Screenshot",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "43": {
+        "DefaultClass": {
+          "AssetPathName": "/Game/Blueprints/GameModes/Range/PracticeRange_BP.PracticeRange_BP_C",
+          "SubPathString": ""
+        },
+        "Alias": "RANGE",
+        "Config": {
+          "TeamGame": true,
+          "NumTeams": 2,
+          "ScoreLimit": 50,
+          "RespawnTime": 2,
+          "MaxOvertime": 480,
+          "DefaultInventoryIDs": [
+            14
+          ],
+          "PickupsEnabled": true,
+          "PickupOverrides": [],
+          "ShouldDropWeaponPickups": false,
+          "ShouldShowRadar": true,
+          "KillcamEnabled": false,
+          "SpectateAlliesWhenDead": false,
+          "Modifiers": {
+            "EnableBoundaries": true,
+            "EnableJetpack": true,
+            "EnableSprint": true,
+            "EnablePortalGun": true,
+            "UnlimitedAmmo": true,
+            "UnlimitedClipSize": false,
+            "HeadshotsOnly": false,
+            "BigHeadMode": false,
+            "WalkSpeedModifier": 1.0,
+            "JumpHeightModifier": 1.0,
+            "GravityModifier": 1.0,
+            "ThrusterPackFuelModifier": 1.0,
+            "ThrusterPackBoostModifier": 1.0,
+            "MeleeDmgModifier": 1.0,
+            "HealthModifier": 1.0
+          },
+          "RandomWeapons": false,
+          "SwitchTeamsEnabled": false,
+          "MeleeHeavyMode": false,
+          "KOTHConfig": {
+            "RandomHillsEnabled": true
+          },
+          "VIPConfig": {
+            "DefaultInventoryIDs": [],
+            "VIPWalkSpeedModifier": -1.0
+          },
+          "ContaminationConfig": {
+            "DefaultInventoryIDs": [],
+            "InitialZombies": 2,
+            "SurvivalPoints": 0
+          },
+          "RoundConfig": {
+            "bUseRoundTimer": false,
+            "RoundTimeLimit": 60,
+            "bUseRoundScoreLimit": false,
+            "RoundScoreLimit": 30,
+            "bUseSetAmountOfRounds": false,
+            "bRandomWeapons": false,
+            "bRespawningDisabled": false
+          }
+        },
+        "ScoreConfig": {
+          "MinScore": 5,
+          "MaxScore": 1000,
+          "ScoreStep": 5
+        },
+        "MatchTime": 480,
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "ScoreFormatText": {
+          "CultureInvariantString": null
+        },
+        "SoundName": "",
+        "MaxPlayers": 1,
+        "CompatibleWeaponIDs": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          15,
+          16
+        ],
+        "Selectability": [],
+        "IconImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "ID": 43,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "GameModes_PracticeRange"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "44": {
+        "DefaultClass": {
+          "AssetPathName": "/Game/Blueprints/GameModes/CTF/Neutral_CTF_BP.Neutral_CTF_BP_C",
+          "SubPathString": ""
+        },
+        "Alias": "NCTF",
+        "Config": {
+          "TeamGame": true,
+          "NumTeams": 2,
+          "ScoreLimit": 15,
+          "RespawnTime": 8,
+          "MaxOvertime": 480,
+          "DefaultInventoryIDs": [
+            16,
+            0
+          ],
+          "PickupsEnabled": true,
+          "PickupOverrides": [],
+          "ShouldDropWeaponPickups": true,
+          "ShouldShowRadar": true,
+          "KillcamEnabled": true,
+          "SpectateAlliesWhenDead": false,
+          "Modifiers": {
+            "EnableBoundaries": true,
+            "EnableJetpack": true,
+            "EnableSprint": true,
+            "EnablePortalGun": true,
+            "UnlimitedAmmo": false,
+            "UnlimitedClipSize": false,
+            "HeadshotsOnly": false,
+            "BigHeadMode": false,
+            "WalkSpeedModifier": 1.0,
+            "JumpHeightModifier": 1.0,
+            "GravityModifier": 1.0,
+            "ThrusterPackFuelModifier": 1.0,
+            "ThrusterPackBoostModifier": 1.0,
+            "MeleeDmgModifier": 1.0,
+            "HealthModifier": 1.0
+          },
+          "RandomWeapons": false,
+          "SwitchTeamsEnabled": false,
+          "MeleeHeavyMode": false,
+          "KOTHConfig": {
+            "RandomHillsEnabled": true
+          },
+          "VIPConfig": {
+            "DefaultInventoryIDs": [],
+            "VIPWalkSpeedModifier": -1.0
+          },
+          "ContaminationConfig": {
+            "DefaultInventoryIDs": [],
+            "InitialZombies": 2,
+            "SurvivalPoints": 0
+          },
+          "RoundConfig": {
+            "bUseRoundTimer": false,
+            "RoundTimeLimit": 60,
+            "bUseRoundScoreLimit": false,
+            "RoundScoreLimit": 30,
+            "bUseSetAmountOfRounds": false,
+            "bRandomWeapons": false,
+            "bRespawningDisabled": false
+          }
+        },
+        "ScoreConfig": {
+          "MinScore": 1,
+          "MaxScore": 100,
+          "ScoreStep": 1
+        },
+        "MatchTime": 480,
+        "Description": {
+          "Namespace": "GameModes",
+          "Key": "Description_44",
+          "SourceString": "Steal the flag and return it to your own base."
+        },
+        "ScoreFormatText": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_PointsToWin"
+        },
+        "SoundName": "CTF",
+        "MaxPlayers": 8,
+        "CompatibleWeaponIDs": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          15,
+          16,
+          14
+        ],
+        "Selectability": [
+          "EGameModeSelectability::Custom",
+          "EGameModeSelectability::Standard"
+        ],
+        "IconImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "ID": 44,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "GameModes_NeutralCapturetheFlag"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "45": {
+        "DefaultClass": {
+          "AssetPathName": "/Game/Blueprints/GameModes/CTF/Neutral_CTF_BP.Neutral_CTF_BP_C",
+          "SubPathString": ""
+        },
+        "Alias": "RNCTF",
+        "Config": {
+          "TeamGame": true,
+          "NumTeams": 2,
+          "ScoreLimit": 15,
+          "RespawnTime": 8,
+          "MaxOvertime": 480,
+          "DefaultInventoryIDs": [
+            16,
+            2
+          ],
+          "PickupsEnabled": true,
+          "PickupOverrides": [],
+          "ShouldDropWeaponPickups": true,
+          "ShouldShowRadar": false,
+          "KillcamEnabled": true,
+          "SpectateAlliesWhenDead": false,
+          "Modifiers": {
+            "EnableBoundaries": true,
+            "EnableJetpack": true,
+            "EnableSprint": true,
+            "EnablePortalGun": true,
+            "UnlimitedAmmo": false,
+            "UnlimitedClipSize": false,
+            "HeadshotsOnly": false,
+            "BigHeadMode": false,
+            "WalkSpeedModifier": 1.0,
+            "JumpHeightModifier": 1.0,
+            "GravityModifier": 1.0,
+            "ThrusterPackFuelModifier": 1.0,
+            "ThrusterPackBoostModifier": 1.0,
+            "MeleeDmgModifier": 1.0,
+            "HealthModifier": 1.0
+          },
+          "RandomWeapons": false,
+          "SwitchTeamsEnabled": false,
+          "MeleeHeavyMode": false,
+          "KOTHConfig": {
+            "RandomHillsEnabled": true
+          },
+          "VIPConfig": {
+            "DefaultInventoryIDs": [],
+            "VIPWalkSpeedModifier": -1.0
+          },
+          "ContaminationConfig": {
+            "DefaultInventoryIDs": [],
+            "InitialZombies": 2,
+            "SurvivalPoints": 0
+          },
+          "RoundConfig": {
+            "bUseRoundTimer": false,
+            "RoundTimeLimit": 60,
+            "bUseRoundScoreLimit": false,
+            "RoundScoreLimit": 30,
+            "bUseSetAmountOfRounds": false,
+            "bRandomWeapons": false,
+            "bRespawningDisabled": false
+          }
+        },
+        "ScoreConfig": {
+          "MinScore": 1,
+          "MaxScore": 100,
+          "ScoreStep": 1
+        },
+        "MatchTime": 480,
+        "Description": {
+          "Namespace": "GameModes",
+          "Key": "Description_45",
+          "SourceString": "Steal the flag and return it to your own base."
+        },
+        "ScoreFormatText": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_PointsToWin"
+        },
+        "SoundName": "CTF",
+        "MaxPlayers": 8,
+        "CompatibleWeaponIDs": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          15,
+          16
+        ],
+        "Selectability": [
+          "EGameModeSelectability::Standard",
+          "EGameModeSelectability::Hardcore"
+        ],
+        "IconImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "ID": 45,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "GameModes_RankedNeutralCapturetheFlag"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "46": {
+        "DefaultClass": {
+          "AssetPathName": "/Game/Blueprints/GameModes/GunGame/GunGame_BP.GunGame_BP_C",
+          "SubPathString": ""
+        },
+        "Alias": "GG",
+        "Config": {
+          "TeamGame": false,
+          "NumTeams": 2,
+          "ScoreLimit": 22,
+          "RespawnTime": 4,
+          "MaxOvertime": 480,
+          "DefaultInventoryIDs": [],
+          "PickupsEnabled": false,
+          "PickupOverrides": [],
+          "ShouldDropWeaponPickups": false,
+          "ShouldShowRadar": true,
+          "KillcamEnabled": true,
+          "SpectateAlliesWhenDead": false,
+          "Modifiers": {
+            "EnableBoundaries": true,
+            "EnableJetpack": true,
+            "EnableSprint": true,
+            "EnablePortalGun": true,
+            "UnlimitedAmmo": true,
+            "UnlimitedClipSize": false,
+            "HeadshotsOnly": false,
+            "BigHeadMode": false,
+            "WalkSpeedModifier": 1.0,
+            "JumpHeightModifier": 1.0,
+            "GravityModifier": 1.0,
+            "ThrusterPackFuelModifier": 1.0,
+            "ThrusterPackBoostModifier": 1.0,
+            "MeleeDmgModifier": 1.0,
+            "HealthModifier": 1.0
+          },
+          "RandomWeapons": false,
+          "SwitchTeamsEnabled": false,
+          "MeleeHeavyMode": false,
+          "KOTHConfig": {
+            "RandomHillsEnabled": true
+          },
+          "VIPConfig": {
+            "DefaultInventoryIDs": [],
+            "VIPWalkSpeedModifier": -1.0
+          },
+          "ContaminationConfig": {
+            "DefaultInventoryIDs": [],
+            "InitialZombies": 2,
+            "SurvivalPoints": 0
+          },
+          "RoundConfig": {
+            "bUseRoundTimer": false,
+            "RoundTimeLimit": 60,
+            "bUseRoundScoreLimit": false,
+            "RoundScoreLimit": 30,
+            "bUseSetAmountOfRounds": false,
+            "bRandomWeapons": false,
+            "bRespawningDisabled": false
+          }
+        },
+        "ScoreConfig": {
+          "MinScore": 22,
+          "MaxScore": 22,
+          "ScoreStep": 0
+        },
+        "MatchTime": 480,
+        "Description": {
+          "Namespace": "GameModes",
+          "Key": "Description_46",
+          "SourceString": "Kill enemies to advance your gun. Melee kill enemies to decrease their gun tier. Race to the final gun!"
+        },
+        "ScoreFormatText": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_GunsToWin"
+        },
+        "SoundName": "GG",
+        "MaxPlayers": 6,
+        "CompatibleWeaponIDs": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          15,
+          16
+        ],
+        "Selectability": [
+          "EGameModeSelectability::Custom",
+          "EGameModeSelectability::Standard"
+        ],
+        "IconImage": {
+          "AssetPathName": "/Game/Thumbnails/Icons/icon-ffa-rumble.icon-ffa-rumble",
+          "SubPathString": ""
+        },
+        "ID": 46,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "GameModes_GunGame"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/GameModes/GunGame_Screenshot.GunGame_Screenshot",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "47": {
+        "DefaultClass": {
+          "AssetPathName": "/Game/Blueprints/GameModes/Takedown/Takedown_BP.Takedown_BP_C",
+          "SubPathString": ""
+        },
+        "Alias": "TD",
+        "Config": {
+          "TeamGame": true,
+          "NumTeams": 2,
+          "ScoreLimit": 4,
+          "RespawnTime": 6,
+          "MaxOvertime": 480,
+          "DefaultInventoryIDs": [
+            16,
+            0
+          ],
+          "PickupsEnabled": true,
+          "PickupOverrides": [
+            {
+              "WeaponID": 8,
+              "IsEnabled": true,
+              "OverrideClips": true,
+              "AmmoClips": 1.0,
+              "OverrideSpawnTime": false,
+              "TimeBetweenSpawns": 60
+            },
+            {
+              "WeaponID": 7,
+              "IsEnabled": true,
+              "OverrideClips": true,
+              "AmmoClips": 1.5,
+              "OverrideSpawnTime": false,
+              "TimeBetweenSpawns": 60
+            }
+          ],
+          "ShouldDropWeaponPickups": true,
+          "ShouldShowRadar": false,
+          "KillcamEnabled": false,
+          "SpectateAlliesWhenDead": true,
+          "Modifiers": {
+            "EnableBoundaries": true,
+            "EnableJetpack": true,
+            "EnableSprint": true,
+            "EnablePortalGun": true,
+            "UnlimitedAmmo": false,
+            "UnlimitedClipSize": false,
+            "HeadshotsOnly": false,
+            "BigHeadMode": false,
+            "WalkSpeedModifier": 1.0,
+            "JumpHeightModifier": 1.0,
+            "GravityModifier": 1.0,
+            "ThrusterPackFuelModifier": 1.0,
+            "ThrusterPackBoostModifier": 1.0,
+            "MeleeDmgModifier": 1.0,
+            "HealthModifier": 1.0
+          },
+          "RandomWeapons": false,
+          "SwitchTeamsEnabled": false,
+          "MeleeHeavyMode": false,
+          "KOTHConfig": {
+            "RandomHillsEnabled": true
+          },
+          "VIPConfig": {
+            "DefaultInventoryIDs": [],
+            "VIPWalkSpeedModifier": -1.0
+          },
+          "ContaminationConfig": {
+            "DefaultInventoryIDs": [],
+            "InitialZombies": 2,
+            "SurvivalPoints": 0
+          },
+          "RoundConfig": {
+            "bUseRoundTimer": false,
+            "RoundTimeLimit": 300,
+            "bUseRoundScoreLimit": false,
+            "RoundScoreLimit": 30,
+            "bUseSetAmountOfRounds": false,
+            "bRandomWeapons": false,
+            "bRespawningDisabled": false
+          }
+        },
+        "ScoreConfig": {
+          "MinScore": 1,
+          "MaxScore": 6,
+          "ScoreStep": 1
+        },
+        "MatchTime": 3600,
+        "Description": {
+          "Namespace": "GameModes",
+          "Key": "Description_47",
+          "SourceString": "Eliminate the entire enemy team to win each round. Spawn times increase with each death!"
+        },
+        "ScoreFormatText": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_RoundsToWin"
+        },
+        "SoundName": "TD",
+        "MaxPlayers": 6,
+        "CompatibleWeaponIDs": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          15,
+          16,
+          14
+        ],
+        "Selectability": [
+          "EGameModeSelectability::Custom",
+          "EGameModeSelectability::Standard"
+        ],
+        "IconImage": {
+          "AssetPathName": "/Game/Thumbnails/Icons/icon-team-rumble.icon-team-rumble",
+          "SubPathString": ""
+        },
+        "ID": 47,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "GameModes_Takedown"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/GameModes/Takedown_Screenshot.Takedown_Screenshot",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "48": {
+        "DefaultClass": {
+          "AssetPathName": "/Game/Blueprints/GameModes/Showdown/Showdown_BP.Showdown_BP_C",
+          "SubPathString": ""
+        },
+        "Alias": "SD",
+        "Config": {
+          "TeamGame": true,
+          "NumTeams": 2,
+          "ScoreLimit": 6,
+          "RespawnTime": 0,
+          "MaxOvertime": 480,
+          "DefaultInventoryIDs": [],
+          "PickupsEnabled": false,
+          "PickupOverrides": [],
+          "ShouldDropWeaponPickups": true,
+          "ShouldShowRadar": false,
+          "KillcamEnabled": false,
+          "SpectateAlliesWhenDead": true,
+          "Modifiers": {
+            "EnableBoundaries": true,
+            "EnableJetpack": true,
+            "EnableSprint": true,
+            "EnablePortalGun": true,
+            "UnlimitedAmmo": false,
+            "UnlimitedClipSize": false,
+            "HeadshotsOnly": false,
+            "BigHeadMode": false,
+            "WalkSpeedModifier": 1.0,
+            "JumpHeightModifier": 1.0,
+            "GravityModifier": 1.0,
+            "ThrusterPackFuelModifier": 1.0,
+            "ThrusterPackBoostModifier": 1.0,
+            "MeleeDmgModifier": 1.0,
+            "HealthModifier": 1.0
+          },
+          "RandomWeapons": false,
+          "SwitchTeamsEnabled": false,
+          "MeleeHeavyMode": false,
+          "KOTHConfig": {
+            "RandomHillsEnabled": true
+          },
+          "VIPConfig": {
+            "DefaultInventoryIDs": [],
+            "VIPWalkSpeedModifier": -1.0
+          },
+          "ContaminationConfig": {
+            "DefaultInventoryIDs": [],
+            "InitialZombies": 2,
+            "SurvivalPoints": 0
+          },
+          "RoundConfig": {
+            "bUseRoundTimer": false,
+            "RoundTimeLimit": 60,
+            "bUseRoundScoreLimit": false,
+            "RoundScoreLimit": 30,
+            "bUseSetAmountOfRounds": false,
+            "bRandomWeapons": true,
+            "bRespawningDisabled": true
+          }
+        },
+        "ScoreConfig": {
+          "MinScore": 1,
+          "MaxScore": 6,
+          "ScoreStep": 1
+        },
+        "MatchTime": 3600,
+        "Description": {
+          "Namespace": "GameModes",
+          "Key": "Description_48",
+          "SourceString": "Eliminate the enemy team to win the round. Loadouts are randomized each round. No respawning!"
+        },
+        "ScoreFormatText": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_RoundsToWin"
+        },
+        "SoundName": "",
+        "MaxPlayers": 6,
+        "CompatibleWeaponIDs": [
+          0,
+          1,
+          2,
+          3,
+          7,
+          8,
+          15,
+          16
+        ],
+        "Selectability": [
+          "EGameModeSelectability::Custom",
+          "EGameModeSelectability::Standard"
+        ],
+        "IconImage": {
+          "AssetPathName": "/Game/Thumbnails/Icons/icon-team-rumble.icon-team-rumble",
+          "SubPathString": ""
+        },
+        "ID": 48,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "GameModes_Showdown"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/GameModes/Showdown_Screenshot.Showdown_Screenshot",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "49": {
+        "DefaultClass": {
+          "AssetPathName": "/Game/Blueprints/GameModes/TakedownVIP/TakedownVIP_BP.TakedownVIP_BP_C",
+          "SubPathString": ""
+        },
+        "Alias": "TDVIP",
+        "Config": {
+          "TeamGame": true,
+          "NumTeams": 2,
+          "ScoreLimit": 5,
+          "RespawnTime": 6,
+          "MaxOvertime": 480,
+          "DefaultInventoryIDs": [
+            16,
+            0
+          ],
+          "PickupsEnabled": true,
+          "PickupOverrides": [
+            {
+              "WeaponID": 8,
+              "IsEnabled": true,
+              "OverrideClips": true,
+              "AmmoClips": 1.0,
+              "OverrideSpawnTime": false,
+              "TimeBetweenSpawns": 60
+            },
+            {
+              "WeaponID": 7,
+              "IsEnabled": true,
+              "OverrideClips": true,
+              "AmmoClips": 1.5,
+              "OverrideSpawnTime": false,
+              "TimeBetweenSpawns": 60
+            }
+          ],
+          "ShouldDropWeaponPickups": true,
+          "ShouldShowRadar": false,
+          "KillcamEnabled": false,
+          "SpectateAlliesWhenDead": true,
+          "Modifiers": {
+            "EnableBoundaries": true,
+            "EnableJetpack": true,
+            "EnableSprint": true,
+            "EnablePortalGun": true,
+            "UnlimitedAmmo": false,
+            "UnlimitedClipSize": false,
+            "HeadshotsOnly": false,
+            "BigHeadMode": false,
+            "WalkSpeedModifier": 1.0,
+            "JumpHeightModifier": 1.0,
+            "GravityModifier": 1.0,
+            "ThrusterPackFuelModifier": 1.0,
+            "ThrusterPackBoostModifier": 1.0,
+            "MeleeDmgModifier": 1.0,
+            "HealthModifier": 1.0
+          },
+          "RandomWeapons": false,
+          "SwitchTeamsEnabled": false,
+          "MeleeHeavyMode": false,
+          "KOTHConfig": {
+            "RandomHillsEnabled": true
+          },
+          "VIPConfig": {
+            "DefaultInventoryIDs": [],
+            "VIPWalkSpeedModifier": -1.0
+          },
+          "ContaminationConfig": {
+            "DefaultInventoryIDs": [],
+            "InitialZombies": 2,
+            "SurvivalPoints": 0
+          },
+          "RoundConfig": {
+            "bUseRoundTimer": false,
+            "RoundTimeLimit": 300,
+            "bUseRoundScoreLimit": false,
+            "RoundScoreLimit": 30,
+            "bUseSetAmountOfRounds": false,
+            "bRandomWeapons": false,
+            "bRespawningDisabled": false
+          }
+        },
+        "ScoreConfig": {
+          "MinScore": 1,
+          "MaxScore": 6,
+          "ScoreStep": 1
+        },
+        "MatchTime": 3600,
+        "Description": {
+          "Namespace": "GameModes",
+          "Key": "Description_49",
+          "SourceString": "Eliminate the enemy team to win the round. Spawn times increase with each death. Respawns stop when your VIP dies!"
+        },
+        "ScoreFormatText": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_RoundsToWin"
+        },
+        "SoundName": "",
+        "MaxPlayers": 6,
+        "CompatibleWeaponIDs": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          15,
+          16,
+          14
+        ],
+        "Selectability": [
+          "EGameModeSelectability::Custom",
+          "EGameModeSelectability::Standard"
+        ],
+        "IconImage": {
+          "AssetPathName": "/Game/Thumbnails/Icons/icon-team-rumble.icon-team-rumble",
+          "SubPathString": ""
+        },
+        "ID": 49,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "GameModes_VIPTakedown"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/GameModes/Takedown_Screenshot.Takedown_Screenshot",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "50": {
+        "DefaultClass": {
+          "AssetPathName": "/Game/Blueprints/GameModes/Contamination/Contamination_BP.Contamination_BP_C",
+          "SubPathString": ""
+        },
+        "Alias": "CONT",
+        "Config": {
+          "TeamGame": false,
+          "NumTeams": 2,
+          "ScoreLimit": 3,
+          "RespawnTime": 3,
+          "MaxOvertime": 480,
+          "DefaultInventoryIDs": [
+            16,
+            6
+          ],
+          "PickupsEnabled": false,
+          "PickupOverrides": [],
+          "ShouldDropWeaponPickups": false,
+          "ShouldShowRadar": true,
+          "KillcamEnabled": true,
+          "SpectateAlliesWhenDead": false,
+          "Modifiers": {
+            "EnableBoundaries": true,
+            "EnableJetpack": true,
+            "EnableSprint": true,
+            "EnablePortalGun": true,
+            "UnlimitedAmmo": false,
+            "UnlimitedClipSize": false,
+            "HeadshotsOnly": false,
+            "BigHeadMode": false,
+            "WalkSpeedModifier": 1.0,
+            "JumpHeightModifier": 1.0,
+            "GravityModifier": 1.0,
+            "ThrusterPackFuelModifier": 1.0,
+            "ThrusterPackBoostModifier": 1.0,
+            "MeleeDmgModifier": 1.0,
+            "HealthModifier": 1.0
+          },
+          "RandomWeapons": false,
+          "SwitchTeamsEnabled": false,
+          "MeleeHeavyMode": true,
+          "KOTHConfig": {
+            "RandomHillsEnabled": true
+          },
+          "VIPConfig": {
+            "DefaultInventoryIDs": [],
+            "VIPWalkSpeedModifier": -1.0
+          },
+          "ContaminationConfig": {
+            "DefaultInventoryIDs": [
+              15
+            ],
+            "InitialZombies": 2,
+            "SurvivalPoints": 5
+          },
+          "RoundConfig": {
+            "bUseRoundTimer": true,
+            "RoundTimeLimit": 240,
+            "bUseRoundScoreLimit": false,
+            "RoundScoreLimit": 30,
+            "bUseSetAmountOfRounds": true,
+            "bRandomWeapons": false,
+            "bRespawningDisabled": false
+          }
+        },
+        "ScoreConfig": {
+          "MinScore": 1,
+          "MaxScore": 10,
+          "ScoreStep": 1
+        },
+        "MatchTime": 3600,
+        "Description": {
+          "Namespace": "GameModes",
+          "Key": "Description_50",
+          "SourceString": "Survive the infected onslaught or eliminate all survivors to win."
+        },
+        "ScoreFormatText": {
+          "Namespace": "",
+          "Key": "7448941B41F27DB5BB529891735BB185",
+          "SourceString": "Most Points to Win"
+        },
+        "SoundName": "",
+        "MaxPlayers": 8,
+        "CompatibleWeaponIDs": [
+          6,
+          15,
+          16
+        ],
+        "Selectability": [
+          "EGameModeSelectability::Custom",
+          "EGameModeSelectability::Standard"
+        ],
+        "IconImage": {
+          "AssetPathName": "/Game/Thumbnails/Icons/icon-ffa-rumble.icon-ffa-rumble",
+          "SubPathString": ""
+        },
+        "ID": 50,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "GameModes_Contamination"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/GameModes/Contamination_Screenshot.Contamination_Screenshot",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      }
+    }
+  }
+]
