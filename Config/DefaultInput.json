@@ -103,6 +103,7 @@ DoubleClickTime=0.200000
 +ActionMappings=(ActionName="TutorialToggleVideo",bShift=False,bCtrl=False,bAlt=False,bCmd=False,Key=Enter)
 +ActionMappings=(ActionName="TutorialToggleVideo",bShift=False,bCtrl=False,bAlt=False,bCmd=False,Key=Gamepad_Special_Left)
 +ActionMappings=(ActionName="Spray",bShift=False,bCtrl=False,bAlt=False,bCmd=False,Key=H)
++ActionMappings=(ActionName="ToggleThirdPerson",bShift=True,bCtrl=False,bAlt=False,bCmd=False,Key=B)
 +AxisMappings=(AxisName="ControllerLookUp",Scale=1.000000,Key=Gamepad_RightY)
 +AxisMappings=(AxisName="ControllerTurn",Scale=1.000000,Key=Gamepad_RightX)
 +AxisMappings=(AxisName="LookUp",Scale=-1.000000,Key=MouseY)

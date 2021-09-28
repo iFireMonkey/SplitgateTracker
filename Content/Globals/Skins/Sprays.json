@@ -1888,7 +1888,7 @@
       },
       "76": {
         "Texture": {
-          "AssetPathName": "/Game/Emblems/Robot_Giggles.Robot_Giggles",
+          "AssetPathName": "/Game/Emblems/PartnerEmblems/Robot.Robot",
           "SubPathString": ""
         },
         "CustomizationType": "ECustomizationType::Spray",
@@ -1903,7 +1903,7 @@
           "Key": "RobotGiggles"
         },
         "DisplayImage": {
-          "AssetPathName": "/Game/Emblems/Robot_Giggles.Robot_Giggles",
+          "AssetPathName": "/Game/Emblems/PartnerEmblems/Robot.Robot",
           "SubPathString": ""
         },
         "DisplayImageSmall": {
@@ -4174,6 +4174,462 @@
         },
         "DisplayImage": {
           "AssetPathName": "/Game/Emblems/PartnerEmblems/Base.Base",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "168": {
+        "Texture": {
+          "AssetPathName": "/Game/Emblems/PartnerEmblems/Chasen.Chasen",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Spray",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::CreatorCode",
+          "AvailabilityInfo": "Chasen"
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 168,
+        "DisplayName": {
+          "CultureInvariantString": "Chasen"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Emblems/PartnerEmblems/Chasen.Chasen",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "169": {
+        "Texture": {
+          "AssetPathName": "/Game/Emblems/PartnerEmblems/Cozy.Cozy",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Spray",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::CreatorCode",
+          "AvailabilityInfo": "Cozy"
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 169,
+        "DisplayName": {
+          "CultureInvariantString": "Cozy"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Emblems/PartnerEmblems/Cozy.Cozy",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "170": {
+        "Texture": {
+          "AssetPathName": "/Game/Emblems/PartnerEmblems/DaddyGus.DaddyGus",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Spray",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::CreatorCode",
+          "AvailabilityInfo": "DaddyGus"
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 170,
+        "DisplayName": {
+          "CultureInvariantString": "DaddyGus"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Emblems/PartnerEmblems/DaddyGus.DaddyGus",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "171": {
+        "Texture": {
+          "AssetPathName": "/Game/Emblems/PartnerEmblems/Dezignful.Dezignful",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Spray",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::CreatorCode",
+          "AvailabilityInfo": "Dezignful"
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 171,
+        "DisplayName": {
+          "CultureInvariantString": "Dezignful"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Emblems/PartnerEmblems/Dezignful.Dezignful",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "172": {
+        "Texture": {
+          "AssetPathName": "/Game/Emblems/PartnerEmblems/EmilioITA.EmilioITA",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Spray",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::CreatorCode",
+          "AvailabilityInfo": "EmilioITA"
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 172,
+        "DisplayName": {
+          "CultureInvariantString": "EmilioITA"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Emblems/PartnerEmblems/EmilioITA.EmilioITA",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "173": {
+        "Texture": {
+          "AssetPathName": "/Game/Emblems/PartnerEmblems/Eskay.Eskay",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Spray",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::CreatorCode",
+          "AvailabilityInfo": "Eskay"
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 173,
+        "DisplayName": {
+          "CultureInvariantString": "Eskay"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Emblems/PartnerEmblems/Eskay.Eskay",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "174": {
+        "Texture": {
+          "AssetPathName": "/Game/Emblems/PartnerEmblems/Gabs.Gabs",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Spray",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::CreatorCode",
+          "AvailabilityInfo": "Gabs"
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 174,
+        "DisplayName": {
+          "CultureInvariantString": "Gabs"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Emblems/PartnerEmblems/Gabs.Gabs",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "175": {
+        "Texture": {
+          "AssetPathName": "/Game/Emblems/PartnerEmblems/Gamesager.Gamesager",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Spray",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::CreatorCode",
+          "AvailabilityInfo": "Gamesager"
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 175,
+        "DisplayName": {
+          "CultureInvariantString": "Gamesager"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Emblems/PartnerEmblems/Gamesager.Gamesager",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "176": {
+        "Texture": {
+          "AssetPathName": "/Game/Emblems/PartnerEmblems/iLootGames.iLootGames",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Spray",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::CreatorCode",
+          "AvailabilityInfo": "iLootGames"
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 176,
+        "DisplayName": {
+          "CultureInvariantString": "iLootGames"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Emblems/PartnerEmblems/iLootGames.iLootGames",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "177": {
+        "Texture": {
+          "AssetPathName": "/Game/Emblems/PartnerEmblems/j0nathan.j0nathan",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Spray",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::CreatorCode",
+          "AvailabilityInfo": "j0nathan"
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 177,
+        "DisplayName": {
+          "CultureInvariantString": "j0nathan"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Emblems/PartnerEmblems/j0nathan.j0nathan",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "178": {
+        "Texture": {
+          "AssetPathName": "/Game/Emblems/PartnerEmblems/Jonzzy.Jonzzy",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Spray",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::CreatorCode",
+          "AvailabilityInfo": "Jonzzy"
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 178,
+        "DisplayName": {
+          "CultureInvariantString": "Jonzzy"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Emblems/PartnerEmblems/Jonzzy.Jonzzy",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "179": {
+        "Texture": {
+          "AssetPathName": "/Game/Emblems/PartnerEmblems/Lost.Lost",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Spray",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::CreatorCode",
+          "AvailabilityInfo": "Lost"
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 179,
+        "DisplayName": {
+          "CultureInvariantString": "Lost"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Emblems/PartnerEmblems/Lost.Lost",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "180": {
+        "Texture": {
+          "AssetPathName": "/Game/Emblems/PartnerEmblems/Luna.Luna",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Spray",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::CreatorCode",
+          "AvailabilityInfo": "Luna"
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 180,
+        "DisplayName": {
+          "CultureInvariantString": "Luna"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Emblems/PartnerEmblems/Luna.Luna",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "181": {
+        "Texture": {
+          "AssetPathName": "/Game/Emblems/PartnerEmblems/Meatloaf.Meatloaf",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Spray",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::CreatorCode",
+          "AvailabilityInfo": "Meatloaf"
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 181,
+        "DisplayName": {
+          "CultureInvariantString": "Meatloaf"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Emblems/PartnerEmblems/Meatloaf.Meatloaf",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "182": {
+        "Texture": {
+          "AssetPathName": "/Game/Emblems/PartnerEmblems/MWZ.MWZ",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Spray",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::CreatorCode",
+          "AvailabilityInfo": "MWZ"
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 182,
+        "DisplayName": {
+          "CultureInvariantString": "MWZ"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Emblems/PartnerEmblems/MWZ.MWZ",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "183": {
+        "Texture": {
+          "AssetPathName": "/Game/Emblems/PartnerEmblems/Nova.Nova",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Spray",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::CreatorCode",
+          "AvailabilityInfo": "Nova"
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 183,
+        "DisplayName": {
+          "CultureInvariantString": "Nova"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Emblems/PartnerEmblems/Nova.Nova",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "184": {
+        "Texture": {
+          "AssetPathName": "/Game/Emblems/PartnerEmblems/Pwnstar.Pwnstar",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Spray",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::CreatorCode",
+          "AvailabilityInfo": "Pwnstar"
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 184,
+        "DisplayName": {
+          "CultureInvariantString": "Pwnstar"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Emblems/PartnerEmblems/Pwnstar.Pwnstar",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "185": {
+        "Texture": {
+          "AssetPathName": "/Game/Emblems/PartnerEmblems/Ryanandsnoop.Ryanandsnoop",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Spray",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::CreatorCode",
+          "AvailabilityInfo": "Ryanandsnoop"
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 185,
+        "DisplayName": {
+          "CultureInvariantString": "Ryanandsnoop"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Emblems/PartnerEmblems/Ryanandsnoop.Ryanandsnoop",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "186": {
+        "Texture": {
+          "AssetPathName": "/Game/Emblems/PartnerEmblems/Heis.Heis",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Spray",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::CreatorCode",
+          "AvailabilityInfo": "Heis"
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 186,
+        "DisplayName": {
+          "CultureInvariantString": "Heis"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Emblems/PartnerEmblems/Heis.Heis",
           "SubPathString": ""
         },
         "DisplayImageSmall": {

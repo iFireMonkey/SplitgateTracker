@@ -665,8 +665,7 @@
         "Rarity": "ECustomizationRarity::Rare",
         "ID": 29,
         "DisplayName": {
-          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
-          "Key": "DejuVu"
+          "CultureInvariantString": "Deja Vu"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -887,7 +886,8 @@
         "Rarity": "ECustomizationRarity::Rare",
         "ID": 35,
         "DisplayName": {
-          "CultureInvariantString": "Nebula"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Nebula"
         },
         "DisplayImage": {
           "AssetPathName": "None",

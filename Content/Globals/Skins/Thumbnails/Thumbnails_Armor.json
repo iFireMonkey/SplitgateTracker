@@ -709,676 +709,6 @@
           "SubPathString": ""
         }
       },
-      "2-0": {
-        "DisplayImageFeatured": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-0_T.Armor_2-0_T",
-          "SubPathString": ""
-        }
-      },
-      "2-2": {
-        "DisplayImageFeatured": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-2_T.Armor_2-2_T",
-          "SubPathString": ""
-        }
-      },
-      "2-5": {
-        "DisplayImageFeatured": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-5_T.Armor_2-5_T",
-          "SubPathString": ""
-        }
-      },
-      "2-8": {
-        "DisplayImageFeatured": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-8_T.Armor_2-8_T",
-          "SubPathString": ""
-        }
-      },
-      "2-10": {
-        "DisplayImageFeatured": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-10_T.Armor_2-10_T",
-          "SubPathString": ""
-        }
-      },
-      "2-11": {
-        "DisplayImageFeatured": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-11_T.Armor_2-11_T",
-          "SubPathString": ""
-        }
-      },
-      "2-12": {
-        "DisplayImageFeatured": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-12_T.Armor_2-12_T",
-          "SubPathString": ""
-        }
-      },
-      "2-22": {
-        "DisplayImageFeatured": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-22_T.Armor_2-22_T",
-          "SubPathString": ""
-        }
-      },
-      "2-27": {
-        "DisplayImageFeatured": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-27_T.Armor_2-27_T",
-          "SubPathString": ""
-        }
-      },
-      "2-28": {
-        "DisplayImageFeatured": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-28_T.Armor_2-28_T",
-          "SubPathString": ""
-        }
-      },
-      "2-41": {
-        "DisplayImageFeatured": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-41_T.Armor_2-41_T",
-          "SubPathString": ""
-        }
-      },
-      "2-49": {
-        "DisplayImageFeatured": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-49_T.Armor_2-49_T",
-          "SubPathString": ""
-        }
-      },
-      "2-61": {
-        "DisplayImageFeatured": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-61_T.Armor_2-61_T",
-          "SubPathString": ""
-        }
-      },
-      "2-66": {
-        "DisplayImageFeatured": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-66_T.Armor_2-66_T",
-          "SubPathString": ""
-        }
-      },
-      "2-67": {
-        "DisplayImageFeatured": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-67_T.Armor_2-67_T",
-          "SubPathString": ""
-        }
-      },
-      "2-68": {
-        "DisplayImageFeatured": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-68_T.Armor_2-68_T",
-          "SubPathString": ""
-        }
-      },
-      "2-69": {
-        "DisplayImageFeatured": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-69_T.Armor_2-69_T",
-          "SubPathString": ""
-        }
-      },
-      "2-70": {
-        "DisplayImageFeatured": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-70_T.Armor_2-70_T",
-          "SubPathString": ""
-        }
-      },
-      "2-71": {
-        "DisplayImageFeatured": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-71_T.Armor_2-71_T",
-          "SubPathString": ""
-        }
-      },
-      "2-74": {
-        "DisplayImageFeatured": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-74_T.Armor_2-74_T",
-          "SubPathString": ""
-        }
-      },
-      "2-75": {
-        "DisplayImageFeatured": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-75_T.Armor_2-75_T",
-          "SubPathString": ""
-        }
-      },
-      "2-79": {
-        "DisplayImageFeatured": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-79_T.Armor_2-79_T",
-          "SubPathString": ""
-        }
-      },
-      "2-84": {
-        "DisplayImageFeatured": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-84_T.Armor_2-84_T",
-          "SubPathString": ""
-        }
-      },
-      "2-95": {
-        "DisplayImageFeatured": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-95_T.Armor_2-95_T",
-          "SubPathString": ""
-        }
-      },
-      "2-98": {
-        "DisplayImageFeatured": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-98_T.Armor_2-98_T",
-          "SubPathString": ""
-        }
-      },
-      "2-102": {
-        "DisplayImageFeatured": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-102_T.Armor_2-102_T",
-          "SubPathString": ""
-        }
-      },
-      "2-103": {
-        "DisplayImageFeatured": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-103_T.Armor_2-103_T",
-          "SubPathString": ""
-        }
-      },
-      "2-104": {
-        "DisplayImageFeatured": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-104_T.Armor_2-104_T",
-          "SubPathString": ""
-        }
-      },
-      "2-116": {
-        "DisplayImageFeatured": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-116_T.Armor_2-116_T",
-          "SubPathString": ""
-        }
-      },
-      "2-121": {
-        "DisplayImageFeatured": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-121_T.Armor_2-121_T",
-          "SubPathString": ""
-        }
-      },
-      "2-123": {
-        "DisplayImageFeatured": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-123_T.Armor_2-123_T",
-          "SubPathString": ""
-        }
-      },
-      "2-126": {
-        "DisplayImageFeatured": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-126_T.Armor_2-126_T",
-          "SubPathString": ""
-        }
-      },
-      "2-128": {
-        "DisplayImageFeatured": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-128_T.Armor_2-128_T",
-          "SubPathString": ""
-        }
-      },
-      "2-129": {
-        "DisplayImageFeatured": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-129_T.Armor_2-129_T",
-          "SubPathString": ""
-        }
-      },
-      "2-130": {
-        "DisplayImageFeatured": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-130_T.Armor_2-130_T",
-          "SubPathString": ""
-        }
-      },
-      "2-131": {
-        "DisplayImageFeatured": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-131_T.Armor_2-131_T",
-          "SubPathString": ""
-        }
-      },
-      "2-132": {
-        "DisplayImageFeatured": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-132_T.Armor_2-132_T",
-          "SubPathString": ""
-        }
-      },
-      "2-135": {
-        "DisplayImageFeatured": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-135_T.Armor_2-135_T",
-          "SubPathString": ""
-        }
-      },
-      "2-136": {
-        "DisplayImageFeatured": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-136_T.Armor_2-136_T",
-          "SubPathString": ""
-        }
-      },
-      "2-138": {
-        "DisplayImageFeatured": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-138_T.Armor_2-138_T",
-          "SubPathString": ""
-        }
-      },
-      "2-308": {
-        "DisplayImageFeatured": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-308_T.Armor_2-308_T",
-          "SubPathString": ""
-        }
-      },
-      "2-309": {
-        "DisplayImageFeatured": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-309_T.Armor_2-309_T",
-          "SubPathString": ""
-        }
-      },
-      "2-310": {
-        "DisplayImageFeatured": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-310_T.Armor_2-310_T",
-          "SubPathString": ""
-        }
-      },
-      "2-311": {
-        "DisplayImageFeatured": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-311_T.Armor_2-311_T",
-          "SubPathString": ""
-        }
-      },
-      "2-312": {
-        "DisplayImageFeatured": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-312_T.Armor_2-312_T",
-          "SubPathString": ""
-        }
-      },
-      "2-313": {
-        "DisplayImageFeatured": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-313_T.Armor_2-313_T",
-          "SubPathString": ""
-        }
-      },
-      "2-314": {
-        "DisplayImageFeatured": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-314_T.Armor_2-314_T",
-          "SubPathString": ""
-        }
-      },
-      "2-315": {
-        "DisplayImageFeatured": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-315_T.Armor_2-315_T",
-          "SubPathString": ""
-        }
-      },
-      "2-316": {
-        "DisplayImageFeatured": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-316_T.Armor_2-316_T",
-          "SubPathString": ""
-        }
-      },
-      "2-317": {
-        "DisplayImageFeatured": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-317_T.Armor_2-317_T",
-          "SubPathString": ""
-        }
-      },
-      "2-356": {
-        "DisplayImageFeatured": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-356_T.Armor_2-356_T",
-          "SubPathString": ""
-        }
-      },
-      "2-386": {
-        "DisplayImageFeatured": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-386_T.Armor_2-386_T",
-          "SubPathString": ""
-        }
-      },
-      "2-387": {
-        "DisplayImageFeatured": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-387_T.Armor_2-387_T",
-          "SubPathString": ""
-        }
-      },
-      "2-394": {
-        "DisplayImageFeatured": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-394_T.Armor_2-394_T",
-          "SubPathString": ""
-        }
-      },
-      "2-395": {
-        "DisplayImageFeatured": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-395_T.Armor_2-395_T",
-          "SubPathString": ""
-        }
-      },
-      "2-453": {
-        "DisplayImageFeatured": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-453_T.Armor_2-453_T",
-          "SubPathString": ""
-        }
-      },
-      "2-455": {
-        "DisplayImageFeatured": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-455_T.Armor_2-455_T",
-          "SubPathString": ""
-        }
-      },
-      "2-456": {
-        "DisplayImageFeatured": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-456_T.Armor_2-456_T",
-          "SubPathString": ""
-        }
-      },
-      "2-457": {
-        "DisplayImageFeatured": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-457_T.Armor_2-457_T",
-          "SubPathString": ""
-        }
-      },
-      "2-458": {
-        "DisplayImageFeatured": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-458_T.Armor_2-458_T",
-          "SubPathString": ""
-        }
-      },
-      "2-459": {
-        "DisplayImageFeatured": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-459_T.Armor_2-459_T",
-          "SubPathString": ""
-        }
-      },
-      "2-460": {
-        "DisplayImageFeatured": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-460_T.Armor_2-460_T",
-          "SubPathString": ""
-        }
-      },
-      "2-461": {
-        "DisplayImageFeatured": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-461_T.Armor_2-461_T",
-          "SubPathString": ""
-        }
-      },
-      "2-467": {
-        "DisplayImageFeatured": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-467_T.Armor_2-467_T",
-          "SubPathString": ""
-        }
-      },
-      "2-481": {
-        "DisplayImageFeatured": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-481_T.Armor_2-481_T",
-          "SubPathString": ""
-        }
-      },
-      "2-484": {
-        "DisplayImageFeatured": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-484_T.Armor_2-484_T",
-          "SubPathString": ""
-        }
-      },
-      "2-519": {
-        "DisplayImageFeatured": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-519_T.Armor_2-519_T",
-          "SubPathString": ""
-        }
-      },
       "6-0": {
         "DisplayImageFeatured": {
           "AssetPathName": "None",
@@ -17806,6 +17136,1176 @@
         },
         "DisplayImage": {
           "AssetPathName": "/Game/Thumbnails/Armor/Armor_79-578_T.Armor_79-578_T",
+          "SubPathString": ""
+        }
+      },
+      "0-583": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_0-583_T.Armor_0-583_T",
+          "SubPathString": ""
+        }
+      },
+      "0-604": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_0-604_T.Armor_0-604_T",
+          "SubPathString": ""
+        }
+      },
+      "0-606": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_0-606_T.Armor_0-606_T",
+          "SubPathString": ""
+        }
+      },
+      "2-0": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-0_T.Armor_2-0_T",
+          "SubPathString": ""
+        }
+      },
+      "2-2": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-2_T.Armor_2-2_T",
+          "SubPathString": ""
+        }
+      },
+      "2-5": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-5_T.Armor_2-5_T",
+          "SubPathString": ""
+        }
+      },
+      "2-8": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-8_T.Armor_2-8_T",
+          "SubPathString": ""
+        }
+      },
+      "2-10": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-10_T.Armor_2-10_T",
+          "SubPathString": ""
+        }
+      },
+      "2-11": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-11_T.Armor_2-11_T",
+          "SubPathString": ""
+        }
+      },
+      "2-12": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-12_T.Armor_2-12_T",
+          "SubPathString": ""
+        }
+      },
+      "2-22": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-22_T.Armor_2-22_T",
+          "SubPathString": ""
+        }
+      },
+      "2-27": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-27_T.Armor_2-27_T",
+          "SubPathString": ""
+        }
+      },
+      "2-28": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-28_T.Armor_2-28_T",
+          "SubPathString": ""
+        }
+      },
+      "2-41": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-41_T.Armor_2-41_T",
+          "SubPathString": ""
+        }
+      },
+      "2-49": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-49_T.Armor_2-49_T",
+          "SubPathString": ""
+        }
+      },
+      "2-61": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-61_T.Armor_2-61_T",
+          "SubPathString": ""
+        }
+      },
+      "2-66": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-66_T.Armor_2-66_T",
+          "SubPathString": ""
+        }
+      },
+      "2-67": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-67_T.Armor_2-67_T",
+          "SubPathString": ""
+        }
+      },
+      "2-68": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-68_T.Armor_2-68_T",
+          "SubPathString": ""
+        }
+      },
+      "2-69": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-69_T.Armor_2-69_T",
+          "SubPathString": ""
+        }
+      },
+      "2-70": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-70_T.Armor_2-70_T",
+          "SubPathString": ""
+        }
+      },
+      "2-71": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-71_T.Armor_2-71_T",
+          "SubPathString": ""
+        }
+      },
+      "2-74": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-74_T.Armor_2-74_T",
+          "SubPathString": ""
+        }
+      },
+      "2-75": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-75_T.Armor_2-75_T",
+          "SubPathString": ""
+        }
+      },
+      "2-79": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-79_T.Armor_2-79_T",
+          "SubPathString": ""
+        }
+      },
+      "2-84": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-84_T.Armor_2-84_T",
+          "SubPathString": ""
+        }
+      },
+      "2-95": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-95_T.Armor_2-95_T",
+          "SubPathString": ""
+        }
+      },
+      "2-98": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-98_T.Armor_2-98_T",
+          "SubPathString": ""
+        }
+      },
+      "2-102": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-102_T.Armor_2-102_T",
+          "SubPathString": ""
+        }
+      },
+      "2-103": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-103_T.Armor_2-103_T",
+          "SubPathString": ""
+        }
+      },
+      "2-104": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-104_T.Armor_2-104_T",
+          "SubPathString": ""
+        }
+      },
+      "2-116": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-116_T.Armor_2-116_T",
+          "SubPathString": ""
+        }
+      },
+      "2-121": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-121_T.Armor_2-121_T",
+          "SubPathString": ""
+        }
+      },
+      "2-123": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-123_T.Armor_2-123_T",
+          "SubPathString": ""
+        }
+      },
+      "2-126": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-126_T.Armor_2-126_T",
+          "SubPathString": ""
+        }
+      },
+      "2-128": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-128_T.Armor_2-128_T",
+          "SubPathString": ""
+        }
+      },
+      "2-129": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-129_T.Armor_2-129_T",
+          "SubPathString": ""
+        }
+      },
+      "2-130": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-130_T.Armor_2-130_T",
+          "SubPathString": ""
+        }
+      },
+      "2-131": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-131_T.Armor_2-131_T",
+          "SubPathString": ""
+        }
+      },
+      "2-132": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-132_T.Armor_2-132_T",
+          "SubPathString": ""
+        }
+      },
+      "2-135": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-135_T.Armor_2-135_T",
+          "SubPathString": ""
+        }
+      },
+      "2-136": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-136_T.Armor_2-136_T",
+          "SubPathString": ""
+        }
+      },
+      "2-138": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-138_T.Armor_2-138_T",
+          "SubPathString": ""
+        }
+      },
+      "2-308": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-308_T.Armor_2-308_T",
+          "SubPathString": ""
+        }
+      },
+      "2-309": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-309_T.Armor_2-309_T",
+          "SubPathString": ""
+        }
+      },
+      "2-310": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-310_T.Armor_2-310_T",
+          "SubPathString": ""
+        }
+      },
+      "2-311": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-311_T.Armor_2-311_T",
+          "SubPathString": ""
+        }
+      },
+      "2-312": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-312_T.Armor_2-312_T",
+          "SubPathString": ""
+        }
+      },
+      "2-313": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-313_T.Armor_2-313_T",
+          "SubPathString": ""
+        }
+      },
+      "2-314": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-314_T.Armor_2-314_T",
+          "SubPathString": ""
+        }
+      },
+      "2-315": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-315_T.Armor_2-315_T",
+          "SubPathString": ""
+        }
+      },
+      "2-316": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-316_T.Armor_2-316_T",
+          "SubPathString": ""
+        }
+      },
+      "2-317": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-317_T.Armor_2-317_T",
+          "SubPathString": ""
+        }
+      },
+      "2-356": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-356_T.Armor_2-356_T",
+          "SubPathString": ""
+        }
+      },
+      "2-386": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-386_T.Armor_2-386_T",
+          "SubPathString": ""
+        }
+      },
+      "2-387": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-387_T.Armor_2-387_T",
+          "SubPathString": ""
+        }
+      },
+      "2-394": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-394_T.Armor_2-394_T",
+          "SubPathString": ""
+        }
+      },
+      "2-395": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-395_T.Armor_2-395_T",
+          "SubPathString": ""
+        }
+      },
+      "2-453": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-453_T.Armor_2-453_T",
+          "SubPathString": ""
+        }
+      },
+      "2-455": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-455_T.Armor_2-455_T",
+          "SubPathString": ""
+        }
+      },
+      "2-456": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-456_T.Armor_2-456_T",
+          "SubPathString": ""
+        }
+      },
+      "2-457": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-457_T.Armor_2-457_T",
+          "SubPathString": ""
+        }
+      },
+      "2-458": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-458_T.Armor_2-458_T",
+          "SubPathString": ""
+        }
+      },
+      "2-459": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-459_T.Armor_2-459_T",
+          "SubPathString": ""
+        }
+      },
+      "2-460": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-460_T.Armor_2-460_T",
+          "SubPathString": ""
+        }
+      },
+      "2-461": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-461_T.Armor_2-461_T",
+          "SubPathString": ""
+        }
+      },
+      "2-467": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-467_T.Armor_2-467_T",
+          "SubPathString": ""
+        }
+      },
+      "2-481": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-481_T.Armor_2-481_T",
+          "SubPathString": ""
+        }
+      },
+      "2-583": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-583_T.Armor_2-583_T",
+          "SubPathString": ""
+        }
+      },
+      "2-604": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-604_T.Armor_2-604_T",
+          "SubPathString": ""
+        }
+      },
+      "2-606": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_2-606_T.Armor_2-606_T",
+          "SubPathString": ""
+        }
+      },
+      "6-583": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_6-583_T.Armor_6-583_T",
+          "SubPathString": ""
+        }
+      },
+      "6-604": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_6-604_T.Armor_6-604_T",
+          "SubPathString": ""
+        }
+      },
+      "6-606": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_6-606_T.Armor_6-606_T",
+          "SubPathString": ""
+        }
+      },
+      "17-583": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_17-583_T.Armor_17-583_T",
+          "SubPathString": ""
+        }
+      },
+      "17-604": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_17-604_T.Armor_17-604_T",
+          "SubPathString": ""
+        }
+      },
+      "17-606": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_17-606_T.Armor_17-606_T",
+          "SubPathString": ""
+        }
+      },
+      "18-583": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_18-583_T.Armor_18-583_T",
+          "SubPathString": ""
+        }
+      },
+      "18-604": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_18-604_T.Armor_18-604_T",
+          "SubPathString": ""
+        }
+      },
+      "18-606": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_18-606_T.Armor_18-606_T",
+          "SubPathString": ""
+        }
+      },
+      "19-583": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_19-583_T.Armor_19-583_T",
+          "SubPathString": ""
+        }
+      },
+      "19-604": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_19-604_T.Armor_19-604_T",
+          "SubPathString": ""
+        }
+      },
+      "19-606": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_19-606_T.Armor_19-606_T",
+          "SubPathString": ""
+        }
+      },
+      "26-583": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_26-583_T.Armor_26-583_T",
+          "SubPathString": ""
+        }
+      },
+      "26-604": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_26-604_T.Armor_26-604_T",
+          "SubPathString": ""
+        }
+      },
+      "26-606": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_26-606_T.Armor_26-606_T",
+          "SubPathString": ""
+        }
+      },
+      "28-583": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_28-583_T.Armor_28-583_T",
+          "SubPathString": ""
+        }
+      },
+      "28-604": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_28-604_T.Armor_28-604_T",
+          "SubPathString": ""
+        }
+      },
+      "28-606": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_28-606_T.Armor_28-606_T",
+          "SubPathString": ""
+        }
+      },
+      "29-583": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_29-583_T.Armor_29-583_T",
+          "SubPathString": ""
+        }
+      },
+      "29-604": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_29-604_T.Armor_29-604_T",
+          "SubPathString": ""
+        }
+      },
+      "29-606": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_29-606_T.Armor_29-606_T",
+          "SubPathString": ""
+        }
+      },
+      "31-583": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_31-583_T.Armor_31-583_T",
+          "SubPathString": ""
+        }
+      },
+      "31-604": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_31-604_T.Armor_31-604_T",
+          "SubPathString": ""
+        }
+      },
+      "31-606": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_31-606_T.Armor_31-606_T",
+          "SubPathString": ""
+        }
+      },
+      "32-583": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_32-583_T.Armor_32-583_T",
+          "SubPathString": ""
+        }
+      },
+      "32-604": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_32-604_T.Armor_32-604_T",
+          "SubPathString": ""
+        }
+      },
+      "32-606": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_32-606_T.Armor_32-606_T",
+          "SubPathString": ""
+        }
+      },
+      "33-583": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_33-583_T.Armor_33-583_T",
+          "SubPathString": ""
+        }
+      },
+      "33-604": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_33-604_T.Armor_33-604_T",
+          "SubPathString": ""
+        }
+      },
+      "33-606": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_33-606_T.Armor_33-606_T",
+          "SubPathString": ""
+        }
+      },
+      "36-583": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_36-583_T.Armor_36-583_T",
+          "SubPathString": ""
+        }
+      },
+      "36-604": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_36-604_T.Armor_36-604_T",
+          "SubPathString": ""
+        }
+      },
+      "36-606": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_36-606_T.Armor_36-606_T",
+          "SubPathString": ""
+        }
+      },
+      "37-583": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_37-583_T.Armor_37-583_T",
+          "SubPathString": ""
+        }
+      },
+      "37-604": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_37-604_T.Armor_37-604_T",
+          "SubPathString": ""
+        }
+      },
+      "37-606": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_37-606_T.Armor_37-606_T",
+          "SubPathString": ""
+        }
+      },
+      "38-583": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_38-583_T.Armor_38-583_T",
+          "SubPathString": ""
+        }
+      },
+      "38-604": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_38-604_T.Armor_38-604_T",
+          "SubPathString": ""
+        }
+      },
+      "38-606": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_38-606_T.Armor_38-606_T",
+          "SubPathString": ""
+        }
+      },
+      "39-583": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_39-583_T.Armor_39-583_T",
+          "SubPathString": ""
+        }
+      },
+      "39-604": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_39-604_T.Armor_39-604_T",
+          "SubPathString": ""
+        }
+      },
+      "39-606": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_39-606_T.Armor_39-606_T",
+          "SubPathString": ""
+        }
+      },
+      "40-583": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_40-583_T.Armor_40-583_T",
+          "SubPathString": ""
+        }
+      },
+      "40-604": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_40-604_T.Armor_40-604_T",
+          "SubPathString": ""
+        }
+      },
+      "40-606": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_40-606_T.Armor_40-606_T",
+          "SubPathString": ""
+        }
+      },
+      "42-607": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_42-607_T.Armor_42-607_T",
           "SubPathString": ""
         }
       }

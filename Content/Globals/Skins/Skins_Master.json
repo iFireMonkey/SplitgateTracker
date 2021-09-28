@@ -704,7 +704,7 @@
       },
       "27": {
         "MaterialInstance": {
-          "AssetPathName": "/Game/Materials/MasterInstances/Legendary/MI_Skin_SuperGold.MI_Skin_SuperGold",
+          "AssetPathName": "/Game/Materials/MasterInstances/Legendary/MI_Skin_sGold.MI_Skin_sGold",
           "SubPathString": ""
         },
         "CompatibleWithAll": true,
@@ -10010,6 +10010,42 @@
             "Meshes": [
               "Default"
             ]
+          },
+          {
+            "CustomizationType": "ECustomizationType::Shotgun",
+            "Meshes": [
+              "Default"
+            ]
+          },
+          {
+            "CustomizationType": "ECustomizationType::SMG",
+            "Meshes": [
+              "Default"
+            ]
+          },
+          {
+            "CustomizationType": "ECustomizationType::Sniper",
+            "Meshes": [
+              "Default"
+            ]
+          },
+          {
+            "CustomizationType": "ECustomizationType::Railgun",
+            "Meshes": [
+              "Default"
+            ]
+          },
+          {
+            "CustomizationType": "ECustomizationType::RocketLauncher",
+            "Meshes": [
+              "Default"
+            ]
+          },
+          {
+            "CustomizationType": "ECustomizationType::PlasmaRifle",
+            "Meshes": [
+              "Default"
+            ]
           }
         ],
         "Incompatibles": [],
@@ -10044,6 +10080,48 @@
           },
           {
             "CustomizationType": "ECustomizationType::DMR",
+            "Meshes": [
+              "Default"
+            ],
+            "TextureSet": "Racer"
+          },
+          {
+            "CustomizationType": "ECustomizationType::Shotgun",
+            "Meshes": [
+              "Default"
+            ],
+            "TextureSet": "Racer"
+          },
+          {
+            "CustomizationType": "ECustomizationType::SMG",
+            "Meshes": [
+              "Default"
+            ],
+            "TextureSet": "Racer"
+          },
+          {
+            "CustomizationType": "ECustomizationType::Sniper",
+            "Meshes": [
+              "Default"
+            ],
+            "TextureSet": "Racer"
+          },
+          {
+            "CustomizationType": "ECustomizationType::Railgun",
+            "Meshes": [
+              "Default"
+            ],
+            "TextureSet": "Racer"
+          },
+          {
+            "CustomizationType": "ECustomizationType::RocketLauncher",
+            "Meshes": [
+              "Default"
+            ],
+            "TextureSet": "Racer"
+          },
+          {
+            "CustomizationType": "ECustomizationType::PlasmaRifle",
             "Meshes": [
               "Default"
             ],
@@ -19696,7 +19774,7 @@
       },
       "472": {
         "MaterialInstance": {
-          "AssetPathName": "/Game/Materials/MasterInstances/Epic/MI_Skin_Macro.MI_Skin_Macro",
+          "AssetPathName": "/Game/Materials/MasterInstances/PartnerSkins/MI_Skin_Macro.MI_Skin_Macro",
           "SubPathString": ""
         },
         "CompatibleWithAll": false,
@@ -20414,8 +20492,7 @@
         "TextureSetOverrides": [],
         "ID": 477,
         "DisplayName": {
-          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
-          "Key": "Xtreme"
+          "CultureInvariantString": "XTREME"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -20980,8 +21057,7 @@
         "TextureSetOverrides": [],
         "ID": 494,
         "DisplayName": {
-          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
-          "Key": "3"
+          "CultureInvariantString": "Nia"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -21869,24 +21945,6 @@
         "CompatibleWithAll": false,
         "Compatibles": [
           {
-            "CustomizationType": "ECustomizationType::AssaultRifle",
-            "Meshes": [
-              "Alienware"
-            ]
-          },
-          {
-            "CustomizationType": "ECustomizationType::Bat",
-            "Meshes": [
-              "Default"
-            ]
-          },
-          {
-            "CustomizationType": "ECustomizationType::BattleRifle",
-            "Meshes": [
-              "Alienware"
-            ]
-          },
-          {
             "CustomizationType": "ECustomizationType::DMR",
             "Meshes": [
               "Alienware"
@@ -21899,37 +21957,7 @@
             ]
           },
           {
-            "CustomizationType": "ECustomizationType::PlasmaRifle",
-            "Meshes": [
-              "Alienware"
-            ]
-          },
-          {
             "CustomizationType": "ECustomizationType::Railgun",
-            "Meshes": [
-              "Alienware"
-            ]
-          },
-          {
-            "CustomizationType": "ECustomizationType::RocketLauncher",
-            "Meshes": [
-              "Alienware"
-            ]
-          },
-          {
-            "CustomizationType": "ECustomizationType::Shotgun",
-            "Meshes": [
-              "Alienware"
-            ]
-          },
-          {
-            "CustomizationType": "ECustomizationType::SMG",
-            "Meshes": [
-              "Alienware"
-            ]
-          },
-          {
-            "CustomizationType": "ECustomizationType::Sniper",
             "Meshes": [
               "Alienware"
             ]
@@ -21962,54 +21990,17 @@
           "AssetPathName": "/Game/Materials/MasterInstances/Epic/MI_Skin_Intel.MI_Skin_Intel",
           "SubPathString": ""
         },
-        "CompatibleWithAll": true,
-        "Compatibles": [],
-        "Incompatibles": [
+        "CompatibleWithAll": false,
+        "Compatibles": [
           {
-            "CustomizationType": "ECustomizationType::AssaultRifle",
-            "Meshes": []
-          },
-          {
-            "CustomizationType": "ECustomizationType::Bat",
-            "Meshes": []
-          },
-          {
-            "CustomizationType": "ECustomizationType::BattleRifle",
-            "Meshes": []
-          },
-          {
-            "CustomizationType": "ECustomizationType::DMR",
-            "Meshes": []
-          },
-          {
-            "CustomizationType": "ECustomizationType::Pistol",
-            "Meshes": []
-          },
-          {
-            "CustomizationType": "ECustomizationType::PlasmaRifle",
-            "Meshes": []
-          },
-          {
-            "CustomizationType": "ECustomizationType::Railgun",
-            "Meshes": []
-          },
-          {
-            "CustomizationType": "ECustomizationType::RocketLauncher",
-            "Meshes": []
-          },
-          {
-            "CustomizationType": "ECustomizationType::Shotgun",
-            "Meshes": []
-          },
-          {
-            "CustomizationType": "ECustomizationType::SMG",
-            "Meshes": []
-          },
-          {
-            "CustomizationType": "ECustomizationType::Sniper",
-            "Meshes": []
+            "CustomizationType": "ECustomizationType::Armor",
+            "Meshes": [
+              "T-200",
+              "Interceptor"
+            ]
           }
         ],
+        "Incompatibles": [],
         "Rarity": "ECustomizationRarity::Rare",
         "RarityOverrides": {},
         "Availability": {
@@ -22154,8 +22145,7 @@
         "TextureSetOverrides": [],
         "ID": 521,
         "DisplayName": {
-          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
-          "Key": "BoomRazzle"
+          "CultureInvariantString": "Razzle"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -23139,9 +23129,18 @@
           "AssetPathName": "/Game/Materials/MasterInstances/Epic/MI_Skin_BardGraffiti.MI_Skin_BardGraffiti",
           "SubPathString": ""
         },
-        "CompatibleWithAll": true,
+        "CompatibleWithAll": false,
         "Compatibles": [],
-        "Incompatibles": [],
+        "Incompatibles": [
+          {
+            "CustomizationType": "ECustomizationType::Armor",
+            "Meshes": []
+          },
+          {
+            "CustomizationType": "ECustomizationType::Jetpack",
+            "Meshes": []
+          }
+        ],
         "Rarity": "ECustomizationRarity::Epic",
         "RarityOverrides": {},
         "Availability": {
@@ -23272,8 +23271,7 @@
         "TextureSetOverrides": [],
         "ID": 549,
         "DisplayName": {
-          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
-          "Key": "Gel2.0"
+          "CultureInvariantString": "Gel 2.0"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -23319,8 +23317,17 @@
           "AssetPathName": "/Game/Materials/MasterInstances/Epic/MI_Skin_Hexy.MI_Skin_Hexy",
           "SubPathString": ""
         },
-        "CompatibleWithAll": true,
-        "Compatibles": [],
+        "CompatibleWithAll": false,
+        "Compatibles": [
+          {
+            "CustomizationType": "ECustomizationType::Armor",
+            "Meshes": []
+          },
+          {
+            "CustomizationType": "ECustomizationType::Jetpack",
+            "Meshes": []
+          }
+        ],
         "Incompatibles": [],
         "Rarity": "ECustomizationRarity::Epic",
         "RarityOverrides": {},
@@ -23497,8 +23504,17 @@
           "AssetPathName": "/Game/Materials/MasterInstances/Epic/MI_Skin_Plugger.MI_Skin_Plugger",
           "SubPathString": ""
         },
-        "CompatibleWithAll": true,
-        "Compatibles": [],
+        "CompatibleWithAll": false,
+        "Compatibles": [
+          {
+            "CustomizationType": "ECustomizationType::Armor",
+            "Meshes": []
+          },
+          {
+            "CustomizationType": "ECustomizationType::Jetpack",
+            "Meshes": []
+          }
+        ],
         "Incompatibles": [],
         "Rarity": "ECustomizationRarity::Epic",
         "RarityOverrides": {},
@@ -23527,8 +23543,17 @@
           "AssetPathName": "/Game/Materials/MasterInstances/Epic/MI_Skin_Pointy.MI_Skin_Pointy",
           "SubPathString": ""
         },
-        "CompatibleWithAll": true,
-        "Compatibles": [],
+        "CompatibleWithAll": false,
+        "Compatibles": [
+          {
+            "CustomizationType": "ECustomizationType::Armor",
+            "Meshes": []
+          },
+          {
+            "CustomizationType": "ECustomizationType::Jetpack",
+            "Meshes": []
+          }
+        ],
         "Incompatibles": [],
         "Rarity": "ECustomizationRarity::Epic",
         "RarityOverrides": {},
@@ -23647,8 +23672,17 @@
           "AssetPathName": "/Game/Materials/MasterInstances/Epic/MI_Skin_Swirls_POM_Inst.MI_Skin_Swirls_POM_Inst",
           "SubPathString": ""
         },
-        "CompatibleWithAll": true,
-        "Compatibles": [],
+        "CompatibleWithAll": false,
+        "Compatibles": [
+          {
+            "CustomizationType": "ECustomizationType::Armor",
+            "Meshes": []
+          },
+          {
+            "CustomizationType": "ECustomizationType::Jetpack",
+            "Meshes": []
+          }
+        ],
         "Incompatibles": [],
         "Rarity": "ECustomizationRarity::Epic",
         "RarityOverrides": {},
@@ -24494,25 +24528,7 @@
             ]
           },
           {
-            "CustomizationType": "ECustomizationType::Bat",
-            "Meshes": [
-              "SteelSeries"
-            ]
-          },
-          {
-            "CustomizationType": "ECustomizationType::BattleRifle",
-            "Meshes": [
-              "SteelSeries"
-            ]
-          },
-          {
             "CustomizationType": "ECustomizationType::DMR",
-            "Meshes": [
-              "SteelSeries"
-            ]
-          },
-          {
-            "CustomizationType": "ECustomizationType::Pistol",
             "Meshes": [
               "SteelSeries"
             ]
@@ -24524,31 +24540,7 @@
             ]
           },
           {
-            "CustomizationType": "ECustomizationType::Railgun",
-            "Meshes": [
-              "SteelSeries"
-            ]
-          },
-          {
-            "CustomizationType": "ECustomizationType::RocketLauncher",
-            "Meshes": [
-              "SteelSeries"
-            ]
-          },
-          {
-            "CustomizationType": "ECustomizationType::Shotgun",
-            "Meshes": [
-              "SteelSeries"
-            ]
-          },
-          {
-            "CustomizationType": "ECustomizationType::SMG",
-            "Meshes": [
-              "SteelSeries"
-            ]
-          },
-          {
-            "CustomizationType": "ECustomizationType::Sniper",
+            "CustomizationType": "ECustomizationType::Pistol",
             "Meshes": [
               "SteelSeries"
             ]
@@ -24584,31 +24576,7 @@
         "CompatibleWithAll": false,
         "Compatibles": [
           {
-            "CustomizationType": "ECustomizationType::AssaultRifle",
-            "Meshes": [
-              "TRN"
-            ]
-          },
-          {
-            "CustomizationType": "ECustomizationType::Bat",
-            "Meshes": [
-              "TRN"
-            ]
-          },
-          {
-            "CustomizationType": "ECustomizationType::BattleRifle",
-            "Meshes": [
-              "TRN"
-            ]
-          },
-          {
             "CustomizationType": "ECustomizationType::DMR",
-            "Meshes": [
-              "TRN"
-            ]
-          },
-          {
-            "CustomizationType": "ECustomizationType::Pistol",
             "Meshes": [
               "TRN"
             ]
@@ -24620,31 +24588,7 @@
             ]
           },
           {
-            "CustomizationType": "ECustomizationType::Railgun",
-            "Meshes": [
-              "TRN"
-            ]
-          },
-          {
-            "CustomizationType": "ECustomizationType::RocketLauncher",
-            "Meshes": [
-              "TRN"
-            ]
-          },
-          {
             "CustomizationType": "ECustomizationType::Shotgun",
-            "Meshes": [
-              "TRN"
-            ]
-          },
-          {
-            "CustomizationType": "ECustomizationType::SMG",
-            "Meshes": [
-              "TRN"
-            ]
-          },
-          {
-            "CustomizationType": "ECustomizationType::Sniper",
             "Meshes": [
               "TRN"
             ]
@@ -24728,6 +24672,1007 @@
         "ID": 582,
         "DisplayName": {
           "CultureInvariantString": "Illusion"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "583": {
+        "MaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/BattlePass/Epic/MI_Skin_Candy.MI_Skin_Candy",
+          "SubPathString": ""
+        },
+        "CompatibleWithAll": true,
+        "Compatibles": [],
+        "Incompatibles": [],
+        "Rarity": "ECustomizationRarity::Rare",
+        "RarityOverrides": {},
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "AvailabilityOverrides": [],
+        "TextureSetOverrides": [],
+        "ID": 583,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Candy"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "584": {
+        "MaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/MI_Legendary_Override.MI_Legendary_Override",
+          "SubPathString": ""
+        },
+        "CompatibleWithAll": false,
+        "Compatibles": [
+          {
+            "CustomizationType": "ECustomizationType::Shotgun",
+            "Meshes": [
+              "Aviator"
+            ]
+          }
+        ],
+        "Incompatibles": [],
+        "Rarity": "ECustomizationRarity::Legendary",
+        "RarityOverrides": {},
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "AvailabilityOverrides": [],
+        "TextureSetOverrides": [],
+        "ID": 584,
+        "DisplayName": {
+          "CultureInvariantString": "Aviator"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "585": {
+        "MaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Legendary/MI_Skin_Diamond.MI_Skin_Diamond",
+          "SubPathString": ""
+        },
+        "CompatibleWithAll": true,
+        "Compatibles": [],
+        "Incompatibles": [
+          {
+            "CustomizationType": "ECustomizationType::Armor",
+            "Meshes": []
+          },
+          {
+            "CustomizationType": "ECustomizationType::Jetpack",
+            "Meshes": []
+          }
+        ],
+        "Rarity": "ECustomizationRarity::Legendary",
+        "RarityOverrides": {},
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Challenge",
+          "AvailabilityInfo": ""
+        },
+        "AvailabilityOverrides": [],
+        "TextureSetOverrides": [],
+        "ID": 585,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Diamond"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "586": {
+        "MaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Rare/MI_Skin_Split.MI_Skin_Split",
+          "SubPathString": ""
+        },
+        "CompatibleWithAll": true,
+        "Compatibles": [],
+        "Incompatibles": [
+          {
+            "CustomizationType": "ECustomizationType::Armor",
+            "Meshes": []
+          },
+          {
+            "CustomizationType": "ECustomizationType::Jetpack",
+            "Meshes": []
+          },
+          {
+            "CustomizationType": "ECustomizationType::PortalGun",
+            "Meshes": []
+          }
+        ],
+        "Rarity": "ECustomizationRarity::Rare",
+        "RarityOverrides": {},
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Challenge",
+          "AvailabilityInfo": ""
+        },
+        "AvailabilityOverrides": [],
+        "TextureSetOverrides": [],
+        "ID": 586,
+        "DisplayName": {
+          "CultureInvariantString": "Split"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "587": {
+        "MaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Rare/MI_Skin_Danger.MI_Skin_Danger",
+          "SubPathString": ""
+        },
+        "CompatibleWithAll": true,
+        "Compatibles": [],
+        "Incompatibles": [
+          {
+            "CustomizationType": "ECustomizationType::Armor",
+            "Meshes": []
+          },
+          {
+            "CustomizationType": "ECustomizationType::Jetpack",
+            "Meshes": []
+          },
+          {
+            "CustomizationType": "ECustomizationType::PortalGun",
+            "Meshes": []
+          }
+        ],
+        "Rarity": "ECustomizationRarity::Rare",
+        "RarityOverrides": {},
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Challenge",
+          "AvailabilityInfo": ""
+        },
+        "AvailabilityOverrides": [],
+        "TextureSetOverrides": [],
+        "ID": 587,
+        "DisplayName": {
+          "CultureInvariantString": "Danger"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "588": {
+        "MaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Rare/MI_Skin_Sweet.MI_Skin_Sweet",
+          "SubPathString": ""
+        },
+        "CompatibleWithAll": true,
+        "Compatibles": [],
+        "Incompatibles": [
+          {
+            "CustomizationType": "ECustomizationType::Armor",
+            "Meshes": []
+          },
+          {
+            "CustomizationType": "ECustomizationType::Jetpack",
+            "Meshes": []
+          },
+          {
+            "CustomizationType": "ECustomizationType::PortalGun",
+            "Meshes": []
+          }
+        ],
+        "Rarity": "ECustomizationRarity::Rare",
+        "RarityOverrides": {},
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Challenge",
+          "AvailabilityInfo": ""
+        },
+        "AvailabilityOverrides": [],
+        "TextureSetOverrides": [],
+        "ID": 588,
+        "DisplayName": {
+          "CultureInvariantString": "Sweet"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "589": {
+        "MaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Rare/MI_Skin_Desert.MI_Skin_Desert",
+          "SubPathString": ""
+        },
+        "CompatibleWithAll": true,
+        "Compatibles": [],
+        "Incompatibles": [
+          {
+            "CustomizationType": "ECustomizationType::Armor",
+            "Meshes": []
+          },
+          {
+            "CustomizationType": "ECustomizationType::Jetpack",
+            "Meshes": []
+          },
+          {
+            "CustomizationType": "ECustomizationType::PortalGun",
+            "Meshes": []
+          }
+        ],
+        "Rarity": "ECustomizationRarity::Rare",
+        "RarityOverrides": {},
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Challenge",
+          "AvailabilityInfo": ""
+        },
+        "AvailabilityOverrides": [],
+        "TextureSetOverrides": [],
+        "ID": 589,
+        "DisplayName": {
+          "CultureInvariantString": "Desert"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "590": {
+        "MaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Rare/MI_Skin_bind.MI_Skin_Bind",
+          "SubPathString": ""
+        },
+        "CompatibleWithAll": true,
+        "Compatibles": [],
+        "Incompatibles": [
+          {
+            "CustomizationType": "ECustomizationType::Armor",
+            "Meshes": []
+          },
+          {
+            "CustomizationType": "ECustomizationType::Jetpack",
+            "Meshes": []
+          },
+          {
+            "CustomizationType": "ECustomizationType::PortalGun",
+            "Meshes": []
+          }
+        ],
+        "Rarity": "ECustomizationRarity::Rare",
+        "RarityOverrides": {},
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Challenge",
+          "AvailabilityInfo": ""
+        },
+        "AvailabilityOverrides": [],
+        "TextureSetOverrides": [],
+        "ID": 590,
+        "DisplayName": {
+          "CultureInvariantString": "Bind"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "591": {
+        "MaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Rare/MI_Skin_Juicy.MI_Skin_Juicy",
+          "SubPathString": ""
+        },
+        "CompatibleWithAll": true,
+        "Compatibles": [],
+        "Incompatibles": [
+          {
+            "CustomizationType": "ECustomizationType::Armor",
+            "Meshes": []
+          },
+          {
+            "CustomizationType": "ECustomizationType::Jetpack",
+            "Meshes": []
+          },
+          {
+            "CustomizationType": "ECustomizationType::PortalGun",
+            "Meshes": []
+          }
+        ],
+        "Rarity": "ECustomizationRarity::Rare",
+        "RarityOverrides": {},
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Challenge",
+          "AvailabilityInfo": ""
+        },
+        "AvailabilityOverrides": [],
+        "TextureSetOverrides": [],
+        "ID": 591,
+        "DisplayName": {
+          "CultureInvariantString": "Juicy"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "592": {
+        "MaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Rare/MI_Skin_Swirly.MI_Skin_Swirly",
+          "SubPathString": ""
+        },
+        "CompatibleWithAll": true,
+        "Compatibles": [],
+        "Incompatibles": [
+          {
+            "CustomizationType": "ECustomizationType::Armor",
+            "Meshes": []
+          },
+          {
+            "CustomizationType": "ECustomizationType::Jetpack",
+            "Meshes": []
+          },
+          {
+            "CustomizationType": "ECustomizationType::PortalGun",
+            "Meshes": []
+          }
+        ],
+        "Rarity": "ECustomizationRarity::Rare",
+        "RarityOverrides": {},
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Challenge",
+          "AvailabilityInfo": ""
+        },
+        "AvailabilityOverrides": [],
+        "TextureSetOverrides": [],
+        "ID": 592,
+        "DisplayName": {
+          "CultureInvariantString": "Swirly"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "593": {
+        "MaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Rare/MI_Skin_Alternate.MI_Skin_Alternate",
+          "SubPathString": ""
+        },
+        "CompatibleWithAll": true,
+        "Compatibles": [],
+        "Incompatibles": [
+          {
+            "CustomizationType": "ECustomizationType::Armor",
+            "Meshes": []
+          },
+          {
+            "CustomizationType": "ECustomizationType::Jetpack",
+            "Meshes": []
+          },
+          {
+            "CustomizationType": "ECustomizationType::PortalGun",
+            "Meshes": []
+          }
+        ],
+        "Rarity": "ECustomizationRarity::Rare",
+        "RarityOverrides": {},
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Challenge",
+          "AvailabilityInfo": ""
+        },
+        "AvailabilityOverrides": [],
+        "TextureSetOverrides": [],
+        "ID": 593,
+        "DisplayName": {
+          "CultureInvariantString": "Alternate"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "594": {
+        "MaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Rare/MI_Skin_Jam.MI_Skin_Jam",
+          "SubPathString": ""
+        },
+        "CompatibleWithAll": true,
+        "Compatibles": [],
+        "Incompatibles": [
+          {
+            "CustomizationType": "ECustomizationType::Armor",
+            "Meshes": []
+          },
+          {
+            "CustomizationType": "ECustomizationType::Jetpack",
+            "Meshes": []
+          },
+          {
+            "CustomizationType": "ECustomizationType::PortalGun",
+            "Meshes": []
+          }
+        ],
+        "Rarity": "ECustomizationRarity::Rare",
+        "RarityOverrides": {},
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Challenge",
+          "AvailabilityInfo": ""
+        },
+        "AvailabilityOverrides": [],
+        "TextureSetOverrides": [],
+        "ID": 594,
+        "DisplayName": {
+          "CultureInvariantString": "Jam"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "595": {
+        "MaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Rare/MI_Skin_Pink.MI_Skin_Pink",
+          "SubPathString": ""
+        },
+        "CompatibleWithAll": true,
+        "Compatibles": [],
+        "Incompatibles": [
+          {
+            "CustomizationType": "ECustomizationType::Armor",
+            "Meshes": []
+          },
+          {
+            "CustomizationType": "ECustomizationType::Jetpack",
+            "Meshes": []
+          },
+          {
+            "CustomizationType": "ECustomizationType::PortalGun",
+            "Meshes": []
+          }
+        ],
+        "Rarity": "ECustomizationRarity::Rare",
+        "RarityOverrides": {},
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Challenge",
+          "AvailabilityInfo": ""
+        },
+        "AvailabilityOverrides": [],
+        "TextureSetOverrides": [],
+        "ID": 595,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Pink"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "596": {
+        "MaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Rare/MI_Skin_Jumper.MI_Skin_Jumper",
+          "SubPathString": ""
+        },
+        "CompatibleWithAll": true,
+        "Compatibles": [],
+        "Incompatibles": [
+          {
+            "CustomizationType": "ECustomizationType::Armor",
+            "Meshes": []
+          },
+          {
+            "CustomizationType": "ECustomizationType::Jetpack",
+            "Meshes": []
+          },
+          {
+            "CustomizationType": "ECustomizationType::PortalGun",
+            "Meshes": []
+          }
+        ],
+        "Rarity": "ECustomizationRarity::Rare",
+        "RarityOverrides": {},
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Challenge",
+          "AvailabilityInfo": ""
+        },
+        "AvailabilityOverrides": [],
+        "TextureSetOverrides": [],
+        "ID": 596,
+        "DisplayName": {
+          "CultureInvariantString": "Jumper"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "597": {
+        "MaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Rare/MI_Skin_Rosary.MI_Skin_Rosary",
+          "SubPathString": ""
+        },
+        "CompatibleWithAll": true,
+        "Compatibles": [],
+        "Incompatibles": [
+          {
+            "CustomizationType": "ECustomizationType::Armor",
+            "Meshes": []
+          },
+          {
+            "CustomizationType": "ECustomizationType::Jetpack",
+            "Meshes": []
+          },
+          {
+            "CustomizationType": "ECustomizationType::PortalGun",
+            "Meshes": []
+          }
+        ],
+        "Rarity": "ECustomizationRarity::Rare",
+        "RarityOverrides": {},
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Challenge",
+          "AvailabilityInfo": ""
+        },
+        "AvailabilityOverrides": [],
+        "TextureSetOverrides": [],
+        "ID": 597,
+        "DisplayName": {
+          "CultureInvariantString": "Rosary"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "598": {
+        "MaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Rare/MI_Skin_Super.MI_Skin_Super",
+          "SubPathString": ""
+        },
+        "CompatibleWithAll": true,
+        "Compatibles": [],
+        "Incompatibles": [
+          {
+            "CustomizationType": "ECustomizationType::Armor",
+            "Meshes": []
+          },
+          {
+            "CustomizationType": "ECustomizationType::Jetpack",
+            "Meshes": []
+          },
+          {
+            "CustomizationType": "ECustomizationType::PortalGun",
+            "Meshes": []
+          }
+        ],
+        "Rarity": "ECustomizationRarity::Rare",
+        "RarityOverrides": {},
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Challenge",
+          "AvailabilityInfo": ""
+        },
+        "AvailabilityOverrides": [],
+        "TextureSetOverrides": [],
+        "ID": 598,
+        "DisplayName": {
+          "CultureInvariantString": "Super"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "599": {
+        "MaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Rare/MI_Skin_Bloo.MI_Skin_Bloo",
+          "SubPathString": ""
+        },
+        "CompatibleWithAll": true,
+        "Compatibles": [],
+        "Incompatibles": [
+          {
+            "CustomizationType": "ECustomizationType::Armor",
+            "Meshes": []
+          },
+          {
+            "CustomizationType": "ECustomizationType::Jetpack",
+            "Meshes": []
+          },
+          {
+            "CustomizationType": "ECustomizationType::PortalGun",
+            "Meshes": []
+          }
+        ],
+        "Rarity": "ECustomizationRarity::Rare",
+        "RarityOverrides": {},
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Challenge",
+          "AvailabilityInfo": ""
+        },
+        "AvailabilityOverrides": [],
+        "TextureSetOverrides": [],
+        "ID": 599,
+        "DisplayName": {
+          "CultureInvariantString": "Bloo"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "600": {
+        "MaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Rare/MI_Skin_Fold.MI_Skin_Fold",
+          "SubPathString": ""
+        },
+        "CompatibleWithAll": true,
+        "Compatibles": [],
+        "Incompatibles": [
+          {
+            "CustomizationType": "ECustomizationType::Armor",
+            "Meshes": []
+          },
+          {
+            "CustomizationType": "ECustomizationType::Jetpack",
+            "Meshes": []
+          },
+          {
+            "CustomizationType": "ECustomizationType::PortalGun",
+            "Meshes": []
+          }
+        ],
+        "Rarity": "ECustomizationRarity::Rare",
+        "RarityOverrides": {},
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Challenge",
+          "AvailabilityInfo": ""
+        },
+        "AvailabilityOverrides": [],
+        "TextureSetOverrides": [],
+        "ID": 600,
+        "DisplayName": {
+          "CultureInvariantString": "Fold"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "601": {
+        "MaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Rare/MI_Skin_Ripe.MI_Skin_Ripe",
+          "SubPathString": ""
+        },
+        "CompatibleWithAll": true,
+        "Compatibles": [],
+        "Incompatibles": [
+          {
+            "CustomizationType": "ECustomizationType::Armor",
+            "Meshes": []
+          },
+          {
+            "CustomizationType": "ECustomizationType::Jetpack",
+            "Meshes": []
+          },
+          {
+            "CustomizationType": "ECustomizationType::PortalGun",
+            "Meshes": []
+          }
+        ],
+        "Rarity": "ECustomizationRarity::Rare",
+        "RarityOverrides": {},
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Challenge",
+          "AvailabilityInfo": ""
+        },
+        "AvailabilityOverrides": [],
+        "TextureSetOverrides": [],
+        "ID": 601,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Ripe"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "602": {
+        "MaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Rare/MI_Skin_Glitch.MI_Skin_Glitch",
+          "SubPathString": ""
+        },
+        "CompatibleWithAll": true,
+        "Compatibles": [],
+        "Incompatibles": [
+          {
+            "CustomizationType": "ECustomizationType::Armor",
+            "Meshes": []
+          },
+          {
+            "CustomizationType": "ECustomizationType::Jetpack",
+            "Meshes": []
+          },
+          {
+            "CustomizationType": "ECustomizationType::PortalGun",
+            "Meshes": []
+          }
+        ],
+        "Rarity": "ECustomizationRarity::Rare",
+        "RarityOverrides": {},
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Challenge",
+          "AvailabilityInfo": ""
+        },
+        "AvailabilityOverrides": [],
+        "TextureSetOverrides": [],
+        "ID": 602,
+        "DisplayName": {
+          "CultureInvariantString": "Glitch"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "603": {
+        "MaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Rare/MI_Skin_Neon.MI_Skin_Neon",
+          "SubPathString": ""
+        },
+        "CompatibleWithAll": true,
+        "Compatibles": [],
+        "Incompatibles": [
+          {
+            "CustomizationType": "ECustomizationType::Armor",
+            "Meshes": []
+          },
+          {
+            "CustomizationType": "ECustomizationType::Jetpack",
+            "Meshes": []
+          },
+          {
+            "CustomizationType": "ECustomizationType::PortalGun",
+            "Meshes": []
+          }
+        ],
+        "Rarity": "ECustomizationRarity::Rare",
+        "RarityOverrides": {},
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Challenge",
+          "AvailabilityInfo": ""
+        },
+        "AvailabilityOverrides": [],
+        "TextureSetOverrides": [],
+        "ID": 603,
+        "DisplayName": {
+          "CultureInvariantString": "Neon"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "604": {
+        "MaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Legendary/MI_Skin_Lightning_2.MI_Skin_Lightning_2",
+          "SubPathString": ""
+        },
+        "CompatibleWithAll": true,
+        "Compatibles": [],
+        "Incompatibles": [],
+        "Rarity": "ECustomizationRarity::Epic",
+        "RarityOverrides": {},
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "AvailabilityOverrides": [],
+        "TextureSetOverrides": [],
+        "ID": 604,
+        "DisplayName": {
+          "CultureInvariantString": "Lighting 2.0"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "605": {
+        "MaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/MI_Legendary_Override.MI_Legendary_Override",
+          "SubPathString": ""
+        },
+        "CompatibleWithAll": false,
+        "Compatibles": [
+          {
+            "CustomizationType": "ECustomizationType::DMR",
+            "Meshes": [
+              "Halloween"
+            ]
+          }
+        ],
+        "Incompatibles": [],
+        "Rarity": "ECustomizationRarity::Legendary",
+        "RarityOverrides": {},
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "AvailabilityOverrides": [],
+        "TextureSetOverrides": [],
+        "ID": 605,
+        "DisplayName": {
+          "CultureInvariantString": "Howl-O-Ween"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "606": {
+        "MaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/BattlePass/Epic/MI_Skin_Yikes.MI_Skin_Yikes",
+          "SubPathString": ""
+        },
+        "CompatibleWithAll": true,
+        "Compatibles": [],
+        "Incompatibles": [],
+        "Rarity": "ECustomizationRarity::Epic",
+        "RarityOverrides": {},
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "AvailabilityOverrides": [],
+        "TextureSetOverrides": [],
+        "ID": 606,
+        "DisplayName": {
+          "CultureInvariantString": "Yikes"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "607": {
+        "MaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/MI_Legendary_Override.MI_Legendary_Override",
+          "SubPathString": ""
+        },
+        "CompatibleWithAll": false,
+        "Compatibles": [
+          {
+            "CustomizationType": "ECustomizationType::Armor",
+            "Meshes": [
+              "Tinhead"
+            ]
+          }
+        ],
+        "Incompatibles": [],
+        "Rarity": "ECustomizationRarity::Epic",
+        "RarityOverrides": {},
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "AvailabilityOverrides": [],
+        "TextureSetOverrides": [
+          {
+            "CustomizationType": "ECustomizationType::Armor",
+            "Meshes": [
+              "Tinhead"
+            ],
+            "TextureSet": "Chrome"
+          }
+        ],
+        "ID": 607,
+        "DisplayName": {
+          "CultureInvariantString": "Chrome"
         },
         "DisplayImage": {
           "AssetPathName": "None",

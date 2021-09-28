@@ -104,10 +104,10 @@
         "DisplayName": {
           "Namespace": "Playlists",
           "Key": "DisplayName_3",
-          "SourceString": "Casual"
+          "SourceString": "Quick Play"
         },
         "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/GameModes/casual-bg-keyart.casual-bg-keyart",
+          "AssetPathName": "/Game/UI/MainMenu/Play/Textures/quick-play-tile-bg.quick-play-tile-bg",
           "SubPathString": ""
         },
         "DisplayImageSmall": {
@@ -242,6 +242,29 @@
         },
         "DisplayImage": {
           "AssetPathName": "/Game/Thumbnails/GameModes/rankedtakedown-bg-keyart.rankedtakedown-bg-keyart",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "9": {
+        "InternalName": "UNRANKED_FEATURED",
+        "PlaylistType": "EPlaylistType::Featured",
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "IconImage": {
+          "AssetPathName": "/Game/Thumbnails/Icons/icon-featured.icon-featured",
+          "SubPathString": ""
+        },
+        "ID": 9,
+        "DisplayName": {
+          "CultureInvariantString": "???"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/UI/MainMenu/Play/Textures/question-tile-bg.question-tile-bg",
           "SubPathString": ""
         },
         "DisplayImageSmall": {

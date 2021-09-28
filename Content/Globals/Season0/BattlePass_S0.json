@@ -1580,7 +1580,17 @@
         "MinXP": 1375000,
         "MaxXP": 1400000,
         "FreeRewards": [],
-        "PremiumRewards": [],
+        "PremiumRewards": [
+          {
+            "RewardType": "ERewardType::Customization",
+            "RewardValue": 0,
+            "Customization": {
+              "CustomizationType": "ECustomizationType::PortalGun",
+              "CustomizationValue": "3-529"
+            },
+            "IsLocked": false
+          }
+        ],
         "ID": 56,
         "DisplayName": {
           "CultureInvariantString": "Level 56"
@@ -1797,7 +1807,7 @@
         "PremiumRewards": [
           {
             "RewardType": "ERewardType::Customization",
-            "RewardValue": -527,
+            "RewardValue": 0,
             "Customization": {
               "CustomizationType": "ECustomizationType::Pistol",
               "CustomizationValue": "0-527"

@@ -880,7 +880,8 @@
         "Rarity": "ECustomizationRarity::Epic",
         "ID": 24,
         "DisplayName": {
-          "CultureInvariantString": "Courage"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Courage"
         },
         "DisplayImage": {
           "AssetPathName": "None",

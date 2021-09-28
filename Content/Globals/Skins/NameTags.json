@@ -435,7 +435,7 @@
         "DisplayName": {
           "Namespace": "NameTags",
           "Key": "DisplayName_16",
-          "SourceString": "Recruiter"
+          "SourceString": "Beta Recruiter"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -810,8 +810,9 @@
         "Rarity": "ECustomizationRarity::Epic",
         "ID": 29,
         "DisplayName": {
-          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
-          "Key": "BetaFish"
+          "Namespace": "NameTags",
+          "Key": "DisplayName_29",
+          "SourceString": "Beta Fish"
         },
         "DisplayImage": {
           "AssetPathName": "None",

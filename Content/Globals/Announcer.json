@@ -721,16 +721,16 @@
       "GG": {
         "EventName": "play_vx_announcer_pickups_gungame",
         "SubtitleText": {
-          "Namespace": "",
-          "Key": "80DCC9744D300ABA4099A1B9107078AC",
+          "Namespace": "Announcer",
+          "Key": "SubtitleText_GG",
           "SourceString": "Gun Game"
         }
       },
       "NextKillWins": {
         "EventName": "play_vx_announcer_pickups_nextkillwins",
         "SubtitleText": {
-          "Namespace": "",
-          "Key": "AF00283A43C8E62BBB736F9D7E68F8B7",
+          "Namespace": "Announcer",
+          "Key": "SubtitleText_NextKillWins",
           "SourceString": "Next kill wins"
         }
       },
@@ -761,17 +761,65 @@
       "NoScope": {
         "EventName": "",
         "SubtitleText": {
-          "Namespace": "",
-          "Key": "18F38F534D62DF266BE2C9939639E556",
+          "Namespace": "Announcer",
+          "Key": "SubtitleText_NoScope",
           "SourceString": "No Scope"
         }
       },
       "Overtime": {
         "EventName": "play_vx_announcer_pickups_overtime",
         "SubtitleText": {
-          "Namespace": "",
-          "Key": "34C974664A984EBB28C924A8BFE2300F",
+          "Namespace": "Announcer",
+          "Key": "SubtitleText_Overtime",
           "SourceString": "Overtime"
+        }
+      },
+      "SD": {
+        "EventName": "play_vx_announcer_console_showdown",
+        "SubtitleText": {
+          "Namespace": "Announcer",
+          "Key": "SubtitleText_SD",
+          "SourceString": "Showdown"
+        }
+      },
+      "TDVIP": {
+        "EventName": "play_vx_announcer_console_vip_takedown",
+        "SubtitleText": {
+          "Namespace": "Announcer",
+          "Key": "SubtitleText_TDVIP",
+          "SourceString": "VIP Takedown"
+        }
+      },
+      "CONT": {
+        "EventName": "play_vx_announcer_console_contamination",
+        "SubtitleText": {
+          "Namespace": "Announcer",
+          "Key": "SubtitleText_CONT",
+          "SourceString": "Contamination"
+        }
+      },
+      "SHOTSNIP": {
+        "EventName": "play_vx_announcer_console_shotty_snipers",
+        "SubtitleText": {
+          "Namespace": "Announcer",
+          "Key": "SubtitleText_SHOTSNIP",
+          "SourceString": "Shotty Snipers"
+        }
+      },
+      "NCTF": {
+        "EventName": "play_vx_announcer_console_neutral_capture_the_flag",
+        "SubtitleText": {
+          "Namespace": "Announcer",
+          "Key": "SubtitleText_NCTF",
+          "SourceString": "Neutral Capture the Flag"
+        }
+      },
+      "Contaminated": {
+        "EventName": "play_vx_announcer_console_contaminated",
+        "SubtitleText": {
+          "Namespace": "Announcer",
+          "Key": "SubtitleText_Contaminated",
+          "SourceString": "Contaminated"
         }
       }
     }

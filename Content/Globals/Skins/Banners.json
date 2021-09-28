@@ -1197,8 +1197,7 @@
         "Rarity": "ECustomizationRarity::Epic",
         "ID": 47,
         "DisplayName": {
-          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
-          "Key": "Xtreme"
+          "CultureInvariantString": "XTREME"
         },
         "DisplayImage": {
           "AssetPathName": "/Game/Thumbnails/Banner/XboxBanner.XboxBanner",

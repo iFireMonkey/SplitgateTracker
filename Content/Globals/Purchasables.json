@@ -354,6 +354,236 @@
           "AssetPathName": "None",
           "SubPathString": ""
         }
+      },
+      "14": {
+        "Type": "EPurchasableType::Bundle",
+        "Rewards": [],
+        "PlatformProductIds": {
+          "STEAM": "14",
+          "XBOX": "",
+          "PSN": "CREATORPACK00001"
+        },
+        "ID": 14,
+        "DisplayName": {
+          "Namespace": "Purchasables",
+          "Key": "DisplayName_14",
+          "SourceString": "Creator Pack"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "15": {
+        "Type": "EPurchasableType::Bundle",
+        "Rewards": [],
+        "PlatformProductIds": {
+          "STEAM": "15",
+          "XBOX": "",
+          "PSN": "CREATORPACK00002"
+        },
+        "ID": 15,
+        "DisplayName": {
+          "Namespace": "Purchasables",
+          "Key": "DisplayName_15",
+          "SourceString": "Creator Pack"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "20": {
+        "Type": "EPurchasableType::Bundle",
+        "Rewards": [],
+        "PlatformProductIds": {
+          "STEAM": "20",
+          "XBOX": "",
+          "PSN": "ESPORTSPACK00001"
+        },
+        "ID": 20,
+        "DisplayName": {
+          "Namespace": "Purchasables",
+          "Key": "DisplayName_20",
+          "SourceString": "Esports Pack"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "21": {
+        "Type": "EPurchasableType::Bundle",
+        "Rewards": [],
+        "PlatformProductIds": {
+          "STEAM": "21",
+          "XBOX": "",
+          "PSN": "ESPORTSPACK00002"
+        },
+        "ID": 21,
+        "DisplayName": {
+          "Namespace": "Purchasables",
+          "Key": "DisplayName_21",
+          "SourceString": "Esports Pack"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "22": {
+        "Type": "EPurchasableType::Bundle",
+        "Rewards": [],
+        "PlatformProductIds": {
+          "STEAM": "22",
+          "XBOX": "",
+          "PSN": "ESPORTSPACK00003"
+        },
+        "ID": 22,
+        "DisplayName": {
+          "Namespace": "Purchasables",
+          "Key": "DisplayName_22",
+          "SourceString": "Esports Pack"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "23": {
+        "Type": "EPurchasableType::Bundle",
+        "Rewards": [],
+        "PlatformProductIds": {
+          "STEAM": "23",
+          "XBOX": "",
+          "PSN": "ESPORTSPACK00004"
+        },
+        "ID": 23,
+        "DisplayName": {
+          "Namespace": "Purchasables",
+          "Key": "DisplayName_23",
+          "SourceString": "Esports Pack"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "24": {
+        "Type": "EPurchasableType::Bundle",
+        "Rewards": [],
+        "PlatformProductIds": {
+          "STEAM": "24",
+          "XBOX": "",
+          "PSN": "ESPORTSPACK00005"
+        },
+        "ID": 24,
+        "DisplayName": {
+          "Namespace": "Purchasables",
+          "Key": "DisplayName_24",
+          "SourceString": "Esports Pack"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "25": {
+        "Type": "EPurchasableType::Bundle",
+        "Rewards": [],
+        "PlatformProductIds": {
+          "STEAM": "25",
+          "XBOX": "",
+          "PSN": "ESPORTSPACK00006"
+        },
+        "ID": 25,
+        "DisplayName": {
+          "Namespace": "Purchasables",
+          "Key": "DisplayName_25",
+          "SourceString": "Esports Pack"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "26": {
+        "Type": "EPurchasableType::Bundle",
+        "Rewards": [],
+        "PlatformProductIds": {
+          "STEAM": "26",
+          "XBOX": "",
+          "PSN": "ESPORTSPACK00007"
+        },
+        "ID": 26,
+        "DisplayName": {
+          "Namespace": "Purchasables",
+          "Key": "DisplayName_26",
+          "SourceString": "Esports Pack"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "27": {
+        "Type": "EPurchasableType::Bundle",
+        "Rewards": [],
+        "PlatformProductIds": {
+          "STEAM": "27",
+          "XBOX": "",
+          "PSN": "ESPORTSPACK00008"
+        },
+        "ID": 27,
+        "DisplayName": {
+          "Namespace": "Purchasables",
+          "Key": "DisplayName_27",
+          "SourceString": "Esports Pack"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
       }
     }
   }

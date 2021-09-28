@@ -1101,7 +1101,8 @@
         "Rarity": "ECustomizationRarity::Legendary",
         "ID": 28,
         "DisplayName": {
-          "CultureInvariantString": "Old Magic"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "OldMagic"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -1140,7 +1141,8 @@
         "Rarity": "ECustomizationRarity::Epic",
         "ID": 29,
         "DisplayName": {
-          "CultureInvariantString": "Courage"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Courage"
         },
         "DisplayImage": {
           "AssetPathName": "None",

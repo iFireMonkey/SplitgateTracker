@@ -61,7 +61,8 @@
           "ContaminationConfig": {
             "DefaultInventoryIDs": [],
             "InitialZombies": 2,
-            "SurvivalPoints": 0
+            "SurvivalPoints": 0,
+            "ContaminationPoints": 1
           },
           "RoundConfig": {
             "bUseRoundTimer": false,
@@ -177,7 +178,8 @@
           "ContaminationConfig": {
             "DefaultInventoryIDs": [],
             "InitialZombies": 2,
-            "SurvivalPoints": 0
+            "SurvivalPoints": 0,
+            "ContaminationPoints": 1
           },
           "RoundConfig": {
             "bUseRoundTimer": false,
@@ -294,7 +296,8 @@
           "ContaminationConfig": {
             "DefaultInventoryIDs": [],
             "InitialZombies": 2,
-            "SurvivalPoints": 0
+            "SurvivalPoints": 0,
+            "ContaminationPoints": 1
           },
           "RoundConfig": {
             "bUseRoundTimer": false,
@@ -411,7 +414,8 @@
           "ContaminationConfig": {
             "DefaultInventoryIDs": [],
             "InitialZombies": 2,
-            "SurvivalPoints": 0
+            "SurvivalPoints": 0,
+            "ContaminationPoints": 1
           },
           "RoundConfig": {
             "bUseRoundTimer": false,
@@ -528,7 +532,8 @@
           "ContaminationConfig": {
             "DefaultInventoryIDs": [],
             "InitialZombies": 2,
-            "SurvivalPoints": 0
+            "SurvivalPoints": 0,
+            "ContaminationPoints": 1
           },
           "RoundConfig": {
             "bUseRoundTimer": false,
@@ -645,7 +650,8 @@
           "ContaminationConfig": {
             "DefaultInventoryIDs": [],
             "InitialZombies": 2,
-            "SurvivalPoints": 0
+            "SurvivalPoints": 0,
+            "ContaminationPoints": 1
           },
           "RoundConfig": {
             "bUseRoundTimer": false,
@@ -762,7 +768,8 @@
           "ContaminationConfig": {
             "DefaultInventoryIDs": [],
             "InitialZombies": 2,
-            "SurvivalPoints": 0
+            "SurvivalPoints": 0,
+            "ContaminationPoints": 1
           },
           "RoundConfig": {
             "bUseRoundTimer": false,
@@ -869,7 +876,8 @@
           "ContaminationConfig": {
             "DefaultInventoryIDs": [],
             "InitialZombies": 2,
-            "SurvivalPoints": 0
+            "SurvivalPoints": 0,
+            "ContaminationPoints": 1
           },
           "RoundConfig": {
             "bUseRoundTimer": false,
@@ -985,7 +993,8 @@
           "ContaminationConfig": {
             "DefaultInventoryIDs": [],
             "InitialZombies": 2,
-            "SurvivalPoints": 0
+            "SurvivalPoints": 0,
+            "ContaminationPoints": 1
           },
           "RoundConfig": {
             "bUseRoundTimer": false,
@@ -1100,7 +1109,8 @@
           "ContaminationConfig": {
             "DefaultInventoryIDs": [],
             "InitialZombies": 2,
-            "SurvivalPoints": 0
+            "SurvivalPoints": 0,
+            "ContaminationPoints": 1
           },
           "RoundConfig": {
             "bUseRoundTimer": false,
@@ -1205,7 +1215,8 @@
           "ContaminationConfig": {
             "DefaultInventoryIDs": [],
             "InitialZombies": 2,
-            "SurvivalPoints": 0
+            "SurvivalPoints": 0,
+            "ContaminationPoints": 1
           },
           "RoundConfig": {
             "bUseRoundTimer": false,
@@ -1360,7 +1371,8 @@
           "ContaminationConfig": {
             "DefaultInventoryIDs": [],
             "InitialZombies": 2,
-            "SurvivalPoints": 0
+            "SurvivalPoints": 0,
+            "ContaminationPoints": 1
           },
           "RoundConfig": {
             "bUseRoundTimer": false,
@@ -1473,7 +1485,8 @@
           "ContaminationConfig": {
             "DefaultInventoryIDs": [],
             "InitialZombies": 2,
-            "SurvivalPoints": 0
+            "SurvivalPoints": 0,
+            "ContaminationPoints": 1
           },
           "RoundConfig": {
             "bUseRoundTimer": false,
@@ -1576,7 +1589,8 @@
           "ContaminationConfig": {
             "DefaultInventoryIDs": [],
             "InitialZombies": 2,
-            "SurvivalPoints": 0
+            "SurvivalPoints": 0,
+            "ContaminationPoints": 1
           },
           "RoundConfig": {
             "bUseRoundTimer": false,
@@ -1679,7 +1693,8 @@
           "ContaminationConfig": {
             "DefaultInventoryIDs": [],
             "InitialZombies": 2,
-            "SurvivalPoints": 0
+            "SurvivalPoints": 0,
+            "ContaminationPoints": 1
           },
           "RoundConfig": {
             "bUseRoundTimer": false,
@@ -1784,7 +1799,8 @@
           "ContaminationConfig": {
             "DefaultInventoryIDs": [],
             "InitialZombies": 2,
-            "SurvivalPoints": 0
+            "SurvivalPoints": 0,
+            "ContaminationPoints": 1
           },
           "RoundConfig": {
             "bUseRoundTimer": false,
@@ -1889,7 +1905,8 @@
           "ContaminationConfig": {
             "DefaultInventoryIDs": [],
             "InitialZombies": 2,
-            "SurvivalPoints": 0
+            "SurvivalPoints": 0,
+            "ContaminationPoints": 1
           },
           "RoundConfig": {
             "bUseRoundTimer": false,
@@ -2004,7 +2021,8 @@
           "ContaminationConfig": {
             "DefaultInventoryIDs": [],
             "InitialZombies": 2,
-            "SurvivalPoints": 0
+            "SurvivalPoints": 0,
+            "ContaminationPoints": 1
           },
           "RoundConfig": {
             "bUseRoundTimer": false,
@@ -2120,7 +2138,8 @@
           "ContaminationConfig": {
             "DefaultInventoryIDs": [],
             "InitialZombies": 2,
-            "SurvivalPoints": 0
+            "SurvivalPoints": 0,
+            "ContaminationPoints": 1
           },
           "RoundConfig": {
             "bUseRoundTimer": false,
@@ -2236,7 +2255,8 @@
           "ContaminationConfig": {
             "DefaultInventoryIDs": [],
             "InitialZombies": 2,
-            "SurvivalPoints": 0
+            "SurvivalPoints": 0,
+            "ContaminationPoints": 1
           },
           "RoundConfig": {
             "bUseRoundTimer": false,
@@ -2346,7 +2366,8 @@
           "ContaminationConfig": {
             "DefaultInventoryIDs": [],
             "InitialZombies": 2,
-            "SurvivalPoints": 0
+            "SurvivalPoints": 0,
+            "ContaminationPoints": 1
           },
           "RoundConfig": {
             "bUseRoundTimer": false,
@@ -2458,7 +2479,8 @@
           "ContaminationConfig": {
             "DefaultInventoryIDs": [],
             "InitialZombies": 2,
-            "SurvivalPoints": 0
+            "SurvivalPoints": 0,
+            "ContaminationPoints": 1
           },
           "RoundConfig": {
             "bUseRoundTimer": false,
@@ -2623,7 +2645,8 @@
           "ContaminationConfig": {
             "DefaultInventoryIDs": [],
             "InitialZombies": 2,
-            "SurvivalPoints": 0
+            "SurvivalPoints": 0,
+            "ContaminationPoints": 1
           },
           "RoundConfig": {
             "bUseRoundTimer": false,
@@ -2738,7 +2761,8 @@
           "ContaminationConfig": {
             "DefaultInventoryIDs": [],
             "InitialZombies": 2,
-            "SurvivalPoints": 0
+            "SurvivalPoints": 0,
+            "ContaminationPoints": 1
           },
           "RoundConfig": {
             "bUseRoundTimer": false,
@@ -2854,7 +2878,8 @@
           "ContaminationConfig": {
             "DefaultInventoryIDs": [],
             "InitialZombies": 2,
-            "SurvivalPoints": 0
+            "SurvivalPoints": 0,
+            "ContaminationPoints": 1
           },
           "RoundConfig": {
             "bUseRoundTimer": false,
@@ -2970,7 +2995,8 @@
           "ContaminationConfig": {
             "DefaultInventoryIDs": [],
             "InitialZombies": 2,
-            "SurvivalPoints": 0
+            "SurvivalPoints": 0,
+            "ContaminationPoints": 1
           },
           "RoundConfig": {
             "bUseRoundTimer": false,
@@ -3073,7 +3099,8 @@
           "ContaminationConfig": {
             "DefaultInventoryIDs": [],
             "InitialZombies": 2,
-            "SurvivalPoints": 0
+            "SurvivalPoints": 0,
+            "ContaminationPoints": 1
           },
           "RoundConfig": {
             "bUseRoundTimer": false,
@@ -3178,7 +3205,8 @@
           "ContaminationConfig": {
             "DefaultInventoryIDs": [],
             "InitialZombies": 2,
-            "SurvivalPoints": 0
+            "SurvivalPoints": 0,
+            "ContaminationPoints": 1
           },
           "RoundConfig": {
             "bUseRoundTimer": false,
@@ -3292,7 +3320,8 @@
           "ContaminationConfig": {
             "DefaultInventoryIDs": [],
             "InitialZombies": 2,
-            "SurvivalPoints": 0
+            "SurvivalPoints": 0,
+            "ContaminationPoints": 1
           },
           "RoundConfig": {
             "bUseRoundTimer": false,
@@ -3397,7 +3426,8 @@
           "ContaminationConfig": {
             "DefaultInventoryIDs": [],
             "InitialZombies": 2,
-            "SurvivalPoints": 0
+            "SurvivalPoints": 0,
+            "ContaminationPoints": 1
           },
           "RoundConfig": {
             "bUseRoundTimer": false,
@@ -3501,7 +3531,8 @@
           "ContaminationConfig": {
             "DefaultInventoryIDs": [],
             "InitialZombies": 2,
-            "SurvivalPoints": 0
+            "SurvivalPoints": 0,
+            "ContaminationPoints": 1
           },
           "RoundConfig": {
             "bUseRoundTimer": false,
@@ -3608,7 +3639,8 @@
           "ContaminationConfig": {
             "DefaultInventoryIDs": [],
             "InitialZombies": 2,
-            "SurvivalPoints": 0
+            "SurvivalPoints": 0,
+            "ContaminationPoints": 1
           },
           "RoundConfig": {
             "bUseRoundTimer": false,
@@ -3715,7 +3747,8 @@
           "ContaminationConfig": {
             "DefaultInventoryIDs": [],
             "InitialZombies": 2,
-            "SurvivalPoints": 0
+            "SurvivalPoints": 0,
+            "ContaminationPoints": 1
           },
           "RoundConfig": {
             "bUseRoundTimer": false,
@@ -3825,7 +3858,8 @@
           "ContaminationConfig": {
             "DefaultInventoryIDs": [],
             "InitialZombies": 2,
-            "SurvivalPoints": 0
+            "SurvivalPoints": 0,
+            "ContaminationPoints": 1
           },
           "RoundConfig": {
             "bUseRoundTimer": false,
@@ -3984,7 +4018,8 @@
           "ContaminationConfig": {
             "DefaultInventoryIDs": [],
             "InitialZombies": 2,
-            "SurvivalPoints": 0
+            "SurvivalPoints": 0,
+            "ContaminationPoints": 1
           },
           "RoundConfig": {
             "bUseRoundTimer": false,
@@ -4141,7 +4176,8 @@
           "ContaminationConfig": {
             "DefaultInventoryIDs": [],
             "InitialZombies": 2,
-            "SurvivalPoints": 0
+            "SurvivalPoints": 0,
+            "ContaminationPoints": 1
           },
           "RoundConfig": {
             "bUseRoundTimer": false,
@@ -4297,7 +4333,8 @@
           "ContaminationConfig": {
             "DefaultInventoryIDs": [],
             "InitialZombies": 2,
-            "SurvivalPoints": 0
+            "SurvivalPoints": 0,
+            "ContaminationPoints": 1
           },
           "RoundConfig": {
             "bUseRoundTimer": false,
@@ -4454,7 +4491,8 @@
           "ContaminationConfig": {
             "DefaultInventoryIDs": [],
             "InitialZombies": 2,
-            "SurvivalPoints": 0
+            "SurvivalPoints": 0,
+            "ContaminationPoints": 1
           },
           "RoundConfig": {
             "bUseRoundTimer": false,
@@ -4587,7 +4625,8 @@
           "ContaminationConfig": {
             "DefaultInventoryIDs": [],
             "InitialZombies": 2,
-            "SurvivalPoints": 0
+            "SurvivalPoints": 0,
+            "ContaminationPoints": 1
           },
           "RoundConfig": {
             "bUseRoundTimer": false,
@@ -4704,7 +4743,8 @@
           "ContaminationConfig": {
             "DefaultInventoryIDs": [],
             "InitialZombies": 2,
-            "SurvivalPoints": 0
+            "SurvivalPoints": 0,
+            "ContaminationPoints": 1
           },
           "RoundConfig": {
             "bUseRoundTimer": false,
@@ -4820,7 +4860,8 @@
           "ContaminationConfig": {
             "DefaultInventoryIDs": [],
             "InitialZombies": 2,
-            "SurvivalPoints": 0
+            "SurvivalPoints": 0,
+            "ContaminationPoints": 1
           },
           "RoundConfig": {
             "bUseRoundTimer": false,
@@ -4935,7 +4976,8 @@
           "ContaminationConfig": {
             "DefaultInventoryIDs": [],
             "InitialZombies": 2,
-            "SurvivalPoints": 0
+            "SurvivalPoints": 0,
+            "ContaminationPoints": 1
           },
           "RoundConfig": {
             "bUseRoundTimer": false,
@@ -5040,7 +5082,8 @@
           "ContaminationConfig": {
             "DefaultInventoryIDs": [],
             "InitialZombies": 2,
-            "SurvivalPoints": 0
+            "SurvivalPoints": 0,
+            "ContaminationPoints": 1
           },
           "RoundConfig": {
             "bUseRoundTimer": false,
@@ -5145,7 +5188,8 @@
           "ContaminationConfig": {
             "DefaultInventoryIDs": [],
             "InitialZombies": 2,
-            "SurvivalPoints": 0
+            "SurvivalPoints": 0,
+            "ContaminationPoints": 1
           },
           "RoundConfig": {
             "bUseRoundTimer": false,
@@ -5255,7 +5299,8 @@
           "ContaminationConfig": {
             "DefaultInventoryIDs": [],
             "InitialZombies": 2,
-            "SurvivalPoints": 0
+            "SurvivalPoints": 0,
+            "ContaminationPoints": 1
           },
           "RoundConfig": {
             "bUseRoundTimer": false,
@@ -5282,7 +5327,7 @@
           "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
           "Key": "UIText_PointsToWin"
         },
-        "SoundName": "CTF",
+        "SoundName": "NCTF",
         "MaxPlayers": 8,
         "CompatibleWeaponIDs": [
           0,
@@ -5372,7 +5417,8 @@
           "ContaminationConfig": {
             "DefaultInventoryIDs": [],
             "InitialZombies": 2,
-            "SurvivalPoints": 0
+            "SurvivalPoints": 0,
+            "ContaminationPoints": 1
           },
           "RoundConfig": {
             "bUseRoundTimer": false,
@@ -5399,7 +5445,7 @@
           "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
           "Key": "UIText_PointsToWin"
         },
-        "SoundName": "CTF",
+        "SoundName": "NCTF",
         "MaxPlayers": 8,
         "CompatibleWeaponIDs": [
           0,
@@ -5485,7 +5531,8 @@
           "ContaminationConfig": {
             "DefaultInventoryIDs": [],
             "InitialZombies": 2,
-            "SurvivalPoints": 0
+            "SurvivalPoints": 0,
+            "ContaminationPoints": 1
           },
           "RoundConfig": {
             "bUseRoundTimer": false,
@@ -5618,7 +5665,8 @@
           "ContaminationConfig": {
             "DefaultInventoryIDs": [],
             "InitialZombies": 2,
-            "SurvivalPoints": 0
+            "SurvivalPoints": 0,
+            "ContaminationPoints": 1
           },
           "RoundConfig": {
             "bUseRoundTimer": false,
@@ -5732,7 +5780,8 @@
           "ContaminationConfig": {
             "DefaultInventoryIDs": [],
             "InitialZombies": 2,
-            "SurvivalPoints": 0
+            "SurvivalPoints": 0,
+            "ContaminationPoints": 1
           },
           "RoundConfig": {
             "bUseRoundTimer": false,
@@ -5759,7 +5808,7 @@
           "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
           "Key": "UIText_RoundsToWin"
         },
-        "SoundName": "",
+        "SoundName": "SD",
         "MaxPlayers": 6,
         "CompatibleWeaponIDs": [
           0,
@@ -5862,7 +5911,8 @@
           "ContaminationConfig": {
             "DefaultInventoryIDs": [],
             "InitialZombies": 2,
-            "SurvivalPoints": 0
+            "SurvivalPoints": 0,
+            "ContaminationPoints": 1
           },
           "RoundConfig": {
             "bUseRoundTimer": false,
@@ -5889,7 +5939,7 @@
           "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
           "Key": "UIText_RoundsToWin"
         },
-        "SoundName": "",
+        "SoundName": "TDVIP",
         "MaxPlayers": 6,
         "CompatibleWeaponIDs": [
           0,
@@ -5946,7 +5996,7 @@
           "PickupsEnabled": false,
           "PickupOverrides": [],
           "ShouldDropWeaponPickups": false,
-          "ShouldShowRadar": true,
+          "ShouldShowRadar": false,
           "KillcamEnabled": true,
           "SpectateAlliesWhenDead": false,
           "Modifiers": {
@@ -5981,7 +6031,8 @@
               15
             ],
             "InitialZombies": 2,
-            "SurvivalPoints": 5
+            "SurvivalPoints": 5,
+            "ContaminationPoints": 2
           },
           "RoundConfig": {
             "bUseRoundTimer": true,
@@ -6005,11 +6056,11 @@
           "SourceString": "Survive the infected onslaught or eliminate all survivors to win."
         },
         "ScoreFormatText": {
-          "Namespace": "",
-          "Key": "7448941B41F27DB5BB529891735BB185",
+          "Namespace": "GameModes",
+          "Key": "Score_50",
           "SourceString": "Most Points to Win"
         },
-        "SoundName": "",
+        "SoundName": "CONT",
         "MaxPlayers": 8,
         "CompatibleWeaponIDs": [
           6,
@@ -6031,6 +6082,323 @@
         },
         "DisplayImage": {
           "AssetPathName": "/Game/Thumbnails/GameModes/Contamination_Screenshot.Contamination_Screenshot",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "51": {
+        "DefaultClass": {
+          "AssetPathName": "/Game/Blueprints/GameModes/TDM/Deathmatch_BP.Deathmatch_BP_C",
+          "SubPathString": ""
+        },
+        "Alias": "SBAT",
+        "Config": {
+          "TeamGame": true,
+          "NumTeams": 2,
+          "ScoreLimit": 50,
+          "RespawnTime": 2,
+          "MaxOvertime": 480,
+          "DefaultInventoryIDs": [
+            15
+          ],
+          "PickupsEnabled": false,
+          "PickupOverrides": [],
+          "ShouldDropWeaponPickups": true,
+          "ShouldShowRadar": true,
+          "KillcamEnabled": true,
+          "SpectateAlliesWhenDead": false,
+          "Modifiers": {
+            "EnableBoundaries": true,
+            "EnableJetpack": true,
+            "EnableSprint": true,
+            "EnablePortalGun": false,
+            "UnlimitedAmmo": true,
+            "UnlimitedClipSize": true,
+            "HeadshotsOnly": false,
+            "BigHeadMode": true,
+            "WalkSpeedModifier": 2.0,
+            "JumpHeightModifier": 1.0,
+            "GravityModifier": 1.0,
+            "ThrusterPackFuelModifier": 1.0,
+            "ThrusterPackBoostModifier": 1.5,
+            "MeleeDmgModifier": 1.0,
+            "HealthModifier": 1.0
+          },
+          "RandomWeapons": false,
+          "SwitchTeamsEnabled": false,
+          "MeleeHeavyMode": false,
+          "KOTHConfig": {
+            "RandomHillsEnabled": true
+          },
+          "VIPConfig": {
+            "DefaultInventoryIDs": [],
+            "VIPWalkSpeedModifier": -1.0
+          },
+          "ContaminationConfig": {
+            "DefaultInventoryIDs": [],
+            "InitialZombies": 2,
+            "SurvivalPoints": 0,
+            "ContaminationPoints": 1
+          },
+          "RoundConfig": {
+            "bUseRoundTimer": false,
+            "RoundTimeLimit": 60,
+            "bUseRoundScoreLimit": false,
+            "RoundScoreLimit": 30,
+            "bUseSetAmountOfRounds": false,
+            "bRandomWeapons": false,
+            "bRespawningDisabled": false
+          }
+        },
+        "ScoreConfig": {
+          "MinScore": 10,
+          "MaxScore": 1000,
+          "ScoreStep": 10
+        },
+        "MatchTime": 480,
+        "Description": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "GameModes_KillEnemyTeamToScore"
+        },
+        "ScoreFormatText": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_KillsToWin"
+        },
+        "SoundName": "TDM",
+        "MaxPlayers": 8,
+        "CompatibleWeaponIDs": [
+          15
+        ],
+        "Selectability": [
+          "EGameModeSelectability::Standard",
+          "EGameModeSelectability::Custom"
+        ],
+        "IconImage": {
+          "AssetPathName": "/Game/Thumbnails/Icons/icon-team-rumble.icon-team-rumble",
+          "SubPathString": ""
+        },
+        "ID": 51,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "GameModes_SpeedBats"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/GameModes/ZombieVIP_Screenshot.ZombieVIP_Screenshot",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "52": {
+        "DefaultClass": {
+          "AssetPathName": "/Game/Blueprints/GameModes/KOTH/KOTH_BP.KOTH_BP_C",
+          "SubPathString": ""
+        },
+        "Alias": "BHSKOTH",
+        "Config": {
+          "TeamGame": true,
+          "NumTeams": 2,
+          "ScoreLimit": 200,
+          "RespawnTime": 8,
+          "MaxOvertime": 60,
+          "DefaultInventoryIDs": [
+            16,
+            0
+          ],
+          "PickupsEnabled": true,
+          "PickupOverrides": [],
+          "ShouldDropWeaponPickups": true,
+          "ShouldShowRadar": true,
+          "KillcamEnabled": true,
+          "SpectateAlliesWhenDead": false,
+          "Modifiers": {
+            "EnableBoundaries": true,
+            "EnableJetpack": true,
+            "EnableSprint": true,
+            "EnablePortalGun": true,
+            "UnlimitedAmmo": false,
+            "UnlimitedClipSize": false,
+            "HeadshotsOnly": false,
+            "BigHeadMode": true,
+            "WalkSpeedModifier": 1.0,
+            "JumpHeightModifier": 1.0,
+            "GravityModifier": 1.0,
+            "ThrusterPackFuelModifier": 1.0,
+            "ThrusterPackBoostModifier": 1.0,
+            "MeleeDmgModifier": 1.0,
+            "HealthModifier": 1.0
+          },
+          "RandomWeapons": false,
+          "SwitchTeamsEnabled": false,
+          "MeleeHeavyMode": false,
+          "KOTHConfig": {
+            "RandomHillsEnabled": false
+          },
+          "VIPConfig": {
+            "DefaultInventoryIDs": [],
+            "VIPWalkSpeedModifier": -1.0
+          },
+          "ContaminationConfig": {
+            "DefaultInventoryIDs": [],
+            "InitialZombies": 2,
+            "SurvivalPoints": 0,
+            "ContaminationPoints": 1
+          },
+          "RoundConfig": {
+            "bUseRoundTimer": false,
+            "RoundTimeLimit": 60,
+            "bUseRoundScoreLimit": false,
+            "RoundScoreLimit": 30,
+            "bUseSetAmountOfRounds": false,
+            "bRandomWeapons": false,
+            "bRespawningDisabled": false
+          }
+        },
+        "ScoreConfig": {
+          "MinScore": 10,
+          "MaxScore": 1000,
+          "ScoreStep": 10
+        },
+        "MatchTime": 480,
+        "Description": {
+          "Namespace": "GameModes",
+          "Key": "Description_52",
+          "SourceString": "Score points by standing inside the hill. Everyone has a sniper and a big head!"
+        },
+        "ScoreFormatText": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_PointsToWin"
+        },
+        "SoundName": "KOTH",
+        "MaxPlayers": 8,
+        "CompatibleWeaponIDs": [
+          8
+        ],
+        "Selectability": [
+          "EGameModeSelectability::Standard"
+        ],
+        "IconImage": {
+          "AssetPathName": "/Game/Thumbnails/Icons/icon-team-rumble.icon-team-rumble",
+          "SubPathString": ""
+        },
+        "ID": 52,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "GameModes_BigHeadSnipersKingoftheHill"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/GameModes/KOTH_Screenshot.KOTH_Screenshot",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "53": {
+        "DefaultClass": {
+          "AssetPathName": "/Game/Blueprints/GameModes/Domination/Domination_BP.Domination_BP_C",
+          "SubPathString": ""
+        },
+        "Alias": "BHSDOM",
+        "Config": {
+          "TeamGame": true,
+          "NumTeams": 2,
+          "ScoreLimit": 600,
+          "RespawnTime": 8,
+          "MaxOvertime": 480,
+          "DefaultInventoryIDs": [
+            16,
+            0
+          ],
+          "PickupsEnabled": true,
+          "PickupOverrides": [],
+          "ShouldDropWeaponPickups": true,
+          "ShouldShowRadar": true,
+          "KillcamEnabled": true,
+          "SpectateAlliesWhenDead": false,
+          "Modifiers": {
+            "EnableBoundaries": true,
+            "EnableJetpack": true,
+            "EnableSprint": true,
+            "EnablePortalGun": true,
+            "UnlimitedAmmo": false,
+            "UnlimitedClipSize": false,
+            "HeadshotsOnly": false,
+            "BigHeadMode": true,
+            "WalkSpeedModifier": 1.0,
+            "JumpHeightModifier": 1.0,
+            "GravityModifier": 1.0,
+            "ThrusterPackFuelModifier": 1.0,
+            "ThrusterPackBoostModifier": 1.0,
+            "MeleeDmgModifier": 1.0,
+            "HealthModifier": 1.0
+          },
+          "RandomWeapons": false,
+          "SwitchTeamsEnabled": false,
+          "MeleeHeavyMode": false,
+          "KOTHConfig": {
+            "RandomHillsEnabled": true
+          },
+          "VIPConfig": {
+            "DefaultInventoryIDs": [],
+            "VIPWalkSpeedModifier": -1.0
+          },
+          "ContaminationConfig": {
+            "DefaultInventoryIDs": [],
+            "InitialZombies": 2,
+            "SurvivalPoints": 0,
+            "ContaminationPoints": 1
+          },
+          "RoundConfig": {
+            "bUseRoundTimer": false,
+            "RoundTimeLimit": 60,
+            "bUseRoundScoreLimit": false,
+            "RoundScoreLimit": 30,
+            "bUseSetAmountOfRounds": false,
+            "bRandomWeapons": false,
+            "bRespawningDisabled": false
+          }
+        },
+        "ScoreConfig": {
+          "MinScore": 50,
+          "MaxScore": 1500,
+          "ScoreStep": 50
+        },
+        "MatchTime": 480,
+        "Description": {
+          "Namespace": "GameModes",
+          "Key": "Description_53",
+          "SourceString": "Score points by capturing and controlling the three hills. Once a hill is captured, you don't need to stay inside it. Everyone has a sniper and a big head!"
+        },
+        "ScoreFormatText": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_PointsToWin"
+        },
+        "SoundName": "DOM",
+        "MaxPlayers": 8,
+        "CompatibleWeaponIDs": [
+          8
+        ],
+        "Selectability": [
+          "EGameModeSelectability::Standard"
+        ],
+        "IconImage": {
+          "AssetPathName": "/Game/Thumbnails/Icons/icon-team-rumble.icon-team-rumble",
+          "SubPathString": ""
+        },
+        "ID": 53,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "GameModes_BigHeadSnipersDomination"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/GameModes/DOM_Screenshot.DOM_Screenshot",
           "SubPathString": ""
         },
         "DisplayImageSmall": {

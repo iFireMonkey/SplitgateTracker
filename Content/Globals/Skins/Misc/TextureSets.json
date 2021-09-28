@@ -4490,6 +4490,211 @@
             "Textures": null
           }
         ]
+      },
+      "229": {
+        "CustomizationType": "ECustomizationType::Shotgun",
+        "MeshName": "Default",
+        "TextureSetName": "Racer",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/Shotgun/Textures/Legendary/Racer/M_ShotgunFront_Base_Color.M_ShotgunFront_Base_Color",
+                "SubPathString": ""
+              }
+            }
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/Shotgun/Textures/Legendary/Racer/M_ShotgunRear_Base_Color.M_ShotgunRear_Base_Color",
+                "SubPathString": ""
+              }
+            }
+          }
+        ]
+      },
+      "230": {
+        "CustomizationType": "ECustomizationType::SMG",
+        "MeshName": "Default",
+        "TextureSetName": "Racer",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/SMG/Textures/Legendary/Racer/MI_SMG_Front_Base_Base_Color.MI_SMG_Front_Base_Base_Color",
+                "SubPathString": ""
+              }
+            }
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/SMG/Textures/Legendary/Racer/MI_SMG_Rear_Base_Base_Color.MI_SMG_Rear_Base_Base_Color",
+                "SubPathString": ""
+              }
+            }
+          },
+          {
+            "SlotName": "Holo",
+            "Textures": {
+              "": {
+                "AssetPathName": "/Game/Weapons/SMG/Textures/Legendary/Racer/MI_SMG_Holosight_Base_Base_Color.MI_SMG_Holosight_Base_Base_Color",
+                "SubPathString": ""
+              }
+            }
+          }
+        ]
+      },
+      "231": {
+        "CustomizationType": "ECustomizationType::Sniper",
+        "MeshName": "Default",
+        "TextureSetName": "Racer",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/SniperRifle/Textures/Legendary/Racer/MI_Sniper_Front_Base_Base_Color.MI_Sniper_Front_Base_Base_Color",
+                "SubPathString": ""
+              }
+            }
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/SniperRifle/Textures/Legendary/Racer/MI_Sniper_Rear_Base_Base_Color.MI_Sniper_Rear_Base_Base_Color",
+                "SubPathString": ""
+              }
+            }
+          }
+        ]
+      },
+      "232": {
+        "CustomizationType": "ECustomizationType::RocketLauncher",
+        "MeshName": "Default",
+        "TextureSetName": "Racer",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/RocketLauncher/Textures/Legendary/Racer/MI_RocketLauncher_Front_Base_Base_Color.MI_RocketLauncher_Front_Base_Base_Color",
+                "SubPathString": ""
+              }
+            }
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/RocketLauncher/Textures/Legendary/Racer/MI_RocketLauncher_Rear_Base_Base_Color.MI_RocketLauncher_Rear_Base_Base_Color",
+                "SubPathString": ""
+              }
+            }
+          },
+          {
+            "SlotName": "Mid",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/RocketLauncher/Textures/Legendary/Racer/MI_RocketLauncher_Mid_Base_Base_Color.MI_RocketLauncher_Mid_Base_Base_Color",
+                "SubPathString": ""
+              }
+            }
+          }
+        ]
+      },
+      "233": {
+        "CustomizationType": "ECustomizationType::Railgun",
+        "MeshName": "Default",
+        "TextureSetName": "Racer",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/RailGun/Textures/Legendary/Racer/RG_Front_Base_Color.RG_Front_Base_Color",
+                "SubPathString": ""
+              }
+            }
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/RailGun/Textures/Legendary/Racer/RG_Rear_Base_Color.RG_Rear_Base_Color",
+                "SubPathString": ""
+              }
+            }
+          },
+          {
+            "SlotName": "Mid",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/RailGun/Textures/Legendary/Racer/RG_Mid_Base_Color.RG_Mid_Base_Color",
+                "SubPathString": ""
+              }
+            }
+          }
+        ]
+      },
+      "234": {
+        "CustomizationType": "ECustomizationType::PlasmaRifle",
+        "MeshName": "Default",
+        "TextureSetName": "Racer",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/PlasmaRifle/Textures/Legendary/Racer/M_PRFront_Base_Color.M_PRFront_Base_Color",
+                "SubPathString": ""
+              }
+            }
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/PlasmaRifle/Textures/Legendary/Racer/M_PRRear_Base_Color.M_PRRear_Base_Color",
+                "SubPathString": ""
+              }
+            }
+          },
+          {
+            "SlotName": "Mid",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/PlasmaRifle/Textures/Legendary/Racer/M_PRMid_Base_Color.M_PRMid_Base_Color",
+                "SubPathString": ""
+              }
+            }
+          }
+        ]
+      },
+      "235": {
+        "CustomizationType": "ECustomizationType::Armor",
+        "MeshName": "Tinhead",
+        "TextureSetName": "Chrome",
+        "Slots": [
+          {
+            "SlotName": "H_42",
+            "Textures": null
+          },
+          {
+            "SlotName": "L_42",
+            "Textures": null
+          },
+          {
+            "SlotName": "T_42",
+            "Textures": null
+          }
+        ]
       }
     }
   }

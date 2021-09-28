@@ -8818,6 +8818,326 @@
           "AssetPathName": "/Game/Thumbnails/PortalGun/PortalGun_10-582_T.PortalGun_10-582_T",
           "SubPathString": ""
         }
+      },
+      "0-583": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/PortalGun/PortalGun_0-583_T.PortalGun_0-583_T",
+          "SubPathString": ""
+        }
+      },
+      "0-585": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/PortalGun/PortalGun_0-585_T.PortalGun_0-585_T",
+          "SubPathString": ""
+        }
+      },
+      "0-604": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/PortalGun/PortalGun_0-604_T.PortalGun_0-604_T",
+          "SubPathString": ""
+        }
+      },
+      "0-606": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/PortalGun/PortalGun_0-606_T.PortalGun_0-606_T",
+          "SubPathString": ""
+        }
+      },
+      "3-583": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/PortalGun/PortalGun_3-583_T.PortalGun_3-583_T",
+          "SubPathString": ""
+        }
+      },
+      "3-585": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/PortalGun/PortalGun_3-585_T.PortalGun_3-585_T",
+          "SubPathString": ""
+        }
+      },
+      "3-604": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/PortalGun/PortalGun_3-604_T.PortalGun_3-604_T",
+          "SubPathString": ""
+        }
+      },
+      "3-606": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/PortalGun/PortalGun_3-606_T.PortalGun_3-606_T",
+          "SubPathString": ""
+        }
+      },
+      "4-583": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/PortalGun/PortalGun_4-583_T.PortalGun_4-583_T",
+          "SubPathString": ""
+        }
+      },
+      "4-585": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/PortalGun/PortalGun_4-585_T.PortalGun_4-585_T",
+          "SubPathString": ""
+        }
+      },
+      "4-604": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/PortalGun/PortalGun_4-604_T.PortalGun_4-604_T",
+          "SubPathString": ""
+        }
+      },
+      "4-606": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/PortalGun/PortalGun_4-606_T.PortalGun_4-606_T",
+          "SubPathString": ""
+        }
+      },
+      "5-583": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/PortalGun/PortalGun_5-583_T.PortalGun_5-583_T",
+          "SubPathString": ""
+        }
+      },
+      "5-585": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/PortalGun/PortalGun_5-585_T.PortalGun_5-585_T",
+          "SubPathString": ""
+        }
+      },
+      "5-604": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/PortalGun/PortalGun_5-604_T.PortalGun_5-604_T",
+          "SubPathString": ""
+        }
+      },
+      "5-606": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/PortalGun/PortalGun_5-606_T.PortalGun_5-606_T",
+          "SubPathString": ""
+        }
+      },
+      "7-583": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/PortalGun/PortalGun_7-583_T.PortalGun_7-583_T",
+          "SubPathString": ""
+        }
+      },
+      "7-585": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/PortalGun/PortalGun_7-585_T.PortalGun_7-585_T",
+          "SubPathString": ""
+        }
+      },
+      "7-604": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/PortalGun/PortalGun_7-604_T.PortalGun_7-604_T",
+          "SubPathString": ""
+        }
+      },
+      "7-606": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/PortalGun/PortalGun_7-606_T.PortalGun_7-606_T",
+          "SubPathString": ""
+        }
+      },
+      "8-583": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/PortalGun/PortalGun_8-583_T.PortalGun_8-583_T",
+          "SubPathString": ""
+        }
+      },
+      "8-585": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/PortalGun/PortalGun_8-585_T.PortalGun_8-585_T",
+          "SubPathString": ""
+        }
+      },
+      "8-604": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/PortalGun/PortalGun_8-604_T.PortalGun_8-604_T",
+          "SubPathString": ""
+        }
+      },
+      "8-606": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/PortalGun/PortalGun_8-606_T.PortalGun_8-606_T",
+          "SubPathString": ""
+        }
+      },
+      "9-583": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/PortalGun/PortalGun_9-583_T.PortalGun_9-583_T",
+          "SubPathString": ""
+        }
+      },
+      "9-585": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/PortalGun/PortalGun_9-585_T.PortalGun_9-585_T",
+          "SubPathString": ""
+        }
+      },
+      "9-604": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/PortalGun/PortalGun_9-604_T.PortalGun_9-604_T",
+          "SubPathString": ""
+        }
+      },
+      "9-606": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/PortalGun/PortalGun_9-606_T.PortalGun_9-606_T",
+          "SubPathString": ""
+        }
+      },
+      "10-583": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/PortalGun/PortalGun_10-583_T.PortalGun_10-583_T",
+          "SubPathString": ""
+        }
+      },
+      "10-585": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/PortalGun/PortalGun_10-585_T.PortalGun_10-585_T",
+          "SubPathString": ""
+        }
+      },
+      "10-604": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/PortalGun/PortalGun_10-604_T.PortalGun_10-604_T",
+          "SubPathString": ""
+        }
+      },
+      "10-606": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/PortalGun/PortalGun_10-606_T.PortalGun_10-606_T",
+          "SubPathString": ""
+        }
       }
     }
   }
