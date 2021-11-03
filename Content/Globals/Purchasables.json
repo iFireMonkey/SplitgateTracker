@@ -365,9 +365,8 @@
         },
         "ID": 14,
         "DisplayName": {
-          "Namespace": "Purchasables",
-          "Key": "DisplayName_14",
-          "SourceString": "Creator Pack"
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Purchasables_CreatorPack"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -388,9 +387,8 @@
         },
         "ID": 15,
         "DisplayName": {
-          "Namespace": "Purchasables",
-          "Key": "DisplayName_15",
-          "SourceString": "Creator Pack"
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Purchasables_CreatorPack"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -411,9 +409,8 @@
         },
         "ID": 20,
         "DisplayName": {
-          "Namespace": "Purchasables",
-          "Key": "DisplayName_20",
-          "SourceString": "Esports Pack"
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Purchasables_EsportsPack"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -434,9 +431,8 @@
         },
         "ID": 21,
         "DisplayName": {
-          "Namespace": "Purchasables",
-          "Key": "DisplayName_21",
-          "SourceString": "Esports Pack"
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Purchasables_EsportsPack"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -457,9 +453,8 @@
         },
         "ID": 22,
         "DisplayName": {
-          "Namespace": "Purchasables",
-          "Key": "DisplayName_22",
-          "SourceString": "Esports Pack"
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Purchasables_EsportsPack"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -480,9 +475,8 @@
         },
         "ID": 23,
         "DisplayName": {
-          "Namespace": "Purchasables",
-          "Key": "DisplayName_23",
-          "SourceString": "Esports Pack"
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Purchasables_EsportsPack"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -503,9 +497,8 @@
         },
         "ID": 24,
         "DisplayName": {
-          "Namespace": "Purchasables",
-          "Key": "DisplayName_24",
-          "SourceString": "Esports Pack"
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Purchasables_EsportsPack"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -526,9 +519,8 @@
         },
         "ID": 25,
         "DisplayName": {
-          "Namespace": "Purchasables",
-          "Key": "DisplayName_25",
-          "SourceString": "Esports Pack"
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Purchasables_EsportsPack"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -549,9 +541,8 @@
         },
         "ID": 26,
         "DisplayName": {
-          "Namespace": "Purchasables",
-          "Key": "DisplayName_26",
-          "SourceString": "Esports Pack"
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Purchasables_EsportsPack"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -572,9 +563,8 @@
         },
         "ID": 27,
         "DisplayName": {
-          "Namespace": "Purchasables",
-          "Key": "DisplayName_27",
-          "SourceString": "Esports Pack"
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Purchasables_EsportsPack"
         },
         "DisplayImage": {
           "AssetPathName": "None",

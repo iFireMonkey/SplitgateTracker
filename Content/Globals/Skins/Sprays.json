@@ -4636,6 +4636,174 @@
           "AssetPathName": "None",
           "SubPathString": ""
         }
+      },
+      "187": {
+        "Texture": {
+          "AssetPathName": "/Game/Emblems/PartnerEmblems/Mucki.Mucki",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Spray",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::CreatorCode",
+          "AvailabilityInfo": "Mucki"
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 187,
+        "DisplayName": {
+          "CultureInvariantString": "Mucki"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Emblems/PartnerEmblems/Mucki.Mucki",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "188": {
+        "Texture": {
+          "AssetPathName": "/Game/Emblems/PartnerEmblems/Sam.Sam",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Spray",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::CreatorCode",
+          "AvailabilityInfo": "Sam"
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 188,
+        "DisplayName": {
+          "CultureInvariantString": "Sam"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Emblems/PartnerEmblems/Sam.Sam",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "189": {
+        "Texture": {
+          "AssetPathName": "/Game/Emblems/PartnerEmblems/Kingmcdev.Kingmcdev",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Spray",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::CreatorCode",
+          "AvailabilityInfo": "KingMcdev"
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 189,
+        "DisplayName": {
+          "CultureInvariantString": "KingMcdev"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Emblems/PartnerEmblems/Kingmcdev.Kingmcdev",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "190": {
+        "Texture": {
+          "AssetPathName": "/Game/Emblems/PartnerEmblems/Nomad.Nomad",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Spray",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::CreatorCode",
+          "AvailabilityInfo": "Nomad"
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 190,
+        "DisplayName": {
+          "CultureInvariantString": "Nomad"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Emblems/PartnerEmblems/Nomad.Nomad",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "191": {
+        "Texture": {
+          "AssetPathName": "/Game/Emblems/AirForceGaming.AirForceGaming",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Spray",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 191,
+        "DisplayName": {
+          "CultureInvariantString": "Air Force Gaming"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Emblems/AirForceGaming.AirForceGaming",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "192": {
+        "Texture": {
+          "AssetPathName": "/Game/Emblems/MarineCorpsGaming.MarineCorpsGaming",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Spray",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 192,
+        "DisplayName": {
+          "CultureInvariantString": "Marine Corps Gaming"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Emblems/MarineCorpsGaming.MarineCorpsGaming",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "193": {
+        "Texture": {
+          "AssetPathName": "/Game/Emblems/GoatsandGlory.GoatsandGlory",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Spray",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 193,
+        "DisplayName": {
+          "CultureInvariantString": "Goats and Glory"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Emblems/GoatsandGlory.GoatsandGlory",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
       }
     }
   }

@@ -1003,6 +1003,45 @@
           "AssetPathName": "None",
           "SubPathString": ""
         }
+      },
+      "26": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/RailGun/Mesh/Legendary/Railgun_Bubblegun_FPP.Railgun_Bubblegun_FPP",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/RailGun/Mesh/Legendary/Railgun_Bubblegun.Railgun_Bubblegun",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "RG-Ammo",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::Railgun",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 26,
+        "DisplayName": {
+          "CultureInvariantString": "Bubblegun"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
       }
     }
   }

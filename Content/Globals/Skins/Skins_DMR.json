@@ -1008,6 +1008,84 @@
           "AssetPathName": "None",
           "SubPathString": ""
         }
+      },
+      "28": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/DMR/Mesh/FPP/Legendary/DMR_Halloween_FPP.DMR_Halloween_FPP",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/DMR/Mesh/FPP/Legendary/Halloween_DMR.Halloween_DMR",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "None",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::DMR",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 28,
+        "DisplayName": {
+          "CultureInvariantString": "Halloween"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "29": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/DMR/Mesh/FPP/Legendary/DMR_OverHeat_FPP.DMR_OverHeat_FPP",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/DMR/Mesh/FPP/Legendary/DMR_Overheat.DMR_Overheat",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "None",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::DMR",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Reserved",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 29,
+        "DisplayName": {
+          "CultureInvariantString": "Overheat"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
       }
     }
   }

@@ -2068,6 +2068,16 @@
           "AssetPathName": "/Game/Thumbnails/Pistol/Pistol_0-606_T.Pistol_0-606_T",
           "SubPathString": ""
         }
+      },
+      "0-608": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "/Game/Thumbnails/Featured/Pistol_Halloween_Featured_T.Pistol_Halloween_Featured_T",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Pistol/Pistol_0-608_T.Pistol_0-608_T",
+          "SubPathString": ""
+        }
       }
     }
   }

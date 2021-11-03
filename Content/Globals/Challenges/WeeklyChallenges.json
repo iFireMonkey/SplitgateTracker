@@ -28,9 +28,8 @@
         "ExcludedPlaylists": [],
         "ID": 100,
         "DisplayName": {
-          "Namespace": "WeeklyChallenges",
-          "Key": "DisplayName_100",
-          "SourceString": "Get 100 Kills"
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_n_Kills"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -61,7 +60,7 @@
         "ID": 101,
         "DisplayName": {
           "Namespace": "WeeklyChallenges",
-          "Key": "DisplayName_101",
+          "Key": "101_DisplayName",
           "SourceString": "Complete the Foregone Destruction Race"
         },
         "DisplayImage": {
@@ -93,7 +92,7 @@
         "ID": 102,
         "DisplayName": {
           "Namespace": "WeeklyChallenges",
-          "Key": "DisplayName_102",
+          "Key": "102_DisplayName",
           "SourceString": "Get 30 Kills in Team Deathmatch"
         },
         "DisplayImage": {
@@ -125,7 +124,7 @@
         "ID": 103,
         "DisplayName": {
           "Namespace": "WeeklyChallenges",
-          "Key": "DisplayName_103",
+          "Key": "103_DisplayName",
           "SourceString": "Get 50 Kills with the Carbine"
         },
         "DisplayImage": {
@@ -157,8 +156,8 @@
         "ID": 104,
         "DisplayName": {
           "Namespace": "WeeklyChallenges",
-          "Key": "DisplayName_104",
-          "SourceString": "Win 3 Matches on Impact"
+          "Key": "104_DisplayName",
+          "SourceString": "Win 3 Matches of Contamination"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -189,7 +188,7 @@
         "ID": 105,
         "DisplayName": {
           "Namespace": "WeeklyChallenges",
-          "Key": "DisplayName_105",
+          "Key": "105_DisplayName",
           "SourceString": "Win a Match with the Highest Score"
         },
         "DisplayImage": {
@@ -252,7 +251,7 @@
         "ID": 200,
         "DisplayName": {
           "Namespace": "WeeklyChallenges",
-          "Key": "DisplayName_200",
+          "Key": "200_DisplayName",
           "SourceString": "Get 10 Kills with the BFB"
         },
         "DisplayImage": {
@@ -284,7 +283,7 @@
         "ID": 201,
         "DisplayName": {
           "Namespace": "WeeklyChallenges",
-          "Key": "DisplayName_201",
+          "Key": "201_DisplayName",
           "SourceString": "Get 30 Kills on Foregone Destruction"
         },
         "DisplayImage": {
@@ -315,9 +314,8 @@
         "ExcludedPlaylists": [],
         "ID": 202,
         "DisplayName": {
-          "Namespace": "WeeklyChallenges",
-          "Key": "DisplayName_202",
-          "SourceString": "Get 10 Double Kills"
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Get_n_DoubleKills"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -347,9 +345,8 @@
         "ExcludedPlaylists": [],
         "ID": 203,
         "DisplayName": {
-          "Namespace": "WeeklyChallenges",
-          "Key": "DisplayName_203",
-          "SourceString": "Win 5 Matches"
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Win_n_Matches"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -380,7 +377,7 @@
         "ID": 204,
         "DisplayName": {
           "Namespace": "WeeklyChallenges",
-          "Key": "DisplayName_204",
+          "Key": "204_DisplayName",
           "SourceString": "Complete the Impact Race"
         },
         "DisplayImage": {
@@ -412,7 +409,7 @@
         "ID": 205,
         "DisplayName": {
           "Namespace": "WeeklyChallenges",
-          "Key": "DisplayName_205",
+          "Key": "205_DisplayName",
           "SourceString": "Get 30 Kills in Free For all"
         },
         "DisplayImage": {
@@ -474,9 +471,8 @@
         "ExcludedPlaylists": [],
         "ID": 300,
         "DisplayName": {
-          "Namespace": "WeeklyChallenges",
-          "Key": "DisplayName_300",
-          "SourceString": "Play 10 Matches"
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Play_n_Matches"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -507,7 +503,7 @@
         "ID": 301,
         "DisplayName": {
           "Namespace": "WeeklyChallenges",
-          "Key": "DisplayName_301",
+          "Key": "301_DisplayName",
           "SourceString": "Complete the Crag Race"
         },
         "DisplayImage": {
@@ -539,7 +535,7 @@
         "ID": 302,
         "DisplayName": {
           "Namespace": "WeeklyChallenges",
-          "Key": "DisplayName_302",
+          "Key": "302_DisplayName",
           "SourceString": "Win 3 Matches of Takedown"
         },
         "DisplayImage": {
@@ -571,7 +567,7 @@
         "ID": 303,
         "DisplayName": {
           "Namespace": "WeeklyChallenges",
-          "Key": "DisplayName_303",
+          "Key": "303_DisplayName",
           "SourceString": "Get 10 Kills with the Battle Rifle"
         },
         "DisplayImage": {
@@ -603,7 +599,7 @@
         "ID": 304,
         "DisplayName": {
           "Namespace": "WeeklyChallenges",
-          "Key": "DisplayName_304",
+          "Key": "304_DisplayName",
           "SourceString": "Get 30 Kills with the Assault Rifle or SMG"
         },
         "DisplayImage": {
@@ -635,7 +631,7 @@
         "ID": 305,
         "DisplayName": {
           "Namespace": "WeeklyChallenges",
-          "Key": "DisplayName_305",
+          "Key": "305_DisplayName",
           "SourceString": "Win a Match with the Fewest Deaths"
         },
         "DisplayImage": {
@@ -698,7 +694,7 @@
         "ID": 400,
         "DisplayName": {
           "Namespace": "WeeklyChallenges",
-          "Key": "DisplayName_400",
+          "Key": "400_DisplayName",
           "SourceString": "Get 10 Kills with the Rocket Launcher"
         },
         "DisplayImage": {
@@ -729,9 +725,8 @@
         "ExcludedPlaylists": [],
         "ID": 401,
         "DisplayName": {
-          "Namespace": "WeeklyChallenges",
-          "Key": "DisplayName_401",
-          "SourceString": "Win 3 Matches of King of the Hill"
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Play_n_Matches"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -761,9 +756,8 @@
         "ExcludedPlaylists": [],
         "ID": 402,
         "DisplayName": {
-          "Namespace": "WeeklyChallenges",
-          "Key": "DisplayName_402",
-          "SourceString": "Get 2 Triple Kills"
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Get_n_TripleKills"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -793,9 +787,8 @@
         "ExcludedPlaylists": [],
         "ID": 403,
         "DisplayName": {
-          "Namespace": "WeeklyChallenges",
-          "Key": "DisplayName_403",
-          "SourceString": "Get 100 Kills"
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_n_Kills"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -826,7 +819,7 @@
         "ID": 404,
         "DisplayName": {
           "Namespace": "WeeklyChallenges",
-          "Key": "DisplayName_404",
+          "Key": "404_DisplayName",
           "SourceString": "Complete the Stadium Race"
         },
         "DisplayImage": {
@@ -858,7 +851,7 @@
         "ID": 405,
         "DisplayName": {
           "Namespace": "WeeklyChallenges",
-          "Key": "DisplayName_405",
+          "Key": "405_DisplayName",
           "SourceString": "Win 3 Matches of King of the Hill"
         },
         "DisplayImage": {
@@ -920,9 +913,8 @@
         "ExcludedPlaylists": [],
         "ID": 500,
         "DisplayName": {
-          "Namespace": "WeeklyChallenges",
-          "Key": "DisplayName_500",
-          "SourceString": "Win 5 Matches"
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Win_n_Matches"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -953,7 +945,7 @@
         "ID": 501,
         "DisplayName": {
           "Namespace": "WeeklyChallenges",
-          "Key": "DisplayName_501",
+          "Key": "501_DisplayName",
           "SourceString": "Complete the Abyss Race"
         },
         "DisplayImage": {
@@ -985,7 +977,7 @@
         "ID": 502,
         "DisplayName": {
           "Namespace": "WeeklyChallenges",
-          "Key": "DisplayName_502",
+          "Key": "502_DisplayName",
           "SourceString": "Get 30 Kills in Team Shotty Snipers"
         },
         "DisplayImage": {
@@ -1017,7 +1009,7 @@
         "ID": 503,
         "DisplayName": {
           "Namespace": "WeeklyChallenges",
-          "Key": "DisplayName_503",
+          "Key": "503_DisplayName",
           "SourceString": "Get 10 Kills with the Plasma Rifle"
         },
         "DisplayImage": {
@@ -1049,7 +1041,7 @@
         "ID": 504,
         "DisplayName": {
           "Namespace": "WeeklyChallenges",
-          "Key": "DisplayName_504",
+          "Key": "504_DisplayName",
           "SourceString": "Win 3 Matches of Domination"
         },
         "DisplayImage": {
@@ -1081,7 +1073,7 @@
         "ID": 505,
         "DisplayName": {
           "Namespace": "WeeklyChallenges",
-          "Key": "DisplayName_505",
+          "Key": "505_DisplayName",
           "SourceString": "Go Through 10 Enemy Portals"
         },
         "DisplayImage": {
@@ -1144,7 +1136,7 @@
         "ID": 600,
         "DisplayName": {
           "Namespace": "WeeklyChallenges",
-          "Key": "DisplayName_600",
+          "Key": "600_DisplayName",
           "SourceString": "Get 10 Kills with the SMG"
         },
         "DisplayImage": {
@@ -1176,7 +1168,7 @@
         "ID": 601,
         "DisplayName": {
           "Namespace": "WeeklyChallenges",
-          "Key": "DisplayName_601",
+          "Key": "601_DisplayName",
           "SourceString": "Get 30 Kills with the Carbine or Pistol"
         },
         "DisplayImage": {
@@ -1208,7 +1200,7 @@
         "ID": 602,
         "DisplayName": {
           "Namespace": "WeeklyChallenges",
-          "Key": "DisplayName_602",
+          "Key": "602_DisplayName",
           "SourceString": "Win a Match with the Most Damage"
         },
         "DisplayImage": {
@@ -1239,9 +1231,8 @@
         "ExcludedPlaylists": [],
         "ID": 603,
         "DisplayName": {
-          "Namespace": "WeeklyChallenges",
-          "Key": "DisplayName_603",
-          "SourceString": "Play 10 Matches"
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Play_n_Matches"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -1272,7 +1263,7 @@
         "ID": 604,
         "DisplayName": {
           "Namespace": "WeeklyChallenges",
-          "Key": "DisplayName_604",
+          "Key": "604_DisplayName",
           "SourceString": "Complete the Pantheon Race"
         },
         "DisplayImage": {
@@ -1304,7 +1295,7 @@
         "ID": 605,
         "DisplayName": {
           "Namespace": "WeeklyChallenges",
-          "Key": "DisplayName_605",
+          "Key": "605_DisplayName",
           "SourceString": "Get 30 Kills in Team SWAT"
         },
         "DisplayImage": {
@@ -1366,9 +1357,8 @@
         "ExcludedPlaylists": [],
         "ID": 700,
         "DisplayName": {
-          "Namespace": "WeeklyChallenges",
-          "Key": "DisplayName_700",
-          "SourceString": "Get 100 Kills"
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_n_Kills"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -1399,7 +1389,7 @@
         "ID": 701,
         "DisplayName": {
           "Namespace": "WeeklyChallenges",
-          "Key": "DisplayName_701",
+          "Key": "701_DisplayName",
           "SourceString": "Complete the Olympus Race"
         },
         "DisplayImage": {
@@ -1431,7 +1421,7 @@
         "ID": 702,
         "DisplayName": {
           "Namespace": "WeeklyChallenges",
-          "Key": "DisplayName_702",
+          "Key": "702_DisplayName",
           "SourceString": "Win 3 Matches of Team Oddball"
         },
         "DisplayImage": {
@@ -1463,7 +1453,7 @@
         "ID": 703,
         "DisplayName": {
           "Namespace": "WeeklyChallenges",
-          "Key": "DisplayName_703",
+          "Key": "703_DisplayName",
           "SourceString": "Get 10 Kills with the Shotgun"
         },
         "DisplayImage": {
@@ -1494,9 +1484,8 @@
         "ExcludedPlaylists": [],
         "ID": 704,
         "DisplayName": {
-          "Namespace": "WeeklyChallenges",
-          "Key": "DisplayName_704",
-          "SourceString": "Win 10 Matches"
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Win_n_Matches"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -1527,7 +1516,7 @@
         "ID": 705,
         "DisplayName": {
           "Namespace": "WeeklyChallenges",
-          "Key": "DisplayName_705",
+          "Key": "705_DisplayName",
           "SourceString": "Go Through 10 Friendly Portals"
         },
         "DisplayImage": {
@@ -1590,7 +1579,7 @@
         "ID": 800,
         "DisplayName": {
           "Namespace": "WeeklyChallenges",
-          "Key": "DisplayName_800",
+          "Key": "800_DisplayName",
           "SourceString": "Get 10 Kills with the Railgun"
         },
         "DisplayImage": {
@@ -1622,7 +1611,7 @@
         "ID": 801,
         "DisplayName": {
           "Namespace": "WeeklyChallenges",
-          "Key": "DisplayName_801",
+          "Key": "801_DisplayName",
           "SourceString": "Win a Match on 3 Different Maps"
         },
         "DisplayImage": {
@@ -1654,7 +1643,7 @@
         "ID": 802,
         "DisplayName": {
           "Namespace": "WeeklyChallenges",
-          "Key": "DisplayName_802",
+          "Key": "802_DisplayName",
           "SourceString": "Win a Match with the Highest Accuracy"
         },
         "DisplayImage": {
@@ -1685,9 +1674,8 @@
         "ExcludedPlaylists": [],
         "ID": 803,
         "DisplayName": {
-          "Namespace": "WeeklyChallenges",
-          "Key": "DisplayName_803",
-          "SourceString": "Win 5 Matches"
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Win_n_Matches"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -1718,7 +1706,7 @@
         "ID": 804,
         "DisplayName": {
           "Namespace": "WeeklyChallenges",
-          "Key": "DisplayName_804",
+          "Key": "804_DisplayName",
           "SourceString": "Complete the Helix Race"
         },
         "DisplayImage": {
@@ -1750,8 +1738,8 @@
         "ID": 805,
         "DisplayName": {
           "Namespace": "WeeklyChallenges",
-          "Key": "DisplayName_805",
-          "SourceString": "Win 3 Matches of VIP"
+          "Key": "805_DisplayName_Modified",
+          "SourceString": "Win 3 Matches of Showdown"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -1812,9 +1800,8 @@
         "ExcludedPlaylists": [],
         "ID": 900,
         "DisplayName": {
-          "Namespace": "WeeklyChallenges",
-          "Key": "DisplayName_900",
-          "SourceString": "Play 10 Matches"
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Play_n_Matches"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -1845,7 +1832,7 @@
         "ID": 901,
         "DisplayName": {
           "Namespace": "WeeklyChallenges",
-          "Key": "DisplayName_901",
+          "Key": "901_DisplayName",
           "SourceString": "Complete the Silo Race"
         },
         "DisplayImage": {
@@ -1877,7 +1864,7 @@
         "ID": 902,
         "DisplayName": {
           "Namespace": "WeeklyChallenges",
-          "Key": "DisplayName_902",
+          "Key": "902_DisplayName",
           "SourceString": "Get 30 Kills in Gun Game"
         },
         "DisplayImage": {
@@ -1909,7 +1896,7 @@
         "ID": 903,
         "DisplayName": {
           "Namespace": "WeeklyChallenges",
-          "Key": "DisplayName_903",
+          "Key": "903_DisplayName",
           "SourceString": "Get 10 Kills with the Sniper Rifle"
         },
         "DisplayImage": {
@@ -1941,8 +1928,8 @@
         "ID": 904,
         "DisplayName": {
           "Namespace": "WeeklyChallenges",
-          "Key": "DisplayName_904",
-          "SourceString": "Win 3 Matches on Atlantis"
+          "Key": "904_DisplayName",
+          "SourceString": "Win 3 Matches of Oddball"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -1973,7 +1960,7 @@
         "ID": 905,
         "DisplayName": {
           "Namespace": "WeeklyChallenges",
-          "Key": "DisplayName_905",
+          "Key": "905_DisplayName",
           "SourceString": "Win a Match with the Most Portal Distance"
         },
         "DisplayImage": {
@@ -2036,7 +2023,7 @@
         "ID": 1000,
         "DisplayName": {
           "Namespace": "WeeklyChallenges",
-          "Key": "DisplayName_1000",
+          "Key": "1000_DisplayName",
           "SourceString": "Get 50 Kills with the Assault Rifle"
         },
         "DisplayImage": {
@@ -2068,7 +2055,7 @@
         "ID": 1001,
         "DisplayName": {
           "Namespace": "WeeklyChallenges",
-          "Key": "DisplayName_1001",
+          "Key": "1001_DisplayName",
           "SourceString": "Get 30 Kills in Free for All"
         },
         "DisplayImage": {
@@ -2100,7 +2087,7 @@
         "ID": 1002,
         "DisplayName": {
           "Namespace": "WeeklyChallenges",
-          "Key": "DisplayName_1002",
+          "Key": "1002_DisplayName",
           "SourceString": "Destroy 20 Enemy Portals"
         },
         "DisplayImage": {
@@ -2131,9 +2118,8 @@
         "ExcludedPlaylists": [],
         "ID": 1003,
         "DisplayName": {
-          "Namespace": "WeeklyChallenges",
-          "Key": "DisplayName_1003",
-          "SourceString": "Get 100 Kills"
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_n_Kills"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -2164,7 +2150,7 @@
         "ID": 1004,
         "DisplayName": {
           "Namespace": "WeeklyChallenges",
-          "Key": "DisplayName_1004",
+          "Key": "1004_DisplayName",
           "SourceString": "Complete the Lavawell Race"
         },
         "DisplayImage": {
@@ -2196,7 +2182,7 @@
         "ID": 1005,
         "DisplayName": {
           "Namespace": "WeeklyChallenges",
-          "Key": "DisplayName_1005",
+          "Key": "1005_DisplayName",
           "SourceString": "Win 3 Matches of Domination"
         },
         "DisplayImage": {

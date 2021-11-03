@@ -118,7 +118,7 @@
           "Key": "GameModes_TeamDeathmatch"
         },
         "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/GameModes/TDM_Screenshot.TDM_Screenshot",
+          "AssetPathName": "/Game/Thumbnails/GameModes/Halloween/halloween-TDM_Screenshot.halloween-TDM_Screenshot",
           "SubPathString": ""
         },
         "DisplayImageSmall": {
@@ -354,7 +354,7 @@
           "Key": "GameModes_KingoftheHill"
         },
         "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/GameModes/KOTH_Screenshot.KOTH_Screenshot",
+          "AssetPathName": "/Game/Thumbnails/GameModes/Halloween/halloween-KOTH_Screenshot.halloween-KOTH_Screenshot",
           "SubPathString": ""
         },
         "DisplayImageSmall": {
@@ -434,9 +434,8 @@
         },
         "MatchTime": 480,
         "Description": {
-          "Namespace": "GameModes",
-          "Key": "Description_3",
-          "SourceString": "Score points by capturing and controlling the three hills. Once a hill is captured, you don't need to stay inside it."
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "GameModes_ScorePointsByCapturingThreeHills"
         },
         "ScoreFormatText": {
           "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
@@ -472,7 +471,7 @@
           "Key": "GameModes_Domination"
         },
         "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/GameModes/DOM_Screenshot.DOM_Screenshot",
+          "AssetPathName": "/Game/Thumbnails/GameModes/Halloween/halloween-DOM_Screenshot.halloween-DOM_Screenshot",
           "SubPathString": ""
         },
         "DisplayImageSmall": {
@@ -816,7 +815,7 @@
           "Key": "GameModes_TeamSWAT"
         },
         "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/GameModes/SWAT_Screenshot.SWAT_Screenshot",
+          "AssetPathName": "/Game/Thumbnails/GameModes/Halloween/halloween-SWAT_Screenshot.halloween-SWAT_Screenshot",
           "SubPathString": ""
         },
         "DisplayImageSmall": {
@@ -933,7 +932,7 @@
           "Key": "GameModes_Oddball"
         },
         "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/GameModes/Oddball_Screenshot.Oddball_Screenshot",
+          "AssetPathName": "/Game/Thumbnails/GameModes/Halloween/halloween-Oddball_Screenshot.halloween-Oddball_Screenshot",
           "SubPathString": ""
         },
         "DisplayImageSmall": {
@@ -1050,7 +1049,7 @@
           "Key": "GameModes_TeamOddball"
         },
         "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/GameModes/Oddball_Screenshot.Oddball_Screenshot",
+          "AssetPathName": "/Game/Thumbnails/GameModes/Halloween/halloween-Oddball_Screenshot.halloween-Oddball_Screenshot",
           "SubPathString": ""
         },
         "DisplayImageSmall": {
@@ -1156,7 +1155,7 @@
           "Key": "GameModes_Instagib"
         },
         "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/GameModes/Instagib_Screenshot.Instagib_Screenshot",
+          "AssetPathName": "/Game/Thumbnails/GameModes/Halloween/halloween-Instagib_Screenshot.halloween-Instagib_Screenshot",
           "SubPathString": ""
         },
         "DisplayImageSmall": {
@@ -1262,7 +1261,7 @@
           "Key": "GameModes_TeamInstagib"
         },
         "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/GameModes/Instagib_Screenshot.Instagib_Screenshot",
+          "AssetPathName": "/Game/Thumbnails/GameModes/Halloween/halloween-Instagib_Screenshot.halloween-Instagib_Screenshot",
           "SubPathString": ""
         },
         "DisplayImageSmall": {
@@ -1845,7 +1844,7 @@
           "Key": "GameModes_TeamShottySnipers"
         },
         "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/GameModes/ShottySnipes_Screenshot.ShottySnipes_Screenshot",
+          "AssetPathName": "/Game/Thumbnails/GameModes/Halloween/halloween-ShottySnipes_Screenshot.halloween-ShottySnipes_Screenshot",
           "SubPathString": ""
         },
         "DisplayImageSmall": {
@@ -1961,7 +1960,7 @@
           "Key": "GameModes_RankedTeamDeathmatch"
         },
         "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/GameModes/TDM_Screenshot.TDM_Screenshot",
+          "AssetPathName": "/Game/Thumbnails/GameModes/Halloween/halloween-TDM_Screenshot.halloween-TDM_Screenshot",
           "SubPathString": ""
         },
         "DisplayImageSmall": {
@@ -2078,7 +2077,7 @@
           "Key": "GameModes_RankedKingoftheHill"
         },
         "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/GameModes/KOTH_Screenshot.KOTH_Screenshot",
+          "AssetPathName": "/Game/Thumbnails/GameModes/Halloween/halloween-KOTH_Screenshot.halloween-KOTH_Screenshot",
           "SubPathString": ""
         },
         "DisplayImageSmall": {
@@ -2158,9 +2157,8 @@
         },
         "MatchTime": 480,
         "Description": {
-          "Namespace": "GameModes",
-          "Key": "Description_18",
-          "SourceString": "Score points by capturing and controlling the three hills. Once a hill is captured, you don't need to stay inside it. Radar is disabled."
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "GameModes_ScorePointsByCapturingThreeHillsNoRadar"
         },
         "ScoreFormatText": {
           "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
@@ -2195,7 +2193,7 @@
           "Key": "GameModes_RankedDomination"
         },
         "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/GameModes/DOM_Screenshot.DOM_Screenshot",
+          "AssetPathName": "/Game/Thumbnails/GameModes/Halloween/halloween-DOM_Screenshot.halloween-DOM_Screenshot",
           "SubPathString": ""
         },
         "DisplayImageSmall": {
@@ -3040,7 +3038,7 @@
           "Key": "GameModes_BigHeadSnipers"
         },
         "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/GameModes/BigHeadSnipers_Screenshot.BigHeadSnipers_Screenshot",
+          "AssetPathName": "/Game/Thumbnails/GameModes/Halloween/halloween-BigHeadSnipers_Screenshot.halloween-BigHeadSnipers_Screenshot",
           "SubPathString": ""
         },
         "DisplayImageSmall": {
@@ -3340,9 +3338,8 @@
         },
         "MatchTime": 480,
         "Description": {
-          "Namespace": "GameModes",
-          "Key": "Description_28",
-          "SourceString": "Score points by capturing and controlling the three hills. Once a hill is captured, you don't need to stay inside it."
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "GameModes_ScorePointsByCapturingThreeHills"
         },
         "ScoreFormatText": {
           "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
@@ -3367,7 +3364,7 @@
           "Key": "GameModes_RocketDomination"
         },
         "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/GameModes/DOM_Screenshot.DOM_Screenshot",
+          "AssetPathName": "/Game/Thumbnails/GameModes/Halloween/halloween-DOM_Screenshot.halloween-DOM_Screenshot",
           "SubPathString": ""
         },
         "DisplayImageSmall": {
@@ -3472,7 +3469,7 @@
           "Key": "GameModes_SplitBall"
         },
         "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/GameModes/Splitball_Screenshot.Splitball_Screenshot",
+          "AssetPathName": "/Game/Thumbnails/GameModes/Halloween/halloween-Splitball_Screenshot.halloween-Splitball_Screenshot",
           "SubPathString": ""
         },
         "DisplayImageSmall": {
@@ -3578,7 +3575,7 @@
           "Key": "GameModes_SuperKingofHill"
         },
         "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/GameModes/KOTH_Screenshot.KOTH_Screenshot",
+          "AssetPathName": "/Game/Thumbnails/GameModes/Halloween/halloween-KOTH_Screenshot.halloween-KOTH_Screenshot",
           "SubPathString": ""
         },
         "DisplayImageSmall": {
@@ -4511,9 +4508,8 @@
         },
         "MatchTime": 480,
         "Description": {
-          "Namespace": "GameModes",
-          "Key": "Description_37",
-          "SourceString": "Score points by capturing and controlling the three hills. Once a hill is captured, you don't need to stay inside it. Radar is disabled."
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "GameModes_ScorePointsByCapturingThreeHillsNoRadar"
         },
         "ScoreFormatText": {
           "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
@@ -4683,7 +4679,7 @@
           "Key": "GameModes_RankedTakedown"
         },
         "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/GameModes/Takedown_Screenshot.Takedown_Screenshot",
+          "AssetPathName": "/Game/Thumbnails/GameModes/Halloween/halloween-Takedown_Screenshot.halloween-Takedown_Screenshot",
           "SubPathString": ""
         },
         "DisplayImageSmall": {
@@ -4800,7 +4796,7 @@
           "Key": "GameModes_Fiesta"
         },
         "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/GameModes/Fiesta_Screenshot.Fiesta_Screenshot",
+          "AssetPathName": "/Game/Thumbnails/GameModes/Halloween/halloween-Fiesta_Screenshot.halloween-Fiesta_Screenshot",
           "SubPathString": ""
         },
         "DisplayImageSmall": {
@@ -4917,7 +4913,7 @@
           "Key": "GameModes_TeamFiesta"
         },
         "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/GameModes/Fiesta_Screenshot.Fiesta_Screenshot",
+          "AssetPathName": "/Game/Thumbnails/GameModes/Halloween/halloween-Fiesta_Screenshot.halloween-Fiesta_Screenshot",
           "SubPathString": ""
         },
         "DisplayImageSmall": {
@@ -5588,7 +5584,7 @@
           "Key": "GameModes_GunGame"
         },
         "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/GameModes/GunGame_Screenshot.GunGame_Screenshot",
+          "AssetPathName": "/Game/Thumbnails/GameModes/Halloween/halloween-GunGame_Screenshot.halloween-GunGame_Screenshot",
           "SubPathString": ""
         },
         "DisplayImageSmall": {
@@ -5723,7 +5719,7 @@
           "Key": "GameModes_Takedown"
         },
         "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/GameModes/Takedown_Screenshot.Takedown_Screenshot",
+          "AssetPathName": "/Game/Thumbnails/GameModes/Halloween/halloween-Takedown_Screenshot.halloween-Takedown_Screenshot",
           "SubPathString": ""
         },
         "DisplayImageSmall": {
@@ -5834,7 +5830,7 @@
           "Key": "GameModes_Showdown"
         },
         "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/GameModes/Showdown_Screenshot.Showdown_Screenshot",
+          "AssetPathName": "/Game/Thumbnails/GameModes/Halloween/halloween-Showdown_Screenshot.halloween-Showdown_Screenshot",
           "SubPathString": ""
         },
         "DisplayImageSmall": {
@@ -5969,7 +5965,7 @@
           "Key": "GameModes_VIPTakedown"
         },
         "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/GameModes/Takedown_Screenshot.Takedown_Screenshot",
+          "AssetPathName": "/Game/Thumbnails/GameModes/Halloween/halloween-Takedown_Screenshot.halloween-Takedown_Screenshot",
           "SubPathString": ""
         },
         "DisplayImageSmall": {
@@ -6053,7 +6049,7 @@
         "Description": {
           "Namespace": "GameModes",
           "Key": "Description_50",
-          "SourceString": "Survive the infected onslaught or eliminate all survivors to win."
+          "SourceString": "Survive as a human or eliminate enemies for points. Win by earning the most points."
         },
         "ScoreFormatText": {
           "Namespace": "GameModes",
@@ -6081,7 +6077,7 @@
           "Key": "GameModes_Contamination"
         },
         "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/GameModes/Contamination_Screenshot.Contamination_Screenshot",
+          "AssetPathName": "/Game/Thumbnails/GameModes/Halloween/halloween-Contamination_Screenshot.halloween-Contamination_Screenshot",
           "SubPathString": ""
         },
         "DisplayImageSmall": {
@@ -6207,10 +6203,9 @@
           "RespawnTime": 8,
           "MaxOvertime": 60,
           "DefaultInventoryIDs": [
-            16,
-            0
+            8
           ],
-          "PickupsEnabled": true,
+          "PickupsEnabled": false,
           "PickupOverrides": [],
           "ShouldDropWeaponPickups": true,
           "ShouldShowRadar": true,
@@ -6292,7 +6287,7 @@
           "Key": "GameModes_BigHeadSnipersKingoftheHill"
         },
         "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/GameModes/KOTH_Screenshot.KOTH_Screenshot",
+          "AssetPathName": "/Game/Thumbnails/GameModes/Halloween/halloween-KOTH_Screenshot.halloween-KOTH_Screenshot",
           "SubPathString": ""
         },
         "DisplayImageSmall": {
@@ -6313,10 +6308,9 @@
           "RespawnTime": 8,
           "MaxOvertime": 480,
           "DefaultInventoryIDs": [
-            16,
-            0
+            8
           ],
-          "PickupsEnabled": true,
+          "PickupsEnabled": false,
           "PickupOverrides": [],
           "ShouldDropWeaponPickups": true,
           "ShouldShowRadar": true,
@@ -6398,7 +6392,7 @@
           "Key": "GameModes_BigHeadSnipersDomination"
         },
         "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/GameModes/DOM_Screenshot.DOM_Screenshot",
+          "AssetPathName": "/Game/Thumbnails/GameModes/Halloween/halloween-DOM_Screenshot.halloween-DOM_Screenshot",
           "SubPathString": ""
         },
         "DisplayImageSmall": {

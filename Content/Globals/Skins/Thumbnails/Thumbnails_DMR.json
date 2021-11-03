@@ -1929,13 +1929,23 @@
           "SubPathString": ""
         }
       },
-      "0-606": {
+      "28-605": {
         "DisplayImageFeatured": {
           "AssetPathName": "None",
           "SubPathString": ""
         },
         "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/DMR/DMR_0-606_T.DMR_0-606_T",
+          "AssetPathName": "/Game/Thumbnails/DMR/DMR_28-605_T.DMR_28-605_T",
+          "SubPathString": ""
+        }
+      },
+      "0-609": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/DMR/DMR_0-609_T.DMR_0-609_T",
           "SubPathString": ""
         }
       }

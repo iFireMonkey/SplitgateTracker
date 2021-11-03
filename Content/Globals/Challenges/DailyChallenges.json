@@ -28,9 +28,8 @@
         "ExcludedPlaylists": [],
         "ID": 0,
         "DisplayName": {
-          "Namespace": "DailyChallenges",
-          "Key": "DisplayName_0",
-          "SourceString": "Win 2 Matches"
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Win_n_Matches"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -60,9 +59,8 @@
         "ExcludedPlaylists": [],
         "ID": 1,
         "DisplayName": {
-          "Namespace": "DailyChallenges",
-          "Key": "DisplayName_1",
-          "SourceString": "Get 25 Kills"
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_n_Kills"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -92,9 +90,8 @@
         "ExcludedPlaylists": [],
         "ID": 2,
         "DisplayName": {
-          "Namespace": "DailyChallenges",
-          "Key": "DisplayName_2",
-          "SourceString": "Inflict 1500 Damage"
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Inflict_n_Damage"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -125,7 +122,7 @@
         "ID": 3,
         "DisplayName": {
           "Namespace": "DailyChallenges",
-          "Key": "DisplayName_3",
+          "Key": "3_DisplayName",
           "SourceString": "Destroy 5 Enemy Portals"
         },
         "DisplayImage": {
@@ -157,7 +154,7 @@
         "ID": 4,
         "DisplayName": {
           "Namespace": "DailyChallenges",
-          "Key": "DisplayName_4",
+          "Key": "4_DisplayName",
           "SourceString": "Go Through 5 Enemy Portals"
         },
         "DisplayImage": {
@@ -189,7 +186,7 @@
         "ID": 5,
         "DisplayName": {
           "Namespace": "DailyChallenges",
-          "Key": "DisplayName_5",
+          "Key": "5_DisplayName",
           "SourceString": "Go Through 5 Friendly Portals"
         },
         "DisplayImage": {
@@ -221,7 +218,7 @@
         "ID": 6,
         "DisplayName": {
           "Namespace": "DailyChallenges",
-          "Key": "DisplayName_6",
+          "Key": "6_DisplayName",
           "SourceString": "Teabag 5 Enemies"
         },
         "DisplayImage": {
@@ -253,7 +250,7 @@
         "ID": 7,
         "DisplayName": {
           "Namespace": "DailyChallenges",
-          "Key": "DisplayName_7",
+          "Key": "7_DisplayName",
           "SourceString": "Get 10 Assist Kills"
         },
         "DisplayImage": {
@@ -284,9 +281,8 @@
         "ExcludedPlaylists": [],
         "ID": 8,
         "DisplayName": {
-          "Namespace": "DailyChallenges",
-          "Key": "DisplayName_8",
-          "SourceString": "Get 5 Melee Kills"
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_n_MeleeKills"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -316,9 +312,8 @@
         "ExcludedPlaylists": [],
         "ID": 9,
         "DisplayName": {
-          "Namespace": "DailyChallenges",
-          "Key": "DisplayName_9",
-          "SourceString": "Get 5 Kills Through Portals"
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Get_n_KillsThruPortals"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -348,9 +343,8 @@
         "ExcludedPlaylists": [],
         "ID": 10,
         "DisplayName": {
-          "Namespace": "DailyChallenges",
-          "Key": "DisplayName_10",
-          "SourceString": "Get 5 Headshot Kills"
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Get_n_HeadshotKills"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -381,7 +375,7 @@
         "ID": 11,
         "DisplayName": {
           "Namespace": "DailyChallenges",
-          "Key": "DisplayName_11",
+          "Key": "11_DisplayName",
           "SourceString": "Play 2 Matches Using Different Armors"
         },
         "DisplayImage": {
@@ -413,7 +407,7 @@
         "ID": 12,
         "DisplayName": {
           "Namespace": "DailyChallenges",
-          "Key": "DisplayName_12",
+          "Key": "12_DisplayName",
           "SourceString": "Inflict 300 Damage with the Plasma Rifle"
         },
         "DisplayImage": {
@@ -445,7 +439,7 @@
         "ID": 13,
         "DisplayName": {
           "Namespace": "DailyChallenges",
-          "Key": "DisplayName_13",
+          "Key": "13_DisplayName",
           "SourceString": "Get 3 Headshot Kills with the Battle Rifle"
         },
         "DisplayImage": {
@@ -477,7 +471,7 @@
         "ID": 14,
         "DisplayName": {
           "Namespace": "DailyChallenges",
-          "Key": "DisplayName_14",
+          "Key": "14_DisplayName",
           "SourceString": "Get 3 Headshot Kills with the Sniper Rifle"
         },
         "DisplayImage": {
@@ -509,7 +503,7 @@
         "ID": 15,
         "DisplayName": {
           "Namespace": "DailyChallenges",
-          "Key": "DisplayName_15",
+          "Key": "15_DisplayName",
           "SourceString": "Get 3 Melee Kills with the BFB"
         },
         "DisplayImage": {
@@ -541,7 +535,7 @@
         "ID": 16,
         "DisplayName": {
           "Namespace": "DailyChallenges",
-          "Key": "DisplayName_16",
+          "Key": "16_DisplayName",
           "SourceString": "Inflict 300 Damage with the SMG"
         },
         "DisplayImage": {
@@ -573,7 +567,7 @@
         "ID": 17,
         "DisplayName": {
           "Namespace": "DailyChallenges",
-          "Key": "DisplayName_17",
+          "Key": "17_DisplayName",
           "SourceString": "Get 5 Kills with the Shotgun"
         },
         "DisplayImage": {
@@ -605,7 +599,7 @@
         "ID": 18,
         "DisplayName": {
           "Namespace": "DailyChallenges",
-          "Key": "DisplayName_18",
+          "Key": "18_DisplayName",
           "SourceString": "Get 5 Kills with the Railgun"
         },
         "DisplayImage": {
@@ -637,7 +631,7 @@
         "ID": 19,
         "DisplayName": {
           "Namespace": "DailyChallenges",
-          "Key": "DisplayName_19",
+          "Key": "19_DisplayName",
           "SourceString": "Get a Kill with 5 Different Weapons"
         },
         "DisplayImage": {
@@ -669,7 +663,7 @@
         "ID": 20,
         "DisplayName": {
           "Namespace": "DailyChallenges",
-          "Key": "DisplayName_20",
+          "Key": "20_DisplayName",
           "SourceString": "Get a Double Kill"
         },
         "DisplayImage": {
@@ -701,7 +695,7 @@
         "ID": 21,
         "DisplayName": {
           "Namespace": "DailyChallenges",
-          "Key": "DisplayName_21",
+          "Key": "21_DisplayName",
           "SourceString": "Get a Killing Spree"
         },
         "DisplayImage": {
@@ -733,7 +727,7 @@
         "ID": 22,
         "DisplayName": {
           "Namespace": "DailyChallenges",
-          "Key": "DisplayName_22",
+          "Key": "22_DisplayName",
           "SourceString": "Get a Positive KDA on 2 Different Maps"
         },
         "DisplayImage": {
@@ -765,7 +759,7 @@
         "ID": 23,
         "DisplayName": {
           "Namespace": "DailyChallenges",
-          "Key": "DisplayName_23",
+          "Key": "23_DisplayName",
           "SourceString": "Get a Positive KDA in 2 Different Game Modes"
         },
         "DisplayImage": {
@@ -799,7 +793,7 @@
         "ID": 24,
         "DisplayName": {
           "Namespace": "DailyChallenges",
-          "Key": "DisplayName_24",
+          "Key": "24_DisplayName",
           "SourceString": "Score the Most Points on your team"
         },
         "DisplayImage": {
@@ -833,7 +827,7 @@
         "ID": 25,
         "DisplayName": {
           "Namespace": "DailyChallenges",
-          "Key": "DisplayName_25",
+          "Key": "25_DisplayName",
           "SourceString": "Inflict the Most Damage on your team"
         },
         "DisplayImage": {
@@ -867,7 +861,7 @@
         "ID": 26,
         "DisplayName": {
           "Namespace": "DailyChallenges",
-          "Key": "DisplayName_26",
+          "Key": "26_DisplayName",
           "SourceString": "Have the Most Assist Kills on your team"
         },
         "DisplayImage": {
@@ -901,7 +895,7 @@
         "ID": 27,
         "DisplayName": {
           "Namespace": "DailyChallenges",
-          "Key": "DisplayName_27",
+          "Key": "27_DisplayName",
           "SourceString": "Have the Fewest Deaths on your team"
         },
         "DisplayImage": {
@@ -933,7 +927,7 @@
         "ID": 28,
         "DisplayName": {
           "Namespace": "DailyChallenges",
-          "Key": "DisplayName_28",
+          "Key": "28_DisplayName",
           "SourceString": "Complete the Race on 3 Different Maps"
         },
         "DisplayImage": {
@@ -965,7 +959,7 @@
         "ID": 29,
         "DisplayName": {
           "Namespace": "DailyChallenges",
-          "Key": "DisplayName_29",
+          "Key": "29_DisplayName",
           "SourceString": "Score 50 Points in KOTH, DOM, or Oddball"
         },
         "DisplayImage": {
@@ -997,7 +991,7 @@
         "ID": 30,
         "DisplayName": {
           "Namespace": "DailyChallenges",
-          "Key": "DisplayName_30",
+          "Key": "30_DisplayName",
           "SourceString": "Kill 10 Enemies in TDM, SWAT, TBC, or Shotty Snipers"
         },
         "DisplayImage": {
@@ -1029,7 +1023,7 @@
         "ID": 31,
         "DisplayName": {
           "Namespace": "DailyChallenges",
-          "Key": "DisplayName_31",
+          "Key": "31_DisplayName",
           "SourceString": "Get 5 Headshot Kills in TDM, SWAT, TBC, or Shotty Snipers"
         },
         "DisplayImage": {
@@ -1061,7 +1055,7 @@
         "ID": 32,
         "DisplayName": {
           "Namespace": "DailyChallenges",
-          "Key": "DisplayName_32",
+          "Key": "32_DisplayName",
           "SourceString": "Score in VIP, Zombie VIP, or CTF"
         },
         "DisplayImage": {
@@ -1093,7 +1087,7 @@
         "ID": 33,
         "DisplayName": {
           "Namespace": "DailyChallenges",
-          "Key": "DisplayName_33",
+          "Key": "33_DisplayName",
           "SourceString": "Inflict 1k Damage with the AR or Pistol"
         },
         "DisplayImage": {
@@ -1125,7 +1119,7 @@
         "ID": 34,
         "DisplayName": {
           "Namespace": "DailyChallenges",
-          "Key": "DisplayName_34",
+          "Key": "34_DisplayName",
           "SourceString": "Play on 3 Different Maps"
         },
         "DisplayImage": {
@@ -1157,7 +1151,7 @@
         "ID": 35,
         "DisplayName": {
           "Namespace": "DailyChallenges",
-          "Key": "DisplayName_35",
+          "Key": "35_DisplayName",
           "SourceString": "Play 3 Different Game Modes"
         },
         "DisplayImage": {
@@ -1189,7 +1183,7 @@
         "ID": 36,
         "DisplayName": {
           "Namespace": "DailyChallenges",
-          "Key": "DisplayName_36",
+          "Key": "36_DisplayName",
           "SourceString": "Play 3 Matches with a Positive KDA"
         },
         "DisplayImage": {
@@ -1221,7 +1215,7 @@
         "ID": 37,
         "DisplayName": {
           "Namespace": "DailyChallenges",
-          "Key": "DisplayName_37",
+          "Key": "37_DisplayName",
           "SourceString": "Play 3 Matches with 12 or Fewer Deaths"
         },
         "DisplayImage": {
@@ -1253,7 +1247,7 @@
         "ID": 38,
         "DisplayName": {
           "Namespace": "DailyChallenges",
-          "Key": "DisplayName_38",
+          "Key": "38_DisplayName",
           "SourceString": "Play 3 Matches with 3 or More Assist Kills"
         },
         "DisplayImage": {
@@ -1285,7 +1279,7 @@
         "ID": 39,
         "DisplayName": {
           "Namespace": "DailyChallenges",
-          "Key": "DisplayName_39",
+          "Key": "39_DisplayName",
           "SourceString": "Get a Killing Spree on 2 Different Maps"
         },
         "DisplayImage": {
@@ -1317,7 +1311,7 @@
         "ID": 40,
         "DisplayName": {
           "Namespace": "DailyChallenges",
-          "Key": "DisplayName_40",
+          "Key": "40_DisplayName",
           "SourceString": "Get a Killection Agency"
         },
         "DisplayImage": {
@@ -1349,7 +1343,7 @@
         "ID": 41,
         "DisplayName": {
           "Namespace": "DailyChallenges",
-          "Key": "DisplayName_41",
+          "Key": "41_DisplayName",
           "SourceString": "Win a Match on a Simulation Map"
         },
         "DisplayImage": {
@@ -1381,7 +1375,7 @@
         "ID": 42,
         "DisplayName": {
           "Namespace": "DailyChallenges",
-          "Key": "DisplayName_42",
+          "Key": "42_DisplayName",
           "SourceString": "Win a Match on a Standard Map"
         },
         "DisplayImage": {
@@ -1413,7 +1407,7 @@
         "ID": 1000,
         "DisplayName": {
           "Namespace": "DailyChallenges",
-          "Key": "DisplayName_1000",
+          "Key": "1000_DisplayName",
           "SourceString": "Complete All Daily Challenges to earn a Reward"
         },
         "DisplayImage": {

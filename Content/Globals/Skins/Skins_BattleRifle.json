@@ -1193,6 +1193,45 @@
           "AssetPathName": "None",
           "SubPathString": ""
         }
+      },
+      "31": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/BattleRifle/Mesh/FPP/Legendary/BR_Halloween_FPP.BR_Halloween_FPP",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/BattleRifle/Mesh/FPP/Legendary/BR_Halloween.BR_Halloween",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "BR-Ammo",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::BattleRifle",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Reserved",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 31,
+        "DisplayName": {
+          "CultureInvariantString": "Hall-O-ween"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
       }
     }
   }

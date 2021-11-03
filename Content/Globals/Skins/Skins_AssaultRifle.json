@@ -1228,6 +1228,84 @@
           "AssetPathName": "None",
           "SubPathString": ""
         }
+      },
+      "32": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/AssaultRifle/Mesh/FPP/Legendary/AssaultRifle_Bubblegun_FPP.AssaultRifle_Bubblegun_FPP",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/AssaultRifle/Mesh/FPP/Legendary/AssaultRifle_Bubblegun.AssaultRifle_Bubblegun",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "AR-Ammo",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::AssaultRifle",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Reserved",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 32,
+        "DisplayName": {
+          "CultureInvariantString": "Bubblegun"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "33": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/AssaultRifle/Mesh/FPP/Legendary/AssaultRifle_Halloween_FPP.AssaultRifle_Halloween_FPP",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/AssaultRifle/Mesh/FPP/Legendary/AssaultRifle_Halloween.AssaultRifle_Halloween",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "AR-Ammo",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::AssaultRifle",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Reserved",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 33,
+        "DisplayName": {
+          "CultureInvariantString": "Hall-O-ween"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
       }
     }
   }

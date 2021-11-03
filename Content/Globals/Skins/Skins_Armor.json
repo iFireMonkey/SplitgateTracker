@@ -2560,7 +2560,7 @@
         "CompatibleWithAllSkins": false,
         "CustomizationType": "ECustomizationType::Armor",
         "Availability": {
-          "Availability": "ECustomizationAvailability::Normal",
+          "Availability": "ECustomizationAvailability::Reserved",
           "AvailabilityInfo": ""
         },
         "Rarity": "ECustomizationRarity::Epic",
@@ -2976,7 +2976,7 @@
         "CompatibleWithAllSkins": false,
         "CustomizationType": "ECustomizationType::Armor",
         "Availability": {
-          "Availability": "ECustomizationAvailability::Normal",
+          "Availability": "ECustomizationAvailability::Reserved",
           "AvailabilityInfo": ""
         },
         "Rarity": "ECustomizationRarity::Legendary",
@@ -3191,6 +3191,57 @@
         "ID": 82,
         "DisplayName": {
           "CultureInvariantString": "Murice"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "83": {
+        "Mesh3P": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/AllSuits/FB_83_Butcher_Hog.FB_83_Butcher_Hog",
+          "SubPathString": ""
+        },
+        "Mesh1P": {
+          "AssetPathName": "/Game/Player/FirstPerson/A83.A83",
+          "SubPathString": ""
+        },
+        "JetpackOffset": -4.0,
+        "PortalGunOffset": -1.267401,
+        "PreviewAnimation": {
+          "Animation": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "PreviewTime": 1.0
+        },
+        "PreviewMaterialInstance": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Textures/FB83_ButcherHog/Stylized/MI_Skin_Butcher.MI_Skin_Butcher",
+          "SubPathString": ""
+        },
+        "DefaultMaterialInstance": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Textures/FB83_ButcherHog/Stylized/MI_Skin_Butcher.MI_Skin_Butcher",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::Armor",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 83,
+        "DisplayName": {
+          "CultureInvariantString": "Butcher"
         },
         "DisplayImage": {
           "AssetPathName": "None",

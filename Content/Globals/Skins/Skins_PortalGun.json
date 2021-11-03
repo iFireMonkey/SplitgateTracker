@@ -345,6 +345,49 @@
           "AssetPathName": "None",
           "SubPathString": ""
         }
+      },
+      "11": {
+        "FireAnimation": {
+          "AssetPathName": "/Game/Weapons/PortalLauncher/PG_14/SK_PG_14_Shot.SK_PG_14_Shot",
+          "SubPathString": ""
+        },
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/PortalLauncher/PG_14/SK_PG_14.SK_PG_14",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/PortalLauncher/PG_14/SM_PG_14.SM_PG_14",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "None",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "/Game/Weapons/PortalLauncher/PG_14/MI_PG14_Main.MI_PG14_Main",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "",
+          "Key": "EDA0EB5048CEE0EE84D1D7A5BAF752BD",
+          "SourceString": "Butcher_PG"
+        },
+        "CompatibleWithAllSkins": true,
+        "CustomizationType": "ECustomizationType::PortalGun",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 11,
+        "DisplayName": {
+          "CultureInvariantString": "Butcher"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
       }
     }
   }

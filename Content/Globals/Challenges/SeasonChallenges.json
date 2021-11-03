@@ -29,7 +29,7 @@
         "ID": 100,
         "DisplayName": {
           "Namespace": "SeasonChallenges",
-          "Key": "DisplayName_100",
+          "Key": "100_DisplayName",
           "SourceString": "Get 5000 Score in KOTH, DOM, or Oddball"
         },
         "DisplayImage": {
@@ -60,9 +60,8 @@
         "ExcludedPlaylists": [],
         "ID": 101,
         "DisplayName": {
-          "Namespace": "SeasonChallenges",
-          "Key": "DisplayName_101",
-          "SourceString": "Play 200 Matches"
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Play_n_Matches"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -93,8 +92,8 @@
         "ID": 102,
         "DisplayName": {
           "Namespace": "SeasonChallenges",
-          "Key": "DisplayName_102",
-          "SourceString": "Win 25 Matches of Rumble Game Modes"
+          "Key": "102_DisplayName_Modified",
+          "SourceString": "Win 25 Matches of Featured Game Modes"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -124,9 +123,8 @@
         "ExcludedPlaylists": [],
         "ID": 103,
         "DisplayName": {
-          "Namespace": "SeasonChallenges",
-          "Key": "DisplayName_103",
-          "SourceString": "Win 250 Matches"
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Win_n_Matches"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -156,9 +154,8 @@
         "ExcludedPlaylists": [],
         "ID": 104,
         "DisplayName": {
-          "Namespace": "SeasonChallenges",
-          "Key": "DisplayName_104",
-          "SourceString": "Get 1500 Kills"
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_n_Kills"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -189,7 +186,7 @@
         "ID": 105,
         "DisplayName": {
           "Namespace": "SeasonChallenges",
-          "Key": "DisplayName_105",
+          "Key": "105_DisplayName",
           "SourceString": "Get 1000 Assist Kills or Revenge Kills"
         },
         "DisplayImage": {
@@ -221,7 +218,7 @@
         "ID": 106,
         "DisplayName": {
           "Namespace": "SeasonChallenges",
-          "Key": "DisplayName_106",
+          "Key": "106_DisplayName",
           "SourceString": "Win 25 Matches with the Most Kills"
         },
         "DisplayImage": {
@@ -253,7 +250,7 @@
         "ID": 107,
         "DisplayName": {
           "Namespace": "SeasonChallenges",
-          "Key": "DisplayName_107",
+          "Key": "107_DisplayName",
           "SourceString": "Inflict 150k Damage"
         },
         "DisplayImage": {
@@ -284,9 +281,8 @@
         "ExcludedPlaylists": [],
         "ID": 108,
         "DisplayName": {
-          "Namespace": "SeasonChallenges",
-          "Key": "DisplayName_108",
-          "SourceString": "Get 100 Double Kills"
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Get_n_DoubleKills"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -316,9 +312,8 @@
         "ExcludedPlaylists": [],
         "ID": 109,
         "DisplayName": {
-          "Namespace": "SeasonChallenges",
-          "Key": "DisplayName_109",
-          "SourceString": "Get 150 Kills Through Portals"
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Get_n_KillsThruPortals"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -349,7 +344,7 @@
         "ID": 110,
         "DisplayName": {
           "Namespace": "SeasonChallenges",
-          "Key": "DisplayName_110",
+          "Key": "110_DisplayName",
           "SourceString": "Get a Portal Kill"
         },
         "DisplayImage": {
@@ -381,7 +376,7 @@
         "ID": 111,
         "DisplayName": {
           "Namespace": "SeasonChallenges",
-          "Key": "DisplayName_111",
+          "Key": "111_DisplayName",
           "SourceString": "Play 100 Competitive Matches"
         },
         "DisplayImage": {
@@ -413,7 +408,7 @@
         "ID": 200,
         "DisplayName": {
           "Namespace": "SeasonChallenges",
-          "Key": "DisplayName_200",
+          "Key": "200_DisplayName",
           "SourceString": "Land 5000 Shots"
         },
         "DisplayImage": {
@@ -445,7 +440,7 @@
         "ID": 201,
         "DisplayName": {
           "Namespace": "SeasonChallenges",
-          "Key": "DisplayName_201",
+          "Key": "201_DisplayName",
           "SourceString": "Play 20 Matches in a Party"
         },
         "DisplayImage": {
@@ -477,7 +472,7 @@
         "ID": 202,
         "DisplayName": {
           "Namespace": "SeasonChallenges",
-          "Key": "DisplayName_202",
+          "Key": "202_DisplayName",
           "SourceString": "Play 10 Matches in 1 Day"
         },
         "DisplayImage": {
@@ -509,7 +504,7 @@
         "ID": 203,
         "DisplayName": {
           "Namespace": "SeasonChallenges",
-          "Key": "DisplayName_203",
+          "Key": "203_DisplayName",
           "SourceString": "Go Through 50 Friendly Portals"
         },
         "DisplayImage": {
@@ -541,7 +536,7 @@
         "ID": 204,
         "DisplayName": {
           "Namespace": "SeasonChallenges",
-          "Key": "DisplayName_204",
+          "Key": "204_DisplayName",
           "SourceString": "Win 5 Matches with Double the Score of the Opposing Team"
         },
         "DisplayImage": {
@@ -573,7 +568,7 @@
         "ID": 205,
         "DisplayName": {
           "Namespace": "SeasonChallenges",
-          "Key": "DisplayName_205",
+          "Key": "205_DisplayName",
           "SourceString": "Get 150 Assist Kills"
         },
         "DisplayImage": {
@@ -605,7 +600,7 @@
         "ID": 206,
         "DisplayName": {
           "Namespace": "SeasonChallenges",
-          "Key": "DisplayName_206",
+          "Key": "206_DisplayName",
           "SourceString": "Get 25 King Slayer Kills"
         },
         "DisplayImage": {
@@ -637,7 +632,7 @@
         "ID": 207,
         "DisplayName": {
           "Namespace": "SeasonChallenges",
-          "Key": "DisplayName_207",
+          "Key": "207_DisplayName",
           "SourceString": "Get 10 First Blood Kills"
         },
         "DisplayImage": {
@@ -669,7 +664,7 @@
         "ID": 208,
         "DisplayName": {
           "Namespace": "SeasonChallenges",
-          "Key": "DisplayName_208",
+          "Key": "208_DisplayName",
           "SourceString": "Emote in 25 Matches"
         },
         "DisplayImage": {
@@ -700,9 +695,8 @@
         "ExcludedPlaylists": [],
         "ID": 209,
         "DisplayName": {
-          "Namespace": "SeasonChallenges",
-          "Key": "DisplayName_209",
-          "SourceString": "Win 100 Matches"
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Win_n_Matches"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -732,9 +726,8 @@
         "ExcludedPlaylists": [],
         "ID": 210,
         "DisplayName": {
-          "Namespace": "SeasonChallenges",
-          "Key": "DisplayName_210",
-          "SourceString": "Get 150 Headshot Kills"
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Get_n_HeadshotKills"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -765,7 +758,7 @@
         "ID": 211,
         "DisplayName": {
           "Namespace": "SeasonChallenges",
-          "Key": "DisplayName_211",
+          "Key": "211_DisplayName",
           "SourceString": "Win 25 Matches with the Highest Score"
         },
         "DisplayImage": {
@@ -796,9 +789,8 @@
         "ExcludedPlaylists": [],
         "ID": 300,
         "DisplayName": {
-          "Namespace": "SeasonChallenges",
-          "Key": "DisplayName_300",
-          "SourceString": "Win 35 Matches"
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Win_n_Matches"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -829,7 +821,7 @@
         "ID": 301,
         "DisplayName": {
           "Namespace": "SeasonChallenges",
-          "Key": "DisplayName_301",
+          "Key": "301_DisplayName",
           "SourceString": "Get 100 Kills with the BFB or Railgun"
         },
         "DisplayImage": {
@@ -861,7 +853,7 @@
         "ID": 302,
         "DisplayName": {
           "Namespace": "SeasonChallenges",
-          "Key": "DisplayName_302",
+          "Key": "302_DisplayName",
           "SourceString": "Get 150 Revenge Kills"
         },
         "DisplayImage": {
@@ -893,7 +885,7 @@
         "ID": 303,
         "DisplayName": {
           "Namespace": "SeasonChallenges",
-          "Key": "DisplayName_303",
+          "Key": "303_DisplayName",
           "SourceString": "Inflict 50k Damage"
         },
         "DisplayImage": {
@@ -925,7 +917,7 @@
         "ID": 304,
         "DisplayName": {
           "Namespace": "SeasonChallenges",
-          "Key": "DisplayName_304",
+          "Key": "304_DisplayName",
           "SourceString": "Win a Match of 10 Different Game Modes"
         },
         "DisplayImage": {
@@ -956,9 +948,8 @@
         "ExcludedPlaylists": [],
         "ID": 305,
         "DisplayName": {
-          "Namespace": "SeasonChallenges",
-          "Key": "DisplayName_305",
-          "SourceString": "Get 500 Kills"
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_n_Kills"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -989,7 +980,7 @@
         "ID": 306,
         "DisplayName": {
           "Namespace": "SeasonChallenges",
-          "Key": "DisplayName_306",
+          "Key": "306_DisplayName",
           "SourceString": "Get 500 Score in TDM, Shotty Snipers, or SWAT"
         },
         "DisplayImage": {
@@ -1021,8 +1012,8 @@
         "ID": 307,
         "DisplayName": {
           "Namespace": "SeasonChallenges",
-          "Key": "DisplayName_307",
-          "SourceString": "Win a match of FFA, Gun Game, and One in the Chamber"
+          "Key": "307_DisplayName_Modified",
+          "SourceString": "Win a match of Instagib, Gun Game, and Contamination"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -1053,7 +1044,7 @@
         "ID": 308,
         "DisplayName": {
           "Namespace": "SeasonChallenges",
-          "Key": "DisplayName_308",
+          "Key": "308_DisplayName",
           "SourceString": "Get 100 Kills with a Sniper or Shotgun"
         },
         "DisplayImage": {
@@ -1084,9 +1075,8 @@
         "ExcludedPlaylists": [],
         "ID": 309,
         "DisplayName": {
-          "Namespace": "SeasonChallenges",
-          "Key": "DisplayName_309",
-          "SourceString": "Get 50 Headshot Kills"
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Get_n_HeadshotKills"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -1117,7 +1107,7 @@
         "ID": 310,
         "DisplayName": {
           "Namespace": "SeasonChallenges",
-          "Key": "DisplayName_310",
+          "Key": "310_DisplayName",
           "SourceString": "Get the Highest Score on your team in 20 Matches"
         },
         "DisplayImage": {
@@ -1149,7 +1139,7 @@
         "ID": 311,
         "DisplayName": {
           "Namespace": "SeasonChallenges",
-          "Key": "DisplayName_311",
+          "Key": "311_DisplayName",
           "SourceString": "Get 50 Revenge Kills"
         },
         "DisplayImage": {
@@ -1180,9 +1170,8 @@
         "ExcludedPlaylists": [],
         "ID": 400,
         "DisplayName": {
-          "Namespace": "SeasonChallenges",
-          "Key": "DisplayName_400",
-          "SourceString": "Play 75 Matches"
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Play_n_Matches"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -1213,7 +1202,7 @@
         "ID": 401,
         "DisplayName": {
           "Namespace": "SeasonChallenges",
-          "Key": "DisplayName_401",
+          "Key": "401_DisplayName",
           "SourceString": "Win a Match with 10 Assist Kills"
         },
         "DisplayImage": {
@@ -1245,7 +1234,7 @@
         "ID": 402,
         "DisplayName": {
           "Namespace": "SeasonChallenges",
-          "Key": "DisplayName_402",
+          "Key": "402_DisplayName",
           "SourceString": "Play 25 Casual Matches"
         },
         "DisplayImage": {
@@ -1277,7 +1266,7 @@
         "ID": 403,
         "DisplayName": {
           "Namespace": "SeasonChallenges",
-          "Key": "DisplayName_403",
+          "Key": "403_DisplayName",
           "SourceString": "Get 100 Assist Kills"
         },
         "DisplayImage": {
@@ -1309,7 +1298,7 @@
         "ID": 404,
         "DisplayName": {
           "Namespace": "SeasonChallenges",
-          "Key": "DisplayName_404",
+          "Key": "404_DisplayName",
           "SourceString": "Get 50 Kills on Hill in KOTH or DOM"
         },
         "DisplayImage": {
@@ -1341,7 +1330,7 @@
         "ID": 405,
         "DisplayName": {
           "Namespace": "SeasonChallenges",
-          "Key": "DisplayName_405",
+          "Key": "405_DisplayName",
           "SourceString": "Get the Most Kills on your team in 10 Matches"
         },
         "DisplayImage": {
@@ -1373,7 +1362,7 @@
         "ID": 406,
         "DisplayName": {
           "Namespace": "SeasonChallenges",
-          "Key": "DisplayName_406",
+          "Key": "406_DisplayName",
           "SourceString": "Win 50 Competitive Matches"
         },
         "DisplayImage": {
@@ -1405,7 +1394,7 @@
         "ID": 407,
         "DisplayName": {
           "Namespace": "SeasonChallenges",
-          "Key": "DisplayName_407",
+          "Key": "407_DisplayName",
           "SourceString": "Get A Collateral Kill"
         },
         "DisplayImage": {
@@ -1437,7 +1426,7 @@
         "ID": 408,
         "DisplayName": {
           "Namespace": "SeasonChallenges",
-          "Key": "DisplayName_408",
+          "Key": "408_DisplayName",
           "SourceString": "Win a Match on 10 Different Maps"
         },
         "DisplayImage": {
@@ -1469,7 +1458,7 @@
         "ID": 409,
         "DisplayName": {
           "Namespace": "SeasonChallenges",
-          "Key": "DisplayName_409",
+          "Key": "409_DisplayName",
           "SourceString": "Get 100 Kills with SMG or Battle Rifle"
         },
         "DisplayImage": {
@@ -1501,7 +1490,7 @@
         "ID": 410,
         "DisplayName": {
           "Namespace": "SeasonChallenges",
-          "Key": "DisplayName_410",
+          "Key": "410_DisplayName",
           "SourceString": "Win a Match with the Highest Score and Most Kills"
         },
         "DisplayImage": {
@@ -1533,7 +1522,7 @@
         "ID": 411,
         "DisplayName": {
           "Namespace": "SeasonChallenges",
-          "Key": "DisplayName_411",
+          "Key": "411_DisplayName",
           "SourceString": "Get 1000 Score in KOTH, DOM, or Oddball"
         },
         "DisplayImage": {
@@ -1565,7 +1554,7 @@
         "ID": 1000,
         "DisplayName": {
           "Namespace": "SeasonChallenges",
-          "Key": "DisplayName_1000",
+          "Key": "1000_DisplayName",
           "SourceString": "Complete All Free Challenges to earn the Season Reward"
         },
         "DisplayImage": {

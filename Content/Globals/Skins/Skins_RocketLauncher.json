@@ -1270,6 +1270,84 @@
           "AssetPathName": "None",
           "SubPathString": ""
         }
+      },
+      "33": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/RocketLauncher/Mesh/FPP/Legendary/RL_Bubblegun_FPP.RL_Bubblegun_FPP",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/RocketLauncher/Mesh/FPP/Legendary/RL_Bubblegun.RL_Bubblegun",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "None",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::RocketLauncher",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Reserved",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 33,
+        "DisplayName": {
+          "CultureInvariantString": "Bubblegun"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "34": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/RocketLauncher/Mesh/FPP/Legendary/RL_Halloween_FPP.RL_Halloween_FPP",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/RocketLauncher/Mesh/FPP/Legendary/RL_Halloween.RL_Halloween",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "None",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::RocketLauncher",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Reserved",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 34,
+        "DisplayName": {
+          "CultureInvariantString": "Hall-O-Ween"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
       }
     }
   }

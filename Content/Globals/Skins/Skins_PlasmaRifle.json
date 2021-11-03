@@ -1266,6 +1266,45 @@
           "AssetPathName": "None",
           "SubPathString": ""
         }
+      },
+      "33": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/PlasmaRifle/Mesh/FPP/Legendary/PlasmaRifle_Halloween_FPP.PlasmaRifle_Halloween_FPP",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/PlasmaRifle/Mesh/FPP/Legendary/PlasmaRifle_Halloween.PlasmaRifle_Halloween",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "Plasma-Ammo",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::PlasmaRifle",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 33,
+        "DisplayName": {
+          "CultureInvariantString": "Hall-O-Ween"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
       }
     }
   }

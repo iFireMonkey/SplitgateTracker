@@ -1317,6 +1317,54 @@
           "AssetPathName": "None",
           "SubPathString": ""
         }
+      },
+      "30": {
+        "Mesh": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/Jetpacks/J_83_Butcher/SK_FB83_Butcher.SK_FB83_Butcher",
+          "SubPathString": ""
+        },
+        "IdleAnimation": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/Jetpacks/J_83_Butcher/FB83_Butcher_idle.FB83_Butcher_idle",
+          "SubPathString": ""
+        },
+        "OpenAnimation": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/Jetpacks/J_83_Butcher/FB83_Butcher_idle.FB83_Butcher_idle",
+          "SubPathString": ""
+        },
+        "FlameMeshes": [
+          {
+            "AssetPathName": "/Game/Player/ThirdPerson/Mesh/Jetpacks/J_83_Butcher/SM_FB83_Butcher_Flame.SM_FB83_Butcher_Flame",
+            "SubPathString": ""
+          }
+        ],
+        "DefaultMaterialInstance": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/Jetpacks/J_83_Butcher/MI_J83_Skin_01.MI_J83_Skin_01",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::Jetpack",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 30,
+        "DisplayName": {
+          "CultureInvariantString": "Butcher"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
       }
     }
   }

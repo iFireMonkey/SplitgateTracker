@@ -1688,6 +1688,16 @@
           "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-606_T.Bat_0-606_T",
           "SubPathString": ""
         }
+      },
+      "0-618": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-618_T.Bat_0-618_T",
+          "SubPathString": ""
+        }
       }
     }
   }

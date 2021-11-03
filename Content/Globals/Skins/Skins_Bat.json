@@ -240,6 +240,45 @@
           "AssetPathName": "None",
           "SubPathString": ""
         }
+      },
+      "6": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/Bat/Mesh/FPP/Legendary/Bat_Aviator_FPP.Bat_Aviator_FPP",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/Bat/Mesh/FPP/Legendary/SM_Aviator_Bat.SM_Aviator_Bat",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "None",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::Bat",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 6,
+        "DisplayName": {
+          "CultureInvariantString": "Aviator"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
       }
     }
   }

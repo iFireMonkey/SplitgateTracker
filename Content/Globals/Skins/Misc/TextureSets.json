@@ -4695,6 +4695,77 @@
             "Textures": null
           }
         ]
+      },
+      "236": {
+        "CustomizationType": "ECustomizationType::Pistol",
+        "MeshName": "Default",
+        "TextureSetName": "PixelSpook",
+        "Slots": [
+          {
+            "SlotName": "Pistol",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Materials/MasterInstances/Graffiti/Textures/PixelSpook/PixelSpook.PixelSpook",
+                "SubPathString": ""
+              }
+            }
+          }
+        ]
+      },
+      "237": {
+        "CustomizationType": "ECustomizationType::DMR",
+        "MeshName": "Default",
+        "TextureSetName": "Foresight",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": null
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": null
+          },
+          {
+            "SlotName": "Scope",
+            "Textures": null
+          }
+        ]
+      },
+      "238": {
+        "CustomizationType": "ECustomizationType::AssaultRifle",
+        "MeshName": "Default",
+        "TextureSetName": "Candy Corn",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/AssaultRifle/Textures/Legendary/CandyCorn/MI_AR_Front_A.MI_AR_Front_A",
+                "SubPathString": ""
+              }
+            }
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/AssaultRifle/Textures/Legendary/CandyCorn/MI_AR_Rear_A.MI_AR_Rear_A",
+                "SubPathString": ""
+              }
+            }
+          }
+        ]
+      },
+      "239": {
+        "CustomizationType": "ECustomizationType::Bat",
+        "MeshName": "Default",
+        "TextureSetName": "Leak",
+        "Slots": [
+          {
+            "SlotName": "Bat",
+            "Textures": null
+          }
+        ]
       }
     }
   }

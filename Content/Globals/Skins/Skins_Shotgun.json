@@ -1230,6 +1230,45 @@
           "AssetPathName": "None",
           "SubPathString": ""
         }
+      },
+      "32": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/Shotgun/Mesh/FPP/Legendary/Shotgun_Bubblegun_FPP.Shotgun_Bubblegun_FPP",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/Shotgun/Mesh/FPP/Legendary/Shotgun_Bubblegun.Shotgun_Bubblegun",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "None",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::Shotgun",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Reserved",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 32,
+        "DisplayName": {
+          "CultureInvariantString": "Bubblegun"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
       }
     }
   }

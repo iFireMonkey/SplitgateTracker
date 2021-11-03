@@ -22,7 +22,7 @@
           "SourceString": "Stadium"
         },
         "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/Maps/StadiumScreenshot.StadiumScreenshot",
+          "AssetPathName": "/Game/Thumbnails/Maps/SpookyStadiumScreenshot.SpookyStadiumScreenshot",
           "SubPathString": ""
         },
         "DisplayImageSmall": {
@@ -463,6 +463,96 @@
         },
         "DisplayImage": {
           "AssetPathName": "/Game/Thumbnails/Maps/GolfScreenshot.GolfScreenshot",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "23": {
+        "MapName": "Drift_Blockout_WIP",
+        "Selectability": [
+          "EMapSelectability::QA"
+        ],
+        "ID": 23,
+        "DisplayName": {
+          "CultureInvariantString": "Drift (Blockout)"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/KeyArt/KeyArt.KeyArt",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "24": {
+        "MapName": "Vintage_Blockout_WIP",
+        "Selectability": [
+          "EMapSelectability::QA"
+        ],
+        "ID": 24,
+        "DisplayName": {
+          "CultureInvariantString": "Vintage (Blockout)"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/KeyArt/KeyArt.KeyArt",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "25": {
+        "MapName": "Sanctum_Blockout",
+        "Selectability": [
+          "EMapSelectability::QA"
+        ],
+        "ID": 25,
+        "DisplayName": {
+          "CultureInvariantString": "Sanctum (Blockout)"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/KeyArt/KeyArt.KeyArt",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "26": {
+        "MapName": "Neon_Sector_Blockout",
+        "Selectability": [
+          "EMapSelectability::QA"
+        ],
+        "ID": 26,
+        "DisplayName": {
+          "CultureInvariantString": "Neon Sector (Blockout)"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/KeyArt/KeyArt.KeyArt",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "27": {
+        "MapName": "Maya_Blockout",
+        "Selectability": [
+          "EMapSelectability::QA"
+        ],
+        "ID": 27,
+        "DisplayName": {
+          "CultureInvariantString": "Maya (Blockout)"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/KeyArt/KeyArt.KeyArt",
           "SubPathString": ""
         },
         "DisplayImageSmall": {

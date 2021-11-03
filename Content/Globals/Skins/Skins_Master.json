@@ -24768,7 +24768,7 @@
         "Rarity": "ECustomizationRarity::Legendary",
         "RarityOverrides": {},
         "Availability": {
-          "Availability": "ECustomizationAvailability::Challenge",
+          "Availability": "ECustomizationAvailability::Normal",
           "AvailabilityInfo": ""
         },
         "AvailabilityOverrides": [],
@@ -24811,7 +24811,7 @@
         "Rarity": "ECustomizationRarity::Rare",
         "RarityOverrides": {},
         "Availability": {
-          "Availability": "ECustomizationAvailability::Challenge",
+          "Availability": "ECustomizationAvailability::Normal",
           "AvailabilityInfo": ""
         },
         "AvailabilityOverrides": [],
@@ -24853,7 +24853,7 @@
         "Rarity": "ECustomizationRarity::Rare",
         "RarityOverrides": {},
         "Availability": {
-          "Availability": "ECustomizationAvailability::Challenge",
+          "Availability": "ECustomizationAvailability::Normal",
           "AvailabilityInfo": ""
         },
         "AvailabilityOverrides": [],
@@ -24895,7 +24895,7 @@
         "Rarity": "ECustomizationRarity::Rare",
         "RarityOverrides": {},
         "Availability": {
-          "Availability": "ECustomizationAvailability::Challenge",
+          "Availability": "ECustomizationAvailability::Normal",
           "AvailabilityInfo": ""
         },
         "AvailabilityOverrides": [],
@@ -24937,7 +24937,7 @@
         "Rarity": "ECustomizationRarity::Rare",
         "RarityOverrides": {},
         "Availability": {
-          "Availability": "ECustomizationAvailability::Challenge",
+          "Availability": "ECustomizationAvailability::Normal",
           "AvailabilityInfo": ""
         },
         "AvailabilityOverrides": [],
@@ -24979,7 +24979,7 @@
         "Rarity": "ECustomizationRarity::Rare",
         "RarityOverrides": {},
         "Availability": {
-          "Availability": "ECustomizationAvailability::Challenge",
+          "Availability": "ECustomizationAvailability::Normal",
           "AvailabilityInfo": ""
         },
         "AvailabilityOverrides": [],
@@ -25021,7 +25021,7 @@
         "Rarity": "ECustomizationRarity::Rare",
         "RarityOverrides": {},
         "Availability": {
-          "Availability": "ECustomizationAvailability::Challenge",
+          "Availability": "ECustomizationAvailability::Normal",
           "AvailabilityInfo": ""
         },
         "AvailabilityOverrides": [],
@@ -25063,7 +25063,7 @@
         "Rarity": "ECustomizationRarity::Rare",
         "RarityOverrides": {},
         "Availability": {
-          "Availability": "ECustomizationAvailability::Challenge",
+          "Availability": "ECustomizationAvailability::Normal",
           "AvailabilityInfo": ""
         },
         "AvailabilityOverrides": [],
@@ -25105,7 +25105,7 @@
         "Rarity": "ECustomizationRarity::Rare",
         "RarityOverrides": {},
         "Availability": {
-          "Availability": "ECustomizationAvailability::Challenge",
+          "Availability": "ECustomizationAvailability::Normal",
           "AvailabilityInfo": ""
         },
         "AvailabilityOverrides": [],
@@ -25147,7 +25147,7 @@
         "Rarity": "ECustomizationRarity::Rare",
         "RarityOverrides": {},
         "Availability": {
-          "Availability": "ECustomizationAvailability::Challenge",
+          "Availability": "ECustomizationAvailability::Normal",
           "AvailabilityInfo": ""
         },
         "AvailabilityOverrides": [],
@@ -25189,7 +25189,7 @@
         "Rarity": "ECustomizationRarity::Rare",
         "RarityOverrides": {},
         "Availability": {
-          "Availability": "ECustomizationAvailability::Challenge",
+          "Availability": "ECustomizationAvailability::Normal",
           "AvailabilityInfo": ""
         },
         "AvailabilityOverrides": [],
@@ -25232,7 +25232,7 @@
         "Rarity": "ECustomizationRarity::Rare",
         "RarityOverrides": {},
         "Availability": {
-          "Availability": "ECustomizationAvailability::Challenge",
+          "Availability": "ECustomizationAvailability::Normal",
           "AvailabilityInfo": ""
         },
         "AvailabilityOverrides": [],
@@ -25274,7 +25274,7 @@
         "Rarity": "ECustomizationRarity::Rare",
         "RarityOverrides": {},
         "Availability": {
-          "Availability": "ECustomizationAvailability::Challenge",
+          "Availability": "ECustomizationAvailability::Normal",
           "AvailabilityInfo": ""
         },
         "AvailabilityOverrides": [],
@@ -25316,7 +25316,7 @@
         "Rarity": "ECustomizationRarity::Rare",
         "RarityOverrides": {},
         "Availability": {
-          "Availability": "ECustomizationAvailability::Challenge",
+          "Availability": "ECustomizationAvailability::Normal",
           "AvailabilityInfo": ""
         },
         "AvailabilityOverrides": [],
@@ -25358,7 +25358,7 @@
         "Rarity": "ECustomizationRarity::Rare",
         "RarityOverrides": {},
         "Availability": {
-          "Availability": "ECustomizationAvailability::Challenge",
+          "Availability": "ECustomizationAvailability::Normal",
           "AvailabilityInfo": ""
         },
         "AvailabilityOverrides": [],
@@ -25400,7 +25400,7 @@
         "Rarity": "ECustomizationRarity::Rare",
         "RarityOverrides": {},
         "Availability": {
-          "Availability": "ECustomizationAvailability::Challenge",
+          "Availability": "ECustomizationAvailability::Normal",
           "AvailabilityInfo": ""
         },
         "AvailabilityOverrides": [],
@@ -25442,7 +25442,7 @@
         "Rarity": "ECustomizationRarity::Rare",
         "RarityOverrides": {},
         "Availability": {
-          "Availability": "ECustomizationAvailability::Challenge",
+          "Availability": "ECustomizationAvailability::Normal",
           "AvailabilityInfo": ""
         },
         "AvailabilityOverrides": [],
@@ -25485,7 +25485,7 @@
         "Rarity": "ECustomizationRarity::Rare",
         "RarityOverrides": {},
         "Availability": {
-          "Availability": "ECustomizationAvailability::Challenge",
+          "Availability": "ECustomizationAvailability::Normal",
           "AvailabilityInfo": ""
         },
         "AvailabilityOverrides": [],
@@ -25527,7 +25527,7 @@
         "Rarity": "ECustomizationRarity::Rare",
         "RarityOverrides": {},
         "Availability": {
-          "Availability": "ECustomizationAvailability::Challenge",
+          "Availability": "ECustomizationAvailability::Normal",
           "AvailabilityInfo": ""
         },
         "AvailabilityOverrides": [],
@@ -25621,7 +25621,7 @@
         "Rarity": "ECustomizationRarity::Epic",
         "RarityOverrides": {},
         "Availability": {
-          "Availability": "ECustomizationAvailability::Normal",
+          "Availability": "ECustomizationAvailability::Reserved",
           "AvailabilityInfo": ""
         },
         "AvailabilityOverrides": [],
@@ -25673,6 +25673,426 @@
         "ID": 607,
         "DisplayName": {
           "CultureInvariantString": "Chrome"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "608": {
+        "MaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/MI_Legendary_Override.MI_Legendary_Override",
+          "SubPathString": ""
+        },
+        "CompatibleWithAll": false,
+        "Compatibles": [
+          {
+            "CustomizationType": "ECustomizationType::Pistol",
+            "Meshes": [
+              "Default"
+            ]
+          }
+        ],
+        "Incompatibles": [],
+        "Rarity": "ECustomizationRarity::Rare",
+        "RarityOverrides": {},
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Challenge",
+          "AvailabilityInfo": "Halloween"
+        },
+        "AvailabilityOverrides": [],
+        "TextureSetOverrides": [
+          {
+            "CustomizationType": "ECustomizationType::Pistol",
+            "Meshes": [
+              "Default"
+            ],
+            "TextureSet": "PixelSpook"
+          }
+        ],
+        "ID": 608,
+        "DisplayName": {
+          "CultureInvariantString": "PixelSpook"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "609": {
+        "MaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Epic/MI_Skin_Foresight.MI_Skin_Foresight",
+          "SubPathString": ""
+        },
+        "CompatibleWithAll": false,
+        "Compatibles": [
+          {
+            "CustomizationType": "ECustomizationType::DMR",
+            "Meshes": [
+              "Default"
+            ]
+          }
+        ],
+        "Incompatibles": [],
+        "Rarity": "ECustomizationRarity::Rare",
+        "RarityOverrides": {},
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Challenge",
+          "AvailabilityInfo": "Halloween"
+        },
+        "AvailabilityOverrides": [],
+        "TextureSetOverrides": [],
+        "ID": 609,
+        "DisplayName": {
+          "CultureInvariantString": "Foresight"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "610": {
+        "MaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/MI_Legendary_Override.MI_Legendary_Override",
+          "SubPathString": ""
+        },
+        "CompatibleWithAll": false,
+        "Compatibles": [
+          {
+            "CustomizationType": "ECustomizationType::AssaultRifle",
+            "Meshes": [
+              "Default"
+            ]
+          }
+        ],
+        "Incompatibles": [],
+        "Rarity": "ECustomizationRarity::Rare",
+        "RarityOverrides": {},
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Challenge",
+          "AvailabilityInfo": "Halloween"
+        },
+        "AvailabilityOverrides": [],
+        "TextureSetOverrides": [
+          {
+            "CustomizationType": "ECustomizationType::AssaultRifle",
+            "Meshes": [
+              "Default"
+            ],
+            "TextureSet": "Candy Corn"
+          }
+        ],
+        "ID": 610,
+        "DisplayName": {
+          "CultureInvariantString": "Candy Corn"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "611": {
+        "MaterialInstance": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Textures/FB83_ButcherHog/Stylized/MI_Skin_Butcher.MI_Skin_Butcher",
+          "SubPathString": ""
+        },
+        "CompatibleWithAll": false,
+        "Compatibles": [
+          {
+            "CustomizationType": "ECustomizationType::Armor",
+            "Meshes": [
+              "Butcher"
+            ]
+          }
+        ],
+        "Incompatibles": [],
+        "Rarity": "ECustomizationRarity::Legendary",
+        "RarityOverrides": {},
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "AvailabilityOverrides": [],
+        "TextureSetOverrides": [],
+        "ID": 611,
+        "DisplayName": {
+          "CultureInvariantString": "Hog"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "612": {
+        "MaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/MI_Butcher_01.MI_Butcher_01",
+          "SubPathString": ""
+        },
+        "CompatibleWithAll": false,
+        "Compatibles": [
+          {
+            "CustomizationType": "ECustomizationType::Armor",
+            "Meshes": [
+              "Butcher"
+            ]
+          }
+        ],
+        "Incompatibles": [],
+        "Rarity": "ECustomizationRarity::Legendary",
+        "RarityOverrides": {},
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "AvailabilityOverrides": [],
+        "TextureSetOverrides": [],
+        "ID": 612,
+        "DisplayName": {
+          "CultureInvariantString": "DeadHog"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "613": {
+        "MaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/MI_Butcher_02.MI_Butcher_02",
+          "SubPathString": ""
+        },
+        "CompatibleWithAll": false,
+        "Compatibles": [
+          {
+            "CustomizationType": "ECustomizationType::Armor",
+            "Meshes": [
+              "Butcher"
+            ]
+          }
+        ],
+        "Incompatibles": [],
+        "Rarity": "ECustomizationRarity::Legendary",
+        "RarityOverrides": {},
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "AvailabilityOverrides": [],
+        "TextureSetOverrides": [],
+        "ID": 613,
+        "DisplayName": {
+          "CultureInvariantString": "Undead"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "614": {
+        "MaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/MI_Butcher_03.MI_Butcher_03",
+          "SubPathString": ""
+        },
+        "CompatibleWithAll": false,
+        "Compatibles": [
+          {
+            "CustomizationType": "ECustomizationType::Armor",
+            "Meshes": [
+              "Butcher"
+            ]
+          }
+        ],
+        "Incompatibles": [],
+        "Rarity": "ECustomizationRarity::Legendary",
+        "RarityOverrides": {},
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "AvailabilityOverrides": [],
+        "TextureSetOverrides": [],
+        "ID": 614,
+        "DisplayName": {
+          "CultureInvariantString": "Demon"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "615": {
+        "MaterialInstance": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/Jetpacks/J_83_Butcher/MI_J83_Skin_02.MI_J83_Skin_02",
+          "SubPathString": ""
+        },
+        "CompatibleWithAll": false,
+        "Compatibles": [
+          {
+            "CustomizationType": "ECustomizationType::Jetpack",
+            "Meshes": [
+              "JetChain"
+            ]
+          }
+        ],
+        "Incompatibles": [],
+        "Rarity": "ECustomizationRarity::Epic",
+        "RarityOverrides": {},
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "AvailabilityOverrides": [],
+        "TextureSetOverrides": [],
+        "ID": 615,
+        "DisplayName": {
+          "CultureInvariantString": "Chain of Death"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "616": {
+        "MaterialInstance": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/Jetpacks/J_83_Butcher/MI_J83_Skin_03.MI_J83_Skin_03",
+          "SubPathString": ""
+        },
+        "CompatibleWithAll": false,
+        "Compatibles": [
+          {
+            "CustomizationType": "ECustomizationType::Jetpack",
+            "Meshes": [
+              "JetChain"
+            ]
+          }
+        ],
+        "Incompatibles": [],
+        "Rarity": "ECustomizationRarity::Epic",
+        "RarityOverrides": {},
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "AvailabilityOverrides": [],
+        "TextureSetOverrides": [],
+        "ID": 616,
+        "DisplayName": {
+          "CultureInvariantString": "Demon Fire"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "617": {
+        "MaterialInstance": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/Jetpacks/J_83_Butcher/MI_J83_Skin_04.MI_J83_Skin_04",
+          "SubPathString": ""
+        },
+        "CompatibleWithAll": false,
+        "Compatibles": [
+          {
+            "CustomizationType": "ECustomizationType::Jetpack",
+            "Meshes": [
+              "JetChain"
+            ]
+          }
+        ],
+        "Incompatibles": [],
+        "Rarity": "ECustomizationRarity::Epic",
+        "RarityOverrides": {},
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "AvailabilityOverrides": [],
+        "TextureSetOverrides": [],
+        "ID": 617,
+        "DisplayName": {
+          "CultureInvariantString": "Unchained"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "618": {
+        "MaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/MI_Legendary_Override.MI_Legendary_Override",
+          "SubPathString": ""
+        },
+        "CompatibleWithAll": false,
+        "Compatibles": [
+          {
+            "CustomizationType": "ECustomizationType::Bat",
+            "Meshes": [
+              "Default"
+            ]
+          }
+        ],
+        "Incompatibles": [],
+        "Rarity": "ECustomizationRarity::Rare",
+        "RarityOverrides": {},
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Challenge",
+          "AvailabilityInfo": "Halloween"
+        },
+        "AvailabilityOverrides": [],
+        "TextureSetOverrides": [
+          {
+            "CustomizationType": "ECustomizationType::Bat",
+            "Meshes": [
+              "Default"
+            ],
+            "TextureSet": "Leak"
+          }
+        ],
+        "ID": 618,
+        "DisplayName": {
+          "CultureInvariantString": "Leak"
         },
         "DisplayImage": {
           "AssetPathName": "None",

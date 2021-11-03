@@ -6,15 +6,12 @@
       "ObjectName": "Class PortalWarsGlobals",
       "ObjectPath": "/Script/PortalWarsGlobals"
     },
-    "FuncMap": {},
     "ClassFlags": 264208,
     "ClassWithin": {
       "ObjectName": "Class Object",
       "ObjectPath": "/Script/CoreUObject"
     },
     "ClassConfigName": "Engine",
-    "ClassGeneratedBy": null,
-    "Interfaces": [],
     "bCooked": true,
     "ClassDefaultObject": {
       "ObjectName": "PortalWarsGlobals_BP_C Default__PortalWarsGlobals_BP_C",
@@ -435,6 +432,10 @@
         "EChallengeType::Season": {
           "ObjectName": "DataTable SeasonChallenges",
           "ObjectPath": "/Game/Globals/Challenges/SeasonChallenges.0"
+        },
+        "EChallengeType::Featured": {
+          "ObjectName": "DataTable HalloweenChallenges",
+          "ObjectPath": "/Game/Globals/Challenges/HalloweenChallenges.0"
         }
       },
       "CheckInRewards": {
@@ -465,32 +466,7 @@
         "ObjectName": "DataTable ReferralPass_S0",
         "ObjectPath": "/Game/Globals/Season0/ReferralPass_S0.0"
       },
-      "RewardIcons": {
-        "ERewardType::XP": {
-          "AssetPathName": "/Game/UI/Textures/XP-reward-icon.XP-reward-icon",
-          "SubPathString": ""
-        },
-        "/Game/Emblems/SprayDecal_M_104": {
-          "AssetPathName": "/Game/Emblems/SprayDecal_M",
-          "SubPathString": "\u0000\u0000\u0000\u0000e\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000¯\u0000\u0000\u0000\u0000\u0000\u0000\u0000c\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000°\u0000\u0000\u0000\u0000\u0000\u0000\u0000i\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000±\u0000\u0000\u0000\u0000\u0000\u0000\u0000g\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0015\u0001\u0000\u0000\u0000\u0000\u0000\u0000Ä\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000¨ÿÿÿÑ\u0000\u0000\u0000\u0000\u0000\u0000\u0000Ä\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000éÿÿÿÐ\u0000\u0000\u0000\u0000\u0000\u0000\u0000Ä\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000êÿÿÿÇ\u0000\u0000\u0000\u0000\u0000\u0000\u0000Ä\u0000\u0000\u0000\u0000\u0000"
-        },
-        "/Game/UI/Textures/arena-alloy-icon.arena-alloy-icon": {
-          "AssetPathName": "/Game/Emblems/SprayDecal_M_174",
-          "SubPathString": ""
-        },
-        "/Game/Emblems/SprayDecal_M": {
-          "AssetPathName": "ERewardType::DoubleXP",
-          "SubPathString": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000±\u0000\u0000\u0000\u0000\u0000\u0000\u0000g\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0015\u0001\u0000\u0000\u0000\u0000\u0000\u0000Ä\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000¨ÿÿÿÑ\u0000\u0000\u0000\u0000\u0000\u0000\u0000Ä\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000éÿÿÿÐ\u0000\u0000\u0000\u0000\u0000\u0000\u0000Ä\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000"
-        },
-        "/Game/Emblems/SprayDecal_M_176": {
-          "AssetPathName": "/Game/Emblems/SprayDecal_M_102",
-          "SubPathString": ""
-        },
-        "Unlocks": {
-          "AssetPathName": "ObjectProperty",
-          "SubPathString": "\u0000\u0000\u0000"
-        }
-      },
+      "RewardIcons": null,
       "Unlocks": {
         "ObjectName": "DataTable Unlocks",
         "ObjectPath": "/Game/Globals/Unlocks.0"
