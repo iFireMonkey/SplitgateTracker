@@ -1569,16 +1569,6 @@
           "SubPathString": ""
         }
       },
-      "22-570": {
-        "DisplayImageFeatured": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/Sniper/Sniper_22-570_T.Sniper_22-570_T",
-          "SubPathString": ""
-        }
-      },
       "23-579": {
         "DisplayImageFeatured": {
           "AssetPathName": "None",
@@ -1856,6 +1846,16 @@
         },
         "DisplayImage": {
           "AssetPathName": "/Game/Thumbnails/Sniper/Sniper_28-622_T.Sniper_28-622_T",
+          "SubPathString": ""
+        }
+      },
+      "0-570": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Sniper/Sniper_0-570_T.Sniper_0-570_T",
           "SubPathString": ""
         }
       }

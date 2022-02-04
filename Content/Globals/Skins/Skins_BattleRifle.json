@@ -25,9 +25,8 @@
           "SubPathString": ""
         },
         "DefaultSkinName": {
-          "Namespace": "LocalizedStrings",
-          "Key": "Default",
-          "SourceString": "Default"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Default"
         },
         "CompatibleWithAllSkins": true,
         "CustomizationType": "ECustomizationType::BattleRifle",
@@ -899,9 +898,8 @@
           "SubPathString": ""
         },
         "DefaultSkinName": {
-          "Namespace": "LocalizedStrings",
-          "Key": "Default",
-          "SourceString": "Default"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Default"
         },
         "CompatibleWithAllSkins": false,
         "CustomizationType": "ECustomizationType::BattleRifle",
@@ -939,9 +937,8 @@
           "SubPathString": ""
         },
         "DefaultSkinName": {
-          "Namespace": "LocalizedStrings",
-          "Key": "Default",
-          "SourceString": "Default"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Default"
         },
         "CompatibleWithAllSkins": false,
         "CustomizationType": "ECustomizationType::BattleRifle",
@@ -979,9 +976,8 @@
           "SubPathString": ""
         },
         "DefaultSkinName": {
-          "Namespace": "LocalizedStrings",
-          "Key": "Default",
-          "SourceString": "Default"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Default"
         },
         "CompatibleWithAllSkins": false,
         "CustomizationType": "ECustomizationType::BattleRifle",
@@ -1019,9 +1015,8 @@
           "SubPathString": ""
         },
         "DefaultSkinName": {
-          "Namespace": "LocalizedStrings",
-          "Key": "Default",
-          "SourceString": "Default"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Default"
         },
         "CompatibleWithAllSkins": false,
         "CustomizationType": "ECustomizationType::BattleRifle",
@@ -1059,9 +1054,8 @@
           "SubPathString": ""
         },
         "DefaultSkinName": {
-          "Namespace": "LocalizedStrings",
-          "Key": "Default",
-          "SourceString": "Default"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Default"
         },
         "CompatibleWithAllSkins": false,
         "CustomizationType": "ECustomizationType::BattleRifle",
@@ -1074,46 +1068,6 @@
         "DisplayName": {
           "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
           "Key": "Macro"
-        },
-        "DisplayImage": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "DisplayImageSmall": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        }
-      },
-      "28": {
-        "Mesh1P": {
-          "AssetPathName": "/Game/Weapons/BattleRifle/Mesh/FPP/Partner/BR_Courage_FPP.BR_Courage_FPP",
-          "SubPathString": ""
-        },
-        "Mesh3P": {
-          "AssetPathName": "/Game/Weapons/BattleRifle/Mesh/FPP/Partner/SM_BR_Courage.SM_BR_Courage",
-          "SubPathString": ""
-        },
-        "AmmoCounterSocketName": "BR-Ammo",
-        "DefaultMaterialInstance": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "DefaultSkinName": {
-          "Namespace": "LocalizedStrings",
-          "Key": "Default",
-          "SourceString": "Default"
-        },
-        "CompatibleWithAllSkins": false,
-        "CustomizationType": "ECustomizationType::BattleRifle",
-        "Availability": {
-          "Availability": "ECustomizationAvailability::Normal",
-          "AvailabilityInfo": ""
-        },
-        "Rarity": "ECustomizationRarity::Epic",
-        "ID": 28,
-        "DisplayName": {
-          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
-          "Key": "Courage"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -1139,9 +1093,8 @@
           "SubPathString": ""
         },
         "DefaultSkinName": {
-          "Namespace": "LocalizedStrings",
-          "Key": "Default",
-          "SourceString": "Default"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Default"
         },
         "CompatibleWithAllSkins": false,
         "CustomizationType": "ECustomizationType::BattleRifle",
@@ -1178,9 +1131,8 @@
           "SubPathString": ""
         },
         "DefaultSkinName": {
-          "Namespace": "LocalizedStrings",
-          "Key": "Default",
-          "SourceString": "Default"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Default"
         },
         "CompatibleWithAllSkins": false,
         "CustomizationType": "ECustomizationType::BattleRifle",
@@ -1218,9 +1170,8 @@
           "SubPathString": ""
         },
         "DefaultSkinName": {
-          "Namespace": "LocalizedStrings",
-          "Key": "Default",
-          "SourceString": "Default"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Default"
         },
         "CompatibleWithAllSkins": false,
         "CustomizationType": "ECustomizationType::BattleRifle",
@@ -1258,9 +1209,8 @@
           "SubPathString": ""
         },
         "DefaultSkinName": {
-          "Namespace": "LocalizedStrings",
-          "Key": "Default",
-          "SourceString": "Default"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Default"
         },
         "CompatibleWithAllSkins": false,
         "CustomizationType": "ECustomizationType::BattleRifle",
@@ -1298,9 +1248,8 @@
           "SubPathString": ""
         },
         "DefaultSkinName": {
-          "Namespace": "LocalizedStrings",
-          "Key": "Default",
-          "SourceString": "Default"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Default"
         },
         "CompatibleWithAllSkins": false,
         "CustomizationType": "ECustomizationType::BattleRifle",
@@ -1338,9 +1287,8 @@
           "SubPathString": ""
         },
         "DefaultSkinName": {
-          "Namespace": "LocalizedStrings",
-          "Key": "Default",
-          "SourceString": "Default"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Default"
         },
         "CompatibleWithAllSkins": false,
         "CustomizationType": "ECustomizationType::BattleRifle",
@@ -1353,6 +1301,45 @@
         "DisplayName": {
           "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
           "Key": "Casio"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "35": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/BattleRifle/Mesh/FPP/Legendary/BR_SIGMATOR_FPP.BR_SIGMATOR_FPP",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/BattleRifle/Mesh/FPP/Legendary/SM_BR_Sigmator.SM_BR_Sigmator",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "None",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::BattleRifle",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 35,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Sigmator"
         },
         "DisplayImage": {
           "AssetPathName": "None",

@@ -10,24 +10,25 @@
     },
     "Rows": {
       "0": {
-        "InternalName": "RANKED_TEAM_DEATHMATCH",
+        "InternalName": "RANKED_TEAM_HARDCORE",
         "PlaylistType": "EPlaylistType::Ranked",
         "Description": {
           "Namespace": "Playlists",
           "Key": "Description_0",
-          "SourceString": "TDM pits two teams of 4 against each other in a good ol' fashioned frag fest!"
+          "SourceString": "Two teams of 4 go head to head in various modes with competitive settings."
         },
         "IconImage": {
-          "AssetPathName": "None",
+          "AssetPathName": "/Game/Thumbnails/Icons/icon-competitive.icon-competitive",
           "SubPathString": ""
         },
         "ID": 0,
         "DisplayName": {
-          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
-          "Key": "GameModes_RankedTeamDeathmatch"
+          "Namespace": "Playlists",
+          "Key": "DisplayName_0",
+          "SourceString": "Ranked 4v4"
         },
         "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/Maps/KarmanScreenshot.KarmanScreenshot",
+          "AssetPathName": "/Game/Thumbnails/GameModes/ranked4v4-bg-keyart.ranked4v4-bg-keyart",
           "SubPathString": ""
         },
         "DisplayImageSmall": {
@@ -62,102 +63,21 @@
         }
       },
       "2": {
-        "InternalName": "RANKED_TEAM_SKIRMISH",
-        "PlaylistType": "EPlaylistType::Ranked",
-        "Description": {
-          "Namespace": "Playlists",
-          "Key": "Description_2",
-          "SourceString": "Team Skirmish pits two teams of 4 against each other in a variety of team modes"
-        },
-        "IconImage": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "ID": 2,
-        "DisplayName": {
-          "Namespace": "Playlists",
-          "Key": "DisplayName_2",
-          "SourceString": "Team Skirmish"
-        },
-        "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/Maps/StadiumScreenshot.StadiumScreenshot",
-          "SubPathString": ""
-        },
-        "DisplayImageSmall": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        }
-      },
-      "3": {
-        "InternalName": "UNRANKED_TEAM_SOCIAL",
-        "PlaylistType": "EPlaylistType::Unranked",
-        "Description": {
-          "Namespace": "Playlists",
-          "Key": "Description_3",
-          "SourceString": "Play a variety of modes in a non competitive environment."
-        },
-        "IconImage": {
-          "AssetPathName": "/Game/Thumbnails/Icons/icon-casual.icon-casual",
-          "SubPathString": ""
-        },
-        "ID": 3,
-        "DisplayName": {
-          "Namespace": "Playlists",
-          "Key": "DisplayName_3",
-          "SourceString": "Quick Play"
-        },
-        "DisplayImage": {
-          "AssetPathName": "/Game/UI/MainMenu/Play/Textures/quick-play-tile-bg.quick-play-tile-bg",
-          "SubPathString": ""
-        },
-        "DisplayImageSmall": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        }
-      },
-      "4": {
-        "InternalName": "RANKED_TEAM_HARDCORE",
-        "PlaylistType": "EPlaylistType::Ranked",
-        "Description": {
-          "Namespace": "Playlists",
-          "Key": "Description_4",
-          "SourceString": "Two teams of 4 go head to head in various modes with competitive settings."
-        },
-        "IconImage": {
-          "AssetPathName": "/Game/Thumbnails/Icons/icon-competitive.icon-competitive",
-          "SubPathString": ""
-        },
-        "ID": 4,
-        "DisplayName": {
-          "Namespace": "Playlists",
-          "Key": "DisplayName_4",
-          "SourceString": "Ranked 4v4"
-        },
-        "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/GameModes/ranked4v4-bg-keyart.ranked4v4-bg-keyart",
-          "SubPathString": ""
-        },
-        "DisplayImageSmall": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        }
-      },
-      "5": {
         "InternalName": "RANKED_DUOS",
         "PlaylistType": "EPlaylistType::Ranked",
         "Description": {
           "Namespace": "Playlists",
-          "Key": "Description_5",
+          "Key": "Description_2",
           "SourceString": "Two teams of 2 go head to head in competitive modes. Grab a friend and start fragging!"
         },
         "IconImage": {
           "AssetPathName": "/Game/Thumbnails/Icons/icon-competitive.icon-competitive",
           "SubPathString": ""
         },
-        "ID": 5,
+        "ID": 2,
         "DisplayName": {
           "Namespace": "Playlists",
-          "Key": "DisplayName_5",
+          "Key": "DisplayName_2",
           "SourceString": "Ranked 2v2"
         },
         "DisplayImage": {
@@ -169,73 +89,19 @@
           "SubPathString": ""
         }
       },
-      "6": {
-        "InternalName": "UNRANKED_TEAM_RUMBLE",
-        "PlaylistType": "EPlaylistType::Unranked",
-        "Description": {
-          "Namespace": "Playlists",
-          "Key": "Description_6",
-          "SourceString": "Play a variety of community favorite modes with modifiers"
-        },
-        "IconImage": {
-          "AssetPathName": "/Game/Thumbnails/Icons/icon-rumble.icon-rumble",
-          "SubPathString": ""
-        },
-        "ID": 6,
-        "DisplayName": {
-          "Namespace": "Playlists",
-          "Key": "DisplayName_6",
-          "SourceString": "Team Rumble"
-        },
-        "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/GameModes/rumble-bg-keyart.rumble-bg-keyart",
-          "SubPathString": ""
-        },
-        "DisplayImageSmall": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        }
-      },
-      "7": {
-        "InternalName": "UNRANKED_FREE_FOR_ALL",
-        "PlaylistType": "EPlaylistType::Unranked",
-        "Description": {
-          "Namespace": "Playlists",
-          "Key": "Description_7",
-          "SourceString": "Teamwork? Who needs teamwork? It's you against all comers in a 6 player Free-For-All!"
-        },
-        "IconImage": {
-          "AssetPathName": "/Game/Thumbnails/Icons/icon-ffa-rumble.icon-ffa-rumble",
-          "SubPathString": ""
-        },
-        "ID": 7,
-        "DisplayName": {
-          "Namespace": "Playlists",
-          "Key": "DisplayName_7",
-          "SourceString": "FFA Rumble"
-        },
-        "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/Maps/HighwindScreenshot.HighwindScreenshot",
-          "SubPathString": ""
-        },
-        "DisplayImageSmall": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        }
-      },
-      "8": {
+      "3": {
         "InternalName": "RANKED_TEAM_TAKEDOWN",
         "PlaylistType": "EPlaylistType::Ranked",
         "Description": {
           "Namespace": "Playlists",
-          "Key": "Description_8",
+          "Key": "Description_3",
           "SourceString": "Two teams of 3 go head to head in this mode.  Stay alive to win!"
         },
         "IconImage": {
           "AssetPathName": "/Game/Thumbnails/Icons/icon-takedown.icon-takedown",
           "SubPathString": ""
         },
-        "ID": 8,
+        "ID": 3,
         "DisplayName": {
           "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
           "Key": "GameModes_RankedTakedown"
@@ -249,7 +115,7 @@
           "SubPathString": ""
         }
       },
-      "9": {
+      "4": {
         "InternalName": "UNRANKED_FEATURED",
         "PlaylistType": "EPlaylistType::Featured",
         "Description": {
@@ -259,12 +125,263 @@
           "AssetPathName": "/Game/Thumbnails/Icons/icon-featured.icon-featured",
           "SubPathString": ""
         },
-        "ID": 9,
+        "ID": 4,
         "DisplayName": {
-          "CultureInvariantString": "???"
+          "Namespace": "Playlists",
+          "Key": "DisplayName_4",
+          "SourceString": "???"
         },
         "DisplayImage": {
           "AssetPathName": "/Game/UI/MainMenu/Play/Textures/question-tile-bg.question-tile-bg",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "5": {
+        "InternalName": "UNRANKED_TEAM_SOCIAL",
+        "PlaylistType": "EPlaylistType::Unranked",
+        "Description": {
+          "Namespace": "Playlists",
+          "Key": "Description_5",
+          "SourceString": "Play a variety of modes in a non competitive environment."
+        },
+        "IconImage": {
+          "AssetPathName": "/Game/Thumbnails/Icons/icon-casual.icon-casual",
+          "SubPathString": ""
+        },
+        "ID": 5,
+        "DisplayName": {
+          "Namespace": "Playlists",
+          "Key": "DisplayName_5",
+          "SourceString": "Quick Play"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/UI/MainMenu/Play/Textures/quick-play-tile-bg.quick-play-tile-bg",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "6": {
+        "InternalName": "UNRANKED_TEAM_DEATHMATCH",
+        "PlaylistType": "EPlaylistType::Unranked",
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "IconImage": {
+          "AssetPathName": "/Game/Thumbnails/Icons/icon-casual.icon-casual",
+          "SubPathString": ""
+        },
+        "ID": 6,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "GameModes_TeamDeathmatch"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/GameModes/TDM_Screenshot.TDM_Screenshot",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "7": {
+        "InternalName": "UNRANKED_TEAM_TACTICAL_DEATHMATCH",
+        "PlaylistType": "EPlaylistType::Unranked",
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "IconImage": {
+          "AssetPathName": "/Game/Thumbnails/Icons/icon-casual.icon-casual",
+          "SubPathString": ""
+        },
+        "ID": 7,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "GameModes_TacticalDeathmatch"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/GameModes/SWAT_Screenshot.SWAT_Screenshot",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "8": {
+        "InternalName": "UNRANKED_TEAM_OBJECTIVE",
+        "PlaylistType": "EPlaylistType::Unranked",
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "IconImage": {
+          "AssetPathName": "/Game/Thumbnails/Icons/icon-casual.icon-casual",
+          "SubPathString": ""
+        },
+        "ID": 8,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "GameModes_TeamObjective"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/GameModes/Playlists/unranked-team-objective-bg-keyart.unranked-team-objective-bg-keyart",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "9": {
+        "InternalName": "UNRANKED_TEAM_FIESTA",
+        "PlaylistType": "EPlaylistType::Unranked",
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "IconImage": {
+          "AssetPathName": "/Game/Thumbnails/Icons/icon-casual.icon-casual",
+          "SubPathString": ""
+        },
+        "ID": 9,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "GameModes_TeamFiesta"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/GameModes/Playlists/unranked-fiesta-bg-keyart.unranked-fiesta-bg-keyart",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "10": {
+        "InternalName": "UNRANKED_FREE_FOR_ALL",
+        "PlaylistType": "EPlaylistType::Unranked",
+        "Description": {
+          "Namespace": "Playlists",
+          "Key": "Description_10",
+          "SourceString": "Teamwork? Who needs teamwork? It's you against all comers in a 6 player Free-For-All!"
+        },
+        "IconImage": {
+          "AssetPathName": "/Game/Thumbnails/Icons/icon-ffa-rumble.icon-ffa-rumble",
+          "SubPathString": ""
+        },
+        "ID": 10,
+        "DisplayName": {
+          "Namespace": "Playlists",
+          "Key": "DisplayName_10",
+          "SourceString": "FFA Brawl"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/GameModes/Playlists/unranked-ffa-bg-keyart.unranked-ffa-bg-keyart",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "11": {
+        "InternalName": "UNRANKED_TEAM_RUMBLE",
+        "PlaylistType": "EPlaylistType::Unranked",
+        "Description": {
+          "Namespace": "Playlists",
+          "Key": "Description_11",
+          "SourceString": "Play a variety of community favorite modes with modifiers"
+        },
+        "IconImage": {
+          "AssetPathName": "/Game/Thumbnails/Icons/icon-rumble.icon-rumble",
+          "SubPathString": ""
+        },
+        "ID": 11,
+        "DisplayName": {
+          "Namespace": "Playlists",
+          "Key": "DisplayName_11",
+          "SourceString": "Team Rumble"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/GameModes/Playlists/unranked-rumble-bg-keyart.unranked-rumble-bg-keyart",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "12": {
+        "InternalName": "UNRANKED_TEAM_COMP",
+        "PlaylistType": "EPlaylistType::Unranked",
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "IconImage": {
+          "AssetPathName": "/Game/Thumbnails/Icons/icon-casual.icon-casual",
+          "SubPathString": ""
+        },
+        "ID": 12,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "GameModes_CompPractice"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/GameModes/DOM_Screenshot.DOM_Screenshot",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "13": {
+        "InternalName": "UNRANKED_TEAM_SIM",
+        "PlaylistType": "EPlaylistType::Unranked",
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "IconImage": {
+          "AssetPathName": "/Game/Thumbnails/Icons/icon-casual.icon-casual",
+          "SubPathString": ""
+        },
+        "ID": 13,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "GameModes_SearchSurvive"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/GameModes/Showdown_Screenshot.Showdown_Screenshot",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "14": {
+        "InternalName": "UNRANKED_TEAM_TAKEDOWN",
+        "PlaylistType": "EPlaylistType::Unranked",
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "IconImage": {
+          "AssetPathName": "/Game/Thumbnails/Icons/icon-casual.icon-casual",
+          "SubPathString": ""
+        },
+        "ID": 14,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "GameModes_Takedown"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/GameModes/Takedown_Screenshot.Takedown_Screenshot",
           "SubPathString": ""
         },
         "DisplayImageSmall": {

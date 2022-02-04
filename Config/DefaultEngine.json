@@ -20,9 +20,13 @@ WorldSettingsClassName=/Script/PortalWars.PortalWarsWorldSettings
 GameSingletonClassName=/Game/Globals/PortalWarsGlobals_BP.PortalWarsGlobals_BP_C
 AvoidanceManagerClassName=/Script/PortalWars.PortalWarsAvoidanceManager
 AssetManagerClassName=/Script/PortalWars.PortalWarsAssetManager
+NavigationSystemClassName=/Script/PortalWars.PortalWarsNavigationSystem
+NavigationSystemConfigClassName=/Script/PortalWars.PortalWarsNavigationSystemConfig
 DefaultBloomKernelTextureName=/Engine/EngineResources/DefaultTexture.DefaultTexture
 PreIntegratedSkinBRDFTextureName=/Engine/EngineResources/DefaultTexture.DefaultTexture
 BlueNoiseTextureName=/Engine/EngineResources/DefaultTexture.DefaultTexture
++ActiveClassRedirects=(OldClassName="NavigationSystemConfig",NewClassName="/Script/PortalWars.PortalWarsNavigationSystemConfig",InstanceOnly="true")
++ActiveClassRedirects=(OldClassName="NavigationSystemModuleConfig",NewClassName="/Script/PortalWars.PortalWarsNavigationSystemConfig",InstanceOnly="true")
 
 [HTTP]
 HttpTimeout=30
@@ -140,12 +144,12 @@ MinRegionArea=200.f
 MaxSimplificationError=1.f
 
 [/Script/NavigationSystem.NavigationSystemV1]
-bAutoCreateNavigationData=True
+bAutoCreateNavigationData=False
 bSpawnNavDataInNavBoundsLevel=False
 bAllowClientSideNavigation=False
 bShouldDiscardSubLevelNavData=True
 bTickWhilePaused=False
-bInitialBuildingLocked=False
+bInitialBuildingLocked=True
 bSkipAgentHeightCheckWhenPickingNavData=False
 DataGatheringMode=Instant
 bGenerateNavigationOnlyAroundNavigationInvokers=False
@@ -192,6 +196,8 @@ DirtyAreasUpdateFreq=60.000000
 +Profiles=(Name="UI",CollisionEnabled=QueryOnly,bCanModify=False,ObjectTypeName="WorldDynamic",CustomResponses=((Channel="WorldStatic",Response=ECR_Overlap),(Channel="WorldDynamic",Response=ECR_Overlap),(Channel="Pawn",Response=ECR_Overlap),(Channel="Camera",Response=ECR_Overlap),(Channel="PhysicsBody",Response=ECR_Overlap),(Channel="Vehicle",Response=ECR_Overlap),(Channel="Destructible",Response=ECR_Overlap)),HelpMessage="WorldStatic object that overlaps all actors by default. All new custom channels will use its own default response. ")
 +Profiles=(Name="Projectile",CollisionEnabled=QueryOnly,bCanModify=True,ObjectTypeName="Projectile",CustomResponses=((Channel="ExplosionDmgPrevention",Response=ECR_Ignore),(Channel="Spray",Response=ECR_Ignore),(Channel="Clamber",Response=ECR_Ignore)),HelpMessage="Preset for projectiles")
 +Profiles=(Name="AkSpatialAudio",CollisionEnabled=QueryOnly,bCanModify=True,ObjectTypeName="WorldStatic",CustomResponses=((Channel="WorldStatic",Response=ECR_Ignore),(Channel="WorldDynamic",Response=ECR_Ignore),(Channel="Pawn",Response=ECR_Overlap),(Channel="Visibility",Response=ECR_Ignore),(Channel="Camera",Response=ECR_Overlap),(Channel="PhysicsBody",Response=ECR_Ignore),(Channel="Vehicle",Response=ECR_Ignore),(Channel="Destructible",Response=ECR_Ignore),(Channel="Projectile",Response=ECR_Ignore),(Channel="Weapon",Response=ECR_Ignore),(Channel="PortalLauncher",Response=ECR_Ignore),(Channel="Pickup",Response=ECR_Ignore),(Channel="Portal",Response=ECR_Ignore),(Channel="PortalWall",Response=ECR_Ignore),(Channel="Teleporting",Response=ECR_Overlap),(Channel="Sound",Response=ECR_Overlap),(Channel="ExplosionDmgPrevention",Response=ECR_Ignore),(Channel="Spray",Response=ECR_Ignore),(Channel="Clamber",Response=ECR_Ignore),(Channel="PortalLauncher",Response=ECR_Ignore)),HelpMessage="For AkSpatialAudioVolume and AkAcousticPortal")
++Profiles=(Name="Interactable",CollisionEnabled=QueryAndPhysics,bCanModify=True,ObjectTypeName="WorldStatic",CustomResponses=((Channel="WorldStatic",Response=ECR_Ignore),(Channel="Interactable")),HelpMessage="Preset collision profile for interactables.")
++Profiles=(Name="InteractableNoCollision",CollisionEnabled=QueryOnly,bCanModify=True,ObjectTypeName="WorldStatic",CustomResponses=((Channel="WorldStatic",Response=ECR_Ignore),(Channel="WorldDynamic",Response=ECR_Ignore),(Channel="Pawn",Response=ECR_Ignore),(Channel="Visibility",Response=ECR_Ignore),(Channel="Camera",Response=ECR_Ignore),(Channel="PhysicsBody",Response=ECR_Ignore),(Channel="Vehicle",Response=ECR_Ignore),(Channel="Destructible",Response=ECR_Ignore),(Channel="Projectile",Response=ECR_Ignore),(Channel="Weapon",Response=ECR_Ignore),(Channel="Pickup",Response=ECR_Ignore),(Channel="Portal",Response=ECR_Ignore),(Channel="Teleporting",Response=ECR_Ignore),(Channel="Sound",Response=ECR_Ignore),(Channel="ExplosionDmgPrevention",Response=ECR_Ignore),(Channel="Spray",Response=ECR_Ignore),(Channel="Clamber",Response=ECR_Ignore),(Channel="PortalLauncher",Response=ECR_Ignore),(Channel="Interactable")),HelpMessage="Preset collision profile for interactables the player should not be able to interact with.")
 +DefaultChannelResponses=(Channel=ECC_GameTraceChannel1,DefaultResponse=ECR_Block,bTraceType=False,bStaticObject=False,Name="Projectile")
 +DefaultChannelResponses=(Channel=ECC_GameTraceChannel2,DefaultResponse=ECR_Block,bTraceType=True,bStaticObject=False,Name="Weapon")
 +DefaultChannelResponses=(Channel=ECC_GameTraceChannel3,DefaultResponse=ECR_Block,bTraceType=False,bStaticObject=False,Name="Pickup")
@@ -204,6 +210,7 @@ DirtyAreasUpdateFreq=60.000000
 +DefaultChannelResponses=(Channel=ECC_GameTraceChannel10,DefaultResponse=ECR_Block,bTraceType=True,bStaticObject=False,Name="Spray")
 +DefaultChannelResponses=(Channel=ECC_GameTraceChannel11,DefaultResponse=ECR_Block,bTraceType=True,bStaticObject=False,Name="Clamber")
 +DefaultChannelResponses=(Channel=ECC_GameTraceChannel12,DefaultResponse=ECR_Block,bTraceType=True,bStaticObject=False,Name="PortalLauncher")
++DefaultChannelResponses=(Channel=ECC_GameTraceChannel13,DefaultResponse=ECR_Ignore,bTraceType=True,bStaticObject=False,Name="Interactable")
 +EditProfiles=(Name="Trigger",CustomResponses=((Channel="Projectile",Response=ECR_Ignore),(Channel="Weapon",Response=ECR_Ignore),(Channel="PortalLauncher",Response=ECR_Ignore),(Channel="Pickup",Response=ECR_Ignore),(Channel="Portal",Response=ECR_Ignore),(Channel="PortalWall",Response=ECR_Ignore),(Channel="Teleporting",Response=ECR_Overlap),(Channel="ExplosionDmgPrevention",Response=ECR_Ignore),(Channel="Sound",Response=ECR_Ignore),(Channel="Spray",Response=ECR_Ignore),(Channel="Clamber",Response=ECR_Ignore)))
 +EditProfiles=(Name="NoCollision",CustomResponses=((Channel="ExplosionDmgPrevention",Response=ECR_Ignore),(Channel="Spray",Response=ECR_Ignore),(Channel="Weapon",Response=ECR_Ignore),(Channel="PortalLauncher",Response=ECR_Ignore),(Channel="Sound",Response=ECR_Ignore),(Channel="Clamber",Response=ECR_Ignore)))
 +EditProfiles=(Name="OverlapAll",CustomResponses=((Channel="ExplosionDmgPrevention",Response=ECR_Overlap),(Channel="Spray",Response=ECR_Overlap),(Channel="Projectile",Response=ECR_Overlap),(Channel="Weapon",Response=ECR_Overlap),(Channel="PortalLauncher",Response=ECR_Overlap),(Channel="Pickup",Response=ECR_Overlap),(Channel="PortalWall",Response=ECR_Overlap),(Channel="Teleporting",Response=ECR_Overlap),(Channel="Sound",Response=ECR_Overlap),(Channel="Clamber",Response=ECR_Ignore)))
@@ -297,6 +304,7 @@ GlobalDefaultGameMode=/Script/Engine.GameMode
 GlobalDefaultServerGameMode=None
 +GameModeClassAliases=(Name="Lobby",GameMode=/Game/Blueprints/GameModes/Lobby/LobbyGameMode_BP.LobbyGameMode_BP_C)
 +GameModeClassAliases=(Name="LobbyRace",GameMode=/Game/Blueprints/GameModes/Race/LobbyRaceGameMode_BP.LobbyRaceGameMode_BP_C)
++GameModeClassAliases=(Name="LobbyForge",GameMode=/Game/Blueprints/GameModes/Forge/LobbyForgeGameMode_BP.LobbyForgeGameMode_BP_C)
 +GameModeClassAliases=(Name="Vote",GameMode=/Game/Blueprints/GameModes/Voting/VotingGameMode_BP.VotingGameMode_BP_C)
 +GameModeClassAliases=(Name="Post",GameMode=/Game/Blueprints/GameModes/PostGame/PostGameMode_BP.PostGameMode_BP_C)
 

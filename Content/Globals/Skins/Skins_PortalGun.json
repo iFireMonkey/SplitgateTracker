@@ -439,6 +439,49 @@
           "AssetPathName": "None",
           "SubPathString": ""
         }
+      },
+      "13": {
+        "FireAnimation": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/PortalLauncher/PG_16/SK_FD_PortalGun.SK_FD_PortalGun",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/PortalLauncher/PG_16/SM_FD_PortalGun.SM_FD_PortalGun",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "None",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "/Game/Weapons/PortalLauncher/PG_16/MI_PG_16_Main.MI_PG_16_Main",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Estranged"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::PortalGun",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::BattlePass",
+          "AvailabilityInfo": "BetaSeason1"
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 13,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Foregone"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
       }
     }
   }

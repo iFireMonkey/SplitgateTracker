@@ -25,9 +25,8 @@
           "SubPathString": ""
         },
         "DefaultSkinName": {
-          "Namespace": "LocalizedStrings",
-          "Key": "Default",
-          "SourceString": "Default"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Default"
         },
         "CompatibleWithAllSkins": true,
         "CustomizationType": "ECustomizationType::Sniper",
@@ -671,9 +670,8 @@
           "SubPathString": ""
         },
         "DefaultSkinName": {
-          "Namespace": "LocalizedStrings",
-          "Key": "Default",
-          "SourceString": "Default"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Default"
         },
         "CompatibleWithAllSkins": false,
         "CustomizationType": "ECustomizationType::Sniper",
@@ -711,9 +709,8 @@
           "SubPathString": ""
         },
         "DefaultSkinName": {
-          "Namespace": "LocalizedStrings",
-          "Key": "Default",
-          "SourceString": "Default"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Default"
         },
         "CompatibleWithAllSkins": false,
         "CustomizationType": "ECustomizationType::Sniper",
@@ -751,9 +748,8 @@
           "SubPathString": ""
         },
         "DefaultSkinName": {
-          "Namespace": "LocalizedStrings",
-          "Key": "Default",
-          "SourceString": "Default"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Default"
         },
         "CompatibleWithAllSkins": false,
         "CustomizationType": "ECustomizationType::Sniper",
@@ -791,9 +787,8 @@
           "SubPathString": ""
         },
         "DefaultSkinName": {
-          "Namespace": "LocalizedStrings",
-          "Key": "Default",
-          "SourceString": "Default"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Default"
         },
         "CompatibleWithAllSkins": false,
         "CustomizationType": "ECustomizationType::Sniper",
@@ -831,9 +826,8 @@
           "SubPathString": ""
         },
         "DefaultSkinName": {
-          "Namespace": "LocalizedStrings",
-          "Key": "Default",
-          "SourceString": "Default"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Default"
         },
         "CompatibleWithAllSkins": false,
         "CustomizationType": "ECustomizationType::Sniper",
@@ -846,46 +840,6 @@
         "DisplayName": {
           "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
           "Key": "OldMagic"
-        },
-        "DisplayImage": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "DisplayImageSmall": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        }
-      },
-      "22": {
-        "Mesh1P": {
-          "AssetPathName": "/Game/Weapons/SniperRifle/Mesh/FPP/Partner/SR_Courage_FPP.SR_Courage_FPP",
-          "SubPathString": ""
-        },
-        "Mesh3P": {
-          "AssetPathName": "/Game/Weapons/SniperRifle/Mesh/FPP/Partner/SM_SR_Courage.SM_SR_Courage",
-          "SubPathString": ""
-        },
-        "AmmoCounterSocketName": "None",
-        "DefaultMaterialInstance": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "DefaultSkinName": {
-          "Namespace": "LocalizedStrings",
-          "Key": "Default",
-          "SourceString": "Default"
-        },
-        "CompatibleWithAllSkins": false,
-        "CustomizationType": "ECustomizationType::Sniper",
-        "Availability": {
-          "Availability": "ECustomizationAvailability::Normal",
-          "AvailabilityInfo": ""
-        },
-        "Rarity": "ECustomizationRarity::Epic",
-        "ID": 22,
-        "DisplayName": {
-          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
-          "Key": "Courage"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -911,9 +865,8 @@
           "SubPathString": ""
         },
         "DefaultSkinName": {
-          "Namespace": "LocalizedStrings",
-          "Key": "Default",
-          "SourceString": "Default"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Default"
         },
         "CompatibleWithAllSkins": false,
         "CustomizationType": "ECustomizationType::Sniper",
@@ -950,9 +903,8 @@
           "SubPathString": ""
         },
         "DefaultSkinName": {
-          "Namespace": "LocalizedStrings",
-          "Key": "Default",
-          "SourceString": "Default"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Default"
         },
         "CompatibleWithAllSkins": false,
         "CustomizationType": "ECustomizationType::Sniper",
@@ -990,9 +942,8 @@
           "SubPathString": ""
         },
         "DefaultSkinName": {
-          "Namespace": "LocalizedStrings",
-          "Key": "Default",
-          "SourceString": "Default"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Default"
         },
         "CompatibleWithAllSkins": false,
         "CustomizationType": "ECustomizationType::Sniper",
@@ -1030,9 +981,8 @@
           "SubPathString": ""
         },
         "DefaultSkinName": {
-          "Namespace": "LocalizedStrings",
-          "Key": "Default",
-          "SourceString": "Default"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Default"
         },
         "CompatibleWithAllSkins": false,
         "CustomizationType": "ECustomizationType::Sniper",
@@ -1070,9 +1020,8 @@
           "SubPathString": ""
         },
         "DefaultSkinName": {
-          "Namespace": "LocalizedStrings",
-          "Key": "Default",
-          "SourceString": "Default"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Default"
         },
         "CompatibleWithAllSkins": false,
         "CustomizationType": "ECustomizationType::Sniper",
@@ -1110,9 +1059,8 @@
           "SubPathString": ""
         },
         "DefaultSkinName": {
-          "Namespace": "LocalizedStrings",
-          "Key": "Default",
-          "SourceString": "Default"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Default"
         },
         "CompatibleWithAllSkins": false,
         "CustomizationType": "ECustomizationType::Sniper",
@@ -1150,9 +1098,8 @@
           "SubPathString": ""
         },
         "DefaultSkinName": {
-          "Namespace": "LocalizedStrings",
-          "Key": "Default",
-          "SourceString": "Default"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Default"
         },
         "CompatibleWithAllSkins": false,
         "CustomizationType": "ECustomizationType::Sniper",

@@ -1438,6 +1438,102 @@
           "AssetPathName": "None",
           "SubPathString": ""
         }
+      },
+      "32": {
+        "Mesh": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/Jetpacks/J_85_Foregone/SK_J_Foregone.SK_J_Foregone",
+          "SubPathString": ""
+        },
+        "IdleAnimation": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/Jetpacks/J_85_Foregone/Anim_Foregone_Jetpack_Idle_Anim.Anim_Foregone_Jetpack_Idle_Anim",
+          "SubPathString": ""
+        },
+        "OpenAnimation": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/Jetpacks/J_85_Foregone/Anim_Foregone_Jetpack_Idle_Anim.Anim_Foregone_Jetpack_Idle_Anim",
+          "SubPathString": ""
+        },
+        "FlameMeshes": [
+          {
+            "AssetPathName": "/Game/Player/ThirdPerson/Mesh/Jetpacks/J_85_Foregone/SM_FD_JetpackFlameMesh.SM_FD_JetpackFlameMesh",
+            "SubPathString": ""
+          }
+        ],
+        "DefaultMaterialInstance": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/Jetpacks/J_85_Foregone/J_85_Foregone_Main.J_85_Foregone_Main",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Estranged"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::Jetpack",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::BattlePass",
+          "AvailabilityInfo": "BetaSeason1"
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 32,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Foregone"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "33": {
+        "Mesh": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/Jetpacks/J_86_Sigmator/SK_J_Sigmator.SK_J_Sigmator",
+          "SubPathString": ""
+        },
+        "IdleAnimation": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/Jetpacks/J_86_Sigmator/Anim_J_86_Sigmator_Idle.Anim_J_86_Sigmator_Idle",
+          "SubPathString": ""
+        },
+        "OpenAnimation": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/Jetpacks/J_86_Sigmator/Anim_J_86_Sigmator_Fire.Anim_J_86_Sigmator_Fire",
+          "SubPathString": ""
+        },
+        "FlameMeshes": [
+          {
+            "AssetPathName": "/Game/Player/ThirdPerson/Mesh/Jetpacks/J_86_Sigmator/SM_J86_Sigmator_Flames.SM_J86_Sigmator_Flames",
+            "SubPathString": ""
+          }
+        ],
+        "DefaultMaterialInstance": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/Jetpacks/J_86_Sigmator/MI_J_86_Sigmator_Skin_0.MI_J_86_Sigmator_Skin_0",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Nightjump"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::Jetpack",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 33,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "SigmaDark"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
       }
     }
   }

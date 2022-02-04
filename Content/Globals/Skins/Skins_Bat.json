@@ -25,9 +25,8 @@
           "SubPathString": ""
         },
         "DefaultSkinName": {
-          "Namespace": "LocalizedStrings",
-          "Key": "Default",
-          "SourceString": "Default"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Default"
         },
         "CompatibleWithAllSkins": true,
         "CustomizationType": "ECustomizationType::Bat",
@@ -382,6 +381,46 @@
         "DisplayName": {
           "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
           "Key": "SnowFlake"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "10": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/Bat/Mesh/FPP/Legendary/Sigma_Bat_FPP.Sigma_Bat_FPP",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/Bat/Mesh/FPP/Legendary/SM_Sigma_Bat.SM_Sigma_Bat",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "None",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::Bat",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 10,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Sigmator"
         },
         "DisplayImage": {
           "AssetPathName": "None",

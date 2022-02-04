@@ -1439,16 +1439,6 @@
           "SubPathString": ""
         }
       },
-      "0-570": {
-        "DisplayImageFeatured": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-570_T.Bat_0-570_T",
-          "SubPathString": ""
-        }
-      },
       "0-572": {
         "DisplayImageFeatured": {
           "AssetPathName": "None",
@@ -1699,16 +1689,6 @@
           "SubPathString": ""
         }
       },
-      "7-605": {
-        "DisplayImageFeatured": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/Bat/Bat_7-605_T.Bat_7-605_T",
-          "SubPathString": ""
-        }
-      },
       "0-629": {
         "DisplayImageFeatured": {
           "AssetPathName": "None",
@@ -1719,6 +1699,26 @@
           "SubPathString": ""
         }
       },
+      "0-570": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-570_T.Bat_0-570_T",
+          "SubPathString": ""
+        }
+      },
+      "7-605": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_7-605_T.Bat_7-605_T",
+          "SubPathString": ""
+        }
+      },
       "9-642": {
         "DisplayImageFeatured": {
           "AssetPathName": "None",
@@ -1726,6 +1726,16 @@
         },
         "DisplayImage": {
           "AssetPathName": "/Game/Thumbnails/Bat/Bat_9-642_T.Bat_9-642_T",
+          "SubPathString": ""
+        }
+      },
+      "10-664": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_10-664_T.Bat_10-664_T",
           "SubPathString": ""
         }
       }

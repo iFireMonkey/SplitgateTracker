@@ -11228,6 +11228,56 @@
           "AssetPathName": "/Game/Thumbnails/Jetpack/Jetpack_31-0_T.Jetpack_31-0_T",
           "SubPathString": ""
         }
+      },
+      "32-0": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Jetpack/Jetpack_32-0_T.Jetpack_32-0_T",
+          "SubPathString": ""
+        }
+      },
+      "33-0": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Jetpack/Jetpack_33-0_T.Jetpack_33-0_T",
+          "SubPathString": ""
+        }
+      },
+      "33-660": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Jetpack/Jetpack_33-660_T.Jetpack_33-660_T",
+          "SubPathString": ""
+        }
+      },
+      "33-661": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Jetpack/Jetpack_33-661_T.Jetpack_33-661_T",
+          "SubPathString": ""
+        }
+      },
+      "33-662": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Jetpack/Jetpack_33-662_T.Jetpack_33-662_T",
+          "SubPathString": ""
+        }
       }
     }
   }

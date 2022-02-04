@@ -2537,13 +2537,13 @@
         },
         "DefaultSkinName": {
           "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
-          "Key": "Default"
+          "Key": "Gunslinger"
         },
         "CompatibleWithAllSkins": false,
         "CustomizationType": "ECustomizationType::Armor",
         "Availability": {
-          "Availability": "ECustomizationAvailability::Reserved",
-          "AvailabilityInfo": ""
+          "Availability": "ECustomizationAvailability::BattlePass",
+          "AvailabilityInfo": "BeteSeason1"
         },
         "Rarity": "ECustomizationRarity::Epic",
         "ID": 70,
@@ -2843,13 +2843,13 @@
         },
         "DefaultSkinName": {
           "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
-          "Key": "Default"
+          "Key": "Prowler"
         },
         "CompatibleWithAllSkins": false,
         "CustomizationType": "ECustomizationType::Armor",
         "Availability": {
-          "Availability": "ECustomizationAvailability::Normal",
-          "AvailabilityInfo": ""
+          "Availability": "ECustomizationAvailability::BattlePass",
+          "AvailabilityInfo": "BeteSeason1"
         },
         "Rarity": "ECustomizationRarity::Legendary",
         "ID": 76,
@@ -3264,6 +3264,57 @@
         "DisplayName": {
           "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
           "Key": "Santa"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "85": {
+        "Mesh3P": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/AllSuits/FB_87_SigmaBlack.FB_87_SigmaBlack",
+          "SubPathString": ""
+        },
+        "Mesh1P": {
+          "AssetPathName": "/Game/Player/FirstPerson/A_87.A_87",
+          "SubPathString": ""
+        },
+        "JetpackOffset": 0.0,
+        "PortalGunOffset": 0.0,
+        "PreviewAnimation": {
+          "Animation": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "PreviewTime": 1.0
+        },
+        "PreviewMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultMaterialInstance": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Textures/FB87_Sigma_Black/MI_Sigma_Black_Main.MI_Sigma_Black_Main",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Nightjump"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::Armor",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 85,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "SigmaDark"
         },
         "DisplayImage": {
           "AssetPathName": "None",

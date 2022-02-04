@@ -1649,16 +1649,6 @@
           "SubPathString": ""
         }
       },
-      "30-570": {
-        "DisplayImageFeatured": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/RocketLauncher/RocketLauncher_30-570_T.RocketLauncher_30-570_T",
-          "SubPathString": ""
-        }
-      },
       "31-579": {
         "DisplayImageFeatured": {
           "AssetPathName": "None",
@@ -1956,6 +1946,16 @@
         },
         "DisplayImage": {
           "AssetPathName": "/Game/Thumbnails/RocketLauncher/RocketLauncher_37-631_T.RocketLauncher_37-631_T",
+          "SubPathString": ""
+        }
+      },
+      "0-570": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/RocketLauncher/RocketLauncher_0-570_T.RocketLauncher_0-570_T",
           "SubPathString": ""
         }
       }

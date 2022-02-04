@@ -666,8 +666,8 @@
         "ID": 24,
         "DisplayName": {
           "Namespace": "NameTags",
-          "Key": "DisplayName_24",
-          "SourceString": "Season 0 Noob"
+          "Key": "BetaSeason0Noob",
+          "SourceString": "Beta S0 Noob"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -695,8 +695,8 @@
         "ID": 25,
         "DisplayName": {
           "Namespace": "NameTags",
-          "Key": "DisplayName_25",
-          "SourceString": "Season 0 Veteran"
+          "Key": "BetaSeason0Veteran",
+          "SourceString": "Beta S0 Veteran"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -840,8 +840,267 @@
         "ID": 30,
         "DisplayName": {
           "Namespace": "NameTags",
-          "Key": "DisplayName_30",
-          "SourceString": "Season 0 Recruiter"
+          "Key": "BetaSeason0Recruiter",
+          "SourceString": "Beta S0 Recruiter"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "31": {
+        "TextColor": {
+          "R": 1.0,
+          "G": 0.114338,
+          "B": 0.134234,
+          "A": 1.0,
+          "Hex": "FFFF5F66"
+        },
+        "CustomizationType": "ECustomizationType::NameTag",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::ReferralPass",
+          "AvailabilityInfo": "Season0"
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 31,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Season_0_Master"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "32": {
+        "TextColor": {
+          "R": 1.0,
+          "G": 0.114338,
+          "B": 0.134234,
+          "A": 1.0,
+          "Hex": "FFFF5F66"
+        },
+        "CustomizationType": "ECustomizationType::NameTag",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::ReferralPass",
+          "AvailabilityInfo": "Season0"
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 32,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Season_0_Champion"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "33": {
+        "TextColor": {
+          "R": 1.0,
+          "G": 0.114338,
+          "B": 0.134234,
+          "A": 1.0,
+          "Hex": "FFFF5F66"
+        },
+        "CustomizationType": "ECustomizationType::NameTag",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::BattlePass",
+          "AvailabilityInfo": "BetaSeason1"
+        },
+        "Rarity": "ECustomizationRarity::Rare",
+        "ID": 33,
+        "DisplayName": {
+          "Namespace": "NameTags",
+          "Key": "BetaSeason1Contestant",
+          "SourceString": "Beta S1 Contestant"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "34": {
+        "TextColor": {
+          "R": 1.0,
+          "G": 0.114338,
+          "B": 0.134234,
+          "A": 1.0,
+          "Hex": "FFFF5F66"
+        },
+        "CustomizationType": "ECustomizationType::NameTag",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::BattlePass",
+          "AvailabilityInfo": "BetaSeason1"
+        },
+        "Rarity": "ECustomizationRarity::Rare",
+        "ID": 34,
+        "DisplayName": {
+          "Namespace": "NameTags",
+          "Key": "BetaSeason1Noob",
+          "SourceString": "Beta S1 Noob"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "35": {
+        "TextColor": {
+          "R": 1.0,
+          "G": 0.114338,
+          "B": 0.134234,
+          "A": 1.0,
+          "Hex": "FFFF5F66"
+        },
+        "CustomizationType": "ECustomizationType::NameTag",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::BattlePass",
+          "AvailabilityInfo": "BetaSeason1"
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 35,
+        "DisplayName": {
+          "Namespace": "NameTags",
+          "Key": "BetaSeason1Veteran",
+          "SourceString": "Beta S1 Veteran"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "36": {
+        "TextColor": {
+          "R": 1.0,
+          "G": 0.114338,
+          "B": 0.134234,
+          "A": 1.0,
+          "Hex": "FFFF5F66"
+        },
+        "CustomizationType": "ECustomizationType::NameTag",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::BattlePass",
+          "AvailabilityInfo": "BetaSeason1"
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 36,
+        "DisplayName": {
+          "Namespace": "NameTags",
+          "Key": "BetaSeason1Challenger",
+          "SourceString": "Beta S1 Challenger"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "37": {
+        "TextColor": {
+          "R": 1.0,
+          "G": 0.114338,
+          "B": 0.134234,
+          "A": 1.0,
+          "Hex": "FFFF5F66"
+        },
+        "CustomizationType": "ECustomizationType::NameTag",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::ReferralPass",
+          "AvailabilityInfo": "BetaSeason1"
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 37,
+        "DisplayName": {
+          "Namespace": "NameTags",
+          "Key": "BetaSeason1Recruiter",
+          "SourceString": "Beta S1 Recruiter"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "38": {
+        "TextColor": {
+          "R": 1.0,
+          "G": 0.114338,
+          "B": 0.134234,
+          "A": 1.0,
+          "Hex": "FFFF5F66"
+        },
+        "CustomizationType": "ECustomizationType::NameTag",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::BattlePass",
+          "AvailabilityInfo": "BeteSeason1"
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 38,
+        "DisplayName": {
+          "Namespace": "NameTags",
+          "Key": "DisplayName_38",
+          "SourceString": "Hillgirl"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "23_0": {
+        "TextColor": {
+          "R": 1.0,
+          "G": 0.25,
+          "B": 0.0,
+          "A": 1.0,
+          "Hex": "FFFF8900"
+        },
+        "CustomizationType": "ECustomizationType::NameTag",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Reward",
+          "AvailabilityInfo": "BetaS0Streak"
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 23,
+        "DisplayName": {
+          "Namespace": "NameTags",
+          "Key": "DisplayName_39",
+          "SourceString": "Beta S0 Streaker"
         },
         "DisplayImage": {
           "AssetPathName": "None",

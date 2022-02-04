@@ -237,9 +237,8 @@
         },
         "ID": 9,
         "DisplayName": {
-          "Namespace": "Weapons",
-          "Key": "DisplayName_9",
-          "SourceString": "SWAT BR"
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_Battle_Rifle"
         },
         "DisplayImage": {
           "AssetPathName": "/Game/Thumbnails/Weapons/icon_weapon_battlerifle.icon_weapon_battlerifle",
@@ -262,9 +261,8 @@
         },
         "ID": 10,
         "DisplayName": {
-          "Namespace": "Weapons",
-          "Key": "DisplayName_10",
-          "SourceString": "SWAT Carbine"
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_Carbine"
         },
         "DisplayImage": {
           "AssetPathName": "/Game/Thumbnails/Weapons/icon_weapon_carbine_dmr.icon_weapon_carbine_dmr",
@@ -287,9 +285,8 @@
         },
         "ID": 11,
         "DisplayName": {
-          "Namespace": "Weapons",
-          "Key": "DisplayName_11",
-          "SourceString": "Instagib Railgun"
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_Railgun"
         },
         "DisplayImage": {
           "AssetPathName": "/Game/Thumbnails/Weapons/icon_weapon_railgun.icon_weapon_railgun",
@@ -439,6 +436,30 @@
         },
         "DisplayImage": {
           "AssetPathName": "/Game/Thumbnails/Weapons/icon_weapon_carbine_dmr.icon_weapon_carbine_dmr",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "18": {
+        "DefaultClass": {
+          "AssetPathName": "/Game/Weapons/Pistol/SWATPistol_BP.SWATPistol_BP_C",
+          "SubPathString": ""
+        },
+        "CrosshairWeaponID": 2,
+        "ShortDisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "WeaponShortName_Pistol"
+        },
+        "ID": 18,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_Pistol"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Weapons/icon_weapon_handgun.icon_weapon_handgun",
           "SubPathString": ""
         },
         "DisplayImageSmall": {

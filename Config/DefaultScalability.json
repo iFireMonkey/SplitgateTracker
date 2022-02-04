@@ -1,9 +1,25 @@
 [PostProcessQuality@0]
 r.EyeAdaptationQuality=2
 r.Tonemapper.Quality=2
+r.AmbientOcclusionLevels=0
+r.LensFlareQuality=0
+r.LightShaftQuality=0
 
 [PostProcessQuality@1]
 r.EyeAdaptationQuality=2
+r.AmbientOcclusionLevels=0
+r.LensFlareQuality=0
+r.LightShaftQuality=0
+
+[PostProcessQuality@2]
+r.AmbientOcclusionLevels=0
+r.LensFlareQuality=0
+r.LightShaftQuality=0
+
+[PostProcessQuality@3]
+r.AmbientOcclusionLevels=0
+r.LensFlareQuality=2
+r.LightShaftQuality=1
 
 [ViewDistanceQuality@0]
 r.StaticMeshLODDistanceScale=2.0
@@ -28,6 +44,18 @@ r.Streaming.MaxNumTexturesToStreamPerFrame=5
 
 [EffectsQuality@1]
 r.RefractionQuality=1
+
+[ShadowQuality@0]
+r.VolumetricFog=0
+
+[ShadowQuality@1]
+r.VolumetricFog=0
+
+[ShadowQuality@2]
+r.VolumetricFog=0
+
+[ShadowQuality@3]
+r.VolumetricFog=0
 
 [ScalabilitySettings]
 PerfIndexThresholds_ResolutionQuality="GPU 18 60 115"

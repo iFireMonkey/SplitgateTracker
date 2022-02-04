@@ -341,8 +341,8 @@
         },
         "CustomizationType": "ECustomizationType::Banner",
         "Availability": {
-          "Availability": "ECustomizationAvailability::Normal",
-          "AvailabilityInfo": ""
+          "Availability": "ECustomizationAvailability::BattlePass",
+          "AvailabilityInfo": "BeteSeason1"
         },
         "Rarity": "ECustomizationRarity::Rare",
         "ID": 13,
@@ -391,8 +391,8 @@
         },
         "CustomizationType": "ECustomizationType::Banner",
         "Availability": {
-          "Availability": "ECustomizationAvailability::Normal",
-          "AvailabilityInfo": ""
+          "Availability": "ECustomizationAvailability::BattlePass",
+          "AvailabilityInfo": "BetaSeason1"
         },
         "Rarity": "ECustomizationRarity::Rare",
         "ID": 15,
@@ -466,8 +466,8 @@
         },
         "CustomizationType": "ECustomizationType::Banner",
         "Availability": {
-          "Availability": "ECustomizationAvailability::Normal",
-          "AvailabilityInfo": ""
+          "Availability": "ECustomizationAvailability::BattlePass",
+          "AvailabilityInfo": "BeteSeason1"
         },
         "Rarity": "ECustomizationRarity::Rare",
         "ID": 18,
@@ -591,8 +591,8 @@
         },
         "CustomizationType": "ECustomizationType::Banner",
         "Availability": {
-          "Availability": "ECustomizationAvailability::Normal",
-          "AvailabilityInfo": ""
+          "Availability": "ECustomizationAvailability::BattlePass",
+          "AvailabilityInfo": "BeteSeason1"
         },
         "Rarity": "ECustomizationRarity::Rare",
         "ID": 23,
@@ -741,8 +741,8 @@
         },
         "CustomizationType": "ECustomizationType::Banner",
         "Availability": {
-          "Availability": "ECustomizationAvailability::Normal",
-          "AvailabilityInfo": ""
+          "Availability": "ECustomizationAvailability::ReferralPass",
+          "AvailabilityInfo": "BetaSeason1"
         },
         "Rarity": "ECustomizationRarity::Epic",
         "ID": 29,
@@ -816,8 +816,8 @@
         },
         "CustomizationType": "ECustomizationType::Banner",
         "Availability": {
-          "Availability": "ECustomizationAvailability::Normal",
-          "AvailabilityInfo": ""
+          "Availability": "ECustomizationAvailability::BattlePass",
+          "AvailabilityInfo": "BetaSeason1"
         },
         "Rarity": "ECustomizationRarity::Epic",
         "ID": 32,
@@ -1091,8 +1091,8 @@
         },
         "CustomizationType": "ECustomizationType::Banner",
         "Availability": {
-          "Availability": "ECustomizationAvailability::Normal",
-          "AvailabilityInfo": ""
+          "Availability": "ECustomizationAvailability::ReferralPass",
+          "AvailabilityInfo": "Season0"
         },
         "Rarity": "ECustomizationRarity::Epic",
         "ID": 43,
@@ -1141,8 +1141,8 @@
         },
         "CustomizationType": "ECustomizationType::Banner",
         "Availability": {
-          "Availability": "ECustomizationAvailability::Normal",
-          "AvailabilityInfo": ""
+          "Availability": "ECustomizationAvailability::BattlePass",
+          "AvailabilityInfo": "BeteSeason1"
         },
         "Rarity": "ECustomizationRarity::Epic",
         "ID": 45,
@@ -1197,8 +1197,7 @@
         "Rarity": "ECustomizationRarity::Epic",
         "ID": 47,
         "DisplayName": {
-          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
-          "Key": "Xtreme"
+          "CultureInvariantString": "XTREME"
         },
         "DisplayImage": {
           "AssetPathName": "/Game/Thumbnails/Banner/XboxBanner.XboxBanner",
@@ -1252,6 +1251,81 @@
         },
         "DisplayImage": {
           "AssetPathName": "/Game/Thumbnails/Banner/XboxTourneyWinner.XboxTourneyWinner",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "50": {
+        "ResourceObject": {
+          "AssetPathName": "/Game/Thumbnails/Banner/hexagonbanner1.hexagonbanner1",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Banner",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 50,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Hexo"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Banner/hexagonbanner1.hexagonbanner1",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "51": {
+        "ResourceObject": {
+          "AssetPathName": "/Game/Thumbnails/Banner/colorbannerbluepurple.colorbannerbluepurple",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Banner",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 51,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Trance"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Banner/colorbannerbluepurple.colorbannerbluepurple",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "52": {
+        "ResourceObject": {
+          "AssetPathName": "/Game/Thumbnails/Banner/NebulaBanner.NebulaBanner",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Banner",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 52,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Nebula"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Banner/NebulaBanner.NebulaBanner",
           "SubPathString": ""
         },
         "DisplayImageSmall": {

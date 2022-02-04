@@ -1799,16 +1799,6 @@
           "SubPathString": ""
         }
       },
-      "29-570": {
-        "DisplayImageFeatured": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/AssaultRifle/AssaultRifle_29-570_T.AssaultRifle_29-570_T",
-          "SubPathString": ""
-        }
-      },
       "30-579": {
         "DisplayImageFeatured": {
           "AssetPathName": "None",
@@ -2116,6 +2106,26 @@
         },
         "DisplayImage": {
           "AssetPathName": "/Game/Thumbnails/AssaultRifle/AssaultRifle_37-635_T.AssaultRifle_37-635_T",
+          "SubPathString": ""
+        }
+      },
+      "39-644": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/AssaultRifle/AssaultRifle_39-644_T.AssaultRifle_39-644_T",
+          "SubPathString": ""
+        }
+      },
+      "0-570": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/AssaultRifle/AssaultRifle_0-570_T.AssaultRifle_0-570_T",
           "SubPathString": ""
         }
       }

@@ -235,6 +235,10 @@
 		{
 			"Name": "Niagara",
 			"Enabled": true
+		},
+		{
+			"Name": "Ansel",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [

@@ -17,15 +17,15 @@
           "SubPathString": ""
         },
         "MaterialInstance": {
-          "AssetPathName": "/Game/Portals/Materials/Inner/MA_PortalInner_Plume.MA_PortalInner_Plume",
+          "AssetPathName": "/Game/Portals/Materials/V2/PortalInner/MI_PortalInner_V2_Default.MI_PortalInner_V2_Default",
           "SubPathString": ""
         },
         "RingMesh": {
-          "AssetPathName": "/Game/Portals/Meshes/Portal_Frames/SM_PortalRing_Plume.SM_PortalRing_Plume",
+          "AssetPathName": "/Game/Portals/Meshes/Portal_Frames/V2/SM_PortalFrameOverlap.SM_PortalFrameOverlap",
           "SubPathString": ""
         },
         "RingMaterialInstance": {
-          "AssetPathName": "/Game/Portals/Materials/Ring/Portal_Plume_Plume.Portal_Plume_Plume",
+          "AssetPathName": "/Game/Portals/Materials/V2/PortalFrame/MI_PortalFrame_V2_Default.MI_PortalFrame_V2_Default",
           "SubPathString": ""
         },
         "CustomizationType": "ECustomizationType::Portal",
@@ -400,8 +400,8 @@
         },
         "CustomizationType": "ECustomizationType::Portal",
         "Availability": {
-          "Availability": "ECustomizationAvailability::Normal",
-          "AvailabilityInfo": ""
+          "Availability": "ECustomizationAvailability::ReferralPass",
+          "AvailabilityInfo": "BetaSeason1"
         },
         "Rarity": "ECustomizationRarity::Epic",
         "ID": 21,
@@ -665,8 +665,7 @@
         "Rarity": "ECustomizationRarity::Rare",
         "ID": 29,
         "DisplayName": {
-          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
-          "Key": "DejaVu"
+          "CultureInvariantString": "Déjà Vu"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -884,7 +883,7 @@
           "Availability": "ECustomizationAvailability::Normal",
           "AvailabilityInfo": ""
         },
-        "Rarity": "ECustomizationRarity::Rare",
+        "Rarity": "ECustomizationRarity::Legendary",
         "ID": 35,
         "DisplayName": {
           "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",

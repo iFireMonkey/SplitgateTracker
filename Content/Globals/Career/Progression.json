@@ -38,8 +38,8 @@
         "XPDifference": 100,
         "LevelUpXP": 100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -63,8 +63,8 @@
         "XPDifference": 2500,
         "LevelUpXP": 2600,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -88,8 +88,8 @@
         "XPDifference": 3500,
         "LevelUpXP": 6100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -113,8 +113,8 @@
         "XPDifference": 4500,
         "LevelUpXP": 10600,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -138,8 +138,8 @@
         "XPDifference": 5500,
         "LevelUpXP": 16100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -163,8 +163,8 @@
         "XPDifference": 6500,
         "LevelUpXP": 22600,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -188,8 +188,8 @@
         "XPDifference": 7000,
         "LevelUpXP": 29600,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -213,8 +213,8 @@
         "XPDifference": 7500,
         "LevelUpXP": 37100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -238,8 +238,8 @@
         "XPDifference": 8000,
         "LevelUpXP": 45100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -263,8 +263,8 @@
         "XPDifference": 8500,
         "LevelUpXP": 53600,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -288,8 +288,8 @@
         "XPDifference": 9000,
         "LevelUpXP": 62600,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -313,8 +313,8 @@
         "XPDifference": 9500,
         "LevelUpXP": 72100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -338,8 +338,8 @@
         "XPDifference": 10000,
         "LevelUpXP": 82100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -363,8 +363,8 @@
         "XPDifference": 10500,
         "LevelUpXP": 92600,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -388,8 +388,8 @@
         "XPDifference": 11000,
         "LevelUpXP": 103600,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -413,8 +413,8 @@
         "XPDifference": 11500,
         "LevelUpXP": 115100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -438,8 +438,8 @@
         "XPDifference": 12000,
         "LevelUpXP": 127100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -463,8 +463,8 @@
         "XPDifference": 12500,
         "LevelUpXP": 139600,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -488,8 +488,8 @@
         "XPDifference": 13000,
         "LevelUpXP": 152600,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -513,8 +513,8 @@
         "XPDifference": 13500,
         "LevelUpXP": 166100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -538,8 +538,8 @@
         "XPDifference": 14000,
         "LevelUpXP": 180100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -563,8 +563,8 @@
         "XPDifference": 14500,
         "LevelUpXP": 194600,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -588,8 +588,8 @@
         "XPDifference": 15000,
         "LevelUpXP": 209600,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -613,8 +613,8 @@
         "XPDifference": 17500,
         "LevelUpXP": 227100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -638,8 +638,8 @@
         "XPDifference": 20000,
         "LevelUpXP": 247100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -688,8 +688,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 297100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -738,8 +738,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 347100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -788,8 +788,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 397100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -838,8 +838,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 447100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -888,8 +888,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 497100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -938,8 +938,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 547100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -988,8 +988,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 597100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -1038,8 +1038,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 647100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -1088,8 +1088,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 697100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -1138,8 +1138,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 747100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -1188,8 +1188,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 797100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -1238,8 +1238,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 847100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -1288,8 +1288,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 897100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -1338,8 +1338,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 947100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -1388,8 +1388,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 997100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -1438,8 +1438,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 1047100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -1488,8 +1488,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 1097100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -1538,8 +1538,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 1147100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -1588,8 +1588,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 1197100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -1638,8 +1638,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 1247100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -1688,8 +1688,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 1297100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -1738,8 +1738,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 1347100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -1788,8 +1788,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 1397100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -1838,8 +1838,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 1447100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -1888,8 +1888,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 1497100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -2013,8 +2013,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 1622100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -2138,8 +2138,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 1747100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -2263,8 +2263,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 1872100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -2388,8 +2388,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 1997100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -2513,8 +2513,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 2122100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -2763,8 +2763,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 2372100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -3013,8 +3013,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 2622100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -3263,8 +3263,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 2872100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -3513,8 +3513,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 3122100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -3763,8 +3763,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 3372100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -4013,8 +4013,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 3622100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -4263,8 +4263,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 3872100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -4513,8 +4513,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 4122100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -4763,8 +4763,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 4372100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -5013,8 +5013,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 4622100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -5263,8 +5263,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 4872100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -5513,8 +5513,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 5122100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -5763,8 +5763,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 5372100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -6013,8 +6013,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 5622100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -6263,8 +6263,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 5872100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -6513,8 +6513,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 6122100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -6763,8 +6763,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 6372100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -7013,8 +7013,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 6622100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -7263,8 +7263,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 6872100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -7513,8 +7513,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 7122100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -7763,8 +7763,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 7372100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -8013,8 +8013,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 7622100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -8263,8 +8263,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 7872100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -8513,8 +8513,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 8122100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -8763,8 +8763,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 8372100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -9013,8 +9013,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 8622100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -9263,8 +9263,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 8872100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -9513,8 +9513,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 9122100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -9763,8 +9763,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 9372100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -10013,8 +10013,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 9622100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -10263,8 +10263,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 9872100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -10513,8 +10513,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 10122100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -10763,8 +10763,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 10372100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -11013,8 +11013,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 10622100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -11263,8 +11263,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 10872100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -11513,8 +11513,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 11122100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -11763,8 +11763,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 11372100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -12013,8 +12013,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 11622100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -12263,8 +12263,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 11872100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -12513,8 +12513,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 12122100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -12763,8 +12763,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 12372100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -13013,8 +13013,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 12622100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -13263,8 +13263,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 12872100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -13513,8 +13513,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 13122100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -13763,8 +13763,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 13372100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -14013,8 +14013,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 13622100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -14263,8 +14263,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 13872100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -14513,8 +14513,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 14122100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -14763,8 +14763,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 14372100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -15013,8 +15013,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 14622100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -15263,8 +15263,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 14872100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -15513,8 +15513,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 15122100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -15763,8 +15763,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 15372100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -16013,8 +16013,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 15622100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -16263,8 +16263,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 15872100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -16513,8 +16513,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 16122100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -16763,8 +16763,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 16372100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -17013,8 +17013,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 16622100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -17263,8 +17263,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 16872100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -17513,8 +17513,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 17122100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -17763,8 +17763,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 17372100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -18013,8 +18013,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 17622100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -18263,8 +18263,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 17872100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -18513,8 +18513,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 18122100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -18763,8 +18763,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 18372100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -19013,8 +19013,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 18622100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -19263,8 +19263,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 18872100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -19513,8 +19513,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 19122100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -19763,8 +19763,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 19372100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -20013,8 +20013,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 19622100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -20263,8 +20263,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 19872100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -20513,8 +20513,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 20122100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -20763,8 +20763,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 20372100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -21013,8 +21013,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 20622100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -21263,8 +21263,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 20872100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -21513,8 +21513,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 21122100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -21763,8 +21763,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 21372100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -22013,8 +22013,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 21622100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -22263,8 +22263,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 21872100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -22513,8 +22513,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 22122100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -22763,8 +22763,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 22372100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -23013,8 +23013,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 22622100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -23263,8 +23263,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 22872100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -23513,8 +23513,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 23122100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -23763,8 +23763,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 23372100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -24013,8 +24013,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 23622100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -24263,8 +24263,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 23872100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -24513,8 +24513,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 24122100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -24763,8 +24763,8 @@
         "XPDifference": 25000,
         "LevelUpXP": 24372100,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""
@@ -25013,8 +25013,8 @@
         "XPDifference": 0,
         "LevelUpXP": 1000000000,
         "Reward": {
-          "RewardType": "ERewardType::ERewardType_MAX",
-          "RewardValue": 1,
+          "RewardType": "ERewardType::None",
+          "RewardValue": 0,
           "Customization": {
             "CustomizationType": "ECustomizationType::None",
             "CustomizationValue": ""

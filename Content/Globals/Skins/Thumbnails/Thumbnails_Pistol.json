@@ -1809,16 +1809,6 @@
           "SubPathString": ""
         }
       },
-      "26-570": {
-        "DisplayImageFeatured": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/Pistol/Pistol_26-570_T.Pistol_26-570_T",
-          "SubPathString": ""
-        }
-      },
       "27-579": {
         "DisplayImageFeatured": {
           "AssetPathName": "None",
@@ -2096,6 +2086,26 @@
         },
         "DisplayImage": {
           "AssetPathName": "/Game/Thumbnails/Pistol/Pistol_0-476_T.Pistol_0-476_T",
+          "SubPathString": ""
+        }
+      },
+      "0-570": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Pistol/Pistol_0-570_T.Pistol_0-570_T",
+          "SubPathString": ""
+        }
+      },
+      "0-655": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Pistol/Pistol_0-655_T.Pistol_0-655_T",
           "SubPathString": ""
         }
       }

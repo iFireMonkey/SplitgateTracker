@@ -39,7 +39,7 @@
           "Key": "GameModes_KingoftheHill"
         },
         "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/GameModes/TDM_Screenshot.TDM_Screenshot",
+          "AssetPathName": "/Game/Thumbnails/GameModes/KOTH_Screenshot.KOTH_Screenshot",
           "SubPathString": ""
         },
         "DisplayImageSmall": {

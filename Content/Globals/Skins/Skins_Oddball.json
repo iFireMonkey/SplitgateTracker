@@ -25,9 +25,8 @@
           "SubPathString": ""
         },
         "DefaultSkinName": {
-          "Namespace": "LocalizedStrings",
-          "Key": "Default",
-          "SourceString": "Default"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Default"
         },
         "CompatibleWithAllSkins": false,
         "CustomizationType": "ECustomizationType::Oddball",
@@ -65,9 +64,8 @@
           "SubPathString": ""
         },
         "DefaultSkinName": {
-          "Namespace": "LocalizedStrings",
-          "Key": "Default",
-          "SourceString": "Default"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Default"
         },
         "CompatibleWithAllSkins": false,
         "CustomizationType": "ECustomizationType::Oddball",
@@ -105,9 +103,8 @@
           "SubPathString": ""
         },
         "DefaultSkinName": {
-          "Namespace": "LocalizedStrings",
-          "Key": "Default",
-          "SourceString": "Default"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Default"
         },
         "CompatibleWithAllSkins": false,
         "CustomizationType": "ECustomizationType::Oddball",
@@ -145,9 +142,8 @@
           "SubPathString": ""
         },
         "DefaultSkinName": {
-          "Namespace": "LocalizedStrings",
-          "Key": "Default",
-          "SourceString": "Default"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Default"
         },
         "CompatibleWithAllSkins": false,
         "CustomizationType": "ECustomizationType::Oddball",
@@ -185,9 +181,8 @@
           "SubPathString": ""
         },
         "DefaultSkinName": {
-          "Namespace": "LocalizedStrings",
-          "Key": "Default",
-          "SourceString": "Default"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Default"
         },
         "CompatibleWithAllSkins": false,
         "CustomizationType": "ECustomizationType::Oddball",
@@ -225,9 +220,8 @@
           "SubPathString": ""
         },
         "DefaultSkinName": {
-          "Namespace": "LocalizedStrings",
-          "Key": "Default",
-          "SourceString": "Default"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Default"
         },
         "CompatibleWithAllSkins": false,
         "CustomizationType": "ECustomizationType::Oddball",
@@ -265,9 +259,8 @@
           "SubPathString": ""
         },
         "DefaultSkinName": {
-          "Namespace": "LocalizedStrings",
-          "Key": "Default",
-          "SourceString": "Default"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Default"
         },
         "CompatibleWithAllSkins": false,
         "CustomizationType": "ECustomizationType::Oddball",
@@ -305,9 +298,8 @@
           "SubPathString": ""
         },
         "DefaultSkinName": {
-          "Namespace": "LocalizedStrings",
-          "Key": "Default",
-          "SourceString": "Default"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Default"
         },
         "CompatibleWithAllSkins": false,
         "CustomizationType": "ECustomizationType::Oddball",
@@ -345,9 +337,8 @@
           "SubPathString": ""
         },
         "DefaultSkinName": {
-          "Namespace": "LocalizedStrings",
-          "Key": "Default",
-          "SourceString": "Default"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Default"
         },
         "CompatibleWithAllSkins": false,
         "CustomizationType": "ECustomizationType::Oddball",
@@ -360,6 +351,45 @@
         "DisplayName": {
           "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
           "Key": "Snow"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "9": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/Oddball/Mesh/Skins/Foregone/SK_Foregone_Oddball_FPP.SK_Foregone_Oddball_FPP",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/Oddball/Mesh/Skins/Foregone/SM_Foregone_OddBall.SM_Foregone_OddBall",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "None",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::Oddball",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 9,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Foregone"
         },
         "DisplayImage": {
           "AssetPathName": "None",

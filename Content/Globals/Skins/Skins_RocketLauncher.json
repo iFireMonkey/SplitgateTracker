@@ -25,9 +25,8 @@
           "SubPathString": ""
         },
         "DefaultSkinName": {
-          "Namespace": "LocalizedStrings",
-          "Key": "Default",
-          "SourceString": "Default"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Default"
         },
         "CompatibleWithAllSkins": true,
         "CustomizationType": "ECustomizationType::RocketLauncher",
@@ -899,9 +898,8 @@
           "SubPathString": ""
         },
         "DefaultSkinName": {
-          "Namespace": "LocalizedStrings",
-          "Key": "Default",
-          "SourceString": "Default"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Default"
         },
         "CompatibleWithAllSkins": false,
         "CustomizationType": "ECustomizationType::RocketLauncher",
@@ -939,9 +937,8 @@
           "SubPathString": ""
         },
         "DefaultSkinName": {
-          "Namespace": "LocalizedStrings",
-          "Key": "Default",
-          "SourceString": "Default"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Default"
         },
         "CompatibleWithAllSkins": false,
         "CustomizationType": "ECustomizationType::RocketLauncher",
@@ -979,9 +976,8 @@
           "SubPathString": ""
         },
         "DefaultSkinName": {
-          "Namespace": "LocalizedStrings",
-          "Key": "Default",
-          "SourceString": "Default"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Default"
         },
         "CompatibleWithAllSkins": false,
         "CustomizationType": "ECustomizationType::RocketLauncher",
@@ -1019,9 +1015,8 @@
           "SubPathString": ""
         },
         "DefaultSkinName": {
-          "Namespace": "LocalizedStrings",
-          "Key": "Default",
-          "SourceString": "Default"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Default"
         },
         "CompatibleWithAllSkins": false,
         "CustomizationType": "ECustomizationType::RocketLauncher",
@@ -1059,9 +1054,8 @@
           "SubPathString": ""
         },
         "DefaultSkinName": {
-          "Namespace": "LocalizedStrings",
-          "Key": "Default",
-          "SourceString": "Default"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Default"
         },
         "CompatibleWithAllSkins": false,
         "CustomizationType": "ECustomizationType::RocketLauncher",
@@ -1099,9 +1093,8 @@
           "SubPathString": ""
         },
         "DefaultSkinName": {
-          "Namespace": "LocalizedStrings",
-          "Key": "Default",
-          "SourceString": "Default"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Default"
         },
         "CompatibleWithAllSkins": false,
         "CustomizationType": "ECustomizationType::RocketLauncher",
@@ -1139,9 +1132,8 @@
           "SubPathString": ""
         },
         "DefaultSkinName": {
-          "Namespace": "LocalizedStrings",
-          "Key": "Default",
-          "SourceString": "Default"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Default"
         },
         "CompatibleWithAllSkins": false,
         "CustomizationType": "ECustomizationType::RocketLauncher",
@@ -1154,46 +1146,6 @@
         "DisplayName": {
           "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
           "Key": "Honeycomb"
-        },
-        "DisplayImage": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "DisplayImageSmall": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        }
-      },
-      "30": {
-        "Mesh1P": {
-          "AssetPathName": "/Game/Weapons/RocketLauncher/Mesh/FPP/Partner/RL_Courage_FPP.RL_Courage_FPP",
-          "SubPathString": ""
-        },
-        "Mesh3P": {
-          "AssetPathName": "/Game/Weapons/RocketLauncher/Mesh/FPP/Partner/SM_RL_Courage.SM_RL_Courage",
-          "SubPathString": ""
-        },
-        "AmmoCounterSocketName": "None",
-        "DefaultMaterialInstance": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "DefaultSkinName": {
-          "Namespace": "LocalizedStrings",
-          "Key": "Default",
-          "SourceString": "Default"
-        },
-        "CompatibleWithAllSkins": false,
-        "CustomizationType": "ECustomizationType::RocketLauncher",
-        "Availability": {
-          "Availability": "ECustomizationAvailability::Normal",
-          "AvailabilityInfo": ""
-        },
-        "Rarity": "ECustomizationRarity::Epic",
-        "ID": 30,
-        "DisplayName": {
-          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
-          "Key": "Courage"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -1219,9 +1171,8 @@
           "SubPathString": ""
         },
         "DefaultSkinName": {
-          "Namespace": "LocalizedStrings",
-          "Key": "Default",
-          "SourceString": "Default"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Default"
         },
         "CompatibleWithAllSkins": false,
         "CustomizationType": "ECustomizationType::RocketLauncher",
@@ -1258,9 +1209,8 @@
           "SubPathString": ""
         },
         "DefaultSkinName": {
-          "Namespace": "LocalizedStrings",
-          "Key": "Default",
-          "SourceString": "Default"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Default"
         },
         "CompatibleWithAllSkins": false,
         "CustomizationType": "ECustomizationType::RocketLauncher",
@@ -1298,9 +1248,8 @@
           "SubPathString": ""
         },
         "DefaultSkinName": {
-          "Namespace": "LocalizedStrings",
-          "Key": "Default",
-          "SourceString": "Default"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Default"
         },
         "CompatibleWithAllSkins": false,
         "CustomizationType": "ECustomizationType::RocketLauncher",
@@ -1338,9 +1287,8 @@
           "SubPathString": ""
         },
         "DefaultSkinName": {
-          "Namespace": "LocalizedStrings",
-          "Key": "Default",
-          "SourceString": "Default"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Default"
         },
         "CompatibleWithAllSkins": false,
         "CustomizationType": "ECustomizationType::RocketLauncher",
@@ -1378,9 +1326,8 @@
           "SubPathString": ""
         },
         "DefaultSkinName": {
-          "Namespace": "LocalizedStrings",
-          "Key": "Default",
-          "SourceString": "Default"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Default"
         },
         "CompatibleWithAllSkins": false,
         "CustomizationType": "ECustomizationType::RocketLauncher",
@@ -1418,9 +1365,8 @@
           "SubPathString": ""
         },
         "DefaultSkinName": {
-          "Namespace": "LocalizedStrings",
-          "Key": "Default",
-          "SourceString": "Default"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Default"
         },
         "CompatibleWithAllSkins": false,
         "CustomizationType": "ECustomizationType::RocketLauncher",

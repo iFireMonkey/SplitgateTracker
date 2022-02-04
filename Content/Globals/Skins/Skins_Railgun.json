@@ -25,9 +25,8 @@
           "SubPathString": ""
         },
         "DefaultSkinName": {
-          "Namespace": "LocalizedStrings",
-          "Key": "Default",
-          "SourceString": "Default"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Default"
         },
         "CompatibleWithAllSkins": true,
         "CustomizationType": "ECustomizationType::Railgun",
@@ -531,7 +530,7 @@
         "ID": 13,
         "DisplayName": {
           "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
-          "Key": "DragonBone"
+          "Key": "Dragon"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -709,9 +708,8 @@
           "SubPathString": ""
         },
         "DefaultSkinName": {
-          "Namespace": "LocalizedStrings",
-          "Key": "Default",
-          "SourceString": "Default"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Default"
         },
         "CompatibleWithAllSkins": false,
         "CustomizationType": "ECustomizationType::Railgun",
@@ -749,9 +747,8 @@
           "SubPathString": ""
         },
         "DefaultSkinName": {
-          "Namespace": "LocalizedStrings",
-          "Key": "Default",
-          "SourceString": "Default"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Default"
         },
         "CompatibleWithAllSkins": false,
         "CustomizationType": "ECustomizationType::Railgun",
@@ -789,9 +786,8 @@
           "SubPathString": ""
         },
         "DefaultSkinName": {
-          "Namespace": "LocalizedStrings",
-          "Key": "Default",
-          "SourceString": "Default"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Default"
         },
         "CompatibleWithAllSkins": false,
         "CustomizationType": "ECustomizationType::Railgun",
@@ -829,9 +825,8 @@
           "SubPathString": ""
         },
         "DefaultSkinName": {
-          "Namespace": "LocalizedStrings",
-          "Key": "Default",
-          "SourceString": "Default"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Default"
         },
         "CompatibleWithAllSkins": false,
         "CustomizationType": "ECustomizationType::Railgun",
@@ -869,9 +864,8 @@
           "SubPathString": ""
         },
         "DefaultSkinName": {
-          "Namespace": "LocalizedStrings",
-          "Key": "Default",
-          "SourceString": "Default"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Default"
         },
         "CompatibleWithAllSkins": false,
         "CustomizationType": "ECustomizationType::Railgun",
@@ -884,46 +878,6 @@
         "DisplayName": {
           "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
           "Key": "Macro"
-        },
-        "DisplayImage": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "DisplayImageSmall": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        }
-      },
-      "23": {
-        "Mesh1P": {
-          "AssetPathName": "/Game/Weapons/RailGun/Mesh/Partner/RG_Courage_FPP.RG_Courage_FPP",
-          "SubPathString": ""
-        },
-        "Mesh3P": {
-          "AssetPathName": "/Game/Weapons/RailGun/Mesh/Partner/SM_RG_Courage.SM_RG_Courage",
-          "SubPathString": ""
-        },
-        "AmmoCounterSocketName": "RG-Ammo",
-        "DefaultMaterialInstance": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "DefaultSkinName": {
-          "Namespace": "LocalizedStrings",
-          "Key": "Default",
-          "SourceString": "Default"
-        },
-        "CompatibleWithAllSkins": false,
-        "CustomizationType": "ECustomizationType::Railgun",
-        "Availability": {
-          "Availability": "ECustomizationAvailability::Normal",
-          "AvailabilityInfo": ""
-        },
-        "Rarity": "ECustomizationRarity::Epic",
-        "ID": 23,
-        "DisplayName": {
-          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
-          "Key": "Courage"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -949,9 +903,8 @@
           "SubPathString": ""
         },
         "DefaultSkinName": {
-          "Namespace": "LocalizedStrings",
-          "Key": "Default",
-          "SourceString": "Default"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Default"
         },
         "CompatibleWithAllSkins": false,
         "CustomizationType": "ECustomizationType::Railgun",
@@ -988,9 +941,8 @@
           "SubPathString": ""
         },
         "DefaultSkinName": {
-          "Namespace": "LocalizedStrings",
-          "Key": "Default",
-          "SourceString": "Default"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Default"
         },
         "CompatibleWithAllSkins": false,
         "CustomizationType": "ECustomizationType::Railgun",
@@ -1028,9 +980,8 @@
           "SubPathString": ""
         },
         "DefaultSkinName": {
-          "Namespace": "LocalizedStrings",
-          "Key": "Default",
-          "SourceString": "Default"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Default"
         },
         "CompatibleWithAllSkins": false,
         "CustomizationType": "ECustomizationType::Railgun",
@@ -1068,9 +1019,8 @@
           "SubPathString": ""
         },
         "DefaultSkinName": {
-          "Namespace": "LocalizedStrings",
-          "Key": "Default",
-          "SourceString": "Default"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Default"
         },
         "CompatibleWithAllSkins": false,
         "CustomizationType": "ECustomizationType::Railgun",
@@ -1108,9 +1058,8 @@
           "SubPathString": ""
         },
         "DefaultSkinName": {
-          "Namespace": "LocalizedStrings",
-          "Key": "Default",
-          "SourceString": "Default"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Default"
         },
         "CompatibleWithAllSkins": false,
         "CustomizationType": "ECustomizationType::Railgun",
@@ -1148,9 +1097,8 @@
           "SubPathString": ""
         },
         "DefaultSkinName": {
-          "Namespace": "LocalizedStrings",
-          "Key": "Default",
-          "SourceString": "Default"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Default"
         },
         "CompatibleWithAllSkins": false,
         "CustomizationType": "ECustomizationType::Railgun",
@@ -1188,9 +1136,8 @@
           "SubPathString": ""
         },
         "DefaultSkinName": {
-          "Namespace": "LocalizedStrings",
-          "Key": "Default",
-          "SourceString": "Default"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Default"
         },
         "CompatibleWithAllSkins": false,
         "CustomizationType": "ECustomizationType::Railgun",
@@ -1228,9 +1175,8 @@
           "SubPathString": ""
         },
         "DefaultSkinName": {
-          "Namespace": "LocalizedStrings",
-          "Key": "Default",
-          "SourceString": "Default"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Default"
         },
         "CompatibleWithAllSkins": false,
         "CustomizationType": "ECustomizationType::Railgun",

@@ -5976,7 +5976,7 @@
           {
             "CustomizationType": "ECustomizationType::Railgun",
             "Meshes": [
-              "Dragonbone"
+              "Dragon"
             ]
           }
         ],
@@ -9843,7 +9843,7 @@
           {
             "CustomizationType": "ECustomizationType::Pistol",
             "Meshes": [
-              "Scifiv2"
+              "ScifiV2"
             ]
           },
           {
@@ -9855,7 +9855,7 @@
           {
             "CustomizationType": "ECustomizationType::Sniper",
             "Meshes": [
-              "Scifiv2"
+              "ScifiV2"
             ]
           }
         ],
@@ -15240,7 +15240,18 @@
           "Availability": "ECustomizationAvailability::Normal",
           "AvailabilityInfo": ""
         },
-        "AvailabilityOverrides": [],
+        "AvailabilityOverrides": [
+          {
+            "CustomizationType": "ECustomizationType::Armor",
+            "Meshes": [
+              "Paladin"
+            ],
+            "Availability": {
+              "Availability": "ECustomizationAvailability::ReferralPass",
+              "AvailabilityInfo": "BetaSeason1"
+            }
+          }
+        ],
         "TextureSetOverrides": [],
         "ID": 391,
         "DisplayName": {
@@ -17983,8 +17994,8 @@
         "Rarity": "ECustomizationRarity::Epic",
         "RarityOverrides": {},
         "Availability": {
-          "Availability": "ECustomizationAvailability::Normal",
-          "AvailabilityInfo": ""
+          "Availability": "ECustomizationAvailability::BattlePass",
+          "AvailabilityInfo": "BetaSeason1"
         },
         "AvailabilityOverrides": [],
         "TextureSetOverrides": [],
@@ -18020,8 +18031,8 @@
         "Rarity": "ECustomizationRarity::Epic",
         "RarityOverrides": {},
         "Availability": {
-          "Availability": "ECustomizationAvailability::Normal",
-          "AvailabilityInfo": ""
+          "Availability": "ECustomizationAvailability::BattlePass",
+          "AvailabilityInfo": "BetaSeason1"
         },
         "AvailabilityOverrides": [],
         "TextureSetOverrides": [],
@@ -19435,7 +19446,18 @@
           "Availability": "ECustomizationAvailability::Normal",
           "AvailabilityInfo": ""
         },
-        "AvailabilityOverrides": [],
+        "AvailabilityOverrides": [
+          {
+            "CustomizationType": "ECustomizationType::DMR",
+            "Meshes": [
+              "Frozen"
+            ],
+            "Availability": {
+              "Availability": "ECustomizationAvailability::BattlePass",
+              "AvailabilityInfo": "BetaSeason1"
+            }
+          }
+        ],
         "TextureSetOverrides": [],
         "ID": 463,
         "DisplayName": {
@@ -19469,8 +19491,8 @@
         "Rarity": "ECustomizationRarity::Legendary",
         "RarityOverrides": {},
         "Availability": {
-          "Availability": "ECustomizationAvailability::Normal",
-          "AvailabilityInfo": ""
+          "Availability": "ECustomizationAvailability::BattlePass",
+          "AvailabilityInfo": "BetaSeason1"
         },
         "AvailabilityOverrides": [],
         "TextureSetOverrides": [],
@@ -20492,8 +20514,7 @@
         "TextureSetOverrides": [],
         "ID": 477,
         "DisplayName": {
-          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
-          "Key": "Xtreme"
+          "CultureInvariantString": "XTREME"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -21125,8 +21146,8 @@
         "Rarity": "ECustomizationRarity::Epic",
         "RarityOverrides": {},
         "Availability": {
-          "Availability": "ECustomizationAvailability::Normal",
-          "AvailabilityInfo": ""
+          "Availability": "ECustomizationAvailability::BattlePass",
+          "AvailabilityInfo": "BetaSeason1"
         },
         "AvailabilityOverrides": [],
         "TextureSetOverrides": [],
@@ -22254,49 +22275,6 @@
           "SubPathString": ""
         }
       },
-      "524": {
-        "MaterialInstance": {
-          "AssetPathName": "/Game/Materials/MasterInstances/Epic/MI_Skin_Mesh.MI_Skin_Mesh",
-          "SubPathString": ""
-        },
-        "CompatibleWithAll": true,
-        "Compatibles": [],
-        "Incompatibles": [
-          {
-            "CustomizationType": "ECustomizationType::Armor",
-            "Meshes": []
-          },
-          {
-            "CustomizationType": "ECustomizationType::Jetpack",
-            "Meshes": []
-          },
-          {
-            "CustomizationType": "ECustomizationType::PortalGun",
-            "Meshes": []
-          }
-        ],
-        "Rarity": "ECustomizationRarity::Epic",
-        "RarityOverrides": {},
-        "Availability": {
-          "Availability": "ECustomizationAvailability::BattlePass",
-          "AvailabilityInfo": ""
-        },
-        "AvailabilityOverrides": [],
-        "TextureSetOverrides": [],
-        "ID": 524,
-        "DisplayName": {
-          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
-          "Key": "Mesh"
-        },
-        "DisplayImage": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "DisplayImageSmall": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        }
-      },
       "525": {
         "MaterialInstance": {
           "AssetPathName": "/Game/Materials/MasterInstances/Epic/MI_Skin_Warp.MI_Skin_Warp",
@@ -22614,10 +22592,43 @@
         "Rarity": "ECustomizationRarity::Rare",
         "RarityOverrides": {},
         "Availability": {
-          "Availability": "ECustomizationAvailability::BattlePass",
+          "Availability": "ECustomizationAvailability::Normal",
           "AvailabilityInfo": ""
         },
-        "AvailabilityOverrides": [],
+        "AvailabilityOverrides": [
+          {
+            "CustomizationType": "ECustomizationType::Shotgun",
+            "Meshes": [],
+            "Availability": {
+              "Availability": "ECustomizationAvailability::BattlePass",
+              "AvailabilityInfo": "BetaSeason1"
+            }
+          },
+          {
+            "CustomizationType": "ECustomizationType::Railgun",
+            "Meshes": [],
+            "Availability": {
+              "Availability": "ECustomizationAvailability::BattlePass",
+              "AvailabilityInfo": "BetaSeason1"
+            }
+          },
+          {
+            "CustomizationType": "ECustomizationType::PlasmaRifle",
+            "Meshes": [],
+            "Availability": {
+              "Availability": "ECustomizationAvailability::BattlePass",
+              "AvailabilityInfo": "BetaSeason1"
+            }
+          },
+          {
+            "CustomizationType": "ECustomizationType::SMG",
+            "Meshes": [],
+            "Availability": {
+              "Availability": "ECustomizationAvailability::BattlePass",
+              "AvailabilityInfo": "BetaSeason1"
+            }
+          }
+        ],
         "TextureSetOverrides": [],
         "ID": 532,
         "DisplayName": {
@@ -23276,12 +23287,32 @@
           "Availability": "ECustomizationAvailability::Normal",
           "AvailabilityInfo": ""
         },
-        "AvailabilityOverrides": [],
+        "AvailabilityOverrides": [
+          {
+            "CustomizationType": "ECustomizationType::Jetpack",
+            "Meshes": [
+              "Mumbai"
+            ],
+            "Availability": {
+              "Availability": "ECustomizationAvailability::BattlePass",
+              "AvailabilityInfo": "BetaSeason1"
+            }
+          },
+          {
+            "CustomizationType": "ECustomizationType::PortalGun",
+            "Meshes": [
+              "TrueShot"
+            ],
+            "Availability": {
+              "Availability": "ECustomizationAvailability::BattlePass",
+              "AvailabilityInfo": "BetaSeason1"
+            }
+          }
+        ],
         "TextureSetOverrides": [],
         "ID": 549,
         "DisplayName": {
-          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
-          "Key": "Gel2.0"
+          "CultureInvariantString": "Gel 2.0"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -23375,7 +23406,37 @@
           "Availability": "ECustomizationAvailability::Normal",
           "AvailabilityInfo": ""
         },
-        "AvailabilityOverrides": [],
+        "AvailabilityOverrides": [
+          {
+            "CustomizationType": "ECustomizationType::Jetpack",
+            "Meshes": [
+              "Executioner",
+              "Mumbai"
+            ],
+            "Availability": {
+              "Availability": "ECustomizationAvailability::BattlePass",
+              "AvailabilityInfo": "BetaSeason1"
+            }
+          },
+          {
+            "CustomizationType": "ECustomizationType::PortalGun",
+            "Meshes": [
+              "Lightsout"
+            ],
+            "Availability": {
+              "Availability": "ECustomizationAvailability::BattlePass",
+              "AvailabilityInfo": "BetaSeason1"
+            }
+          },
+          {
+            "CustomizationType": "ECustomizationType::AssaultRifle",
+            "Meshes": [],
+            "Availability": {
+              "Availability": "ECustomizationAvailability::BattlePass",
+              "AvailabilityInfo": "BetaSeason1"
+            }
+          }
+        ],
         "TextureSetOverrides": [],
         "ID": 552,
         "DisplayName": {
@@ -23633,7 +23694,16 @@
           "Availability": "ECustomizationAvailability::Normal",
           "AvailabilityInfo": ""
         },
-        "AvailabilityOverrides": [],
+        "AvailabilityOverrides": [
+          {
+            "CustomizationType": "ECustomizationType::AssaultRifle",
+            "Meshes": [],
+            "Availability": {
+              "Availability": "ECustomizationAvailability::ReferralPass",
+              "AvailabilityInfo": "BetaSeason1"
+            }
+          }
+        ],
         "TextureSetOverrides": [],
         "ID": 561,
         "DisplayName": {
@@ -23663,7 +23733,27 @@
           "Availability": "ECustomizationAvailability::Normal",
           "AvailabilityInfo": ""
         },
-        "AvailabilityOverrides": [],
+        "AvailabilityOverrides": [
+          {
+            "CustomizationType": "ECustomizationType::Jetpack",
+            "Meshes": [
+              "Executioner",
+              "Mumbai"
+            ],
+            "Availability": {
+              "Availability": "ECustomizationAvailability::BattlePass",
+              "AvailabilityInfo": "BetaSeason1"
+            }
+          },
+          {
+            "CustomizationType": "ECustomizationType::Shotgun",
+            "Meshes": [],
+            "Availability": {
+              "Availability": "ECustomizationAvailability::BattlePass",
+              "AvailabilityInfo": "BetaSeason1"
+            }
+          }
+        ],
         "TextureSetOverrides": [],
         "ID": 562,
         "DisplayName": {
@@ -23916,7 +24006,7 @@
           {
             "CustomizationType": "ECustomizationType::AssaultRifle",
             "Meshes": [
-              "Courage"
+              "Default"
             ]
           },
           {
@@ -23928,25 +24018,25 @@
           {
             "CustomizationType": "ECustomizationType::BattleRifle",
             "Meshes": [
-              "Courage"
+              "Default"
             ]
           },
           {
             "CustomizationType": "ECustomizationType::DMR",
             "Meshes": [
-              "Courage"
+              "Default"
             ]
           },
           {
             "CustomizationType": "ECustomizationType::Pistol",
             "Meshes": [
-              "Courage"
+              "Default"
             ]
           },
           {
             "CustomizationType": "ECustomizationType::PlasmaRifle",
             "Meshes": [
-              "Courage"
+              "Default"
             ]
           },
           {
@@ -23958,25 +24048,25 @@
           {
             "CustomizationType": "ECustomizationType::RocketLauncher",
             "Meshes": [
-              "Courage"
+              "Default"
             ]
           },
           {
             "CustomizationType": "ECustomizationType::Shotgun",
             "Meshes": [
-              "Courage"
+              "Default"
             ]
           },
           {
             "CustomizationType": "ECustomizationType::SMG",
             "Meshes": [
-              "Courage"
+              "Default"
             ]
           },
           {
             "CustomizationType": "ECustomizationType::Sniper",
             "Meshes": [
-              "Courage"
+              "Default"
             ]
           }
         ],
@@ -23987,90 +24077,36 @@
           "Availability": "ECustomizationAvailability::Normal",
           "AvailabilityInfo": ""
         },
-        "AvailabilityOverrides": [],
-        "TextureSetOverrides": [
-          {
-            "CustomizationType": "ECustomizationType::AssaultRifle",
-            "Meshes": [
-              "Macro"
-            ],
-            "TextureSet": "Macro"
-          },
-          {
-            "CustomizationType": "ECustomizationType::Bat",
-            "Meshes": [
-              "Macro"
-            ],
-            "TextureSet": "Macro"
-          },
-          {
-            "CustomizationType": "ECustomizationType::BattleRifle",
-            "Meshes": [
-              "Macro"
-            ],
-            "TextureSet": "Macro"
-          },
-          {
-            "CustomizationType": "ECustomizationType::DMR",
-            "Meshes": [
-              "Macro"
-            ],
-            "TextureSet": "Macro"
-          },
+        "AvailabilityOverrides": [
           {
             "CustomizationType": "ECustomizationType::Pistol",
-            "Meshes": [
-              "Macro"
-            ],
-            "TextureSet": "Macro"
-          },
-          {
-            "CustomizationType": "ECustomizationType::PlasmaRifle",
-            "Meshes": [
-              "Macro"
-            ],
-            "TextureSet": "Macro"
-          },
-          {
-            "CustomizationType": "ECustomizationType::Railgun",
-            "Meshes": [
-              "Macro"
-            ],
-            "TextureSet": "Macro"
-          },
-          {
-            "CustomizationType": "ECustomizationType::RocketLauncher",
-            "Meshes": [
-              "Macro"
-            ],
-            "TextureSet": "Macro"
-          },
-          {
-            "CustomizationType": "ECustomizationType::Shotgun",
-            "Meshes": [
-              "Macro"
-            ],
-            "TextureSet": "Macro"
+            "Meshes": [],
+            "Availability": {
+              "Availability": "ECustomizationAvailability::BattlePass",
+              "AvailabilityInfo": "BetaSeason1"
+            }
           },
           {
             "CustomizationType": "ECustomizationType::SMG",
-            "Meshes": [
-              "Macro"
-            ],
-            "TextureSet": "Macro"
+            "Meshes": [],
+            "Availability": {
+              "Availability": "ECustomizationAvailability::BattlePass",
+              "AvailabilityInfo": "BetaSeason1"
+            }
           },
           {
-            "CustomizationType": "ECustomizationType::Sniper",
-            "Meshes": [
-              "Macro"
-            ],
-            "TextureSet": "Macro"
+            "CustomizationType": "ECustomizationType::BattleRifle",
+            "Meshes": [],
+            "Availability": {
+              "Availability": "ECustomizationAvailability::BattlePass",
+              "AvailabilityInfo": "BetaSeason1"
+            }
           }
         ],
+        "TextureSetOverrides": [],
         "ID": 570,
         "DisplayName": {
-          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
-          "Key": "Courage"
+          "CultureInvariantString": "Intrepid"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -24283,7 +24319,32 @@
           "Availability": "ECustomizationAvailability::Normal",
           "AvailabilityInfo": ""
         },
-        "AvailabilityOverrides": [],
+        "AvailabilityOverrides": [
+          {
+            "CustomizationType": "ECustomizationType::RocketLauncher",
+            "Meshes": [],
+            "Availability": {
+              "Availability": "ECustomizationAvailability::BattlePass",
+              "AvailabilityInfo": "BetaSeason1"
+            }
+          },
+          {
+            "CustomizationType": "ECustomizationType::Bat",
+            "Meshes": [],
+            "Availability": {
+              "Availability": "ECustomizationAvailability::BattlePass",
+              "AvailabilityInfo": "BetaSeason1"
+            }
+          },
+          {
+            "CustomizationType": "ECustomizationType::Sniper",
+            "Meshes": [],
+            "Availability": {
+              "Availability": "ECustomizationAvailability::BattlePass",
+              "AvailabilityInfo": "BetaSeason1"
+            }
+          }
+        ],
         "TextureSetOverrides": [],
         "ID": 572,
         "DisplayName": {
@@ -24633,43 +24694,6 @@
           "SubPathString": ""
         }
       },
-      "581": {
-        "MaterialInstance": {
-          "AssetPathName": "/Game/Weapons/Oddball/Mesh/Skins/Earth/MI_Earth.MI_Earth",
-          "SubPathString": ""
-        },
-        "CompatibleWithAll": false,
-        "Compatibles": [
-          {
-            "CustomizationType": "ECustomizationType::Oddball",
-            "Meshes": [
-              "Earth"
-            ]
-          }
-        ],
-        "Incompatibles": [],
-        "Rarity": "ECustomizationRarity::Epic",
-        "RarityOverrides": {},
-        "Availability": {
-          "Availability": "ECustomizationAvailability::Normal",
-          "AvailabilityInfo": ""
-        },
-        "AvailabilityOverrides": [],
-        "TextureSetOverrides": [],
-        "ID": 581,
-        "DisplayName": {
-          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
-          "Key": "Earth"
-        },
-        "DisplayImage": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "DisplayImageSmall": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        }
-      },
       "582": {
         "MaterialInstance": {
           "AssetPathName": "/Game/Materials/MasterInstances/Epic/MI_Skin_TrippyLines.MI_Skin_TrippyLines",
@@ -24990,7 +25014,40 @@
           "Availability": "ECustomizationAvailability::Normal",
           "AvailabilityInfo": ""
         },
-        "AvailabilityOverrides": [],
+        "AvailabilityOverrides": [
+          {
+            "CustomizationType": "ECustomizationType::PlasmaRifle",
+            "Meshes": [],
+            "Availability": {
+              "Availability": "ECustomizationAvailability::BattlePass",
+              "AvailabilityInfo": "BetaSeason1"
+            }
+          },
+          {
+            "CustomizationType": "ECustomizationType::SMG",
+            "Meshes": [],
+            "Availability": {
+              "Availability": "ECustomizationAvailability::BattlePass",
+              "AvailabilityInfo": "BetaSeason1"
+            }
+          },
+          {
+            "CustomizationType": "ECustomizationType::Shotgun",
+            "Meshes": [],
+            "Availability": {
+              "Availability": "ECustomizationAvailability::BattlePass",
+              "AvailabilityInfo": "BetaSeason1"
+            }
+          },
+          {
+            "CustomizationType": "ECustomizationType::Railgun",
+            "Meshes": [],
+            "Availability": {
+              "Availability": "ECustomizationAvailability::BattlePass",
+              "AvailabilityInfo": "BetaSeason1"
+            }
+          }
+        ],
         "TextureSetOverrides": [],
         "ID": 589,
         "DisplayName": {
@@ -25119,7 +25176,42 @@
           "Availability": "ECustomizationAvailability::Normal",
           "AvailabilityInfo": ""
         },
-        "AvailabilityOverrides": [],
+        "AvailabilityOverrides": [
+          {
+            "CustomizationType": "ECustomizationType::Pistol",
+            "Meshes": [
+              ""
+            ],
+            "Availability": {
+              "Availability": "ECustomizationAvailability::BattlePass",
+              "AvailabilityInfo": "BetaSeason1"
+            }
+          },
+          {
+            "CustomizationType": "ECustomizationType::BattleRifle",
+            "Meshes": [],
+            "Availability": {
+              "Availability": "ECustomizationAvailability::BattlePass",
+              "AvailabilityInfo": "BetaSeason1"
+            }
+          },
+          {
+            "CustomizationType": "ECustomizationType::AssaultRifle",
+            "Meshes": [],
+            "Availability": {
+              "Availability": "ECustomizationAvailability::BattlePass",
+              "AvailabilityInfo": "BetaSeason1"
+            }
+          },
+          {
+            "CustomizationType": "ECustomizationType::DMR",
+            "Meshes": [],
+            "Availability": {
+              "Availability": "ECustomizationAvailability::BattlePass",
+              "AvailabilityInfo": "BetaSeason1"
+            }
+          }
+        ],
         "TextureSetOverrides": [],
         "ID": 592,
         "DisplayName": {
@@ -25334,7 +25426,40 @@
           "Availability": "ECustomizationAvailability::Normal",
           "AvailabilityInfo": ""
         },
-        "AvailabilityOverrides": [],
+        "AvailabilityOverrides": [
+          {
+            "CustomizationType": "ECustomizationType::AssaultRifle",
+            "Meshes": [],
+            "Availability": {
+              "Availability": "ECustomizationAvailability::BattlePass",
+              "AvailabilityInfo": "BetaSeason1"
+            }
+          },
+          {
+            "CustomizationType": "ECustomizationType::Pistol",
+            "Meshes": [],
+            "Availability": {
+              "Availability": "ECustomizationAvailability::BattlePass",
+              "AvailabilityInfo": "BetaSeason1"
+            }
+          },
+          {
+            "CustomizationType": "ECustomizationType::DMR",
+            "Meshes": [],
+            "Availability": {
+              "Availability": "ECustomizationAvailability::BattlePass",
+              "AvailabilityInfo": "BetaSeason1"
+            }
+          },
+          {
+            "CustomizationType": "ECustomizationType::BattleRifle",
+            "Meshes": [],
+            "Availability": {
+              "Availability": "ECustomizationAvailability::BattlePass",
+              "AvailabilityInfo": "BetaSeason1"
+            }
+          }
+        ],
         "TextureSetOverrides": [],
         "ID": 597,
         "DisplayName": {
@@ -25377,7 +25502,24 @@
           "Availability": "ECustomizationAvailability::Normal",
           "AvailabilityInfo": ""
         },
-        "AvailabilityOverrides": [],
+        "AvailabilityOverrides": [
+          {
+            "CustomizationType": "ECustomizationType::RocketLauncher",
+            "Meshes": [],
+            "Availability": {
+              "Availability": "ECustomizationAvailability::BattlePass",
+              "AvailabilityInfo": "BetaSeason1"
+            }
+          },
+          {
+            "CustomizationType": "ECustomizationType::Sniper",
+            "Meshes": [],
+            "Availability": {
+              "Availability": "ECustomizationAvailability::BattlePass",
+              "AvailabilityInfo": "BetaSeason1"
+            }
+          }
+        ],
         "TextureSetOverrides": [],
         "ID": 598,
         "DisplayName": {
@@ -25549,7 +25691,24 @@
           "Availability": "ECustomizationAvailability::Normal",
           "AvailabilityInfo": ""
         },
-        "AvailabilityOverrides": [],
+        "AvailabilityOverrides": [
+          {
+            "CustomizationType": "ECustomizationType::Sniper",
+            "Meshes": [],
+            "Availability": {
+              "Availability": "ECustomizationAvailability::BattlePass",
+              "AvailabilityInfo": "BetaSeason1"
+            }
+          },
+          {
+            "CustomizationType": "ECustomizationType::RocketLauncher",
+            "Meshes": [],
+            "Availability": {
+              "Availability": "ECustomizationAvailability::BattlePass",
+              "AvailabilityInfo": "BetaSeason1"
+            }
+          }
+        ],
         "TextureSetOverrides": [],
         "ID": 602,
         "DisplayName": {
@@ -25626,8 +25785,7 @@
         "TextureSetOverrides": [],
         "ID": 604,
         "DisplayName": {
-          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
-          "Key": "Lightning2.0"
+          "CultureInvariantString": "Lightning 2.0"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -27302,8 +27460,7 @@
         "TextureSetOverrides": [],
         "ID": 641,
         "DisplayName": {
-          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
-          "Key": "G-Shock"
+          "CultureInvariantString": "G-Shock"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -27347,6 +27504,792 @@
         "DisplayName": {
           "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
           "Key": "SnowflakeAxe"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "643": {
+        "MaterialInstance": {
+          "AssetPathName": "/Game/Weapons/SMG/Materials/Legendary/MI_SMG_Foregone_Main.MI_SMG_Foregone_Main",
+          "SubPathString": ""
+        },
+        "CompatibleWithAll": false,
+        "Compatibles": [
+          {
+            "CustomizationType": "ECustomizationType::SMG",
+            "Meshes": [
+              "Foregone"
+            ]
+          }
+        ],
+        "Incompatibles": [],
+        "Rarity": "ECustomizationRarity::Legendary",
+        "RarityOverrides": {},
+        "Availability": {
+          "Availability": "ECustomizationAvailability::BattlePass",
+          "AvailabilityInfo": "BetaSeason1"
+        },
+        "AvailabilityOverrides": [],
+        "TextureSetOverrides": [],
+        "ID": 643,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Estranged"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "644": {
+        "MaterialInstance": {
+          "AssetPathName": "/Game/Weapons/AssaultRifle/Materials/Legendary/MI_AR_Foregon_Main.MI_AR_Foregon_Main",
+          "SubPathString": ""
+        },
+        "CompatibleWithAll": false,
+        "Compatibles": [
+          {
+            "CustomizationType": "ECustomizationType::AssaultRifle",
+            "Meshes": [
+              "Foregone"
+            ]
+          }
+        ],
+        "Incompatibles": [],
+        "Rarity": "ECustomizationRarity::Legendary",
+        "RarityOverrides": {},
+        "Availability": {
+          "Availability": "ECustomizationAvailability::BattlePass",
+          "AvailabilityInfo": "BetaSeason1"
+        },
+        "AvailabilityOverrides": [],
+        "TextureSetOverrides": [],
+        "ID": 644,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Estranged"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "645": {
+        "MaterialInstance": {
+          "AssetPathName": "/Game/Weapons/PlasmaRifle/Materials/Legendary/MI_PR_Foregone_Main.MI_PR_Foregone_Main",
+          "SubPathString": ""
+        },
+        "CompatibleWithAll": false,
+        "Compatibles": [
+          {
+            "CustomizationType": "ECustomizationType::PlasmaRifle",
+            "Meshes": [
+              "Foregone"
+            ]
+          }
+        ],
+        "Incompatibles": [],
+        "Rarity": "ECustomizationRarity::Legendary",
+        "RarityOverrides": {},
+        "Availability": {
+          "Availability": "ECustomizationAvailability::BattlePass",
+          "AvailabilityInfo": "BetaSeason1"
+        },
+        "AvailabilityOverrides": [],
+        "TextureSetOverrides": [],
+        "ID": 645,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Estranged"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "647": {
+        "MaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Epic/MI_Skin_Champion_Rank.MI_Skin_Champion_Rank",
+          "SubPathString": ""
+        },
+        "CompatibleWithAll": false,
+        "Compatibles": [
+          {
+            "CustomizationType": "ECustomizationType::DMR",
+            "Meshes": [
+              "Default"
+            ]
+          }
+        ],
+        "Incompatibles": [],
+        "Rarity": "ECustomizationRarity::Legendary",
+        "RarityOverrides": {},
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Reward",
+          "AvailabilityInfo": "Season0Rank"
+        },
+        "AvailabilityOverrides": [],
+        "TextureSetOverrides": [],
+        "ID": 647,
+        "DisplayName": {
+          "CultureInvariantString": "Beta S0 Champion"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "648": {
+        "MaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Epic/MI_Skin_Master_Rank.MI_Skin_Master_Rank",
+          "SubPathString": ""
+        },
+        "CompatibleWithAll": false,
+        "Compatibles": [
+          {
+            "CustomizationType": "ECustomizationType::DMR",
+            "Meshes": [
+              "Default"
+            ]
+          }
+        ],
+        "Incompatibles": [],
+        "Rarity": "ECustomizationRarity::Legendary",
+        "RarityOverrides": {},
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Reward",
+          "AvailabilityInfo": "Season0Rank"
+        },
+        "AvailabilityOverrides": [],
+        "TextureSetOverrides": [],
+        "ID": 648,
+        "DisplayName": {
+          "CultureInvariantString": "Beta S0 Master"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "649": {
+        "MaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Epic/MI_Skin_Diamond_Rank.MI_Skin_Diamond_Rank",
+          "SubPathString": ""
+        },
+        "CompatibleWithAll": false,
+        "Compatibles": [
+          {
+            "CustomizationType": "ECustomizationType::DMR",
+            "Meshes": [
+              "Default"
+            ]
+          }
+        ],
+        "Incompatibles": [],
+        "Rarity": "ECustomizationRarity::Epic",
+        "RarityOverrides": {},
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Reward",
+          "AvailabilityInfo": "Season0Rank"
+        },
+        "AvailabilityOverrides": [],
+        "TextureSetOverrides": [],
+        "ID": 649,
+        "DisplayName": {
+          "CultureInvariantString": "Beta S0 Diamond"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "650": {
+        "MaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Epic/MI_Skin_Gold_Rank.MI_Skin_Gold_Rank",
+          "SubPathString": ""
+        },
+        "CompatibleWithAll": false,
+        "Compatibles": [
+          {
+            "CustomizationType": "ECustomizationType::DMR",
+            "Meshes": [
+              "Default"
+            ]
+          }
+        ],
+        "Incompatibles": [],
+        "Rarity": "ECustomizationRarity::Rare",
+        "RarityOverrides": {},
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Reward",
+          "AvailabilityInfo": "Season0Rank"
+        },
+        "AvailabilityOverrides": [],
+        "TextureSetOverrides": [],
+        "ID": 650,
+        "DisplayName": {
+          "CultureInvariantString": "Beta S0 Gold"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "651": {
+        "MaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Epic/MI_Skin_Silver_Rank.MI_Skin_Silver_Rank",
+          "SubPathString": ""
+        },
+        "CompatibleWithAll": false,
+        "Compatibles": [
+          {
+            "CustomizationType": "ECustomizationType::DMR",
+            "Meshes": [
+              "Default"
+            ]
+          }
+        ],
+        "Incompatibles": [],
+        "Rarity": "ECustomizationRarity::Rare",
+        "RarityOverrides": {},
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Reward",
+          "AvailabilityInfo": "Season0Rank"
+        },
+        "AvailabilityOverrides": [],
+        "TextureSetOverrides": [],
+        "ID": 651,
+        "DisplayName": {
+          "CultureInvariantString": "Beta S0 Silver"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "652": {
+        "MaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Epic/MI_Skin_Bronze_Rank.MI_Skin_Bronze_Rank",
+          "SubPathString": ""
+        },
+        "CompatibleWithAll": false,
+        "Compatibles": [
+          {
+            "CustomizationType": "ECustomizationType::DMR",
+            "Meshes": [
+              "Default"
+            ]
+          }
+        ],
+        "Incompatibles": [],
+        "Rarity": "ECustomizationRarity::Rare",
+        "RarityOverrides": {},
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Reward",
+          "AvailabilityInfo": "Season0Rank"
+        },
+        "AvailabilityOverrides": [],
+        "TextureSetOverrides": [],
+        "ID": 652,
+        "DisplayName": {
+          "CultureInvariantString": "Beta S0 Bronze"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "653": {
+        "MaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Epic/MI_Skin_Brass_Rank.MI_Skin_Brass_Rank",
+          "SubPathString": ""
+        },
+        "CompatibleWithAll": false,
+        "Compatibles": [
+          {
+            "CustomizationType": "ECustomizationType::DMR",
+            "Meshes": [
+              "Default"
+            ]
+          }
+        ],
+        "Incompatibles": [],
+        "Rarity": "ECustomizationRarity::Common",
+        "RarityOverrides": {},
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Reward",
+          "AvailabilityInfo": "Season0Rank"
+        },
+        "AvailabilityOverrides": [],
+        "TextureSetOverrides": [],
+        "ID": 653,
+        "DisplayName": {
+          "CultureInvariantString": "Beta S0 Brass"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "654": {
+        "MaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Epic/MI_Skin_Platinum_Rank.MI_Skin_Platinum_Rank",
+          "SubPathString": ""
+        },
+        "CompatibleWithAll": false,
+        "Compatibles": [
+          {
+            "CustomizationType": "ECustomizationType::DMR",
+            "Meshes": [
+              "Default"
+            ]
+          }
+        ],
+        "Incompatibles": [],
+        "Rarity": "ECustomizationRarity::Epic",
+        "RarityOverrides": {},
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Reward",
+          "AvailabilityInfo": "Season0Rank"
+        },
+        "AvailabilityOverrides": [],
+        "TextureSetOverrides": [],
+        "ID": 654,
+        "DisplayName": {
+          "CultureInvariantString": "Beta S0 Platinum"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "655": {
+        "MaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Epic/MI_Skin_XFACTOR.MI_Skin_XFACTOR",
+          "SubPathString": ""
+        },
+        "CompatibleWithAll": false,
+        "Compatibles": [
+          {
+            "CustomizationType": "ECustomizationType::BattleRifle",
+            "Meshes": [
+              "Default"
+            ]
+          },
+          {
+            "CustomizationType": "ECustomizationType::DMR",
+            "Meshes": [
+              "Default"
+            ]
+          },
+          {
+            "CustomizationType": "ECustomizationType::Pistol",
+            "Meshes": [
+              "Default"
+            ]
+          },
+          {
+            "CustomizationType": "ECustomizationType::Armor",
+            "Meshes": [
+              "Rhino"
+            ]
+          }
+        ],
+        "Incompatibles": [],
+        "Rarity": "ECustomizationRarity::Epic",
+        "RarityOverrides": {},
+        "Availability": {
+          "Availability": "ECustomizationAvailability::DLC",
+          "AvailabilityInfo": "XboxPerks2"
+        },
+        "AvailabilityOverrides": [],
+        "TextureSetOverrides": [],
+        "ID": 655,
+        "DisplayName": {
+          "CultureInvariantString": "XFACTOR"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "656": {
+        "MaterialInstance": {
+          "AssetPathName": "/Game/Weapons/BattleRifle/Textures/Legendary/Sigmator/MI_BR_Sigmator_Main.MI_BR_Sigmator_Main",
+          "SubPathString": ""
+        },
+        "CompatibleWithAll": false,
+        "Compatibles": [
+          {
+            "CustomizationType": "ECustomizationType::BattleRifle",
+            "Meshes": [
+              "Sigmator"
+            ]
+          }
+        ],
+        "Incompatibles": [],
+        "Rarity": "ECustomizationRarity::Legendary",
+        "RarityOverrides": {},
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "AvailabilityOverrides": [],
+        "TextureSetOverrides": [],
+        "ID": 656,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Sigmator"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "657": {
+        "MaterialInstance": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Textures/FB87_Sigma_Black/MI_Sigma_Black_Skin_01.MI_Sigma_Black_Skin_01",
+          "SubPathString": ""
+        },
+        "CompatibleWithAll": false,
+        "Compatibles": [
+          {
+            "CustomizationType": "ECustomizationType::Armor",
+            "Meshes": [
+              "Sigma Dark"
+            ]
+          }
+        ],
+        "Incompatibles": [],
+        "Rarity": "ECustomizationRarity::Legendary",
+        "RarityOverrides": {},
+        "Availability": {
+          "Availability": "ECustomizationAvailability::BattlePass",
+          "AvailabilityInfo": "BetaSeason1"
+        },
+        "AvailabilityOverrides": [],
+        "TextureSetOverrides": [],
+        "ID": 657,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Electrum"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "658": {
+        "MaterialInstance": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Textures/FB87_Sigma_Black/MI_Sigma_Black_Skin_02.MI_Sigma_Black_Skin_02",
+          "SubPathString": ""
+        },
+        "CompatibleWithAll": false,
+        "Compatibles": [
+          {
+            "CustomizationType": "ECustomizationType::Armor",
+            "Meshes": [
+              "Sigma Dark"
+            ]
+          }
+        ],
+        "Incompatibles": [],
+        "Rarity": "ECustomizationRarity::Legendary",
+        "RarityOverrides": {},
+        "Availability": {
+          "Availability": "ECustomizationAvailability::BattlePass",
+          "AvailabilityInfo": "BetaSeason1"
+        },
+        "AvailabilityOverrides": [],
+        "TextureSetOverrides": [],
+        "ID": 658,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Phixsas"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "659": {
+        "MaterialInstance": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Textures/FB87_Sigma_Black/MI_Sigma_Black_Skin_03.MI_Sigma_Black_Skin_03",
+          "SubPathString": ""
+        },
+        "CompatibleWithAll": false,
+        "Compatibles": [
+          {
+            "CustomizationType": "ECustomizationType::Armor",
+            "Meshes": [
+              "Sigma Dark"
+            ]
+          }
+        ],
+        "Incompatibles": [],
+        "Rarity": "ECustomizationRarity::Legendary",
+        "RarityOverrides": {},
+        "Availability": {
+          "Availability": "ECustomizationAvailability::BattlePass",
+          "AvailabilityInfo": "BetaSeason1"
+        },
+        "AvailabilityOverrides": [],
+        "TextureSetOverrides": [],
+        "ID": 659,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Arcubus"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "660": {
+        "MaterialInstance": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/Jetpacks/J_86_Sigmator/MI_J_86_Sigmator_Skin_01.MI_J_86_Sigmator_Skin_01",
+          "SubPathString": ""
+        },
+        "CompatibleWithAll": false,
+        "Compatibles": [
+          {
+            "CustomizationType": "ECustomizationType::Jetpack",
+            "Meshes": [
+              "Sigma Dark"
+            ]
+          }
+        ],
+        "Incompatibles": [],
+        "Rarity": "ECustomizationRarity::Legendary",
+        "RarityOverrides": {},
+        "Availability": {
+          "Availability": "ECustomizationAvailability::BattlePass",
+          "AvailabilityInfo": "BetaSeason1"
+        },
+        "AvailabilityOverrides": [],
+        "TextureSetOverrides": [],
+        "ID": 660,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Phixsas"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "661": {
+        "MaterialInstance": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/Jetpacks/J_86_Sigmator/MI_J_86_Sigmator_Skin_02.MI_J_86_Sigmator_Skin_02",
+          "SubPathString": ""
+        },
+        "CompatibleWithAll": false,
+        "Compatibles": [
+          {
+            "CustomizationType": "ECustomizationType::Jetpack",
+            "Meshes": [
+              "Sigma Dark"
+            ]
+          }
+        ],
+        "Incompatibles": [],
+        "Rarity": "ECustomizationRarity::Legendary",
+        "RarityOverrides": {},
+        "Availability": {
+          "Availability": "ECustomizationAvailability::BattlePass",
+          "AvailabilityInfo": "BetaSeason1"
+        },
+        "AvailabilityOverrides": [],
+        "TextureSetOverrides": [],
+        "ID": 661,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Electrum"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "662": {
+        "MaterialInstance": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/Jetpacks/J_86_Sigmator/MI_J_86_Sigmator_Skin_03.MI_J_86_Sigmator_Skin_03",
+          "SubPathString": ""
+        },
+        "CompatibleWithAll": false,
+        "Compatibles": [
+          {
+            "CustomizationType": "ECustomizationType::Jetpack",
+            "Meshes": [
+              "Sigma Dark"
+            ]
+          }
+        ],
+        "Incompatibles": [],
+        "Rarity": "ECustomizationRarity::Legendary",
+        "RarityOverrides": {},
+        "Availability": {
+          "Availability": "ECustomizationAvailability::BattlePass",
+          "AvailabilityInfo": "BetaSeason1"
+        },
+        "AvailabilityOverrides": [],
+        "TextureSetOverrides": [],
+        "ID": 662,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Arcubus"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "663": {
+        "MaterialInstance": {
+          "AssetPathName": "/Game/Weapons/Oddball/Mesh/Skins/Foregone/MI_FD_Oddball_Main.MI_FD_Oddball_Main",
+          "SubPathString": ""
+        },
+        "CompatibleWithAll": false,
+        "Compatibles": [
+          {
+            "CustomizationType": "ECustomizationType::Oddball",
+            "Meshes": [
+              "Foregone"
+            ]
+          }
+        ],
+        "Incompatibles": [],
+        "Rarity": "ECustomizationRarity::Legendary",
+        "RarityOverrides": {},
+        "Availability": {
+          "Availability": "ECustomizationAvailability::BattlePass",
+          "AvailabilityInfo": "BetaSeason1"
+        },
+        "AvailabilityOverrides": [],
+        "TextureSetOverrides": [],
+        "ID": 663,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Estranged"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "664": {
+        "MaterialInstance": {
+          "AssetPathName": "/Game/Weapons/Bat/Materials/Legendary/MI_BFB_Sigma.MI_BFB_Sigma",
+          "SubPathString": ""
+        },
+        "CompatibleWithAll": false,
+        "Compatibles": [
+          {
+            "CustomizationType": "ECustomizationType::Bat",
+            "Meshes": [
+              "Sigmator"
+            ]
+          }
+        ],
+        "Incompatibles": [],
+        "Rarity": "ECustomizationRarity::Legendary",
+        "RarityOverrides": {},
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "AvailabilityOverrides": [],
+        "TextureSetOverrides": [],
+        "ID": 664,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Sigmator"
         },
         "DisplayImage": {
           "AssetPathName": "None",

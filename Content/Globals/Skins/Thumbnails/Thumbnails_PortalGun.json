@@ -10198,6 +10198,16 @@
           "AssetPathName": "/Game/Thumbnails/PortalGun/PortalGun_12-0_T.PortalGun_12-0_T",
           "SubPathString": ""
         }
+      },
+      "13-0": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/PortalGun/PortalGun_13-0_T.PortalGun_13-0_T",
+          "SubPathString": ""
+        }
       }
     }
   }

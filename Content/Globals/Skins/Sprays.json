@@ -4975,6 +4975,105 @@
           "AssetPathName": "None",
           "SubPathString": ""
         }
+      },
+      "201": {
+        "Texture": {
+          "AssetPathName": "/Game/Emblems/Pounce.Pounce",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Spray",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::BattlePass",
+          "AvailabilityInfo": "BetaSeason1"
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 201,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Pounce"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Emblems/Pounce.Pounce",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "202": {
+        "Texture": {
+          "AssetPathName": "/Game/Emblems/GG.GG",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Spray",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::BattlePass",
+          "AvailabilityInfo": "BetaSeason1"
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 202,
+        "DisplayName": {
+          "CultureInvariantString": "GG"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Emblems/GG.GG",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "203": {
+        "Texture": {
+          "AssetPathName": "/Game/Emblems/CoolPrickles.CoolPrickles",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Spray",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::BattlePass",
+          "AvailabilityInfo": "BetaSeason1"
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 203,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "CoolPrickles"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Emblems/CoolPrickles.CoolPrickles",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "204": {
+        "Texture": {
+          "AssetPathName": "/Game/Emblems/Boom.Boom",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Spray",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::BattlePass",
+          "AvailabilityInfo": "BetaSeason1"
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 204,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Boom"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Emblems/Boom.Boom",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
       }
     }
   }

@@ -6,7 +6,7 @@ ProjectName=PortalWars
 ProjectID=067482974316BA5673AD7FB2FB601799
 bUseBorderlessWindow=False
 CopyrightNotice=Copyright 1047 Games, Inc. All Rights Reserved.
-ProjectVersion="5.6.1"
+ProjectVersion="6.0.0"
 
 [/Script/Engine.GameNetworkManager]
 MAXPOSITIONERRORSQUARED=1600
@@ -189,6 +189,8 @@ bSkipMovies=False
 +MapsToCook=(FilePath="/Game/Maps/Sanctum_Blockout")
 +MapsToCook=(FilePath="/Game/Maps/Neon_Sector_Blockout")
 +MapsToCook=(FilePath="/Game/Maps/Maya_Blockout")
++MapsToCook=(FilePath="/Game/Maps/Forge_Flat_Earth")
++MapsToCook=(FilePath="/Game/Maps/Simulation_Hotel")
 +DirectoriesToAlwaysCook=(Path="/Game/Localization")
 +DirectoriesToNeverCook=(Path="/Game/SkinsThumbnails/ThumbnailGenerator")
 +DirectoriesToAlwaysStageAsUFS=(Path="WwiseAudio")

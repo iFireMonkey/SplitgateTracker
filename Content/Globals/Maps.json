@@ -18,7 +18,7 @@
         "MapDescription": {
           "Namespace": "Maps",
           "Key": "MapDescription_Stadium",
-          "SourceString": "Splitgate’s first ever competition was played on Stadium, which has maintained itself as the premiere arena for high profile events."
+          "SourceString": "Splitgate's first ever competition was played on Stadium, which has maintained itself as the premiere arena for high profile events."
         },
         "ID": 0,
         "DisplayName": {
@@ -44,7 +44,7 @@
         "MapDescription": {
           "Namespace": "Maps",
           "Key": "MapDescription_Pantheon",
-          "SourceString": "The temple of Pantheon was built to celebrate the discovery of portals. The arena’s spiritual significance was fleeting.  Splitgate competitions are its main purpose today."
+          "SourceString": "The temple of Pantheon was built to celebrate the discovery of portals. The arena's spiritual significance was fleeting.  Splitgate competitions are its main purpose today."
         },
         "ID": 1,
         "DisplayName": {
@@ -148,7 +148,7 @@
         "MapDescription": {
           "Namespace": "Maps",
           "Key": "MapDescription_Highwind",
-          "SourceString": "Situated atop the tallest Japanese forest, this treehouse map is known to be one of the most difficult for portal usage. Many competitors pride themselves on mastering Highwind’s quirks and using it to their advantage."
+          "SourceString": "Situated atop the tallest Japanese forest, this treehouse map is known to be one of the most difficult for portal usage. Many competitors pride themselves on mastering Highwind's quirks and using it to their advantage."
         },
         "ID": 5,
         "DisplayName": {
@@ -350,7 +350,7 @@
         "MapDescription": {
           "Namespace": "Maps",
           "Key": "MapDescription_Impact",
-          "SourceString": "The impact site at Silvertree Farms signified the start of a new era, but many of the alien vessel’s secrets remain unsolved..."
+          "SourceString": "The impact site at Silvertree Farms signified the start of a new era, but many of the alien vessel's secrets remain unsolved..."
         },
         "ID": 19,
         "DisplayName": {
@@ -376,7 +376,7 @@
         "MapDescription": {
           "Namespace": "Maps",
           "Key": "MapDescription_Foregone",
-          "SourceString": "Many worship these ancient ruins, left behind by a mysterious civilization. Foregone Destruction’s original purpose is unknown, and identical ruins exist elsewhere on the planet where it was found."
+          "SourceString": "Many worship these ancient ruins, left behind by a mysterious civilization. Foregone Destruction's original purpose is unknown, and identical ruins exist elsewhere on the planet where it was found."
         },
         "ID": 21,
         "DisplayName": {
@@ -679,6 +679,53 @@
         },
         "DisplayImage": {
           "AssetPathName": "/Game/Thumbnails/KeyArt/KeyArt.KeyArt",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "28": {
+        "MapName": "Simulation_Hotel",
+        "Selectability": [
+          "EMapSelectability::Default"
+        ],
+        "MapDescription": {
+          "Namespace": "Maps",
+          "Key": "MapDescription_Hotel",
+          "SourceString": "The eighth virtual arena made for Simulated Splitgate, operating through the immersive hypernet protocol."
+        },
+        "ID": 28,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Map_Simulation_Hotel"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Maps/HotelScreenshot.HotelScreenshot",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "29": {
+        "MapName": "Forge_Flat_Earth",
+        "Selectability": [
+          "EMapSelectability::Forge"
+        ],
+        "MapDescription": {
+          "CultureInvariantString": null
+        },
+        "ID": 29,
+        "DisplayName": {
+          "Namespace": "Maps",
+          "Key": "FlatEarth",
+          "SourceString": "Flat Earth"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Maps/FlatEarthScreenshot.FlatEarthScreenshot",
           "SubPathString": ""
         },
         "DisplayImageSmall": {

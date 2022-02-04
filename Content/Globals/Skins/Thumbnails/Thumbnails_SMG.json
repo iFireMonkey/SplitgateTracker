@@ -1659,16 +1659,6 @@
           "SubPathString": ""
         }
       },
-      "27-570": {
-        "DisplayImageFeatured": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/SMG/SMG_27-570_T.SMG_27-570_T",
-          "SubPathString": ""
-        }
-      },
       "28-472": {
         "DisplayImageFeatured": {
           "AssetPathName": "None",
@@ -1956,6 +1946,26 @@
         },
         "DisplayImage": {
           "AssetPathName": "/Game/Thumbnails/SMG/SMG_35-625_T.SMG_35-625_T",
+          "SubPathString": ""
+        }
+      },
+      "37-643": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/SMG/SMG_37-643_T.SMG_37-643_T",
+          "SubPathString": ""
+        }
+      },
+      "0-570": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/SMG/SMG_0-570_T.SMG_0-570_T",
           "SubPathString": ""
         }
       }

@@ -1639,16 +1639,6 @@
           "SubPathString": ""
         }
       },
-      "30-570": {
-        "DisplayImageFeatured": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/PlasmaRifle/PlasmaRifle_30-570_T.PlasmaRifle_30-570_T",
-          "SubPathString": ""
-        }
-      },
       "31-579": {
         "DisplayImageFeatured": {
           "AssetPathName": "None",
@@ -1926,6 +1916,26 @@
         },
         "DisplayImage": {
           "AssetPathName": "/Game/Thumbnails/PlasmaRifle/PlasmaRifle_36-634_T.PlasmaRifle_36-634_T",
+          "SubPathString": ""
+        }
+      },
+      "38-645": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/PlasmaRifle/PlasmaRifle_38-645_T.PlasmaRifle_38-645_T",
+          "SubPathString": ""
+        }
+      },
+      "0-570": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/PlasmaRifle/PlasmaRifle_0-570_T.PlasmaRifle_0-570_T",
           "SubPathString": ""
         }
       }
