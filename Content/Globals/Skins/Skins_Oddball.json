@@ -78,7 +78,8 @@
         "Rarity": "ECustomizationRarity::Common",
         "ID": 1,
         "DisplayName": {
-          "CultureInvariantString": "Basketball"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Basketball"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -197,7 +198,8 @@
         "Rarity": "ECustomizationRarity::Common",
         "ID": 4,
         "DisplayName": {
-          "CultureInvariantString": "Soccer Ball"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "SoccerBall"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -276,7 +278,8 @@
         "Rarity": "ECustomizationRarity::Legendary",
         "ID": 6,
         "DisplayName": {
-          "CultureInvariantString": "JingleBall"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "JingleBall"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -317,6 +320,46 @@
         "DisplayName": {
           "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
           "Key": "Acorn"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "8": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/Oddball/Mesh/Skins/Christmas/SK_Christmas_ODD_FPP.SK_Christmas_ODD_FPP",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/Oddball/Mesh/Skins/Christmas/SM_Christmas_ODD.SM_Christmas_ODD",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "None",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::Oddball",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 8,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Snow"
         },
         "DisplayImage": {
           "AssetPathName": "None",

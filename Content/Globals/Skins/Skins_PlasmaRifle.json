@@ -152,7 +152,8 @@
         "Rarity": "ECustomizationRarity::Common",
         "ID": 3,
         "DisplayName": {
-          "CultureInvariantString": "Holo"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Holo"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -189,7 +190,8 @@
         "Rarity": "ECustomizationRarity::Common",
         "ID": 4,
         "DisplayName": {
-          "CultureInvariantString": "Raider"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Raider"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -264,7 +266,8 @@
         "Rarity": "ECustomizationRarity::Common",
         "ID": 6,
         "DisplayName": {
-          "CultureInvariantString": "Crystal"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Crystal"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -339,7 +342,8 @@
         "Rarity": "ECustomizationRarity::Common",
         "ID": 8,
         "DisplayName": {
-          "CultureInvariantString": "Overwolf"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Overwolf"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -450,7 +454,8 @@
         "Rarity": "ECustomizationRarity::Common",
         "ID": 11,
         "DisplayName": {
-          "CultureInvariantString": "Lightning"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Lightning"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -639,7 +644,8 @@
         "Rarity": "ECustomizationRarity::Legendary",
         "ID": 16,
         "DisplayName": {
-          "CultureInvariantString": "Dragon"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Dragon"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -676,7 +682,8 @@
         "Rarity": "ECustomizationRarity::Legendary",
         "ID": 17,
         "DisplayName": {
-          "CultureInvariantString": "Necron"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Necron"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -751,7 +758,8 @@
         "Rarity": "ECustomizationRarity::Legendary",
         "ID": 19,
         "DisplayName": {
-          "CultureInvariantString": "Bike"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Bike"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -826,7 +834,8 @@
         "Rarity": "ECustomizationRarity::Legendary",
         "ID": 21,
         "DisplayName": {
-          "CultureInvariantString": "Milk"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Milk"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -1019,7 +1028,8 @@
         "Rarity": "ECustomizationRarity::Rare",
         "ID": 26,
         "DisplayName": {
-          "CultureInvariantString": "Alienware"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Alienware"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -1058,7 +1068,8 @@
         "Rarity": "ECustomizationRarity::Epic",
         "ID": 27,
         "DisplayName": {
-          "CultureInvariantString": "Kovaak"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Kovaak"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -1256,7 +1267,8 @@
         "Rarity": "ECustomizationRarity::Epic",
         "ID": 32,
         "DisplayName": {
-          "CultureInvariantString": "TRN"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "TRN"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -1295,7 +1307,168 @@
         "Rarity": "ECustomizationRarity::Legendary",
         "ID": 33,
         "DisplayName": {
-          "CultureInvariantString": "Hall-O-Ween"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Skullcrusher"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "34": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/PlasmaRifle/Mesh/FPP/Legendary/PR_Overheat_Fpp.PR_Overheat_Fpp",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/PlasmaRifle/Mesh/FPP/Legendary/PlasmaRIfle_Overheat.PlasmaRIfle_Overheat",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "Plasma-Ammo",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::PlasmaRifle",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 34,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Overheat"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "35": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/PlasmaRifle/Mesh/FPP/Partner/PR_Advanced_FPP.PR_Advanced_FPP",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/PlasmaRifle/Mesh/FPP/Partner/SM_PR_Advanced.SM_PR_Advanced",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "Plasma-Ammo",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::PlasmaRifle",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 35,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Advanced"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "36": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/PlasmaRifle/Mesh/FPP/Legendary/PR_Christmas_FPP.PR_Christmas_FPP",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/PlasmaRifle/Mesh/FPP/Legendary/SM_PlasmaRifle_Christmas.SM_PlasmaRifle_Christmas",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "None",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::PlasmaRifle",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 36,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Snow"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "37": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/PlasmaRifle/Mesh/FPP/Partner/PR_Casio_FPP.PR_Casio_FPP",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/PlasmaRifle/Mesh/FPP/Partner/SM_PR_Casio.SM_PR_Casio",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "Plasma-Ammo",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::PlasmaRifle",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Rare",
+        "ID": 37,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Casio"
         },
         "DisplayImage": {
           "AssetPathName": "None",

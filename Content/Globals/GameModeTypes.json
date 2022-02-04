@@ -1,0 +1,242 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "GameModeTypes",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class GameModeTypeData",
+        "ObjectPath": "/Script/PortalWarsGlobals"
+      }
+    },
+    "Rows": {
+      "0": {
+        "Type": "EGameModeType::Deathmatch",
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "ID": 0,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "GameModes_Deathmatch"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/GameModes/TDM_Screenshot.TDM_Screenshot",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "1": {
+        "Type": "EGameModeType::KOTH",
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "ID": 1,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "GameModes_KingoftheHill"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/GameModes/TDM_Screenshot.TDM_Screenshot",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "2": {
+        "Type": "EGameModeType::Domination",
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "ID": 2,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "GameModes_Domination"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/GameModes/DOM_Screenshot.DOM_Screenshot",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "3": {
+        "Type": "EGameModeType::CTF",
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "ID": 3,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "GameModes_CapturetheFlag"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/GameModes/GunGame_Screenshot.GunGame_Screenshot",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "4": {
+        "Type": "EGameModeType::Oddball",
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "ID": 4,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "GameModes_Oddball"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/GameModes/Oddball_Screenshot.Oddball_Screenshot",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "5": {
+        "Type": "EGameModeType::VIP",
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "ID": 5,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "GameModes_VIP"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/GameModes/VIP_Screenshot.VIP_Screenshot",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "6": {
+        "Type": "EGameModeType::Takedown",
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "ID": 6,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "GameModes_Takedown"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/GameModes/Takedown_Screenshot.Takedown_Screenshot",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "7": {
+        "Type": "EGameModeType::Showdown",
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "ID": 7,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "GameModes_Showdown"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/GameModes/Showdown_Screenshot.Showdown_Screenshot",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "8": {
+        "Type": "EGameModeType::GunGame",
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "ID": 8,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "GameModes_GunGame"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/GameModes/GunGame_Screenshot.GunGame_Screenshot",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "9": {
+        "Type": "EGameModeType::OITC",
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "ID": 9,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "GameModes_OneintheChamper"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/GameModes/OITC_Screenshot.OITC_Screenshot",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "10": {
+        "Type": "EGameModeType::Contamination",
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "ID": 10,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "GameModes_Contamination"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/GameModes/Contamination_Screenshot.Contamination_Screenshot",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "11": {
+        "Type": "EGameModeType::TeabagConfirmed",
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "ID": 11,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "GameModes_TeabagConfirmed"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/GameModes/TBC_Screenshot.TBC_Screenshot",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      }
+    }
+  }
+]

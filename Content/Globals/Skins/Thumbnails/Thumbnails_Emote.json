@@ -958,6 +958,16 @@
           "AssetPathName": "/Game/Thumbnails/Emote/Emote_94_T.Emote_94_T",
           "SubPathString": ""
         }
+      },
+      "95": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Emote/Emote_95_T.Emote_95_T",
+          "SubPathString": ""
+        }
       }
     }
   }

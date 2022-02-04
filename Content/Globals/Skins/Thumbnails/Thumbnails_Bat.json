@@ -1698,6 +1698,36 @@
           "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-618_T.Bat_0-618_T",
           "SubPathString": ""
         }
+      },
+      "7-605": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_7-605_T.Bat_7-605_T",
+          "SubPathString": ""
+        }
+      },
+      "0-629": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_0-629_T.Bat_0-629_T",
+          "SubPathString": ""
+        }
+      },
+      "9-642": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Bat/Bat_9-642_T.Bat_9-642_T",
+          "SubPathString": ""
+        }
       }
     }
   }

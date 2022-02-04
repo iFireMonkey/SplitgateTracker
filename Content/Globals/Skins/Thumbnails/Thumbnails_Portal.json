@@ -248,6 +248,16 @@
           "AssetPathName": "/Game/Thumbnails/Portal/Portal_35_T.Portal_35_T",
           "SubPathString": ""
         }
+      },
+      "36": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Portal/Portal_36_T.Portal_36_T",
+          "SubPathString": ""
+        }
       }
     }
   }

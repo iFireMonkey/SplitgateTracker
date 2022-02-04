@@ -152,7 +152,8 @@
         "Rarity": "ECustomizationRarity::Common",
         "ID": 3,
         "DisplayName": {
-          "CultureInvariantString": "Raider"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Raider"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -189,7 +190,8 @@
         "Rarity": "ECustomizationRarity::Common",
         "ID": 4,
         "DisplayName": {
-          "CultureInvariantString": "Bone"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Bone"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -264,7 +266,8 @@
         "Rarity": "ECustomizationRarity::Common",
         "ID": 6,
         "DisplayName": {
-          "CultureInvariantString": "Holo"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Holo"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -301,7 +304,8 @@
         "Rarity": "ECustomizationRarity::Common",
         "ID": 7,
         "DisplayName": {
-          "CultureInvariantString": "Music"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Music"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -376,7 +380,8 @@
         "Rarity": "ECustomizationRarity::Common",
         "ID": 9,
         "DisplayName": {
-          "CultureInvariantString": "Overwolf"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Overwolf"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -487,7 +492,8 @@
         "Rarity": "ECustomizationRarity::Common",
         "ID": 12,
         "DisplayName": {
-          "CultureInvariantString": "Lightning"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Lightning"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -676,7 +682,8 @@
         "Rarity": "ECustomizationRarity::Legendary",
         "ID": 17,
         "DisplayName": {
-          "CultureInvariantString": "Dragon"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Dragon"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -789,7 +796,8 @@
         "Rarity": "ECustomizationRarity::Legendary",
         "ID": 20,
         "DisplayName": {
-          "CultureInvariantString": "Milk"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Milk"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -944,7 +952,8 @@
         "Rarity": "ECustomizationRarity::Rare",
         "ID": 24,
         "DisplayName": {
-          "CultureInvariantString": "Alienware"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Alienware"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -983,7 +992,8 @@
         "Rarity": "ECustomizationRarity::Epic",
         "ID": 25,
         "DisplayName": {
-          "CultureInvariantString": "Kovaak"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Kovaak"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -1102,7 +1112,8 @@
         "Rarity": "ECustomizationRarity::Legendary",
         "ID": 28,
         "DisplayName": {
-          "CultureInvariantString": "Aviator"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Aviator"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -1260,7 +1271,8 @@
         "Rarity": "ECustomizationRarity::Epic",
         "ID": 32,
         "DisplayName": {
-          "CultureInvariantString": "TRN"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "TRN"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -1293,13 +1305,14 @@
         "CompatibleWithAllSkins": false,
         "CustomizationType": "ECustomizationType::RocketLauncher",
         "Availability": {
-          "Availability": "ECustomizationAvailability::Reserved",
+          "Availability": "ECustomizationAvailability::Normal",
           "AvailabilityInfo": ""
         },
         "Rarity": "ECustomizationRarity::Legendary",
         "ID": 33,
         "DisplayName": {
-          "CultureInvariantString": "Bubblegun"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Bubblegun"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -1332,13 +1345,174 @@
         "CompatibleWithAllSkins": false,
         "CustomizationType": "ECustomizationType::RocketLauncher",
         "Availability": {
-          "Availability": "ECustomizationAvailability::Reserved",
+          "Availability": "ECustomizationAvailability::Normal",
           "AvailabilityInfo": ""
         },
         "Rarity": "ECustomizationRarity::Legendary",
         "ID": 34,
         "DisplayName": {
-          "CultureInvariantString": "Hall-O-Ween"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Skullcrusher"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "35": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/RocketLauncher/Mesh/FPP/Legendary/RL_Aviator_FPP.RL_Aviator_FPP",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/RocketLauncher/Mesh/FPP/Legendary/SM_RL_Aviator.SM_RL_Aviator",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "None",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::RocketLauncher",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 35,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Aviator"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "36": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/RocketLauncher/Mesh/FPP/Legendary/RL_Overheat_FPP.RL_Overheat_FPP",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/RocketLauncher/Mesh/FPP/Legendary/RL_Overheat.RL_Overheat",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "None",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::RocketLauncher",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 36,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Overheat"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "37": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/RocketLauncher/Mesh/FPP/Partner/RL_Advanced_FPP.RL_Advanced_FPP",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/RocketLauncher/Mesh/FPP/Partner/SM_RL_Advanced.SM_RL_Advanced",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "None",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::RocketLauncher",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Rare",
+        "ID": 37,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Advanced"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "38": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/RocketLauncher/Mesh/FPP/Partner/RL_Casio_FPP.RL_Casio_FPP",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/RocketLauncher/Mesh/FPP/Partner/SM_RL_Casio.SM_RL_Casio",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "None",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::RocketLauncher",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Rare",
+        "ID": 38,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Casio"
         },
         "DisplayImage": {
           "AssetPathName": "None",

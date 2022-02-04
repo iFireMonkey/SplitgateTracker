@@ -20492,7 +20492,8 @@
         "TextureSetOverrides": [],
         "ID": 477,
         "DisplayName": {
-          "CultureInvariantString": "XTREME"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Xtreme"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -21057,7 +21058,8 @@
         "TextureSetOverrides": [],
         "ID": 494,
         "DisplayName": {
-          "CultureInvariantString": "Nia"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Nia"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -21974,7 +21976,8 @@
         "TextureSetOverrides": [],
         "ID": 518,
         "DisplayName": {
-          "CultureInvariantString": "Alienware"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Alienware"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -22011,7 +22014,8 @@
         "TextureSetOverrides": [],
         "ID": 519,
         "DisplayName": {
-          "CultureInvariantString": "Intel"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Intel"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -22107,7 +22111,8 @@
         "TextureSetOverrides": [],
         "ID": 520,
         "DisplayName": {
-          "CultureInvariantString": "Kovaak"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Kovaak"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -22145,7 +22150,8 @@
         "TextureSetOverrides": [],
         "ID": 521,
         "DisplayName": {
-          "CultureInvariantString": "Razzle"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Razzle"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -22236,7 +22242,8 @@
         "TextureSetOverrides": [],
         "ID": 523,
         "DisplayName": {
-          "CultureInvariantString": "Astro"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Astro"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -22403,7 +22410,8 @@
         "TextureSetOverrides": [],
         "ID": 527,
         "DisplayName": {
-          "CultureInvariantString": "OP"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "OP"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -23113,7 +23121,8 @@
         "TextureSetOverrides": [],
         "ID": 544,
         "DisplayName": {
-          "CultureInvariantString": "Olof"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Olof"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -23152,7 +23161,7 @@
         "ID": 545,
         "DisplayName": {
           "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
-          "Key": "Graffitit"
+          "Key": "Graffiti"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -23271,7 +23280,8 @@
         "TextureSetOverrides": [],
         "ID": 549,
         "DisplayName": {
-          "CultureInvariantString": "Gel 2.0"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Gel2.0"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -23429,7 +23439,8 @@
         "TextureSetOverrides": [],
         "ID": 554,
         "DisplayName": {
-          "CultureInvariantString": "NGC"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "NGC"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -23488,7 +23499,8 @@
         "TextureSetOverrides": [],
         "ID": 556,
         "DisplayName": {
-          "CultureInvariantString": "Picasso"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Picasso"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -24232,7 +24244,8 @@
         ],
         "ID": 571,
         "DisplayName": {
-          "CultureInvariantString": "100T"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "100T"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -24370,7 +24383,7 @@
       },
       "575": {
         "MaterialInstance": {
-          "AssetPathName": "/Game/Materials/MasterInstances/Legendary/MI_Skin_SuperGold.MI_Skin_SuperGold",
+          "AssetPathName": "/Game/Materials/MasterInstances/Legendary/MI_Skin_sGold.MI_Skin_sGold",
           "SubPathString": ""
         },
         "CompatibleWithAll": false,
@@ -24430,7 +24443,8 @@
         "TextureSetOverrides": [],
         "ID": 576,
         "DisplayName": {
-          "CultureInvariantString": "OP"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "OP"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -24466,7 +24480,8 @@
         "TextureSetOverrides": [],
         "ID": 577,
         "DisplayName": {
-          "CultureInvariantString": "Picasso"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Picasso"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -24557,7 +24572,8 @@
         "TextureSetOverrides": [],
         "ID": 579,
         "DisplayName": {
-          "CultureInvariantString": "For Glory"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "ForGlory"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -24605,7 +24621,8 @@
         "TextureSetOverrides": [],
         "ID": 580,
         "DisplayName": {
-          "CultureInvariantString": "TRN"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "TRN"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -24671,7 +24688,8 @@
         "TextureSetOverrides": [],
         "ID": 582,
         "DisplayName": {
-          "CultureInvariantString": "Illusion"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Illusion"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -24724,6 +24742,34 @@
             "Meshes": [
               "Aviator"
             ]
+          },
+          {
+            "CustomizationType": "ECustomizationType::AssaultRifle",
+            "Meshes": [
+              "Aviator"
+            ]
+          },
+          {
+            "CustomizationType": "ECustomizationType::Sniper",
+            "Meshes": [
+              "Aviator"
+            ]
+          },
+          {
+            "CustomizationType": "ECustomizationType::RocketLauncher",
+            "Meshes": [
+              "Aviator"
+            ]
+          },
+          {
+            "CustomizationType": "ECustomizationType::SMG",
+            "Meshes": [
+              "Aviator"
+            ]
+          },
+          {
+            "CustomizationType": "ECustomizationType::None",
+            "Meshes": []
           }
         ],
         "Incompatibles": [],
@@ -24737,7 +24783,8 @@
         "TextureSetOverrides": [],
         "ID": 584,
         "DisplayName": {
-          "CultureInvariantString": "Aviator"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Aviator"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -24818,7 +24865,8 @@
         "TextureSetOverrides": [],
         "ID": 586,
         "DisplayName": {
-          "CultureInvariantString": "Split"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Split"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -24860,7 +24908,8 @@
         "TextureSetOverrides": [],
         "ID": 587,
         "DisplayName": {
-          "CultureInvariantString": "Danger"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Danger"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -24902,7 +24951,8 @@
         "TextureSetOverrides": [],
         "ID": 588,
         "DisplayName": {
-          "CultureInvariantString": "Sweet"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Sweet"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -24944,7 +24994,8 @@
         "TextureSetOverrides": [],
         "ID": 589,
         "DisplayName": {
-          "CultureInvariantString": "Desert"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Desert"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -24986,7 +25037,8 @@
         "TextureSetOverrides": [],
         "ID": 590,
         "DisplayName": {
-          "CultureInvariantString": "Bind"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Bind"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -25028,7 +25080,8 @@
         "TextureSetOverrides": [],
         "ID": 591,
         "DisplayName": {
-          "CultureInvariantString": "Juicy"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Juicy"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -25070,7 +25123,8 @@
         "TextureSetOverrides": [],
         "ID": 592,
         "DisplayName": {
-          "CultureInvariantString": "Swirly"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Swirly"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -25112,7 +25166,8 @@
         "TextureSetOverrides": [],
         "ID": 593,
         "DisplayName": {
-          "CultureInvariantString": "Alternate"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Alternate"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -25154,7 +25209,8 @@
         "TextureSetOverrides": [],
         "ID": 594,
         "DisplayName": {
-          "CultureInvariantString": "Jam"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Jam"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -25239,7 +25295,8 @@
         "TextureSetOverrides": [],
         "ID": 596,
         "DisplayName": {
-          "CultureInvariantString": "Jumper"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Jumper"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -25281,7 +25338,8 @@
         "TextureSetOverrides": [],
         "ID": 597,
         "DisplayName": {
-          "CultureInvariantString": "Rosary"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Rosary"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -25323,7 +25381,8 @@
         "TextureSetOverrides": [],
         "ID": 598,
         "DisplayName": {
-          "CultureInvariantString": "Super"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Super"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -25365,7 +25424,8 @@
         "TextureSetOverrides": [],
         "ID": 599,
         "DisplayName": {
-          "CultureInvariantString": "Bloo"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Bloo"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -25407,7 +25467,8 @@
         "TextureSetOverrides": [],
         "ID": 600,
         "DisplayName": {
-          "CultureInvariantString": "Fold"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Fold"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -25492,7 +25553,8 @@
         "TextureSetOverrides": [],
         "ID": 602,
         "DisplayName": {
-          "CultureInvariantString": "Glitch"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Glitch"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -25534,7 +25596,8 @@
         "TextureSetOverrides": [],
         "ID": 603,
         "DisplayName": {
-          "CultureInvariantString": "Neon"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Neon"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -25563,7 +25626,8 @@
         "TextureSetOverrides": [],
         "ID": 604,
         "DisplayName": {
-          "CultureInvariantString": "Lighting 2.0"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Lightning2.0"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -25584,7 +25648,67 @@
           {
             "CustomizationType": "ECustomizationType::DMR",
             "Meshes": [
-              "Halloween"
+              "Skullcrusher"
+            ]
+          },
+          {
+            "CustomizationType": "ECustomizationType::AssaultRifle",
+            "Meshes": [
+              "Skullcrusher"
+            ]
+          },
+          {
+            "CustomizationType": "ECustomizationType::BattleRifle",
+            "Meshes": [
+              "Skullcrusher"
+            ]
+          },
+          {
+            "CustomizationType": "ECustomizationType::PlasmaRifle",
+            "Meshes": [
+              "Skullcrusher"
+            ]
+          },
+          {
+            "CustomizationType": "ECustomizationType::RocketLauncher",
+            "Meshes": [
+              "Skullcrusher"
+            ]
+          },
+          {
+            "CustomizationType": "ECustomizationType::Sniper",
+            "Meshes": [
+              "Skullcrusher"
+            ]
+          },
+          {
+            "CustomizationType": "ECustomizationType::SMG",
+            "Meshes": [
+              "Skullcrusher"
+            ]
+          },
+          {
+            "CustomizationType": "ECustomizationType::Bat",
+            "Meshes": [
+              "Skullcrusher"
+            ]
+          },
+          {
+            "CustomizationType": "ECustomizationType::Pistol",
+            "Meshes": [
+              "Skullcrusher"
+            ]
+          },
+          {
+            "CustomizationType": "ECustomizationType::Railgun",
+            "Meshes": [
+              "Skullcrusher"
+            ]
+          },
+          {
+            "CustomizationType": "ECustomizationType::Shotgun",
+            "Meshes": [
+              "Skullcrusher"
             ]
           }
         ],
@@ -25599,7 +25723,8 @@
         "TextureSetOverrides": [],
         "ID": 605,
         "DisplayName": {
-          "CultureInvariantString": "Howl-O-Ween"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Skullcrusher"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -25628,7 +25753,8 @@
         "TextureSetOverrides": [],
         "ID": 606,
         "DisplayName": {
-          "CultureInvariantString": "Yikes"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Yikes"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -25672,7 +25798,8 @@
         ],
         "ID": 607,
         "DisplayName": {
-          "CultureInvariantString": "Chrome"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Chrome"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -25716,7 +25843,8 @@
         ],
         "ID": 608,
         "DisplayName": {
-          "CultureInvariantString": "PixelSpook"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "PixelSpook"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -25752,7 +25880,8 @@
         "TextureSetOverrides": [],
         "ID": 609,
         "DisplayName": {
-          "CultureInvariantString": "Foresight"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Foresight"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -25796,7 +25925,8 @@
         ],
         "ID": 610,
         "DisplayName": {
-          "CultureInvariantString": "Candy Corn"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "CandyCorn"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -25832,7 +25962,8 @@
         "TextureSetOverrides": [],
         "ID": 611,
         "DisplayName": {
-          "CultureInvariantString": "Hog"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Hog"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -25868,7 +25999,8 @@
         "TextureSetOverrides": [],
         "ID": 612,
         "DisplayName": {
-          "CultureInvariantString": "DeadHog"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "DeadHog"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -25904,7 +26036,8 @@
         "TextureSetOverrides": [],
         "ID": 613,
         "DisplayName": {
-          "CultureInvariantString": "Undead"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Undead"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -25940,7 +26073,8 @@
         "TextureSetOverrides": [],
         "ID": 614,
         "DisplayName": {
-          "CultureInvariantString": "Demon"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Demon"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -25961,7 +26095,7 @@
           {
             "CustomizationType": "ECustomizationType::Jetpack",
             "Meshes": [
-              "JetChain"
+              "Butcher"
             ]
           }
         ],
@@ -25976,7 +26110,8 @@
         "TextureSetOverrides": [],
         "ID": 615,
         "DisplayName": {
-          "CultureInvariantString": "Chain of Death"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "ChainofDeath"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -25997,7 +26132,7 @@
           {
             "CustomizationType": "ECustomizationType::Jetpack",
             "Meshes": [
-              "JetChain"
+              "Butcher"
             ]
           }
         ],
@@ -26012,7 +26147,8 @@
         "TextureSetOverrides": [],
         "ID": 616,
         "DisplayName": {
-          "CultureInvariantString": "Demon Fire"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "DemonFire"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -26033,7 +26169,7 @@
           {
             "CustomizationType": "ECustomizationType::Jetpack",
             "Meshes": [
-              "JetChain"
+              "Butcher"
             ]
           }
         ],
@@ -26048,7 +26184,8 @@
         "TextureSetOverrides": [],
         "ID": 617,
         "DisplayName": {
-          "CultureInvariantString": "Unchained"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Unchained"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -26092,7 +26229,1124 @@
         ],
         "ID": 618,
         "DisplayName": {
-          "CultureInvariantString": "Leak"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Leak"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "619": {
+        "MaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/MI_Legendary_Override.MI_Legendary_Override",
+          "SubPathString": ""
+        },
+        "CompatibleWithAll": false,
+        "Compatibles": [
+          {
+            "CustomizationType": "ECustomizationType::DMR",
+            "Meshes": [
+              "Advanced"
+            ]
+          }
+        ],
+        "Incompatibles": [],
+        "Rarity": "ECustomizationRarity::Rare",
+        "RarityOverrides": {},
+        "Availability": {
+          "Availability": "ECustomizationAvailability::DLC",
+          "AvailabilityInfo": "Advanced1"
+        },
+        "AvailabilityOverrides": [],
+        "TextureSetOverrides": [
+          {
+            "CustomizationType": "ECustomizationType::DMR",
+            "Meshes": [
+              "Advanced"
+            ],
+            "TextureSet": "Advansplosion"
+          }
+        ],
+        "ID": 619,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Advansplosion"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "620": {
+        "MaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/MI_Legendary_Override.MI_Legendary_Override",
+          "SubPathString": ""
+        },
+        "CompatibleWithAll": false,
+        "Compatibles": [
+          {
+            "CustomizationType": "ECustomizationType::BattleRifle",
+            "Meshes": [
+              "Advanced"
+            ]
+          }
+        ],
+        "Incompatibles": [],
+        "Rarity": "ECustomizationRarity::Rare",
+        "RarityOverrides": {},
+        "Availability": {
+          "Availability": "ECustomizationAvailability::DLC",
+          "AvailabilityInfo": "Advanced2"
+        },
+        "AvailabilityOverrides": [],
+        "TextureSetOverrides": [
+          {
+            "CustomizationType": "ECustomizationType::BattleRifle",
+            "Meshes": [
+              "Advanced"
+            ],
+            "TextureSet": "Digital Downpour"
+          }
+        ],
+        "ID": 620,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "DigitalDownpour"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "621": {
+        "MaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/MI_Legendary_Override.MI_Legendary_Override",
+          "SubPathString": ""
+        },
+        "CompatibleWithAll": false,
+        "Compatibles": [
+          {
+            "CustomizationType": "ECustomizationType::AssaultRifle",
+            "Meshes": [
+              "Advanced"
+            ]
+          }
+        ],
+        "Incompatibles": [],
+        "Rarity": "ECustomizationRarity::Rare",
+        "RarityOverrides": {},
+        "Availability": {
+          "Availability": "ECustomizationAvailability::DLC",
+          "AvailabilityInfo": "Advanced3"
+        },
+        "AvailabilityOverrides": [],
+        "TextureSetOverrides": [
+          {
+            "CustomizationType": "ECustomizationType::AssaultRifle",
+            "Meshes": [
+              "Advanced"
+            ],
+            "TextureSet": "Cloud Vibes"
+          }
+        ],
+        "ID": 621,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "CloudVibes"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "622": {
+        "MaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/MI_Legendary_Override.MI_Legendary_Override",
+          "SubPathString": ""
+        },
+        "CompatibleWithAll": false,
+        "Compatibles": [
+          {
+            "CustomizationType": "ECustomizationType::Sniper",
+            "Meshes": [
+              "Advanced"
+            ]
+          }
+        ],
+        "Incompatibles": [],
+        "Rarity": "ECustomizationRarity::Rare",
+        "RarityOverrides": {},
+        "Availability": {
+          "Availability": "ECustomizationAvailability::DLC",
+          "AvailabilityInfo": "Advanced4"
+        },
+        "AvailabilityOverrides": [],
+        "TextureSetOverrides": [
+          {
+            "CustomizationType": "ECustomizationType::Sniper",
+            "Meshes": [
+              "Advanced"
+            ],
+            "TextureSet": "Camping Wins"
+          }
+        ],
+        "ID": 622,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "CampingWins"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "623": {
+        "MaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/MI_Legendary_Override.MI_Legendary_Override",
+          "SubPathString": ""
+        },
+        "CompatibleWithAll": false,
+        "Compatibles": [
+          {
+            "CustomizationType": "ECustomizationType::Railgun",
+            "Meshes": [
+              "Advanced"
+            ]
+          }
+        ],
+        "Incompatibles": [],
+        "Rarity": "ECustomizationRarity::Rare",
+        "RarityOverrides": {},
+        "Availability": {
+          "Availability": "ECustomizationAvailability::DLC",
+          "AvailabilityInfo": "Advanced5"
+        },
+        "AvailabilityOverrides": [],
+        "TextureSetOverrides": [
+          {
+            "CustomizationType": "ECustomizationType::Railgun",
+            "Meshes": [
+              "Advanced"
+            ],
+            "TextureSet": "Inner Tech"
+          }
+        ],
+        "ID": 623,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "InnerTech"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "624": {
+        "MaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/MI_Legendary_Override.MI_Legendary_Override",
+          "SubPathString": ""
+        },
+        "CompatibleWithAll": false,
+        "Compatibles": [
+          {
+            "CustomizationType": "ECustomizationType::RocketLauncher",
+            "Meshes": [
+              "Advanced"
+            ]
+          }
+        ],
+        "Incompatibles": [],
+        "Rarity": "ECustomizationRarity::Rare",
+        "RarityOverrides": {},
+        "Availability": {
+          "Availability": "ECustomizationAvailability::DLC",
+          "AvailabilityInfo": "Advanced6"
+        },
+        "AvailabilityOverrides": [],
+        "TextureSetOverrides": [
+          {
+            "CustomizationType": "ECustomizationType::RocketLauncher",
+            "Meshes": [
+              "Advanced"
+            ],
+            "TextureSet": "Cubinc Plunder"
+          }
+        ],
+        "ID": 624,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "CubincPlunder"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "625": {
+        "MaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/MI_Legendary_Override.MI_Legendary_Override",
+          "SubPathString": ""
+        },
+        "CompatibleWithAll": false,
+        "Compatibles": [
+          {
+            "CustomizationType": "ECustomizationType::SMG",
+            "Meshes": [
+              "Advanced"
+            ]
+          }
+        ],
+        "Incompatibles": [],
+        "Rarity": "ECustomizationRarity::Rare",
+        "RarityOverrides": {},
+        "Availability": {
+          "Availability": "ECustomizationAvailability::DLC",
+          "AvailabilityInfo": "Advanced7"
+        },
+        "AvailabilityOverrides": [],
+        "TextureSetOverrides": [
+          {
+            "CustomizationType": "ECustomizationType::SMG",
+            "Meshes": [
+              "Advanced"
+            ],
+            "TextureSet": "Liquid Illusion"
+          }
+        ],
+        "ID": 625,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "LiquidIllusion"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "626": {
+        "MaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/MI_Legendary_Override.MI_Legendary_Override",
+          "SubPathString": ""
+        },
+        "CompatibleWithAll": false,
+        "Compatibles": [
+          {
+            "CustomizationType": "ECustomizationType::Pistol",
+            "Meshes": [
+              "Advanced"
+            ]
+          }
+        ],
+        "Incompatibles": [],
+        "Rarity": "ECustomizationRarity::Rare",
+        "RarityOverrides": {},
+        "Availability": {
+          "Availability": "ECustomizationAvailability::DLC",
+          "AvailabilityInfo": "Advanced8"
+        },
+        "AvailabilityOverrides": [],
+        "TextureSetOverrides": [
+          {
+            "CustomizationType": "ECustomizationType::Pistol",
+            "Meshes": [
+              "Advanced"
+            ],
+            "TextureSet": "Void Stuff"
+          }
+        ],
+        "ID": 626,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "VoidStuff"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "627": {
+        "MaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/MI_Legendary_Override.MI_Legendary_Override",
+          "SubPathString": ""
+        },
+        "CompatibleWithAll": false,
+        "Compatibles": [
+          {
+            "CustomizationType": "ECustomizationType::PlasmaRifle",
+            "Meshes": [
+              "Advanced"
+            ]
+          }
+        ],
+        "Incompatibles": [],
+        "Rarity": "ECustomizationRarity::Rare",
+        "RarityOverrides": {},
+        "Availability": {
+          "Availability": "ECustomizationAvailability::DLC",
+          "AvailabilityInfo": "Advanced9"
+        },
+        "AvailabilityOverrides": [],
+        "TextureSetOverrides": [
+          {
+            "CustomizationType": "ECustomizationType::PlasmaRifle",
+            "Meshes": [
+              "Advanced"
+            ],
+            "TextureSet": "90's Trip"
+          }
+        ],
+        "ID": 627,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "90sTrip"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "628": {
+        "MaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/MI_Legendary_Override.MI_Legendary_Override",
+          "SubPathString": ""
+        },
+        "CompatibleWithAll": false,
+        "Compatibles": [
+          {
+            "CustomizationType": "ECustomizationType::Shotgun",
+            "Meshes": [
+              "Advanced"
+            ]
+          }
+        ],
+        "Incompatibles": [],
+        "Rarity": "ECustomizationRarity::Rare",
+        "RarityOverrides": {},
+        "Availability": {
+          "Availability": "ECustomizationAvailability::DLC",
+          "AvailabilityInfo": "Advanced10"
+        },
+        "AvailabilityOverrides": [],
+        "TextureSetOverrides": [
+          {
+            "CustomizationType": "ECustomizationType::Shotgun",
+            "Meshes": [
+              "Advanced"
+            ],
+            "TextureSet": "FruitSalad"
+          }
+        ],
+        "ID": 628,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "FruitSalad"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "629": {
+        "MaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/MI_Legendary_Override.MI_Legendary_Override",
+          "SubPathString": ""
+        },
+        "CompatibleWithAll": false,
+        "Compatibles": [
+          {
+            "CustomizationType": "ECustomizationType::Bat",
+            "Meshes": [
+              "Default"
+            ]
+          }
+        ],
+        "Incompatibles": [],
+        "Rarity": "ECustomizationRarity::Rare",
+        "RarityOverrides": {},
+        "Availability": {
+          "Availability": "ECustomizationAvailability::DLC",
+          "AvailabilityInfo": "Advanced11"
+        },
+        "AvailabilityOverrides": [],
+        "TextureSetOverrides": [
+          {
+            "CustomizationType": "ECustomizationType::Bat",
+            "Meshes": [
+              "Default"
+            ],
+            "TextureSet": "Glitchgate"
+          }
+        ],
+        "ID": 629,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Glitchgate"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "630": {
+        "MaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/MI_Legendary_Override.MI_Legendary_Override",
+          "SubPathString": ""
+        },
+        "CompatibleWithAll": false,
+        "Compatibles": [
+          {
+            "CustomizationType": "ECustomizationType::Armor",
+            "Meshes": [
+              "T-200"
+            ]
+          }
+        ],
+        "Incompatibles": [],
+        "Rarity": "ECustomizationRarity::Rare",
+        "RarityOverrides": {},
+        "Availability": {
+          "Availability": "ECustomizationAvailability::DLC",
+          "AvailabilityInfo": "TeamSeas"
+        },
+        "AvailabilityOverrides": [],
+        "TextureSetOverrides": [
+          {
+            "CustomizationType": "ECustomizationType::Armor",
+            "Meshes": [
+              "T-200"
+            ],
+            "TextureSet": "TeamSeas"
+          }
+        ],
+        "ID": 630,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "TeamSeas"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "631": {
+        "MaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/MI_Legendary_Override.MI_Legendary_Override",
+          "SubPathString": ""
+        },
+        "CompatibleWithAll": false,
+        "Compatibles": [
+          {
+            "CustomizationType": "ECustomizationType::RocketLauncher",
+            "Meshes": [
+              "Advanced"
+            ]
+          }
+        ],
+        "Incompatibles": [],
+        "Rarity": "ECustomizationRarity::Rare",
+        "RarityOverrides": {},
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Reserved",
+          "AvailabilityInfo": ""
+        },
+        "AvailabilityOverrides": [],
+        "TextureSetOverrides": [
+          {
+            "CustomizationType": "ECustomizationType::RocketLauncher",
+            "Meshes": [
+              "Advanced"
+            ],
+            "TextureSet": "The Pond Plunderer"
+          }
+        ],
+        "ID": 631,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "ThePondPlunderer"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "632": {
+        "MaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/MI_Legendary_Override.MI_Legendary_Override",
+          "SubPathString": ""
+        },
+        "CompatibleWithAll": false,
+        "Compatibles": [
+          {
+            "CustomizationType": "ECustomizationType::Railgun",
+            "Meshes": [
+              "Advanced"
+            ]
+          }
+        ],
+        "Incompatibles": [],
+        "Rarity": "ECustomizationRarity::Rare",
+        "RarityOverrides": {},
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Reserved",
+          "AvailabilityInfo": ""
+        },
+        "AvailabilityOverrides": [],
+        "TextureSetOverrides": [
+          {
+            "CustomizationType": "ECustomizationType::Railgun",
+            "Meshes": [
+              "Advanced"
+            ],
+            "TextureSet": "Pepe"
+          }
+        ],
+        "ID": 632,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "HMMMMM"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "633": {
+        "MaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/MI_Legendary_Override.MI_Legendary_Override",
+          "SubPathString": ""
+        },
+        "CompatibleWithAll": false,
+        "Compatibles": [
+          {
+            "CustomizationType": "ECustomizationType::AssaultRifle",
+            "Meshes": [
+              "Advanced"
+            ]
+          }
+        ],
+        "Incompatibles": [],
+        "Rarity": "ECustomizationRarity::Rare",
+        "RarityOverrides": {},
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Reserved",
+          "AvailabilityInfo": ""
+        },
+        "AvailabilityOverrides": [],
+        "TextureSetOverrides": [
+          {
+            "CustomizationType": "ECustomizationType::AssaultRifle",
+            "Meshes": [
+              "Advanced"
+            ],
+            "TextureSet": "The Goodest Boy"
+          }
+        ],
+        "ID": 633,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "TheGoodestBoy"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "634": {
+        "MaterialInstance": {
+          "AssetPathName": "/Game/Weapons/PlasmaRifle/Materials/Legendary/MI_PR_Christmas_Main.MI_PR_Christmas_Main",
+          "SubPathString": ""
+        },
+        "CompatibleWithAll": false,
+        "Compatibles": [
+          {
+            "CustomizationType": "ECustomizationType::PlasmaRifle",
+            "Meshes": [
+              "Snow"
+            ]
+          }
+        ],
+        "Incompatibles": [],
+        "Rarity": "ECustomizationRarity::Legendary",
+        "RarityOverrides": {},
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "AvailabilityOverrides": [],
+        "TextureSetOverrides": [
+          {
+            "CustomizationType": "ECustomizationType::PlasmaRifle",
+            "Meshes": [
+              "Snow"
+            ],
+            "TextureSet": "Set1"
+          }
+        ],
+        "ID": 634,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "SnowBurner"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "635": {
+        "MaterialInstance": {
+          "AssetPathName": "/Game/Weapons/AssaultRifle/Materials/Legendary/MI_AR_Christmas_Base.MI_AR_Christmas_Base",
+          "SubPathString": ""
+        },
+        "CompatibleWithAll": false,
+        "Compatibles": [
+          {
+            "CustomizationType": "ECustomizationType::AssaultRifle",
+            "Meshes": [
+              "Snow"
+            ]
+          }
+        ],
+        "Incompatibles": [],
+        "Rarity": "ECustomizationRarity::Legendary",
+        "RarityOverrides": {},
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "AvailabilityOverrides": [],
+        "TextureSetOverrides": [
+          {
+            "CustomizationType": "ECustomizationType::AssaultRifle",
+            "Meshes": [
+              "Snow"
+            ],
+            "TextureSet": "Set1"
+          }
+        ],
+        "ID": 635,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "SnowRifle"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "636": {
+        "MaterialInstance": {
+          "AssetPathName": "/Game/Weapons/Oddball/Mesh/Skins/Christmas/MI_Oddball_Outer.MI_Oddball_Outer",
+          "SubPathString": ""
+        },
+        "CompatibleWithAll": false,
+        "Compatibles": [
+          {
+            "CustomizationType": "ECustomizationType::Oddball",
+            "Meshes": [
+              "Snow"
+            ]
+          }
+        ],
+        "Incompatibles": [],
+        "Rarity": "ECustomizationRarity::Legendary",
+        "RarityOverrides": {},
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "AvailabilityOverrides": [],
+        "TextureSetOverrides": [
+          {
+            "CustomizationType": "ECustomizationType::Oddball",
+            "Meshes": [
+              "Snow"
+            ],
+            "TextureSet": "Set1"
+          }
+        ],
+        "ID": 636,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "SnowCage"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "637": {
+        "MaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/MI_Ninja_07.MI_Ninja_07",
+          "SubPathString": ""
+        },
+        "CompatibleWithAll": false,
+        "Compatibles": [
+          {
+            "CustomizationType": "ECustomizationType::Armor",
+            "Meshes": [
+              "Jaiden"
+            ]
+          }
+        ],
+        "Incompatibles": [],
+        "Rarity": "ECustomizationRarity::Epic",
+        "RarityOverrides": {},
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "AvailabilityOverrides": [],
+        "TextureSetOverrides": [],
+        "ID": 637,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Blackout"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "638": {
+        "MaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/MI_Legendary_Override.MI_Legendary_Override",
+          "SubPathString": ""
+        },
+        "CompatibleWithAll": false,
+        "Compatibles": [
+          {
+            "CustomizationType": "ECustomizationType::Armor",
+            "Meshes": [
+              "Jaiden"
+            ]
+          }
+        ],
+        "Incompatibles": [],
+        "Rarity": "ECustomizationRarity::Epic",
+        "RarityOverrides": {},
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "AvailabilityOverrides": [],
+        "TextureSetOverrides": [
+          {
+            "CustomizationType": "ECustomizationType::Armor",
+            "Meshes": [
+              "Jaiden"
+            ],
+            "TextureSet": "Hannya"
+          }
+        ],
+        "ID": 638,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Hannya"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "639": {
+        "MaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/MI_Cardboard.MI_Cardboard",
+          "SubPathString": ""
+        },
+        "CompatibleWithAll": false,
+        "Compatibles": [
+          {
+            "CustomizationType": "ECustomizationType::AssaultRifle",
+            "Meshes": [
+              "Cardboard"
+            ]
+          }
+        ],
+        "Incompatibles": [],
+        "Rarity": "ECustomizationRarity::Legendary",
+        "RarityOverrides": {},
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Challenge",
+          "AvailabilityInfo": "Winter2021"
+        },
+        "AvailabilityOverrides": [],
+        "TextureSetOverrides": [
+          {
+            "CustomizationType": "ECustomizationType::AssaultRifle",
+            "Meshes": [
+              "Cardboard"
+            ],
+            "TextureSet": "Gingerbread"
+          }
+        ],
+        "ID": 639,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Gingerbread"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "640": {
+        "MaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Bespoke/MI_Bard_01.MI_Bard_01",
+          "SubPathString": ""
+        },
+        "CompatibleWithAll": false,
+        "Compatibles": [
+          {
+            "CustomizationType": "ECustomizationType::Armor",
+            "Meshes": [
+              "Bard"
+            ]
+          }
+        ],
+        "Incompatibles": [],
+        "Rarity": "ECustomizationRarity::Epic",
+        "RarityOverrides": {},
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Challenge",
+          "AvailabilityInfo": "Winter2021"
+        },
+        "AvailabilityOverrides": [],
+        "TextureSetOverrides": [
+          {
+            "CustomizationType": "ECustomizationType::Armor",
+            "Meshes": [
+              "Bard"
+            ],
+            "TextureSet": "CandyCane"
+          }
+        ],
+        "ID": 640,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "CandyCane"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "641": {
+        "MaterialInstance": {
+          "AssetPathName": "/Game/Materials/MasterInstances/Epic/MI_Skin_Casio.MI_Skin_Casio",
+          "SubPathString": ""
+        },
+        "CompatibleWithAll": false,
+        "Compatibles": [
+          {
+            "CustomizationType": "ECustomizationType::AssaultRifle",
+            "Meshes": [
+              "Casio"
+            ]
+          },
+          {
+            "CustomizationType": "ECustomizationType::BattleRifle",
+            "Meshes": [
+              "Casio"
+            ]
+          },
+          {
+            "CustomizationType": "ECustomizationType::DMR",
+            "Meshes": [
+              "Casio"
+            ]
+          },
+          {
+            "CustomizationType": "ECustomizationType::Pistol",
+            "Meshes": [
+              "Casio"
+            ]
+          },
+          {
+            "CustomizationType": "ECustomizationType::PlasmaRifle",
+            "Meshes": [
+              "Casio"
+            ]
+          },
+          {
+            "CustomizationType": "ECustomizationType::Railgun",
+            "Meshes": [
+              "Casio"
+            ]
+          },
+          {
+            "CustomizationType": "ECustomizationType::RocketLauncher",
+            "Meshes": [
+              "Casio"
+            ]
+          },
+          {
+            "CustomizationType": "ECustomizationType::Shotgun",
+            "Meshes": [
+              "Casio"
+            ]
+          },
+          {
+            "CustomizationType": "ECustomizationType::SMG",
+            "Meshes": [
+              "Casio"
+            ]
+          },
+          {
+            "CustomizationType": "ECustomizationType::Sniper",
+            "Meshes": [
+              "Casio"
+            ]
+          }
+        ],
+        "Incompatibles": [],
+        "Rarity": "ECustomizationRarity::Rare",
+        "RarityOverrides": {},
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Reserved",
+          "AvailabilityInfo": "Casio"
+        },
+        "AvailabilityOverrides": [],
+        "TextureSetOverrides": [],
+        "ID": 641,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "G-Shock"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "642": {
+        "MaterialInstance": {
+          "AssetPathName": "/Game/Weapons/Bat/Materials/Legendary/MI_BFB_SnowFlake_Axe.MI_BFB_SnowFlake_Axe",
+          "SubPathString": ""
+        },
+        "CompatibleWithAll": false,
+        "Compatibles": [
+          {
+            "CustomizationType": "ECustomizationType::Bat",
+            "Meshes": [
+              "SnowFlake"
+            ]
+          }
+        ],
+        "Incompatibles": [],
+        "Rarity": "ECustomizationRarity::Legendary",
+        "RarityOverrides": {},
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "AvailabilityOverrides": [],
+        "TextureSetOverrides": [
+          {
+            "CustomizationType": "ECustomizationType::Bat",
+            "Meshes": [],
+            "TextureSet": "Snow"
+          }
+        ],
+        "ID": 642,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "SnowflakeAxe"
         },
         "DisplayImage": {
           "AssetPathName": "None",

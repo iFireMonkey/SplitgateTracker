@@ -3449,7 +3449,8 @@
         "Rarity": "ECustomizationRarity::Legendary",
         "ID": 138,
         "DisplayName": {
-          "CultureInvariantString": "I Survived"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "ISurvived"
         },
         "DisplayImage": {
           "AssetPathName": "/Game/Emblems/BurningServers.BurningServers",
@@ -4798,6 +4799,176 @@
         },
         "DisplayImage": {
           "AssetPathName": "/Game/Emblems/GoatsandGlory.GoatsandGlory",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "194": {
+        "Texture": {
+          "AssetPathName": "/Game/Emblems/advancedLogoSpray.advancedLogoSpray",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Spray",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::DLC",
+          "AvailabilityInfo": "Advanced12"
+        },
+        "Rarity": "ECustomizationRarity::Rare",
+        "ID": 194,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Advanced"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Emblems/advancedLogoSpray.advancedLogoSpray",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "195": {
+        "Texture": {
+          "AssetPathName": "/Game/Emblems/Can-Spray.Can-Spray",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Spray",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::DLC",
+          "AvailabilityInfo": "Advanced13"
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 195,
+        "DisplayName": {
+          "CultureInvariantString": "Rocket Pop"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Emblems/Can-Spray.Can-Spray",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "196": {
+        "Texture": {
+          "AssetPathName": "/Game/Emblems/PresentSpray.PresentSpray",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Spray",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Challenge",
+          "AvailabilityInfo": "Winter2021"
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 196,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Present"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Emblems/PresentSpray.PresentSpray",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "197": {
+        "Texture": {
+          "AssetPathName": "/Game/Emblems/PartnerEmblems/kowzzz.kowzzz",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Spray",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::CreatorCode",
+          "AvailabilityInfo": "kowzzz"
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 197,
+        "DisplayName": {
+          "CultureInvariantString": "kowzzz"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Emblems/PartnerEmblems/kowzzz.kowzzz",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "198": {
+        "Texture": {
+          "AssetPathName": "/Game/Emblems/PartnerEmblems/cole.cole",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Spray",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::CreatorCode",
+          "AvailabilityInfo": "cole"
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 198,
+        "DisplayName": {
+          "CultureInvariantString": "cole"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Emblems/PartnerEmblems/cole.cole",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "199": {
+        "Texture": {
+          "AssetPathName": "/Game/Emblems/PartnerEmblems/Mansuit.Mansuit",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Spray",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::CreatorCode",
+          "AvailabilityInfo": "mansuit"
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 199,
+        "DisplayName": {
+          "CultureInvariantString": "mansuit"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Emblems/PartnerEmblems/Mansuit.Mansuit",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "200": {
+        "Texture": {
+          "AssetPathName": "/Game/Emblems/PartnerEmblems/Atomikgamez.Atomikgamez",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Spray",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::CreatorCode",
+          "AvailabilityInfo": "Atomikgamez"
+        },
+        "Rarity": "ECustomizationRarity::Common",
+        "ID": 200,
+        "DisplayName": {
+          "CultureInvariantString": "Atomikgamez"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Emblems/PartnerEmblems/Atomikgamez.Atomikgamez",
           "SubPathString": ""
         },
         "DisplayImageSmall": {

@@ -1429,16 +1429,6 @@
           "SubPathString": ""
         }
       },
-      "0-476": {
-        "DisplayImageFeatured": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/BattleRifle/BattleRifle_0-476_T.BattleRifle_0-476_T",
-          "SubPathString": ""
-        }
-      },
       "0-477": {
         "DisplayImageFeatured": {
           "AssetPathName": "None",
@@ -1926,6 +1916,36 @@
         },
         "DisplayImage": {
           "AssetPathName": "/Game/Thumbnails/BattleRifle/BattleRifle_0-606_T.BattleRifle_0-606_T",
+          "SubPathString": ""
+        }
+      },
+      "31-605": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/BattleRifle/BattleRifle_31-605_T.BattleRifle_31-605_T",
+          "SubPathString": ""
+        }
+      },
+      "33-620": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/BattleRifle/BattleRifle_33-620_T.BattleRifle_33-620_T",
+          "SubPathString": ""
+        }
+      },
+      "0-476": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/BattleRifle/BattleRifle_0-476_T.BattleRifle_0-476_T",
           "SubPathString": ""
         }
       }

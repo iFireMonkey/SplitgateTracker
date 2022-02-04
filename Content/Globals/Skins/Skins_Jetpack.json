@@ -34,7 +34,8 @@
           "SubPathString": ""
         },
         "DefaultSkinName": {
-          "CultureInvariantString": "Default"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Default"
         },
         "CompatibleWithAllSkins": true,
         "CustomizationType": "ECustomizationType::Jetpack",
@@ -81,7 +82,8 @@
           "SubPathString": ""
         },
         "DefaultSkinName": {
-          "CultureInvariantString": "Default"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Default"
         },
         "CompatibleWithAllSkins": true,
         "CustomizationType": "ECustomizationType::Jetpack",
@@ -128,7 +130,8 @@
           "SubPathString": ""
         },
         "DefaultSkinName": {
-          "CultureInvariantString": "Default"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Default"
         },
         "CompatibleWithAllSkins": true,
         "CustomizationType": "ECustomizationType::Jetpack",
@@ -175,7 +178,8 @@
           "SubPathString": ""
         },
         "DefaultSkinName": {
-          "CultureInvariantString": "Default"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Default"
         },
         "CompatibleWithAllSkins": true,
         "CustomizationType": "ECustomizationType::Jetpack",
@@ -222,7 +226,8 @@
           "SubPathString": ""
         },
         "DefaultSkinName": {
-          "CultureInvariantString": "Default"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Default"
         },
         "CompatibleWithAllSkins": true,
         "CustomizationType": "ECustomizationType::Jetpack",
@@ -269,7 +274,8 @@
           "SubPathString": ""
         },
         "DefaultSkinName": {
-          "CultureInvariantString": "Default"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Default"
         },
         "CompatibleWithAllSkins": true,
         "CustomizationType": "ECustomizationType::Jetpack",
@@ -316,7 +322,8 @@
           "SubPathString": ""
         },
         "DefaultSkinName": {
-          "CultureInvariantString": "Default"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Default"
         },
         "CompatibleWithAllSkins": true,
         "CustomizationType": "ECustomizationType::Jetpack",
@@ -363,7 +370,8 @@
           "SubPathString": ""
         },
         "DefaultSkinName": {
-          "CultureInvariantString": "Default"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Default"
         },
         "CompatibleWithAllSkins": false,
         "CustomizationType": "ECustomizationType::Jetpack",
@@ -410,7 +418,8 @@
           "SubPathString": ""
         },
         "DefaultSkinName": {
-          "CultureInvariantString": "Default"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Default"
         },
         "CompatibleWithAllSkins": true,
         "CustomizationType": "ECustomizationType::Jetpack",
@@ -457,7 +466,8 @@
           "SubPathString": ""
         },
         "DefaultSkinName": {
-          "CultureInvariantString": "Default"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Default"
         },
         "CompatibleWithAllSkins": true,
         "CustomizationType": "ECustomizationType::Jetpack",
@@ -499,7 +509,8 @@
           "SubPathString": ""
         },
         "DefaultSkinName": {
-          "CultureInvariantString": "Default"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Default"
         },
         "CompatibleWithAllSkins": true,
         "CustomizationType": "ECustomizationType::Jetpack",
@@ -546,7 +557,8 @@
           "SubPathString": ""
         },
         "DefaultSkinName": {
-          "CultureInvariantString": "Default"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Default"
         },
         "CompatibleWithAllSkins": false,
         "CustomizationType": "ECustomizationType::Jetpack",
@@ -593,7 +605,8 @@
           "SubPathString": ""
         },
         "DefaultSkinName": {
-          "CultureInvariantString": "Default"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Default"
         },
         "CompatibleWithAllSkins": false,
         "CustomizationType": "ECustomizationType::Jetpack",
@@ -640,7 +653,8 @@
           "SubPathString": ""
         },
         "DefaultSkinName": {
-          "CultureInvariantString": "Default"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Default"
         },
         "CompatibleWithAllSkins": false,
         "CustomizationType": "ECustomizationType::Jetpack",
@@ -687,7 +701,8 @@
           "SubPathString": ""
         },
         "DefaultSkinName": {
-          "CultureInvariantString": "Default"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Default"
         },
         "CompatibleWithAllSkins": false,
         "CustomizationType": "ECustomizationType::Jetpack",
@@ -734,7 +749,8 @@
           "SubPathString": ""
         },
         "DefaultSkinName": {
-          "CultureInvariantString": "Default"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Default"
         },
         "CompatibleWithAllSkins": true,
         "CustomizationType": "ECustomizationType::Jetpack",
@@ -781,7 +797,8 @@
           "SubPathString": ""
         },
         "DefaultSkinName": {
-          "CultureInvariantString": "Default"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Default"
         },
         "CompatibleWithAllSkins": false,
         "CustomizationType": "ECustomizationType::Jetpack",
@@ -828,7 +845,8 @@
           "SubPathString": ""
         },
         "DefaultSkinName": {
-          "CultureInvariantString": "Default"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Default"
         },
         "CompatibleWithAllSkins": false,
         "CustomizationType": "ECustomizationType::Jetpack",
@@ -875,7 +893,8 @@
           "SubPathString": ""
         },
         "DefaultSkinName": {
-          "CultureInvariantString": "Default"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Default"
         },
         "CompatibleWithAllSkins": false,
         "CustomizationType": "ECustomizationType::Jetpack",
@@ -922,7 +941,8 @@
           "SubPathString": ""
         },
         "DefaultSkinName": {
-          "CultureInvariantString": "Default"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Default"
         },
         "CompatibleWithAllSkins": false,
         "CustomizationType": "ECustomizationType::Jetpack",
@@ -969,7 +989,8 @@
           "SubPathString": ""
         },
         "DefaultSkinName": {
-          "CultureInvariantString": "Default"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Default"
         },
         "CompatibleWithAllSkins": false,
         "CustomizationType": "ECustomizationType::Jetpack",
@@ -1016,7 +1037,8 @@
           "SubPathString": ""
         },
         "DefaultSkinName": {
-          "CultureInvariantString": "Default"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Default"
         },
         "CompatibleWithAllSkins": false,
         "CustomizationType": "ECustomizationType::Jetpack",
@@ -1063,7 +1085,8 @@
           "SubPathString": ""
         },
         "DefaultSkinName": {
-          "CultureInvariantString": "Default"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Default"
         },
         "CompatibleWithAllSkins": false,
         "CustomizationType": "ECustomizationType::Jetpack",
@@ -1110,7 +1133,8 @@
           "SubPathString": ""
         },
         "DefaultSkinName": {
-          "CultureInvariantString": "Default"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Default"
         },
         "CompatibleWithAllSkins": false,
         "CustomizationType": "ECustomizationType::Jetpack",
@@ -1161,7 +1185,8 @@
           "SubPathString": ""
         },
         "DefaultSkinName": {
-          "CultureInvariantString": "Default"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Default"
         },
         "CompatibleWithAllSkins": false,
         "CustomizationType": "ECustomizationType::Jetpack",
@@ -1208,7 +1233,8 @@
           "SubPathString": ""
         },
         "DefaultSkinName": {
-          "CultureInvariantString": "Default"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Default"
         },
         "CompatibleWithAllSkins": false,
         "CustomizationType": "ECustomizationType::Jetpack",
@@ -1250,9 +1276,8 @@
           "SubPathString": ""
         },
         "DefaultSkinName": {
-          "Namespace": "LocalizedStrings",
-          "Key": "Default",
-          "SourceString": "Default"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Default"
         },
         "CompatibleWithAllSkins": false,
         "CustomizationType": "ECustomizationType::Jetpack",
@@ -1294,9 +1319,8 @@
           "SubPathString": ""
         },
         "DefaultSkinName": {
-          "Namespace": "LocalizedStrings",
-          "Key": "Default",
-          "SourceString": "Default"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Default"
         },
         "CompatibleWithAllSkins": false,
         "CustomizationType": "ECustomizationType::Jetpack",
@@ -1307,7 +1331,8 @@
         "Rarity": "ECustomizationRarity::Epic",
         "ID": 29,
         "DisplayName": {
-          "CultureInvariantString": "Murice"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Murice"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -1342,9 +1367,8 @@
           "SubPathString": ""
         },
         "DefaultSkinName": {
-          "Namespace": "LocalizedStrings",
-          "Key": "Default",
-          "SourceString": "Default"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Default"
         },
         "CompatibleWithAllSkins": false,
         "CustomizationType": "ECustomizationType::Jetpack",
@@ -1355,7 +1379,56 @@
         "Rarity": "ECustomizationRarity::Legendary",
         "ID": 30,
         "DisplayName": {
-          "CultureInvariantString": "Butcher"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Butcher"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "31": {
+        "Mesh": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/Jetpacks/J_84_Christmas/SK_J84_Christmas.SK_J84_Christmas",
+          "SubPathString": ""
+        },
+        "IdleAnimation": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/Jetpacks/J_84_Christmas/SK_J84_Christmas_Idle.SK_J84_Christmas_Idle",
+          "SubPathString": ""
+        },
+        "OpenAnimation": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/Jetpacks/J_84_Christmas/SK_J84_Christmas_Idle.SK_J84_Christmas_Idle",
+          "SubPathString": ""
+        },
+        "FlameMeshes": [
+          {
+            "AssetPathName": "/Game/Player/ThirdPerson/Mesh/Jetpacks/J_84_Christmas/SM_J84_Christmas_Flame.SM_J84_Christmas_Flame",
+            "SubPathString": ""
+          }
+        ],
+        "DefaultMaterialInstance": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Mesh/Jetpacks/J_84_Christmas/MI_J84_Christmas.MI_J84_Christmas",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Rocket"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::Jetpack",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 31,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Santa"
         },
         "DisplayImage": {
           "AssetPathName": "None",

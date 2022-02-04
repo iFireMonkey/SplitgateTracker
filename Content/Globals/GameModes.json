@@ -18,28 +18,30 @@
         "Config": {
           "TeamGame": true,
           "NumTeams": 2,
-          "ScoreLimit": 50,
-          "RespawnTime": 6,
           "MaxOvertime": 480,
-          "DefaultInventoryIDs": [
-            16,
-            0
-          ],
           "PickupsEnabled": true,
           "PickupOverrides": [],
-          "ShouldDropWeaponPickups": true,
-          "ShouldShowRadar": true,
           "KillcamEnabled": true,
           "SpectateAlliesWhenDead": false,
           "Modifiers": {
+            "ScoreLimit": 50,
+            "DefaultInventoryIDs": [
+              16,
+              0
+            ],
+            "RandomWeapons": false,
+            "RespawnTime": 6,
+            "ShouldShowRadar": true,
             "EnableBoundaries": true,
             "EnableJetpack": true,
             "EnableSprint": true,
             "EnablePortalGun": true,
+            "EnableMelee": true,
             "UnlimitedAmmo": false,
             "UnlimitedClipSize": false,
             "HeadshotsOnly": false,
             "BigHeadMode": false,
+            "ShouldDropWeaponPickups": true,
             "WalkSpeedModifier": 1.0,
             "JumpHeightModifier": 1.0,
             "GravityModifier": 1.0,
@@ -48,7 +50,7 @@
             "MeleeDmgModifier": 1.0,
             "HealthModifier": 1.0
           },
-          "RandomWeapons": false,
+          "TeamModifiers": [],
           "SwitchTeamsEnabled": false,
           "MeleeHeavyMode": false,
           "KOTHConfig": {
@@ -105,9 +107,9 @@
           14
         ],
         "Selectability": [
-          "EGameModeSelectability::Custom",
-          "EGameModeSelectability::Standard"
+          "EGameModeSelectability::Custom"
         ],
+        "Type": "EGameModeType::Deathmatch",
         "IconImage": {
           "AssetPathName": "/Game/Thumbnails/Icons/icon-team-rumble.icon-team-rumble",
           "SubPathString": ""
@@ -118,7 +120,7 @@
           "Key": "GameModes_TeamDeathmatch"
         },
         "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/GameModes/Halloween/halloween-TDM_Screenshot.halloween-TDM_Screenshot",
+          "AssetPathName": "/Game/Thumbnails/GameModes/TDM_Screenshot.TDM_Screenshot",
           "SubPathString": ""
         },
         "DisplayImageSmall": {
@@ -135,28 +137,30 @@
         "Config": {
           "TeamGame": false,
           "NumTeams": 2,
-          "ScoreLimit": 25,
-          "RespawnTime": 6,
           "MaxOvertime": 480,
-          "DefaultInventoryIDs": [
-            16,
-            0
-          ],
           "PickupsEnabled": true,
           "PickupOverrides": [],
-          "ShouldDropWeaponPickups": true,
-          "ShouldShowRadar": true,
           "KillcamEnabled": true,
           "SpectateAlliesWhenDead": false,
           "Modifiers": {
+            "ScoreLimit": 25,
+            "DefaultInventoryIDs": [
+              16,
+              0
+            ],
+            "RandomWeapons": false,
+            "RespawnTime": 6,
+            "ShouldShowRadar": true,
             "EnableBoundaries": true,
             "EnableJetpack": true,
             "EnableSprint": true,
             "EnablePortalGun": true,
+            "EnableMelee": true,
             "UnlimitedAmmo": false,
             "UnlimitedClipSize": false,
             "HeadshotsOnly": false,
             "BigHeadMode": false,
+            "ShouldDropWeaponPickups": true,
             "WalkSpeedModifier": 1.0,
             "JumpHeightModifier": 1.0,
             "GravityModifier": 1.0,
@@ -165,7 +169,7 @@
             "MeleeDmgModifier": 1.0,
             "HealthModifier": 1.0
           },
-          "RandomWeapons": false,
+          "TeamModifiers": [],
           "SwitchTeamsEnabled": false,
           "MeleeHeavyMode": false,
           "KOTHConfig": {
@@ -223,9 +227,9 @@
           14
         ],
         "Selectability": [
-          "EGameModeSelectability::Custom",
-          "EGameModeSelectability::Standard"
+          "EGameModeSelectability::Custom"
         ],
+        "Type": "EGameModeType::Deathmatch",
         "IconImage": {
           "AssetPathName": "/Game/Thumbnails/Icons/icon-ffa-rumble.icon-ffa-rumble",
           "SubPathString": ""
@@ -253,28 +257,30 @@
         "Config": {
           "TeamGame": true,
           "NumTeams": 2,
-          "ScoreLimit": 200,
-          "RespawnTime": 8,
           "MaxOvertime": 60,
-          "DefaultInventoryIDs": [
-            16,
-            0
-          ],
           "PickupsEnabled": true,
           "PickupOverrides": [],
-          "ShouldDropWeaponPickups": true,
-          "ShouldShowRadar": true,
           "KillcamEnabled": true,
           "SpectateAlliesWhenDead": false,
           "Modifiers": {
+            "ScoreLimit": 200,
+            "DefaultInventoryIDs": [
+              16,
+              0
+            ],
+            "RandomWeapons": false,
+            "RespawnTime": 8,
+            "ShouldShowRadar": true,
             "EnableBoundaries": true,
             "EnableJetpack": true,
             "EnableSprint": true,
             "EnablePortalGun": true,
+            "EnableMelee": true,
             "UnlimitedAmmo": false,
             "UnlimitedClipSize": false,
             "HeadshotsOnly": false,
             "BigHeadMode": false,
+            "ShouldDropWeaponPickups": true,
             "WalkSpeedModifier": 1.0,
             "JumpHeightModifier": 1.0,
             "GravityModifier": 1.0,
@@ -283,7 +289,7 @@
             "MeleeDmgModifier": 1.0,
             "HealthModifier": 1.0
           },
-          "RandomWeapons": false,
+          "TeamModifiers": [],
           "SwitchTeamsEnabled": false,
           "MeleeHeavyMode": false,
           "KOTHConfig": {
@@ -341,9 +347,9 @@
           14
         ],
         "Selectability": [
-          "EGameModeSelectability::Custom",
-          "EGameModeSelectability::Standard"
+          "EGameModeSelectability::Custom"
         ],
+        "Type": "EGameModeType::KOTH",
         "IconImage": {
           "AssetPathName": "/Game/Thumbnails/Icons/icon-team-rumble.icon-team-rumble",
           "SubPathString": ""
@@ -354,7 +360,7 @@
           "Key": "GameModes_KingoftheHill"
         },
         "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/GameModes/Halloween/halloween-KOTH_Screenshot.halloween-KOTH_Screenshot",
+          "AssetPathName": "/Game/Thumbnails/GameModes/KOTH_Screenshot.KOTH_Screenshot",
           "SubPathString": ""
         },
         "DisplayImageSmall": {
@@ -371,28 +377,30 @@
         "Config": {
           "TeamGame": true,
           "NumTeams": 2,
-          "ScoreLimit": 600,
-          "RespawnTime": 8,
           "MaxOvertime": 480,
-          "DefaultInventoryIDs": [
-            16,
-            0
-          ],
           "PickupsEnabled": true,
           "PickupOverrides": [],
-          "ShouldDropWeaponPickups": true,
-          "ShouldShowRadar": true,
           "KillcamEnabled": true,
           "SpectateAlliesWhenDead": false,
           "Modifiers": {
+            "ScoreLimit": 600,
+            "DefaultInventoryIDs": [
+              16,
+              0
+            ],
+            "RandomWeapons": false,
+            "RespawnTime": 8,
+            "ShouldShowRadar": true,
             "EnableBoundaries": true,
             "EnableJetpack": true,
             "EnableSprint": true,
             "EnablePortalGun": true,
+            "EnableMelee": true,
             "UnlimitedAmmo": false,
             "UnlimitedClipSize": false,
             "HeadshotsOnly": false,
             "BigHeadMode": false,
+            "ShouldDropWeaponPickups": true,
             "WalkSpeedModifier": 1.0,
             "JumpHeightModifier": 1.0,
             "GravityModifier": 1.0,
@@ -401,7 +409,7 @@
             "MeleeDmgModifier": 1.0,
             "HealthModifier": 1.0
           },
-          "RandomWeapons": false,
+          "TeamModifiers": [],
           "SwitchTeamsEnabled": false,
           "MeleeHeavyMode": false,
           "KOTHConfig": {
@@ -434,8 +442,9 @@
         },
         "MatchTime": 480,
         "Description": {
-          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
-          "Key": "GameModes_ScorePointsByCapturingThreeHills"
+          "Namespace": "GameModes",
+          "Key": "Description_3",
+          "SourceString": "Score points by capturing and controlling the three hills. Once a hill is captured, you don't need to stay inside it."
         },
         "ScoreFormatText": {
           "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
@@ -458,9 +467,9 @@
           14
         ],
         "Selectability": [
-          "EGameModeSelectability::Custom",
-          "EGameModeSelectability::Standard"
+          "EGameModeSelectability::Custom"
         ],
+        "Type": "EGameModeType::Domination",
         "IconImage": {
           "AssetPathName": "/Game/Thumbnails/Icons/icon-team-rumble.icon-team-rumble",
           "SubPathString": ""
@@ -471,7 +480,7 @@
           "Key": "GameModes_Domination"
         },
         "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/GameModes/Halloween/halloween-DOM_Screenshot.halloween-DOM_Screenshot",
+          "AssetPathName": "/Game/Thumbnails/GameModes/DOM_Screenshot.DOM_Screenshot",
           "SubPathString": ""
         },
         "DisplayImageSmall": {
@@ -488,28 +497,30 @@
         "Config": {
           "TeamGame": true,
           "NumTeams": 2,
-          "ScoreLimit": 5,
-          "RespawnTime": 8,
           "MaxOvertime": 480,
-          "DefaultInventoryIDs": [
-            16,
-            0
-          ],
           "PickupsEnabled": true,
           "PickupOverrides": [],
-          "ShouldDropWeaponPickups": true,
-          "ShouldShowRadar": true,
           "KillcamEnabled": true,
           "SpectateAlliesWhenDead": false,
           "Modifiers": {
+            "ScoreLimit": 5,
+            "DefaultInventoryIDs": [
+              16,
+              0
+            ],
+            "RandomWeapons": false,
+            "RespawnTime": 8,
+            "ShouldShowRadar": true,
             "EnableBoundaries": true,
             "EnableJetpack": true,
             "EnableSprint": true,
             "EnablePortalGun": true,
+            "EnableMelee": true,
             "UnlimitedAmmo": false,
             "UnlimitedClipSize": false,
             "HeadshotsOnly": false,
             "BigHeadMode": false,
+            "ShouldDropWeaponPickups": true,
             "WalkSpeedModifier": 1.0,
             "JumpHeightModifier": 1.0,
             "GravityModifier": 1.0,
@@ -518,7 +529,7 @@
             "MeleeDmgModifier": 1.0,
             "HealthModifier": 1.0
           },
-          "RandomWeapons": false,
+          "TeamModifiers": [],
           "SwitchTeamsEnabled": false,
           "MeleeHeavyMode": false,
           "KOTHConfig": {
@@ -576,9 +587,9 @@
           14
         ],
         "Selectability": [
-          "EGameModeSelectability::Custom",
-          "EGameModeSelectability::Standard"
+          "EGameModeSelectability::Custom"
         ],
+        "Type": "EGameModeType::CTF",
         "IconImage": {
           "AssetPathName": "/Game/Thumbnails/Icons/icon-team-rumble.icon-team-rumble",
           "SubPathString": ""
@@ -589,7 +600,7 @@
           "Key": "GameModes_CapturetheFlag"
         },
         "DisplayImage": {
-          "AssetPathName": "None",
+          "AssetPathName": "/Game/Thumbnails/GameModes/GunGame_Screenshot.GunGame_Screenshot",
           "SubPathString": ""
         },
         "DisplayImageSmall": {
@@ -606,28 +617,30 @@
         "Config": {
           "TeamGame": true,
           "NumTeams": 2,
-          "ScoreLimit": 25,
-          "RespawnTime": 6,
           "MaxOvertime": 480,
-          "DefaultInventoryIDs": [
-            16,
-            0
-          ],
           "PickupsEnabled": true,
           "PickupOverrides": [],
-          "ShouldDropWeaponPickups": true,
-          "ShouldShowRadar": true,
           "KillcamEnabled": true,
           "SpectateAlliesWhenDead": false,
           "Modifiers": {
+            "ScoreLimit": 25,
+            "DefaultInventoryIDs": [
+              16,
+              0
+            ],
+            "RandomWeapons": false,
+            "RespawnTime": 6,
+            "ShouldShowRadar": true,
             "EnableBoundaries": true,
             "EnableJetpack": true,
             "EnableSprint": true,
             "EnablePortalGun": true,
+            "EnableMelee": true,
             "UnlimitedAmmo": false,
             "UnlimitedClipSize": false,
             "HeadshotsOnly": false,
             "BigHeadMode": false,
+            "ShouldDropWeaponPickups": true,
             "WalkSpeedModifier": 1.0,
             "JumpHeightModifier": 1.0,
             "GravityModifier": 1.0,
@@ -636,7 +649,7 @@
             "MeleeDmgModifier": 1.0,
             "HealthModifier": 1.0
           },
-          "RandomWeapons": false,
+          "TeamModifiers": [],
           "SwitchTeamsEnabled": false,
           "MeleeHeavyMode": false,
           "KOTHConfig": {
@@ -694,9 +707,9 @@
           14
         ],
         "Selectability": [
-          "EGameModeSelectability::Custom",
-          "EGameModeSelectability::Standard"
+          "EGameModeSelectability::Custom"
         ],
+        "Type": "EGameModeType::TeabagConfirmed",
         "IconImage": {
           "AssetPathName": "/Game/Thumbnails/Icons/icon-team-rumble.icon-team-rumble",
           "SubPathString": ""
@@ -724,28 +737,30 @@
         "Config": {
           "TeamGame": true,
           "NumTeams": 2,
-          "ScoreLimit": 50,
-          "RespawnTime": 3,
           "MaxOvertime": 480,
-          "DefaultInventoryIDs": [
-            9,
-            10
-          ],
           "PickupsEnabled": false,
           "PickupOverrides": [],
-          "ShouldDropWeaponPickups": true,
-          "ShouldShowRadar": false,
           "KillcamEnabled": true,
           "SpectateAlliesWhenDead": false,
           "Modifiers": {
+            "ScoreLimit": 50,
+            "DefaultInventoryIDs": [
+              9,
+              10
+            ],
+            "RandomWeapons": false,
+            "RespawnTime": 3,
+            "ShouldShowRadar": false,
             "EnableBoundaries": true,
             "EnableJetpack": true,
             "EnableSprint": true,
             "EnablePortalGun": true,
+            "EnableMelee": true,
             "UnlimitedAmmo": false,
             "UnlimitedClipSize": false,
             "HeadshotsOnly": false,
             "BigHeadMode": false,
+            "ShouldDropWeaponPickups": true,
             "WalkSpeedModifier": 1.0,
             "JumpHeightModifier": 1.0,
             "GravityModifier": 1.0,
@@ -754,7 +769,7 @@
             "MeleeDmgModifier": 1.0,
             "HealthModifier": 1.0
           },
-          "RandomWeapons": false,
+          "TeamModifiers": [],
           "SwitchTeamsEnabled": false,
           "MeleeHeavyMode": false,
           "KOTHConfig": {
@@ -802,9 +817,9 @@
           10
         ],
         "Selectability": [
-          "EGameModeSelectability::Custom",
-          "EGameModeSelectability::Standard"
+          "EGameModeSelectability::Custom"
         ],
+        "Type": "EGameModeType::Deathmatch",
         "IconImage": {
           "AssetPathName": "/Game/Thumbnails/Icons/icon-team-rumble.icon-team-rumble",
           "SubPathString": ""
@@ -815,7 +830,7 @@
           "Key": "GameModes_TeamSWAT"
         },
         "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/GameModes/Halloween/halloween-SWAT_Screenshot.halloween-SWAT_Screenshot",
+          "AssetPathName": "/Game/Thumbnails/GameModes/SWAT_Screenshot.SWAT_Screenshot",
           "SubPathString": ""
         },
         "DisplayImageSmall": {
@@ -832,28 +847,30 @@
         "Config": {
           "TeamGame": false,
           "NumTeams": 2,
-          "ScoreLimit": 100,
-          "RespawnTime": 6,
           "MaxOvertime": 480,
-          "DefaultInventoryIDs": [
-            16,
-            0
-          ],
           "PickupsEnabled": true,
           "PickupOverrides": [],
-          "ShouldDropWeaponPickups": true,
-          "ShouldShowRadar": true,
           "KillcamEnabled": true,
           "SpectateAlliesWhenDead": false,
           "Modifiers": {
+            "ScoreLimit": 100,
+            "DefaultInventoryIDs": [
+              16,
+              0
+            ],
+            "RandomWeapons": false,
+            "RespawnTime": 6,
+            "ShouldShowRadar": true,
             "EnableBoundaries": true,
             "EnableJetpack": true,
             "EnableSprint": true,
             "EnablePortalGun": true,
+            "EnableMelee": true,
             "UnlimitedAmmo": false,
             "UnlimitedClipSize": false,
             "HeadshotsOnly": false,
             "BigHeadMode": false,
+            "ShouldDropWeaponPickups": true,
             "WalkSpeedModifier": 1.0,
             "JumpHeightModifier": 1.0,
             "GravityModifier": 1.0,
@@ -862,7 +879,7 @@
             "MeleeDmgModifier": 1.0,
             "HealthModifier": 1.0
           },
-          "RandomWeapons": false,
+          "TeamModifiers": [],
           "SwitchTeamsEnabled": false,
           "MeleeHeavyMode": false,
           "KOTHConfig": {
@@ -919,9 +936,9 @@
           14
         ],
         "Selectability": [
-          "EGameModeSelectability::Custom",
-          "EGameModeSelectability::Standard"
+          "EGameModeSelectability::Custom"
         ],
+        "Type": "EGameModeType::Oddball",
         "IconImage": {
           "AssetPathName": "/Game/Thumbnails/Icons/icon-ffa-rumble.icon-ffa-rumble",
           "SubPathString": ""
@@ -932,7 +949,7 @@
           "Key": "GameModes_Oddball"
         },
         "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/GameModes/Halloween/halloween-Oddball_Screenshot.halloween-Oddball_Screenshot",
+          "AssetPathName": "/Game/Thumbnails/GameModes/Oddball_Screenshot.Oddball_Screenshot",
           "SubPathString": ""
         },
         "DisplayImageSmall": {
@@ -949,28 +966,30 @@
         "Config": {
           "TeamGame": true,
           "NumTeams": 2,
-          "ScoreLimit": 200,
-          "RespawnTime": 6,
           "MaxOvertime": 480,
-          "DefaultInventoryIDs": [
-            16,
-            0
-          ],
           "PickupsEnabled": true,
           "PickupOverrides": [],
-          "ShouldDropWeaponPickups": true,
-          "ShouldShowRadar": true,
           "KillcamEnabled": true,
           "SpectateAlliesWhenDead": false,
           "Modifiers": {
+            "ScoreLimit": 200,
+            "DefaultInventoryIDs": [
+              16,
+              0
+            ],
+            "RandomWeapons": false,
+            "RespawnTime": 6,
+            "ShouldShowRadar": true,
             "EnableBoundaries": true,
             "EnableJetpack": true,
             "EnableSprint": true,
             "EnablePortalGun": true,
+            "EnableMelee": true,
             "UnlimitedAmmo": false,
             "UnlimitedClipSize": false,
             "HeadshotsOnly": false,
             "BigHeadMode": false,
+            "ShouldDropWeaponPickups": true,
             "WalkSpeedModifier": 1.0,
             "JumpHeightModifier": 1.0,
             "GravityModifier": 1.0,
@@ -979,7 +998,7 @@
             "MeleeDmgModifier": 1.0,
             "HealthModifier": 1.0
           },
-          "RandomWeapons": false,
+          "TeamModifiers": [],
           "SwitchTeamsEnabled": false,
           "MeleeHeavyMode": false,
           "KOTHConfig": {
@@ -1036,9 +1055,9 @@
           14
         ],
         "Selectability": [
-          "EGameModeSelectability::Custom",
-          "EGameModeSelectability::Standard"
+          "EGameModeSelectability::Custom"
         ],
+        "Type": "EGameModeType::Oddball",
         "IconImage": {
           "AssetPathName": "/Game/Thumbnails/Icons/icon-team-rumble.icon-team-rumble",
           "SubPathString": ""
@@ -1049,7 +1068,7 @@
           "Key": "GameModes_TeamOddball"
         },
         "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/GameModes/Halloween/halloween-Oddball_Screenshot.halloween-Oddball_Screenshot",
+          "AssetPathName": "/Game/Thumbnails/GameModes/Oddball_Screenshot.Oddball_Screenshot",
           "SubPathString": ""
         },
         "DisplayImageSmall": {
@@ -1066,27 +1085,29 @@
         "Config": {
           "TeamGame": false,
           "NumTeams": 2,
-          "ScoreLimit": 25,
-          "RespawnTime": 3,
           "MaxOvertime": 480,
-          "DefaultInventoryIDs": [
-            11
-          ],
           "PickupsEnabled": false,
           "PickupOverrides": [],
-          "ShouldDropWeaponPickups": true,
-          "ShouldShowRadar": true,
           "KillcamEnabled": true,
           "SpectateAlliesWhenDead": false,
           "Modifiers": {
+            "ScoreLimit": 25,
+            "DefaultInventoryIDs": [
+              11
+            ],
+            "RandomWeapons": false,
+            "RespawnTime": 3,
+            "ShouldShowRadar": true,
             "EnableBoundaries": true,
             "EnableJetpack": true,
             "EnableSprint": true,
             "EnablePortalGun": true,
+            "EnableMelee": true,
             "UnlimitedAmmo": true,
             "UnlimitedClipSize": false,
             "HeadshotsOnly": false,
             "BigHeadMode": false,
+            "ShouldDropWeaponPickups": true,
             "WalkSpeedModifier": 1.0,
             "JumpHeightModifier": 1.0,
             "GravityModifier": 1.0,
@@ -1095,7 +1116,7 @@
             "MeleeDmgModifier": 1.0,
             "HealthModifier": 1.0
           },
-          "RandomWeapons": false,
+          "TeamModifiers": [],
           "SwitchTeamsEnabled": false,
           "MeleeHeavyMode": false,
           "KOTHConfig": {
@@ -1142,9 +1163,9 @@
           11
         ],
         "Selectability": [
-          "EGameModeSelectability::Custom",
-          "EGameModeSelectability::Standard"
+          "EGameModeSelectability::Custom"
         ],
+        "Type": "EGameModeType::Deathmatch",
         "IconImage": {
           "AssetPathName": "/Game/Thumbnails/Icons/icon-ffa-rumble.icon-ffa-rumble",
           "SubPathString": ""
@@ -1155,7 +1176,7 @@
           "Key": "GameModes_Instagib"
         },
         "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/GameModes/Halloween/halloween-Instagib_Screenshot.halloween-Instagib_Screenshot",
+          "AssetPathName": "/Game/Thumbnails/GameModes/Instagib_Screenshot.Instagib_Screenshot",
           "SubPathString": ""
         },
         "DisplayImageSmall": {
@@ -1172,27 +1193,29 @@
         "Config": {
           "TeamGame": true,
           "NumTeams": 2,
-          "ScoreLimit": 50,
-          "RespawnTime": 3,
           "MaxOvertime": 480,
-          "DefaultInventoryIDs": [
-            11
-          ],
           "PickupsEnabled": false,
           "PickupOverrides": [],
-          "ShouldDropWeaponPickups": true,
-          "ShouldShowRadar": true,
           "KillcamEnabled": true,
           "SpectateAlliesWhenDead": false,
           "Modifiers": {
+            "ScoreLimit": 50,
+            "DefaultInventoryIDs": [
+              11
+            ],
+            "RandomWeapons": false,
+            "RespawnTime": 3,
+            "ShouldShowRadar": true,
             "EnableBoundaries": true,
             "EnableJetpack": true,
             "EnableSprint": true,
             "EnablePortalGun": true,
+            "EnableMelee": true,
             "UnlimitedAmmo": true,
             "UnlimitedClipSize": false,
             "HeadshotsOnly": false,
             "BigHeadMode": false,
+            "ShouldDropWeaponPickups": true,
             "WalkSpeedModifier": 1.0,
             "JumpHeightModifier": 1.0,
             "GravityModifier": 1.0,
@@ -1201,7 +1224,7 @@
             "MeleeDmgModifier": 1.0,
             "HealthModifier": 1.0
           },
-          "RandomWeapons": false,
+          "TeamModifiers": [],
           "SwitchTeamsEnabled": false,
           "MeleeHeavyMode": false,
           "KOTHConfig": {
@@ -1248,9 +1271,9 @@
           11
         ],
         "Selectability": [
-          "EGameModeSelectability::Custom",
-          "EGameModeSelectability::Standard"
+          "EGameModeSelectability::Custom"
         ],
+        "Type": "EGameModeType::Deathmatch",
         "IconImage": {
           "AssetPathName": "/Game/Thumbnails/Icons/icon-team-rumble.icon-team-rumble",
           "SubPathString": ""
@@ -1261,7 +1284,7 @@
           "Key": "GameModes_TeamInstagib"
         },
         "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/GameModes/Halloween/halloween-Instagib_Screenshot.halloween-Instagib_Screenshot",
+          "AssetPathName": "/Game/Thumbnails/GameModes/Instagib_Screenshot.Instagib_Screenshot",
           "SubPathString": ""
         },
         "DisplayImageSmall": {
@@ -1278,13 +1301,7 @@
         "Config": {
           "TeamGame": true,
           "NumTeams": 2,
-          "ScoreLimit": 25,
-          "RespawnTime": 5,
           "MaxOvertime": 480,
-          "DefaultInventoryIDs": [
-            16,
-            0
-          ],
           "PickupsEnabled": true,
           "PickupOverrides": [
             {
@@ -1336,19 +1353,27 @@
               "TimeBetweenSpawns": 60
             }
           ],
-          "ShouldDropWeaponPickups": true,
-          "ShouldShowRadar": true,
           "KillcamEnabled": true,
           "SpectateAlliesWhenDead": false,
           "Modifiers": {
+            "ScoreLimit": 25,
+            "DefaultInventoryIDs": [
+              16,
+              0
+            ],
+            "RandomWeapons": false,
+            "RespawnTime": 5,
+            "ShouldShowRadar": true,
             "EnableBoundaries": true,
             "EnableJetpack": true,
             "EnableSprint": true,
             "EnablePortalGun": true,
+            "EnableMelee": true,
             "UnlimitedAmmo": false,
             "UnlimitedClipSize": false,
             "HeadshotsOnly": false,
             "BigHeadMode": false,
+            "ShouldDropWeaponPickups": true,
             "WalkSpeedModifier": 1.0,
             "JumpHeightModifier": 1.0,
             "GravityModifier": 1.0,
@@ -1357,7 +1382,7 @@
             "MeleeDmgModifier": 1.0,
             "HealthModifier": 1.0
           },
-          "RandomWeapons": false,
+          "TeamModifiers": [],
           "SwitchTeamsEnabled": false,
           "MeleeHeavyMode": false,
           "KOTHConfig": {
@@ -1412,9 +1437,8 @@
           15,
           16
         ],
-        "Selectability": [
-          "EGameModeSelectability::Standard"
-        ],
+        "Selectability": [],
+        "Type": "EGameModeType::Deathmatch",
         "IconImage": {
           "AssetPathName": "/Game/Thumbnails/Icons/icon-team-rumble.icon-team-rumble",
           "SubPathString": ""
@@ -1442,27 +1466,29 @@
         "Config": {
           "TeamGame": true,
           "NumTeams": 2,
-          "ScoreLimit": 50,
-          "RespawnTime": 6,
           "MaxOvertime": 480,
-          "DefaultInventoryIDs": [
-            1
-          ],
           "PickupsEnabled": false,
           "PickupOverrides": [],
-          "ShouldDropWeaponPickups": true,
-          "ShouldShowRadar": true,
           "KillcamEnabled": true,
           "SpectateAlliesWhenDead": false,
           "Modifiers": {
+            "ScoreLimit": 50,
+            "DefaultInventoryIDs": [
+              1
+            ],
+            "RandomWeapons": false,
+            "RespawnTime": 6,
+            "ShouldShowRadar": true,
             "EnableBoundaries": true,
             "EnableJetpack": true,
             "EnableSprint": true,
             "EnablePortalGun": true,
+            "EnableMelee": true,
             "UnlimitedAmmo": false,
             "UnlimitedClipSize": false,
             "HeadshotsOnly": false,
             "BigHeadMode": false,
+            "ShouldDropWeaponPickups": true,
             "WalkSpeedModifier": 1.0,
             "JumpHeightModifier": 1.0,
             "GravityModifier": 1.0,
@@ -1471,7 +1497,7 @@
             "MeleeDmgModifier": 1.0,
             "HealthModifier": 1.0
           },
-          "RandomWeapons": false,
+          "TeamModifiers": [],
           "SwitchTeamsEnabled": false,
           "MeleeHeavyMode": false,
           "KOTHConfig": {
@@ -1516,9 +1542,8 @@
         "CompatibleWeaponIDs": [
           1
         ],
-        "Selectability": [
-          "EGameModeSelectability::Standard"
-        ],
+        "Selectability": [],
+        "Type": "EGameModeType::Deathmatch",
         "IconImage": {
           "AssetPathName": "None",
           "SubPathString": ""
@@ -1546,27 +1571,29 @@
         "Config": {
           "TeamGame": true,
           "NumTeams": 2,
-          "ScoreLimit": 50,
-          "RespawnTime": 6,
           "MaxOvertime": 480,
-          "DefaultInventoryIDs": [
-            8
-          ],
           "PickupsEnabled": false,
           "PickupOverrides": [],
-          "ShouldDropWeaponPickups": true,
-          "ShouldShowRadar": true,
           "KillcamEnabled": true,
           "SpectateAlliesWhenDead": false,
           "Modifiers": {
+            "ScoreLimit": 50,
+            "DefaultInventoryIDs": [
+              8
+            ],
+            "RandomWeapons": false,
+            "RespawnTime": 6,
+            "ShouldShowRadar": true,
             "EnableBoundaries": true,
             "EnableJetpack": true,
             "EnableSprint": true,
             "EnablePortalGun": true,
+            "EnableMelee": true,
             "UnlimitedAmmo": false,
             "UnlimitedClipSize": false,
             "HeadshotsOnly": false,
             "BigHeadMode": false,
+            "ShouldDropWeaponPickups": true,
             "WalkSpeedModifier": 1.0,
             "JumpHeightModifier": 1.0,
             "GravityModifier": 1.0,
@@ -1575,7 +1602,7 @@
             "MeleeDmgModifier": 1.0,
             "HealthModifier": 1.0
           },
-          "RandomWeapons": false,
+          "TeamModifiers": [],
           "SwitchTeamsEnabled": false,
           "MeleeHeavyMode": false,
           "KOTHConfig": {
@@ -1620,9 +1647,8 @@
         "CompatibleWeaponIDs": [
           8
         ],
-        "Selectability": [
-          "EGameModeSelectability::Standard"
-        ],
+        "Selectability": [],
+        "Type": "EGameModeType::Deathmatch",
         "IconImage": {
           "AssetPathName": "None",
           "SubPathString": ""
@@ -1650,27 +1676,29 @@
         "Config": {
           "TeamGame": true,
           "NumTeams": 2,
-          "ScoreLimit": 50,
-          "RespawnTime": 6,
           "MaxOvertime": 480,
-          "DefaultInventoryIDs": [
-            5
-          ],
           "PickupsEnabled": false,
           "PickupOverrides": [],
-          "ShouldDropWeaponPickups": true,
-          "ShouldShowRadar": true,
           "KillcamEnabled": true,
           "SpectateAlliesWhenDead": false,
           "Modifiers": {
+            "ScoreLimit": 50,
+            "DefaultInventoryIDs": [
+              5
+            ],
+            "RandomWeapons": false,
+            "RespawnTime": 6,
+            "ShouldShowRadar": true,
             "EnableBoundaries": true,
             "EnableJetpack": true,
             "EnableSprint": true,
             "EnablePortalGun": true,
+            "EnableMelee": true,
             "UnlimitedAmmo": false,
             "UnlimitedClipSize": false,
             "HeadshotsOnly": false,
             "BigHeadMode": false,
+            "ShouldDropWeaponPickups": true,
             "WalkSpeedModifier": 1.0,
             "JumpHeightModifier": 1.0,
             "GravityModifier": 1.0,
@@ -1679,7 +1707,7 @@
             "MeleeDmgModifier": 1.0,
             "HealthModifier": 1.0
           },
-          "RandomWeapons": false,
+          "TeamModifiers": [],
           "SwitchTeamsEnabled": false,
           "MeleeHeavyMode": false,
           "KOTHConfig": {
@@ -1725,9 +1753,8 @@
         "CompatibleWeaponIDs": [
           5
         ],
-        "Selectability": [
-          "EGameModeSelectability::Standard"
-        ],
+        "Selectability": [],
+        "Type": "EGameModeType::Deathmatch",
         "IconImage": {
           "AssetPathName": "None",
           "SubPathString": ""
@@ -1755,28 +1782,30 @@
         "Config": {
           "TeamGame": true,
           "NumTeams": 2,
-          "ScoreLimit": 50,
-          "RespawnTime": 6,
           "MaxOvertime": 480,
-          "DefaultInventoryIDs": [
-            8,
-            6
-          ],
           "PickupsEnabled": false,
           "PickupOverrides": [],
-          "ShouldDropWeaponPickups": true,
-          "ShouldShowRadar": true,
           "KillcamEnabled": true,
           "SpectateAlliesWhenDead": false,
           "Modifiers": {
+            "ScoreLimit": 50,
+            "DefaultInventoryIDs": [
+              8,
+              6
+            ],
+            "RandomWeapons": false,
+            "RespawnTime": 6,
+            "ShouldShowRadar": true,
             "EnableBoundaries": true,
             "EnableJetpack": true,
             "EnableSprint": true,
             "EnablePortalGun": true,
+            "EnableMelee": true,
             "UnlimitedAmmo": false,
             "UnlimitedClipSize": false,
             "HeadshotsOnly": false,
             "BigHeadMode": false,
+            "ShouldDropWeaponPickups": true,
             "WalkSpeedModifier": 1.0,
             "JumpHeightModifier": 1.0,
             "GravityModifier": 1.0,
@@ -1785,7 +1814,7 @@
             "MeleeDmgModifier": 1.0,
             "HealthModifier": 1.0
           },
-          "RandomWeapons": false,
+          "TeamModifiers": [],
           "SwitchTeamsEnabled": false,
           "MeleeHeavyMode": false,
           "KOTHConfig": {
@@ -1832,8 +1861,9 @@
           6
         ],
         "Selectability": [
-          "EGameModeSelectability::Standard"
+          "EGameModeSelectability::Custom"
         ],
+        "Type": "EGameModeType::Deathmatch",
         "IconImage": {
           "AssetPathName": "None",
           "SubPathString": ""
@@ -1844,7 +1874,7 @@
           "Key": "GameModes_TeamShottySnipers"
         },
         "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/GameModes/Halloween/halloween-ShottySnipes_Screenshot.halloween-ShottySnipes_Screenshot",
+          "AssetPathName": "/Game/Thumbnails/GameModes/ShottySnipes_Screenshot.ShottySnipes_Screenshot",
           "SubPathString": ""
         },
         "DisplayImageSmall": {
@@ -1861,28 +1891,30 @@
         "Config": {
           "TeamGame": true,
           "NumTeams": 2,
-          "ScoreLimit": 50,
-          "RespawnTime": 6,
           "MaxOvertime": 480,
-          "DefaultInventoryIDs": [
-            16,
-            2
-          ],
           "PickupsEnabled": true,
           "PickupOverrides": [],
-          "ShouldDropWeaponPickups": true,
-          "ShouldShowRadar": false,
           "KillcamEnabled": true,
           "SpectateAlliesWhenDead": false,
           "Modifiers": {
+            "ScoreLimit": 50,
+            "DefaultInventoryIDs": [
+              16,
+              2
+            ],
+            "RandomWeapons": false,
+            "RespawnTime": 6,
+            "ShouldShowRadar": false,
             "EnableBoundaries": true,
             "EnableJetpack": true,
             "EnableSprint": true,
             "EnablePortalGun": true,
+            "EnableMelee": true,
             "UnlimitedAmmo": false,
             "UnlimitedClipSize": false,
             "HeadshotsOnly": false,
             "BigHeadMode": false,
+            "ShouldDropWeaponPickups": true,
             "WalkSpeedModifier": 1.0,
             "JumpHeightModifier": 1.0,
             "GravityModifier": 1.0,
@@ -1891,7 +1923,7 @@
             "MeleeDmgModifier": 1.0,
             "HealthModifier": 1.0
           },
-          "RandomWeapons": false,
+          "TeamModifiers": [],
           "SwitchTeamsEnabled": false,
           "MeleeHeavyMode": false,
           "KOTHConfig": {
@@ -1947,9 +1979,9 @@
           16
         ],
         "Selectability": [
-          "EGameModeSelectability::Standard",
-          "EGameModeSelectability::Hardcore"
+          "EGameModeSelectability::Custom"
         ],
+        "Type": "EGameModeType::Deathmatch",
         "IconImage": {
           "AssetPathName": "/Game/Thumbnails/Icons/icon-team-rumble.icon-team-rumble",
           "SubPathString": ""
@@ -1960,7 +1992,7 @@
           "Key": "GameModes_RankedTeamDeathmatch"
         },
         "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/GameModes/Halloween/halloween-TDM_Screenshot.halloween-TDM_Screenshot",
+          "AssetPathName": "/Game/Thumbnails/GameModes/TDM_Screenshot.TDM_Screenshot",
           "SubPathString": ""
         },
         "DisplayImageSmall": {
@@ -1977,28 +2009,30 @@
         "Config": {
           "TeamGame": true,
           "NumTeams": 2,
-          "ScoreLimit": 200,
-          "RespawnTime": 8,
           "MaxOvertime": 60,
-          "DefaultInventoryIDs": [
-            16,
-            2
-          ],
           "PickupsEnabled": true,
           "PickupOverrides": [],
-          "ShouldDropWeaponPickups": true,
-          "ShouldShowRadar": false,
           "KillcamEnabled": true,
           "SpectateAlliesWhenDead": false,
           "Modifiers": {
+            "ScoreLimit": 200,
+            "DefaultInventoryIDs": [
+              16,
+              2
+            ],
+            "RandomWeapons": false,
+            "RespawnTime": 8,
+            "ShouldShowRadar": false,
             "EnableBoundaries": true,
             "EnableJetpack": true,
             "EnableSprint": true,
             "EnablePortalGun": true,
+            "EnableMelee": true,
             "UnlimitedAmmo": false,
             "UnlimitedClipSize": false,
             "HeadshotsOnly": false,
             "BigHeadMode": false,
+            "ShouldDropWeaponPickups": true,
             "WalkSpeedModifier": 1.0,
             "JumpHeightModifier": 1.0,
             "GravityModifier": 1.0,
@@ -2007,7 +2041,7 @@
             "MeleeDmgModifier": 1.0,
             "HealthModifier": 1.0
           },
-          "RandomWeapons": false,
+          "TeamModifiers": [],
           "SwitchTeamsEnabled": false,
           "MeleeHeavyMode": false,
           "KOTHConfig": {
@@ -2064,9 +2098,9 @@
           16
         ],
         "Selectability": [
-          "EGameModeSelectability::Standard",
-          "EGameModeSelectability::Hardcore"
+          "EGameModeSelectability::Custom"
         ],
+        "Type": "EGameModeType::KOTH",
         "IconImage": {
           "AssetPathName": "/Game/Thumbnails/Icons/icon-team-rumble.icon-team-rumble",
           "SubPathString": ""
@@ -2077,7 +2111,7 @@
           "Key": "GameModes_RankedKingoftheHill"
         },
         "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/GameModes/Halloween/halloween-KOTH_Screenshot.halloween-KOTH_Screenshot",
+          "AssetPathName": "/Game/Thumbnails/GameModes/KOTH_Screenshot.KOTH_Screenshot",
           "SubPathString": ""
         },
         "DisplayImageSmall": {
@@ -2094,28 +2128,30 @@
         "Config": {
           "TeamGame": true,
           "NumTeams": 2,
-          "ScoreLimit": 600,
-          "RespawnTime": 8,
           "MaxOvertime": 480,
-          "DefaultInventoryIDs": [
-            16,
-            2
-          ],
           "PickupsEnabled": true,
           "PickupOverrides": [],
-          "ShouldDropWeaponPickups": true,
-          "ShouldShowRadar": false,
           "KillcamEnabled": true,
           "SpectateAlliesWhenDead": false,
           "Modifiers": {
+            "ScoreLimit": 600,
+            "DefaultInventoryIDs": [
+              16,
+              2
+            ],
+            "RandomWeapons": false,
+            "RespawnTime": 8,
+            "ShouldShowRadar": false,
             "EnableBoundaries": true,
             "EnableJetpack": true,
             "EnableSprint": true,
             "EnablePortalGun": true,
+            "EnableMelee": true,
             "UnlimitedAmmo": false,
             "UnlimitedClipSize": false,
             "HeadshotsOnly": false,
             "BigHeadMode": false,
+            "ShouldDropWeaponPickups": true,
             "WalkSpeedModifier": 1.0,
             "JumpHeightModifier": 1.0,
             "GravityModifier": 1.0,
@@ -2124,7 +2160,7 @@
             "MeleeDmgModifier": 1.0,
             "HealthModifier": 1.0
           },
-          "RandomWeapons": false,
+          "TeamModifiers": [],
           "SwitchTeamsEnabled": false,
           "MeleeHeavyMode": false,
           "KOTHConfig": {
@@ -2157,8 +2193,9 @@
         },
         "MatchTime": 480,
         "Description": {
-          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
-          "Key": "GameModes_ScorePointsByCapturingThreeHillsNoRadar"
+          "Namespace": "GameModes",
+          "Key": "Description_18",
+          "SourceString": "Score points by capturing and controlling the three hills. Once a hill is captured, you don't need to stay inside it. Radar is disabled."
         },
         "ScoreFormatText": {
           "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
@@ -2180,9 +2217,9 @@
           16
         ],
         "Selectability": [
-          "EGameModeSelectability::Standard",
-          "EGameModeSelectability::Hardcore"
+          "EGameModeSelectability::Custom"
         ],
+        "Type": "EGameModeType::Domination",
         "IconImage": {
           "AssetPathName": "/Game/Thumbnails/Icons/icon-team-rumble.icon-team-rumble",
           "SubPathString": ""
@@ -2193,7 +2230,7 @@
           "Key": "GameModes_RankedDomination"
         },
         "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/GameModes/Halloween/halloween-DOM_Screenshot.halloween-DOM_Screenshot",
+          "AssetPathName": "/Game/Thumbnails/GameModes/DOM_Screenshot.DOM_Screenshot",
           "SubPathString": ""
         },
         "DisplayImageSmall": {
@@ -2208,30 +2245,29 @@
         },
         "Alias": "TUTORIAL",
         "Config": {
-          "TeamGame": true,
+          "TeamGame": false,
           "NumTeams": 2,
-          "ScoreLimit": 50,
-          "RespawnTime": 6,
           "MaxOvertime": 480,
-          "DefaultInventoryIDs": [
-            16,
-            0
-          ],
           "PickupsEnabled": true,
           "PickupOverrides": [],
-          "ShouldDropWeaponPickups": true,
-          "ShouldShowRadar": true,
           "KillcamEnabled": true,
           "SpectateAlliesWhenDead": false,
           "Modifiers": {
+            "ScoreLimit": 50,
+            "DefaultInventoryIDs": [],
+            "RandomWeapons": false,
+            "RespawnTime": 6,
+            "ShouldShowRadar": false,
             "EnableBoundaries": true,
             "EnableJetpack": true,
             "EnableSprint": true,
             "EnablePortalGun": true,
+            "EnableMelee": true,
             "UnlimitedAmmo": false,
             "UnlimitedClipSize": false,
             "HeadshotsOnly": false,
             "BigHeadMode": false,
+            "ShouldDropWeaponPickups": true,
             "WalkSpeedModifier": 1.0,
             "JumpHeightModifier": 1.0,
             "GravityModifier": 1.0,
@@ -2240,7 +2276,7 @@
             "MeleeDmgModifier": 1.0,
             "HealthModifier": 1.0
           },
-          "RandomWeapons": false,
+          "TeamModifiers": [],
           "SwitchTeamsEnabled": false,
           "MeleeHeavyMode": false,
           "KOTHConfig": {
@@ -2294,6 +2330,7 @@
           16
         ],
         "Selectability": [],
+        "Type": "EGameModeType::Deathmatch",
         "IconImage": {
           "AssetPathName": "None",
           "SubPathString": ""
@@ -2321,28 +2358,27 @@
         "Config": {
           "TeamGame": false,
           "NumTeams": 2,
-          "ScoreLimit": 50,
-          "RespawnTime": 6,
           "MaxOvertime": 480,
-          "DefaultInventoryIDs": [
-            16,
-            0
-          ],
           "PickupsEnabled": true,
           "PickupOverrides": [],
-          "ShouldDropWeaponPickups": true,
-          "ShouldShowRadar": true,
           "KillcamEnabled": true,
           "SpectateAlliesWhenDead": false,
           "Modifiers": {
+            "ScoreLimit": 50,
+            "DefaultInventoryIDs": [],
+            "RandomWeapons": false,
+            "RespawnTime": 6,
+            "ShouldShowRadar": false,
             "EnableBoundaries": true,
             "EnableJetpack": true,
             "EnableSprint": true,
             "EnablePortalGun": true,
+            "EnableMelee": true,
             "UnlimitedAmmo": false,
             "UnlimitedClipSize": false,
             "HeadshotsOnly": false,
             "BigHeadMode": false,
+            "ShouldDropWeaponPickups": true,
             "WalkSpeedModifier": 1.0,
             "JumpHeightModifier": 1.0,
             "GravityModifier": 1.0,
@@ -2351,7 +2387,7 @@
             "MeleeDmgModifier": 1.0,
             "HealthModifier": 1.0
           },
-          "RandomWeapons": false,
+          "TeamModifiers": [],
           "SwitchTeamsEnabled": false,
           "MeleeHeavyMode": false,
           "KOTHConfig": {
@@ -2407,6 +2443,7 @@
           16
         ],
         "Selectability": [],
+        "Type": "EGameModeType::Deathmatch",
         "IconImage": {
           "AssetPathName": "None",
           "SubPathString": ""
@@ -2434,28 +2471,30 @@
         "Config": {
           "TeamGame": true,
           "NumTeams": 2,
-          "ScoreLimit": 5,
-          "RespawnTime": 8,
           "MaxOvertime": 480,
-          "DefaultInventoryIDs": [
-            16,
-            2
-          ],
           "PickupsEnabled": true,
           "PickupOverrides": [],
-          "ShouldDropWeaponPickups": true,
-          "ShouldShowRadar": false,
           "KillcamEnabled": true,
           "SpectateAlliesWhenDead": false,
           "Modifiers": {
+            "ScoreLimit": 5,
+            "DefaultInventoryIDs": [
+              16,
+              2
+            ],
+            "RandomWeapons": false,
+            "RespawnTime": 8,
+            "ShouldShowRadar": false,
             "EnableBoundaries": true,
             "EnableJetpack": true,
             "EnableSprint": true,
             "EnablePortalGun": true,
+            "EnableMelee": true,
             "UnlimitedAmmo": false,
             "UnlimitedClipSize": false,
             "HeadshotsOnly": false,
             "BigHeadMode": false,
+            "ShouldDropWeaponPickups": true,
             "WalkSpeedModifier": 1.0,
             "JumpHeightModifier": 1.0,
             "GravityModifier": 1.0,
@@ -2464,7 +2503,7 @@
             "MeleeDmgModifier": 1.0,
             "HealthModifier": 1.0
           },
-          "RandomWeapons": false,
+          "TeamModifiers": [],
           "SwitchTeamsEnabled": false,
           "MeleeHeavyMode": false,
           "KOTHConfig": {
@@ -2520,10 +2559,8 @@
           15,
           16
         ],
-        "Selectability": [
-          "EGameModeSelectability::Standard",
-          "EGameModeSelectability::Hardcore"
-        ],
+        "Selectability": [],
+        "Type": "EGameModeType::CTF",
         "IconImage": {
           "AssetPathName": "/Game/Thumbnails/Icons/icon-team-rumble.icon-team-rumble",
           "SubPathString": ""
@@ -2551,13 +2588,7 @@
         "Config": {
           "TeamGame": true,
           "NumTeams": 2,
-          "ScoreLimit": 25,
-          "RespawnTime": 5,
           "MaxOvertime": 480,
-          "DefaultInventoryIDs": [
-            16,
-            2
-          ],
           "PickupsEnabled": true,
           "PickupOverrides": [
             {
@@ -2609,19 +2640,27 @@
               "TimeBetweenSpawns": 60
             }
           ],
-          "ShouldDropWeaponPickups": true,
-          "ShouldShowRadar": false,
           "KillcamEnabled": true,
           "SpectateAlliesWhenDead": false,
           "Modifiers": {
+            "ScoreLimit": 25,
+            "DefaultInventoryIDs": [
+              16,
+              2
+            ],
+            "RandomWeapons": false,
+            "RespawnTime": 5,
+            "ShouldShowRadar": false,
             "EnableBoundaries": true,
             "EnableJetpack": true,
             "EnableSprint": true,
             "EnablePortalGun": true,
+            "EnableMelee": true,
             "UnlimitedAmmo": false,
             "UnlimitedClipSize": false,
             "HeadshotsOnly": false,
             "BigHeadMode": false,
+            "ShouldDropWeaponPickups": true,
             "WalkSpeedModifier": 1.0,
             "JumpHeightModifier": 1.0,
             "GravityModifier": 1.0,
@@ -2630,7 +2669,7 @@
             "MeleeDmgModifier": 1.0,
             "HealthModifier": 1.0
           },
-          "RandomWeapons": false,
+          "TeamModifiers": [],
           "SwitchTeamsEnabled": false,
           "MeleeHeavyMode": false,
           "KOTHConfig": {
@@ -2685,10 +2724,8 @@
           15,
           16
         ],
-        "Selectability": [
-          "EGameModeSelectability::Standard",
-          "EGameModeSelectability::Hardcore"
-        ],
+        "Selectability": [],
+        "Type": "EGameModeType::Deathmatch",
         "IconImage": {
           "AssetPathName": "/Game/Thumbnails/Icons/icon-team-rumble.icon-team-rumble",
           "SubPathString": ""
@@ -2716,28 +2753,30 @@
         "Config": {
           "TeamGame": false,
           "NumTeams": 2,
-          "ScoreLimit": 25,
-          "RespawnTime": 6,
           "MaxOvertime": 480,
-          "DefaultInventoryIDs": [
-            16,
-            2
-          ],
           "PickupsEnabled": true,
           "PickupOverrides": [],
-          "ShouldDropWeaponPickups": true,
-          "ShouldShowRadar": false,
           "KillcamEnabled": true,
           "SpectateAlliesWhenDead": false,
           "Modifiers": {
+            "ScoreLimit": 25,
+            "DefaultInventoryIDs": [
+              16,
+              2
+            ],
+            "RandomWeapons": false,
+            "RespawnTime": 6,
+            "ShouldShowRadar": false,
             "EnableBoundaries": true,
             "EnableJetpack": true,
             "EnableSprint": true,
             "EnablePortalGun": true,
+            "EnableMelee": true,
             "UnlimitedAmmo": false,
             "UnlimitedClipSize": false,
             "HeadshotsOnly": false,
             "BigHeadMode": false,
+            "ShouldDropWeaponPickups": true,
             "WalkSpeedModifier": 1.0,
             "JumpHeightModifier": 1.0,
             "GravityModifier": 1.0,
@@ -2746,7 +2785,7 @@
             "MeleeDmgModifier": 1.0,
             "HealthModifier": 1.0
           },
-          "RandomWeapons": false,
+          "TeamModifiers": [],
           "SwitchTeamsEnabled": false,
           "MeleeHeavyMode": false,
           "KOTHConfig": {
@@ -2802,10 +2841,8 @@
           15,
           16
         ],
-        "Selectability": [
-          "EGameModeSelectability::Standard",
-          "EGameModeSelectability::Hardcore"
-        ],
+        "Selectability": [],
+        "Type": "EGameModeType::Deathmatch",
         "IconImage": {
           "AssetPathName": "/Game/Thumbnails/Icons/icon-ffa-rumble.icon-ffa-rumble",
           "SubPathString": ""
@@ -2833,28 +2870,30 @@
         "Config": {
           "TeamGame": true,
           "NumTeams": 2,
-          "ScoreLimit": 10,
-          "RespawnTime": 6,
           "MaxOvertime": 480,
-          "DefaultInventoryIDs": [
-            16,
-            0
-          ],
           "PickupsEnabled": true,
           "PickupOverrides": [],
-          "ShouldDropWeaponPickups": true,
-          "ShouldShowRadar": true,
           "KillcamEnabled": true,
           "SpectateAlliesWhenDead": false,
           "Modifiers": {
+            "ScoreLimit": 10,
+            "DefaultInventoryIDs": [
+              16,
+              0
+            ],
+            "RandomWeapons": false,
+            "RespawnTime": 6,
+            "ShouldShowRadar": true,
             "EnableBoundaries": true,
             "EnableJetpack": true,
             "EnableSprint": true,
             "EnablePortalGun": true,
+            "EnableMelee": true,
             "UnlimitedAmmo": false,
             "UnlimitedClipSize": false,
             "HeadshotsOnly": false,
             "BigHeadMode": false,
+            "ShouldDropWeaponPickups": true,
             "WalkSpeedModifier": 1.0,
             "JumpHeightModifier": 1.0,
             "GravityModifier": 1.0,
@@ -2863,7 +2902,7 @@
             "MeleeDmgModifier": 1.0,
             "HealthModifier": 1.0
           },
-          "RandomWeapons": false,
+          "TeamModifiers": [],
           "SwitchTeamsEnabled": false,
           "MeleeHeavyMode": false,
           "KOTHConfig": {
@@ -2921,9 +2960,9 @@
           14
         ],
         "Selectability": [
-          "EGameModeSelectability::Custom",
-          "EGameModeSelectability::Standard"
+          "EGameModeSelectability::Custom"
         ],
+        "Type": "EGameModeType::VIP",
         "IconImage": {
           "AssetPathName": "/Game/Thumbnails/Icons/icon-team-rumble.icon-team-rumble",
           "SubPathString": ""
@@ -2951,27 +2990,29 @@
         "Config": {
           "TeamGame": true,
           "NumTeams": 2,
-          "ScoreLimit": 50,
-          "RespawnTime": 6,
           "MaxOvertime": 480,
-          "DefaultInventoryIDs": [
-            8
-          ],
           "PickupsEnabled": false,
           "PickupOverrides": [],
-          "ShouldDropWeaponPickups": true,
-          "ShouldShowRadar": true,
           "KillcamEnabled": true,
           "SpectateAlliesWhenDead": false,
           "Modifiers": {
+            "ScoreLimit": 50,
+            "DefaultInventoryIDs": [
+              8
+            ],
+            "RandomWeapons": false,
+            "RespawnTime": 6,
+            "ShouldShowRadar": true,
             "EnableBoundaries": true,
             "EnableJetpack": true,
             "EnableSprint": true,
             "EnablePortalGun": true,
+            "EnableMelee": true,
             "UnlimitedAmmo": false,
             "UnlimitedClipSize": false,
             "HeadshotsOnly": false,
             "BigHeadMode": true,
+            "ShouldDropWeaponPickups": true,
             "WalkSpeedModifier": 1.0,
             "JumpHeightModifier": 1.0,
             "GravityModifier": 1.0,
@@ -2980,7 +3021,7 @@
             "MeleeDmgModifier": 1.0,
             "HealthModifier": 1.0
           },
-          "RandomWeapons": false,
+          "TeamModifiers": [],
           "SwitchTeamsEnabled": false,
           "MeleeHeavyMode": false,
           "KOTHConfig": {
@@ -3026,8 +3067,9 @@
           8
         ],
         "Selectability": [
-          "EGameModeSelectability::Standard"
+          "EGameModeSelectability::Custom"
         ],
+        "Type": "EGameModeType::Deathmatch",
         "IconImage": {
           "AssetPathName": "/Game/Thumbnails/Icons/icon-team-rumble.icon-team-rumble",
           "SubPathString": ""
@@ -3038,7 +3080,7 @@
           "Key": "GameModes_BigHeadSnipers"
         },
         "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/GameModes/Halloween/halloween-BigHeadSnipers_Screenshot.halloween-BigHeadSnipers_Screenshot",
+          "AssetPathName": "/Game/Thumbnails/GameModes/BigHeadSnipers_Screenshot.BigHeadSnipers_Screenshot",
           "SubPathString": ""
         },
         "DisplayImageSmall": {
@@ -3055,27 +3097,29 @@
         "Config": {
           "TeamGame": true,
           "NumTeams": 2,
-          "ScoreLimit": 50,
-          "RespawnTime": 2,
           "MaxOvertime": 480,
-          "DefaultInventoryIDs": [
-            3
-          ],
           "PickupsEnabled": false,
           "PickupOverrides": [],
-          "ShouldDropWeaponPickups": true,
-          "ShouldShowRadar": true,
           "KillcamEnabled": true,
           "SpectateAlliesWhenDead": false,
           "Modifiers": {
+            "ScoreLimit": 50,
+            "DefaultInventoryIDs": [
+              3
+            ],
+            "RandomWeapons": false,
+            "RespawnTime": 2,
+            "ShouldShowRadar": true,
             "EnableBoundaries": true,
             "EnableJetpack": true,
             "EnableSprint": true,
             "EnablePortalGun": true,
+            "EnableMelee": true,
             "UnlimitedAmmo": true,
             "UnlimitedClipSize": false,
             "HeadshotsOnly": false,
             "BigHeadMode": true,
+            "ShouldDropWeaponPickups": true,
             "WalkSpeedModifier": 1.5,
             "JumpHeightModifier": 1.0,
             "GravityModifier": 0.75,
@@ -3084,7 +3128,7 @@
             "MeleeDmgModifier": 1.0,
             "HealthModifier": 0.3
           },
-          "RandomWeapons": false,
+          "TeamModifiers": [],
           "SwitchTeamsEnabled": false,
           "MeleeHeavyMode": false,
           "KOTHConfig": {
@@ -3130,9 +3174,9 @@
           3
         ],
         "Selectability": [
-          "EGameModeSelectability::Standard",
           "EGameModeSelectability::Custom"
         ],
+        "Type": "EGameModeType::Deathmatch",
         "IconImage": {
           "AssetPathName": "/Game/Thumbnails/Icons/icon-team-rumble.icon-team-rumble",
           "SubPathString": ""
@@ -3160,28 +3204,30 @@
         "Config": {
           "TeamGame": true,
           "NumTeams": 2,
-          "ScoreLimit": 50,
-          "RespawnTime": 6,
           "MaxOvertime": 480,
-          "DefaultInventoryIDs": [
-            1,
-            0
-          ],
           "PickupsEnabled": true,
           "PickupOverrides": [],
-          "ShouldDropWeaponPickups": true,
-          "ShouldShowRadar": true,
           "KillcamEnabled": true,
           "SpectateAlliesWhenDead": false,
           "Modifiers": {
+            "ScoreLimit": 50,
+            "DefaultInventoryIDs": [
+              1,
+              0
+            ],
+            "RandomWeapons": false,
+            "RespawnTime": 6,
+            "ShouldShowRadar": true,
             "EnableBoundaries": true,
             "EnableJetpack": false,
             "EnableSprint": false,
             "EnablePortalGun": false,
+            "EnableMelee": true,
             "UnlimitedAmmo": false,
             "UnlimitedClipSize": false,
             "HeadshotsOnly": false,
             "BigHeadMode": false,
+            "ShouldDropWeaponPickups": true,
             "WalkSpeedModifier": 0.9,
             "JumpHeightModifier": 1.5,
             "GravityModifier": 0.9,
@@ -3190,7 +3236,7 @@
             "MeleeDmgModifier": 1.0,
             "HealthModifier": 1.5
           },
-          "RandomWeapons": false,
+          "TeamModifiers": [],
           "SwitchTeamsEnabled": false,
           "MeleeHeavyMode": false,
           "KOTHConfig": {
@@ -3245,10 +3291,8 @@
           15,
           16
         ],
-        "Selectability": [
-          "EGameModeSelectability::Standard",
-          "EGameModeSelectability::Custom"
-        ],
+        "Selectability": [],
+        "Type": "EGameModeType::Deathmatch",
         "IconImage": {
           "AssetPathName": "None",
           "SubPathString": ""
@@ -3259,7 +3303,7 @@
           "Key": "GameModes_OldSchoolSlayer"
         },
         "DisplayImage": {
-          "AssetPathName": "None",
+          "AssetPathName": "/Game/Thumbnails/GameModes/TDM_Screenshot.TDM_Screenshot",
           "SubPathString": ""
         },
         "DisplayImageSmall": {
@@ -3276,27 +3320,29 @@
         "Config": {
           "TeamGame": true,
           "NumTeams": 2,
-          "ScoreLimit": 600,
-          "RespawnTime": 8,
           "MaxOvertime": 480,
-          "DefaultInventoryIDs": [
-            5
-          ],
           "PickupsEnabled": false,
           "PickupOverrides": [],
-          "ShouldDropWeaponPickups": true,
-          "ShouldShowRadar": true,
           "KillcamEnabled": true,
           "SpectateAlliesWhenDead": false,
           "Modifiers": {
+            "ScoreLimit": 600,
+            "DefaultInventoryIDs": [
+              5
+            ],
+            "RandomWeapons": false,
+            "RespawnTime": 8,
+            "ShouldShowRadar": true,
             "EnableBoundaries": true,
             "EnableJetpack": true,
             "EnableSprint": true,
             "EnablePortalGun": true,
+            "EnableMelee": true,
             "UnlimitedAmmo": true,
             "UnlimitedClipSize": true,
             "HeadshotsOnly": false,
             "BigHeadMode": false,
+            "ShouldDropWeaponPickups": true,
             "WalkSpeedModifier": 1.0,
             "JumpHeightModifier": 2.5,
             "GravityModifier": 1.0,
@@ -3305,7 +3351,7 @@
             "MeleeDmgModifier": 1.0,
             "HealthModifier": 1.5
           },
-          "RandomWeapons": false,
+          "TeamModifiers": [],
           "SwitchTeamsEnabled": false,
           "MeleeHeavyMode": false,
           "KOTHConfig": {
@@ -3338,8 +3384,9 @@
         },
         "MatchTime": 480,
         "Description": {
-          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
-          "Key": "GameModes_ScorePointsByCapturingThreeHills"
+          "Namespace": "GameModes",
+          "Key": "Description_28",
+          "SourceString": "Score points by capturing and controlling the three hills. Once a hill is captured, you don't need to stay inside it."
         },
         "ScoreFormatText": {
           "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
@@ -3350,10 +3397,8 @@
         "CompatibleWeaponIDs": [
           5
         ],
-        "Selectability": [
-          "EGameModeSelectability::Standard",
-          "EGameModeSelectability::Custom"
-        ],
+        "Selectability": [],
+        "Type": "EGameModeType::Domination",
         "IconImage": {
           "AssetPathName": "/Game/Thumbnails/Icons/icon-team-rumble.icon-team-rumble",
           "SubPathString": ""
@@ -3364,7 +3409,7 @@
           "Key": "GameModes_RocketDomination"
         },
         "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/GameModes/Halloween/halloween-DOM_Screenshot.halloween-DOM_Screenshot",
+          "AssetPathName": "/Game/Thumbnails/GameModes/DOM_Screenshot.DOM_Screenshot",
           "SubPathString": ""
         },
         "DisplayImageSmall": {
@@ -3381,27 +3426,29 @@
         "Config": {
           "TeamGame": true,
           "NumTeams": 2,
-          "ScoreLimit": 200,
-          "RespawnTime": 2,
           "MaxOvertime": 480,
-          "DefaultInventoryIDs": [
-            15
-          ],
           "PickupsEnabled": false,
           "PickupOverrides": [],
-          "ShouldDropWeaponPickups": true,
-          "ShouldShowRadar": true,
           "KillcamEnabled": true,
           "SpectateAlliesWhenDead": false,
           "Modifiers": {
+            "ScoreLimit": 200,
+            "DefaultInventoryIDs": [
+              15
+            ],
+            "RandomWeapons": false,
+            "RespawnTime": 2,
+            "ShouldShowRadar": true,
             "EnableBoundaries": true,
             "EnableJetpack": true,
             "EnableSprint": true,
             "EnablePortalGun": false,
+            "EnableMelee": true,
             "UnlimitedAmmo": true,
             "UnlimitedClipSize": true,
             "HeadshotsOnly": false,
             "BigHeadMode": false,
+            "ShouldDropWeaponPickups": true,
             "WalkSpeedModifier": 1.5,
             "JumpHeightModifier": 1.0,
             "GravityModifier": 0.75,
@@ -3410,7 +3457,7 @@
             "MeleeDmgModifier": 1.0,
             "HealthModifier": 1.0
           },
-          "RandomWeapons": false,
+          "TeamModifiers": [],
           "SwitchTeamsEnabled": false,
           "MeleeHeavyMode": false,
           "KOTHConfig": {
@@ -3456,9 +3503,9 @@
           15
         ],
         "Selectability": [
-          "EGameModeSelectability::Standard",
           "EGameModeSelectability::Custom"
         ],
+        "Type": "EGameModeType::Oddball",
         "IconImage": {
           "AssetPathName": "/Game/Thumbnails/Icons/icon-team-rumble.icon-team-rumble",
           "SubPathString": ""
@@ -3469,7 +3516,7 @@
           "Key": "GameModes_SplitBall"
         },
         "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/GameModes/Halloween/halloween-Splitball_Screenshot.halloween-Splitball_Screenshot",
+          "AssetPathName": "/Game/Thumbnails/GameModes/Splitball_Screenshot.Splitball_Screenshot",
           "SubPathString": ""
         },
         "DisplayImageSmall": {
@@ -3486,27 +3533,29 @@
         "Config": {
           "TeamGame": true,
           "NumTeams": 2,
-          "ScoreLimit": 200,
-          "RespawnTime": 2,
           "MaxOvertime": 60,
-          "DefaultInventoryIDs": [
-            6
-          ],
           "PickupsEnabled": false,
           "PickupOverrides": [],
-          "ShouldDropWeaponPickups": true,
-          "ShouldShowRadar": true,
           "KillcamEnabled": true,
           "SpectateAlliesWhenDead": false,
           "Modifiers": {
+            "ScoreLimit": 200,
+            "DefaultInventoryIDs": [
+              6
+            ],
+            "RandomWeapons": false,
+            "RespawnTime": 2,
+            "ShouldShowRadar": true,
             "EnableBoundaries": true,
             "EnableJetpack": true,
             "EnableSprint": true,
             "EnablePortalGun": true,
+            "EnableMelee": true,
             "UnlimitedAmmo": true,
             "UnlimitedClipSize": true,
             "HeadshotsOnly": false,
             "BigHeadMode": false,
+            "ShouldDropWeaponPickups": true,
             "WalkSpeedModifier": 1.5,
             "JumpHeightModifier": 1.0,
             "GravityModifier": 1.0,
@@ -3515,7 +3564,7 @@
             "MeleeDmgModifier": 1.0,
             "HealthModifier": 1.0
           },
-          "RandomWeapons": false,
+          "TeamModifiers": [],
           "SwitchTeamsEnabled": false,
           "MeleeHeavyMode": false,
           "KOTHConfig": {
@@ -3562,9 +3611,9 @@
           6
         ],
         "Selectability": [
-          "EGameModeSelectability::Standard",
           "EGameModeSelectability::Custom"
         ],
+        "Type": "EGameModeType::KOTH",
         "IconImage": {
           "AssetPathName": "/Game/Thumbnails/Icons/icon-team-rumble.icon-team-rumble",
           "SubPathString": ""
@@ -3575,7 +3624,7 @@
           "Key": "GameModes_SuperKingofHill"
         },
         "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/GameModes/Halloween/halloween-KOTH_Screenshot.halloween-KOTH_Screenshot",
+          "AssetPathName": "/Game/Thumbnails/GameModes/KOTH_Screenshot.KOTH_Screenshot",
           "SubPathString": ""
         },
         "DisplayImageSmall": {
@@ -3592,27 +3641,29 @@
         "Config": {
           "TeamGame": true,
           "NumTeams": 2,
-          "ScoreLimit": 15,
-          "RespawnTime": 6,
           "MaxOvertime": 480,
-          "DefaultInventoryIDs": [
-            15
-          ],
           "PickupsEnabled": false,
           "PickupOverrides": [],
-          "ShouldDropWeaponPickups": true,
-          "ShouldShowRadar": false,
           "KillcamEnabled": true,
           "SpectateAlliesWhenDead": false,
           "Modifiers": {
+            "ScoreLimit": 15,
+            "DefaultInventoryIDs": [
+              15
+            ],
+            "RandomWeapons": false,
+            "RespawnTime": 6,
+            "ShouldShowRadar": false,
             "EnableBoundaries": true,
             "EnableJetpack": true,
             "EnableSprint": true,
             "EnablePortalGun": true,
+            "EnableMelee": true,
             "UnlimitedAmmo": true,
             "UnlimitedClipSize": false,
             "HeadshotsOnly": false,
             "BigHeadMode": false,
+            "ShouldDropWeaponPickups": true,
             "WalkSpeedModifier": 1.5,
             "JumpHeightModifier": 1.0,
             "GravityModifier": 1.0,
@@ -3621,7 +3672,7 @@
             "MeleeDmgModifier": 1.0,
             "HealthModifier": 0.5
           },
-          "RandomWeapons": false,
+          "TeamModifiers": [],
           "SwitchTeamsEnabled": false,
           "MeleeHeavyMode": true,
           "KOTHConfig": {
@@ -3671,9 +3722,9 @@
           16
         ],
         "Selectability": [
-          "EGameModeSelectability::Standard",
           "EGameModeSelectability::Custom"
         ],
+        "Type": "EGameModeType::VIP",
         "IconImage": {
           "AssetPathName": "/Game/Thumbnails/Icons/icon-team-rumble.icon-team-rumble",
           "SubPathString": ""
@@ -3701,28 +3752,30 @@
         "Config": {
           "TeamGame": false,
           "NumTeams": 2,
-          "ScoreLimit": 50,
-          "RespawnTime": 6,
           "MaxOvertime": 480,
-          "DefaultInventoryIDs": [
-            16,
-            0
-          ],
           "PickupsEnabled": true,
           "PickupOverrides": [],
-          "ShouldDropWeaponPickups": true,
-          "ShouldShowRadar": true,
           "KillcamEnabled": true,
           "SpectateAlliesWhenDead": false,
           "Modifiers": {
+            "ScoreLimit": 50,
+            "DefaultInventoryIDs": [
+              16,
+              0
+            ],
+            "RandomWeapons": false,
+            "RespawnTime": 6,
+            "ShouldShowRadar": true,
             "EnableBoundaries": true,
             "EnableJetpack": true,
             "EnableSprint": true,
             "EnablePortalGun": true,
+            "EnableMelee": true,
             "UnlimitedAmmo": false,
             "UnlimitedClipSize": false,
             "HeadshotsOnly": false,
             "BigHeadMode": false,
+            "ShouldDropWeaponPickups": true,
             "WalkSpeedModifier": 1.0,
             "JumpHeightModifier": 1.0,
             "GravityModifier": 1.0,
@@ -3731,7 +3784,7 @@
             "MeleeDmgModifier": 1.0,
             "HealthModifier": 1.0
           },
-          "RandomWeapons": false,
+          "TeamModifiers": [],
           "SwitchTeamsEnabled": false,
           "MeleeHeavyMode": false,
           "KOTHConfig": {
@@ -3785,6 +3838,7 @@
           16
         ],
         "Selectability": [],
+        "Type": "EGameModeType::Deathmatch",
         "IconImage": {
           "AssetPathName": "None",
           "SubPathString": ""
@@ -3812,28 +3866,30 @@
         "Config": {
           "TeamGame": false,
           "NumTeams": 2,
-          "ScoreLimit": 50,
-          "RespawnTime": 6,
           "MaxOvertime": 480,
-          "DefaultInventoryIDs": [
-            16,
-            2
-          ],
           "PickupsEnabled": true,
           "PickupOverrides": [],
-          "ShouldDropWeaponPickups": true,
-          "ShouldShowRadar": false,
           "KillcamEnabled": true,
           "SpectateAlliesWhenDead": false,
           "Modifiers": {
+            "ScoreLimit": 50,
+            "DefaultInventoryIDs": [
+              16,
+              2
+            ],
+            "RandomWeapons": false,
+            "RespawnTime": 6,
+            "ShouldShowRadar": false,
             "EnableBoundaries": true,
             "EnableJetpack": true,
             "EnableSprint": true,
             "EnablePortalGun": true,
+            "EnableMelee": true,
             "UnlimitedAmmo": false,
             "UnlimitedClipSize": false,
             "HeadshotsOnly": false,
             "BigHeadMode": false,
+            "ShouldDropWeaponPickups": true,
             "WalkSpeedModifier": 1.0,
             "JumpHeightModifier": 1.0,
             "GravityModifier": 1.0,
@@ -3842,7 +3898,7 @@
             "MeleeDmgModifier": 1.0,
             "HealthModifier": 1.0
           },
-          "RandomWeapons": false,
+          "TeamModifiers": [],
           "SwitchTeamsEnabled": false,
           "MeleeHeavyMode": false,
           "KOTHConfig": {
@@ -3896,6 +3952,7 @@
           16
         ],
         "Selectability": [],
+        "Type": "EGameModeType::Deathmatch",
         "IconImage": {
           "AssetPathName": "None",
           "SubPathString": ""
@@ -3923,13 +3980,7 @@
         "Config": {
           "TeamGame": true,
           "NumTeams": 2,
-          "ScoreLimit": 200,
-          "RespawnTime": 7,
           "MaxOvertime": 60,
-          "DefaultInventoryIDs": [
-            16,
-            2
-          ],
           "PickupsEnabled": true,
           "PickupOverrides": [
             {
@@ -3981,19 +4032,27 @@
               "TimeBetweenSpawns": 60
             }
           ],
-          "ShouldDropWeaponPickups": true,
-          "ShouldShowRadar": false,
           "KillcamEnabled": true,
           "SpectateAlliesWhenDead": false,
           "Modifiers": {
+            "ScoreLimit": 200,
+            "DefaultInventoryIDs": [
+              16,
+              2
+            ],
+            "RandomWeapons": false,
+            "RespawnTime": 7,
+            "ShouldShowRadar": false,
             "EnableBoundaries": true,
             "EnableJetpack": true,
             "EnableSprint": true,
             "EnablePortalGun": true,
+            "EnableMelee": true,
             "UnlimitedAmmo": false,
             "UnlimitedClipSize": false,
             "HeadshotsOnly": false,
             "BigHeadMode": false,
+            "ShouldDropWeaponPickups": true,
             "WalkSpeedModifier": 1.0,
             "JumpHeightModifier": 1.0,
             "GravityModifier": 1.0,
@@ -4002,7 +4061,7 @@
             "MeleeDmgModifier": 1.0,
             "HealthModifier": 1.0
           },
-          "RandomWeapons": false,
+          "TeamModifiers": [],
           "SwitchTeamsEnabled": false,
           "MeleeHeavyMode": false,
           "KOTHConfig": {
@@ -4058,10 +4117,8 @@
           15,
           16
         ],
-        "Selectability": [
-          "EGameModeSelectability::Standard",
-          "EGameModeSelectability::Hardcore"
-        ],
+        "Selectability": [],
+        "Type": "EGameModeType::KOTH",
         "IconImage": {
           "AssetPathName": "None",
           "SubPathString": ""
@@ -4089,13 +4146,7 @@
         "Config": {
           "TeamGame": true,
           "NumTeams": 2,
-          "ScoreLimit": 50,
-          "RespawnTime": 5,
           "MaxOvertime": 480,
-          "DefaultInventoryIDs": [
-            16,
-            2
-          ],
           "PickupsEnabled": true,
           "PickupOverrides": [
             {
@@ -4139,19 +4190,27 @@
               "TimeBetweenSpawns": 60
             }
           ],
-          "ShouldDropWeaponPickups": true,
-          "ShouldShowRadar": false,
           "KillcamEnabled": true,
           "SpectateAlliesWhenDead": false,
           "Modifiers": {
+            "ScoreLimit": 50,
+            "DefaultInventoryIDs": [
+              16,
+              2
+            ],
+            "RandomWeapons": false,
+            "RespawnTime": 5,
+            "ShouldShowRadar": false,
             "EnableBoundaries": true,
             "EnableJetpack": true,
             "EnableSprint": true,
             "EnablePortalGun": true,
+            "EnableMelee": true,
             "UnlimitedAmmo": false,
             "UnlimitedClipSize": false,
             "HeadshotsOnly": false,
             "BigHeadMode": false,
+            "ShouldDropWeaponPickups": true,
             "WalkSpeedModifier": 1.0,
             "JumpHeightModifier": 1.0,
             "GravityModifier": 1.0,
@@ -4160,7 +4219,7 @@
             "MeleeDmgModifier": 1.0,
             "HealthModifier": 1.0
           },
-          "RandomWeapons": false,
+          "TeamModifiers": [],
           "SwitchTeamsEnabled": false,
           "MeleeHeavyMode": false,
           "KOTHConfig": {
@@ -4215,10 +4274,8 @@
           15,
           16
         ],
-        "Selectability": [
-          "EGameModeSelectability::Standard",
-          "EGameModeSelectability::Hardcore"
-        ],
+        "Selectability": [],
+        "Type": "EGameModeType::Deathmatch",
         "IconImage": {
           "AssetPathName": "None",
           "SubPathString": ""
@@ -4246,13 +4303,7 @@
         "Config": {
           "TeamGame": true,
           "NumTeams": 2,
-          "ScoreLimit": 200,
-          "RespawnTime": 6,
           "MaxOvertime": 60,
-          "DefaultInventoryIDs": [
-            16,
-            2
-          ],
           "PickupsEnabled": true,
           "PickupOverrides": [
             {
@@ -4296,19 +4347,27 @@
               "TimeBetweenSpawns": 60
             }
           ],
-          "ShouldDropWeaponPickups": true,
-          "ShouldShowRadar": false,
           "KillcamEnabled": true,
           "SpectateAlliesWhenDead": false,
           "Modifiers": {
+            "ScoreLimit": 200,
+            "DefaultInventoryIDs": [
+              16,
+              2
+            ],
+            "RandomWeapons": false,
+            "RespawnTime": 6,
+            "ShouldShowRadar": false,
             "EnableBoundaries": true,
             "EnableJetpack": true,
             "EnableSprint": true,
             "EnablePortalGun": true,
+            "EnableMelee": true,
             "UnlimitedAmmo": false,
             "UnlimitedClipSize": false,
             "HeadshotsOnly": false,
             "BigHeadMode": false,
+            "ShouldDropWeaponPickups": true,
             "WalkSpeedModifier": 1.0,
             "JumpHeightModifier": 1.0,
             "GravityModifier": 1.0,
@@ -4317,7 +4376,7 @@
             "MeleeDmgModifier": 1.0,
             "HealthModifier": 1.0
           },
-          "RandomWeapons": false,
+          "TeamModifiers": [],
           "SwitchTeamsEnabled": false,
           "MeleeHeavyMode": false,
           "KOTHConfig": {
@@ -4373,10 +4432,8 @@
           15,
           16
         ],
-        "Selectability": [
-          "EGameModeSelectability::Standard",
-          "EGameModeSelectability::Hardcore"
-        ],
+        "Selectability": [],
+        "Type": "EGameModeType::KOTH",
         "IconImage": {
           "AssetPathName": "None",
           "SubPathString": ""
@@ -4404,13 +4461,7 @@
         "Config": {
           "TeamGame": true,
           "NumTeams": 2,
-          "ScoreLimit": 600,
-          "RespawnTime": 6,
           "MaxOvertime": 480,
-          "DefaultInventoryIDs": [
-            16,
-            2
-          ],
           "PickupsEnabled": true,
           "PickupOverrides": [
             {
@@ -4454,19 +4505,27 @@
               "TimeBetweenSpawns": 60
             }
           ],
-          "ShouldDropWeaponPickups": true,
-          "ShouldShowRadar": false,
           "KillcamEnabled": true,
           "SpectateAlliesWhenDead": false,
           "Modifiers": {
+            "ScoreLimit": 600,
+            "DefaultInventoryIDs": [
+              16,
+              2
+            ],
+            "RandomWeapons": false,
+            "RespawnTime": 6,
+            "ShouldShowRadar": false,
             "EnableBoundaries": true,
             "EnableJetpack": true,
             "EnableSprint": true,
             "EnablePortalGun": true,
+            "EnableMelee": true,
             "UnlimitedAmmo": false,
             "UnlimitedClipSize": false,
             "HeadshotsOnly": false,
             "BigHeadMode": false,
+            "ShouldDropWeaponPickups": true,
             "WalkSpeedModifier": 1.0,
             "JumpHeightModifier": 1.0,
             "GravityModifier": 1.0,
@@ -4475,7 +4534,7 @@
             "MeleeDmgModifier": 1.0,
             "HealthModifier": 1.0
           },
-          "RandomWeapons": false,
+          "TeamModifiers": [],
           "SwitchTeamsEnabled": false,
           "MeleeHeavyMode": false,
           "KOTHConfig": {
@@ -4508,8 +4567,9 @@
         },
         "MatchTime": 480,
         "Description": {
-          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
-          "Key": "GameModes_ScorePointsByCapturingThreeHillsNoRadar"
+          "Namespace": "GameModes",
+          "Key": "Description_37",
+          "SourceString": "Score points by capturing and controlling the three hills. Once a hill is captured, you don't need to stay inside it. Radar is disabled."
         },
         "ScoreFormatText": {
           "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
@@ -4530,10 +4590,8 @@
           15,
           16
         ],
-        "Selectability": [
-          "EGameModeSelectability::Standard",
-          "EGameModeSelectability::Hardcore"
-        ],
+        "Selectability": [],
+        "Type": "EGameModeType::Domination",
         "IconImage": {
           "AssetPathName": "None",
           "SubPathString": ""
@@ -4552,141 +4610,6 @@
           "SubPathString": ""
         }
       },
-      "38": {
-        "DefaultClass": {
-          "AssetPathName": "/Game/Blueprints/GameModes/Takedown/Takedown_BP.Takedown_BP_C",
-          "SubPathString": ""
-        },
-        "Alias": "RTD",
-        "Config": {
-          "TeamGame": true,
-          "NumTeams": 2,
-          "ScoreLimit": 4,
-          "RespawnTime": 6,
-          "MaxOvertime": 480,
-          "DefaultInventoryIDs": [
-            16,
-            2
-          ],
-          "PickupsEnabled": true,
-          "PickupOverrides": [
-            {
-              "WeaponID": 8,
-              "IsEnabled": true,
-              "OverrideClips": true,
-              "AmmoClips": 1.0,
-              "OverrideSpawnTime": false,
-              "TimeBetweenSpawns": 60
-            },
-            {
-              "WeaponID": 7,
-              "IsEnabled": true,
-              "OverrideClips": true,
-              "AmmoClips": 1.5,
-              "OverrideSpawnTime": false,
-              "TimeBetweenSpawns": 60
-            }
-          ],
-          "ShouldDropWeaponPickups": true,
-          "ShouldShowRadar": false,
-          "KillcamEnabled": false,
-          "SpectateAlliesWhenDead": true,
-          "Modifiers": {
-            "EnableBoundaries": true,
-            "EnableJetpack": true,
-            "EnableSprint": true,
-            "EnablePortalGun": true,
-            "UnlimitedAmmo": false,
-            "UnlimitedClipSize": false,
-            "HeadshotsOnly": false,
-            "BigHeadMode": false,
-            "WalkSpeedModifier": 1.0,
-            "JumpHeightModifier": 1.0,
-            "GravityModifier": 1.0,
-            "ThrusterPackFuelModifier": 1.0,
-            "ThrusterPackBoostModifier": 1.0,
-            "MeleeDmgModifier": 1.0,
-            "HealthModifier": 1.0
-          },
-          "RandomWeapons": false,
-          "SwitchTeamsEnabled": false,
-          "MeleeHeavyMode": false,
-          "KOTHConfig": {
-            "RandomHillsEnabled": true
-          },
-          "VIPConfig": {
-            "DefaultInventoryIDs": [],
-            "VIPWalkSpeedModifier": -1.0
-          },
-          "ContaminationConfig": {
-            "DefaultInventoryIDs": [],
-            "InitialZombies": 2,
-            "SurvivalPoints": 0,
-            "ContaminationPoints": 1
-          },
-          "RoundConfig": {
-            "bUseRoundTimer": false,
-            "RoundTimeLimit": 300,
-            "bUseRoundScoreLimit": false,
-            "RoundScoreLimit": 30,
-            "bUseSetAmountOfRounds": false,
-            "bRandomWeapons": false,
-            "bRespawningDisabled": false
-          }
-        },
-        "ScoreConfig": {
-          "MinScore": 1,
-          "MaxScore": 5,
-          "ScoreStep": 1
-        },
-        "MatchTime": 3600,
-        "Description": {
-          "Namespace": "GameModes",
-          "Key": "Description_38",
-          "SourceString": "Eliminate the entire enemy team to win each round. Spawn times increase with each death!"
-        },
-        "ScoreFormatText": {
-          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
-          "Key": "UIText_RoundsToWin"
-        },
-        "SoundName": "TD",
-        "MaxPlayers": 6,
-        "CompatibleWeaponIDs": [
-          0,
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          15,
-          16
-        ],
-        "Selectability": [
-          "EGameModeSelectability::Standard",
-          "EGameModeSelectability::Hardcore",
-          "EGameModeSelectability::Custom"
-        ],
-        "IconImage": {
-          "AssetPathName": "/Game/Thumbnails/Icons/icon-team-rumble.icon-team-rumble",
-          "SubPathString": ""
-        },
-        "ID": 38,
-        "DisplayName": {
-          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
-          "Key": "GameModes_RankedTakedown"
-        },
-        "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/GameModes/Halloween/halloween-Takedown_Screenshot.halloween-Takedown_Screenshot",
-          "SubPathString": ""
-        },
-        "DisplayImageSmall": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        }
-      },
       "39": {
         "DefaultClass": {
           "AssetPathName": "/Game/Blueprints/GameModes/Fiesta/Fiesta_BP.Fiesta_BP_C",
@@ -4696,28 +4619,30 @@
         "Config": {
           "TeamGame": false,
           "NumTeams": 2,
-          "ScoreLimit": 25,
-          "RespawnTime": 4,
           "MaxOvertime": 480,
-          "DefaultInventoryIDs": [
-            16,
-            0
-          ],
           "PickupsEnabled": false,
           "PickupOverrides": [],
-          "ShouldDropWeaponPickups": true,
-          "ShouldShowRadar": true,
           "KillcamEnabled": true,
           "SpectateAlliesWhenDead": false,
           "Modifiers": {
+            "ScoreLimit": 25,
+            "DefaultInventoryIDs": [
+              16,
+              0
+            ],
+            "RandomWeapons": true,
+            "RespawnTime": 4,
+            "ShouldShowRadar": true,
             "EnableBoundaries": true,
             "EnableJetpack": true,
             "EnableSprint": true,
             "EnablePortalGun": true,
+            "EnableMelee": true,
             "UnlimitedAmmo": false,
             "UnlimitedClipSize": false,
             "HeadshotsOnly": false,
             "BigHeadMode": false,
+            "ShouldDropWeaponPickups": true,
             "WalkSpeedModifier": 1.0,
             "JumpHeightModifier": 1.0,
             "GravityModifier": 1.0,
@@ -4726,7 +4651,7 @@
             "MeleeDmgModifier": 1.0,
             "HealthModifier": 1.0
           },
-          "RandomWeapons": true,
+          "TeamModifiers": [],
           "SwitchTeamsEnabled": false,
           "MeleeHeavyMode": false,
           "KOTHConfig": {
@@ -4783,9 +4708,9 @@
           16
         ],
         "Selectability": [
-          "EGameModeSelectability::Custom",
-          "EGameModeSelectability::Standard"
+          "EGameModeSelectability::Custom"
         ],
+        "Type": "EGameModeType::Deathmatch",
         "IconImage": {
           "AssetPathName": "/Game/Thumbnails/Icons/icon-ffa-rumble.icon-ffa-rumble",
           "SubPathString": ""
@@ -4796,7 +4721,7 @@
           "Key": "GameModes_Fiesta"
         },
         "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/GameModes/Halloween/halloween-Fiesta_Screenshot.halloween-Fiesta_Screenshot",
+          "AssetPathName": "/Game/Thumbnails/GameModes/Fiesta_Screenshot.Fiesta_Screenshot",
           "SubPathString": ""
         },
         "DisplayImageSmall": {
@@ -4813,28 +4738,30 @@
         "Config": {
           "TeamGame": true,
           "NumTeams": 2,
-          "ScoreLimit": 50,
-          "RespawnTime": 4,
           "MaxOvertime": 480,
-          "DefaultInventoryIDs": [
-            16,
-            0
-          ],
           "PickupsEnabled": false,
           "PickupOverrides": [],
-          "ShouldDropWeaponPickups": true,
-          "ShouldShowRadar": true,
           "KillcamEnabled": true,
           "SpectateAlliesWhenDead": false,
           "Modifiers": {
+            "ScoreLimit": 50,
+            "DefaultInventoryIDs": [
+              16,
+              0
+            ],
+            "RandomWeapons": true,
+            "RespawnTime": 4,
+            "ShouldShowRadar": true,
             "EnableBoundaries": true,
             "EnableJetpack": true,
             "EnableSprint": true,
             "EnablePortalGun": true,
+            "EnableMelee": true,
             "UnlimitedAmmo": false,
             "UnlimitedClipSize": false,
             "HeadshotsOnly": false,
             "BigHeadMode": false,
+            "ShouldDropWeaponPickups": true,
             "WalkSpeedModifier": 1.0,
             "JumpHeightModifier": 1.0,
             "GravityModifier": 1.0,
@@ -4843,7 +4770,7 @@
             "MeleeDmgModifier": 1.0,
             "HealthModifier": 1.0
           },
-          "RandomWeapons": true,
+          "TeamModifiers": [],
           "SwitchTeamsEnabled": false,
           "MeleeHeavyMode": false,
           "KOTHConfig": {
@@ -4900,9 +4827,9 @@
           16
         ],
         "Selectability": [
-          "EGameModeSelectability::Custom",
-          "EGameModeSelectability::Standard"
+          "EGameModeSelectability::Custom"
         ],
+        "Type": "EGameModeType::Deathmatch",
         "IconImage": {
           "AssetPathName": "/Game/Thumbnails/Icons/icon-team-rumble.icon-team-rumble",
           "SubPathString": ""
@@ -4913,7 +4840,7 @@
           "Key": "GameModes_TeamFiesta"
         },
         "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/GameModes/Halloween/halloween-Fiesta_Screenshot.halloween-Fiesta_Screenshot",
+          "AssetPathName": "/Game/Thumbnails/GameModes/Fiesta_Screenshot.Fiesta_Screenshot",
           "SubPathString": ""
         },
         "DisplayImageSmall": {
@@ -4930,27 +4857,29 @@
         "Config": {
           "TeamGame": false,
           "NumTeams": 2,
-          "ScoreLimit": 25,
-          "RespawnTime": 4,
           "MaxOvertime": 480,
-          "DefaultInventoryIDs": [
-            17
-          ],
           "PickupsEnabled": false,
           "PickupOverrides": [],
-          "ShouldDropWeaponPickups": false,
-          "ShouldShowRadar": true,
           "KillcamEnabled": true,
           "SpectateAlliesWhenDead": false,
           "Modifiers": {
+            "ScoreLimit": 25,
+            "DefaultInventoryIDs": [
+              17
+            ],
+            "RandomWeapons": false,
+            "RespawnTime": 4,
+            "ShouldShowRadar": true,
             "EnableBoundaries": true,
             "EnableJetpack": true,
             "EnableSprint": true,
             "EnablePortalGun": true,
+            "EnableMelee": true,
             "UnlimitedAmmo": false,
             "UnlimitedClipSize": false,
             "HeadshotsOnly": false,
             "BigHeadMode": false,
+            "ShouldDropWeaponPickups": false,
             "WalkSpeedModifier": 1.0,
             "JumpHeightModifier": 1.0,
             "GravityModifier": 1.0,
@@ -4959,7 +4888,7 @@
             "MeleeDmgModifier": 1.0,
             "HealthModifier": 0.25
           },
-          "RandomWeapons": false,
+          "TeamModifiers": [],
           "SwitchTeamsEnabled": false,
           "MeleeHeavyMode": true,
           "KOTHConfig": {
@@ -5006,9 +4935,9 @@
           17
         ],
         "Selectability": [
-          "EGameModeSelectability::Custom",
-          "EGameModeSelectability::Standard"
+          "EGameModeSelectability::Custom"
         ],
+        "Type": "EGameModeType::OITC",
         "IconImage": {
           "AssetPathName": "/Game/Thumbnails/Icons/icon-ffa-rumble.icon-ffa-rumble",
           "SubPathString": ""
@@ -5036,27 +4965,29 @@
         "Config": {
           "TeamGame": true,
           "NumTeams": 2,
-          "ScoreLimit": 50,
-          "RespawnTime": 4,
           "MaxOvertime": 480,
-          "DefaultInventoryIDs": [
-            17
-          ],
           "PickupsEnabled": false,
           "PickupOverrides": [],
-          "ShouldDropWeaponPickups": false,
-          "ShouldShowRadar": true,
           "KillcamEnabled": true,
           "SpectateAlliesWhenDead": false,
           "Modifiers": {
+            "ScoreLimit": 50,
+            "DefaultInventoryIDs": [
+              17
+            ],
+            "RandomWeapons": false,
+            "RespawnTime": 4,
+            "ShouldShowRadar": true,
             "EnableBoundaries": true,
             "EnableJetpack": true,
             "EnableSprint": true,
             "EnablePortalGun": true,
+            "EnableMelee": true,
             "UnlimitedAmmo": false,
             "UnlimitedClipSize": false,
             "HeadshotsOnly": false,
             "BigHeadMode": false,
+            "ShouldDropWeaponPickups": false,
             "WalkSpeedModifier": 1.0,
             "JumpHeightModifier": 1.0,
             "GravityModifier": 1.0,
@@ -5065,7 +4996,7 @@
             "MeleeDmgModifier": 1.0,
             "HealthModifier": 0.25
           },
-          "RandomWeapons": false,
+          "TeamModifiers": [],
           "SwitchTeamsEnabled": false,
           "MeleeHeavyMode": true,
           "KOTHConfig": {
@@ -5112,9 +5043,9 @@
           17
         ],
         "Selectability": [
-          "EGameModeSelectability::Custom",
-          "EGameModeSelectability::Standard"
+          "EGameModeSelectability::Custom"
         ],
+        "Type": "EGameModeType::OITC",
         "IconImage": {
           "AssetPathName": "/Game/Thumbnails/Icons/icon-team-rumble.icon-team-rumble",
           "SubPathString": ""
@@ -5140,29 +5071,31 @@
         },
         "Alias": "RANGE",
         "Config": {
-          "TeamGame": true,
+          "TeamGame": false,
           "NumTeams": 2,
-          "ScoreLimit": 50,
-          "RespawnTime": 2,
           "MaxOvertime": 480,
-          "DefaultInventoryIDs": [
-            14
-          ],
           "PickupsEnabled": true,
           "PickupOverrides": [],
-          "ShouldDropWeaponPickups": false,
-          "ShouldShowRadar": true,
           "KillcamEnabled": false,
           "SpectateAlliesWhenDead": false,
           "Modifiers": {
+            "ScoreLimit": 50,
+            "DefaultInventoryIDs": [
+              14
+            ],
+            "RandomWeapons": false,
+            "RespawnTime": 2,
+            "ShouldShowRadar": true,
             "EnableBoundaries": true,
             "EnableJetpack": true,
             "EnableSprint": true,
             "EnablePortalGun": true,
+            "EnableMelee": true,
             "UnlimitedAmmo": true,
             "UnlimitedClipSize": false,
             "HeadshotsOnly": false,
             "BigHeadMode": false,
+            "ShouldDropWeaponPickups": false,
             "WalkSpeedModifier": 1.0,
             "JumpHeightModifier": 1.0,
             "GravityModifier": 1.0,
@@ -5171,7 +5104,7 @@
             "MeleeDmgModifier": 1.0,
             "HealthModifier": 1.0
           },
-          "RandomWeapons": false,
+          "TeamModifiers": [],
           "SwitchTeamsEnabled": false,
           "MeleeHeavyMode": false,
           "KOTHConfig": {
@@ -5225,6 +5158,7 @@
           16
         ],
         "Selectability": [],
+        "Type": "EGameModeType::Deathmatch",
         "IconImage": {
           "AssetPathName": "None",
           "SubPathString": ""
@@ -5252,28 +5186,30 @@
         "Config": {
           "TeamGame": true,
           "NumTeams": 2,
-          "ScoreLimit": 15,
-          "RespawnTime": 8,
           "MaxOvertime": 480,
-          "DefaultInventoryIDs": [
-            16,
-            0
-          ],
           "PickupsEnabled": true,
           "PickupOverrides": [],
-          "ShouldDropWeaponPickups": true,
-          "ShouldShowRadar": true,
           "KillcamEnabled": true,
           "SpectateAlliesWhenDead": false,
           "Modifiers": {
+            "ScoreLimit": 15,
+            "DefaultInventoryIDs": [
+              16,
+              0
+            ],
+            "RandomWeapons": false,
+            "RespawnTime": 8,
+            "ShouldShowRadar": true,
             "EnableBoundaries": true,
             "EnableJetpack": true,
             "EnableSprint": true,
             "EnablePortalGun": true,
+            "EnableMelee": true,
             "UnlimitedAmmo": false,
             "UnlimitedClipSize": false,
             "HeadshotsOnly": false,
             "BigHeadMode": false,
+            "ShouldDropWeaponPickups": true,
             "WalkSpeedModifier": 1.0,
             "JumpHeightModifier": 1.0,
             "GravityModifier": 1.0,
@@ -5282,7 +5218,7 @@
             "MeleeDmgModifier": 1.0,
             "HealthModifier": 1.0
           },
-          "RandomWeapons": false,
+          "TeamModifiers": [],
           "SwitchTeamsEnabled": false,
           "MeleeHeavyMode": false,
           "KOTHConfig": {
@@ -5340,9 +5276,9 @@
           14
         ],
         "Selectability": [
-          "EGameModeSelectability::Custom",
-          "EGameModeSelectability::Standard"
+          "EGameModeSelectability::Custom"
         ],
+        "Type": "EGameModeType::CTF",
         "IconImage": {
           "AssetPathName": "None",
           "SubPathString": ""
@@ -5353,7 +5289,7 @@
           "Key": "GameModes_NeutralCapturetheFlag"
         },
         "DisplayImage": {
-          "AssetPathName": "None",
+          "AssetPathName": "/Game/Thumbnails/GameModes/GunGame_Screenshot.GunGame_Screenshot",
           "SubPathString": ""
         },
         "DisplayImageSmall": {
@@ -5370,28 +5306,30 @@
         "Config": {
           "TeamGame": true,
           "NumTeams": 2,
-          "ScoreLimit": 15,
-          "RespawnTime": 8,
           "MaxOvertime": 480,
-          "DefaultInventoryIDs": [
-            16,
-            2
-          ],
           "PickupsEnabled": true,
           "PickupOverrides": [],
-          "ShouldDropWeaponPickups": true,
-          "ShouldShowRadar": false,
           "KillcamEnabled": true,
           "SpectateAlliesWhenDead": false,
           "Modifiers": {
+            "ScoreLimit": 15,
+            "DefaultInventoryIDs": [
+              16,
+              2
+            ],
+            "RandomWeapons": false,
+            "RespawnTime": 8,
+            "ShouldShowRadar": false,
             "EnableBoundaries": true,
             "EnableJetpack": true,
             "EnableSprint": true,
             "EnablePortalGun": true,
+            "EnableMelee": true,
             "UnlimitedAmmo": false,
             "UnlimitedClipSize": false,
             "HeadshotsOnly": false,
             "BigHeadMode": false,
+            "ShouldDropWeaponPickups": true,
             "WalkSpeedModifier": 1.0,
             "JumpHeightModifier": 1.0,
             "GravityModifier": 1.0,
@@ -5400,7 +5338,7 @@
             "MeleeDmgModifier": 1.0,
             "HealthModifier": 1.0
           },
-          "RandomWeapons": false,
+          "TeamModifiers": [],
           "SwitchTeamsEnabled": false,
           "MeleeHeavyMode": false,
           "KOTHConfig": {
@@ -5456,10 +5394,8 @@
           15,
           16
         ],
-        "Selectability": [
-          "EGameModeSelectability::Standard",
-          "EGameModeSelectability::Hardcore"
-        ],
+        "Selectability": [],
+        "Type": "EGameModeType::CTF",
         "IconImage": {
           "AssetPathName": "None",
           "SubPathString": ""
@@ -5487,25 +5423,27 @@
         "Config": {
           "TeamGame": false,
           "NumTeams": 2,
-          "ScoreLimit": 22,
-          "RespawnTime": 4,
           "MaxOvertime": 480,
-          "DefaultInventoryIDs": [],
           "PickupsEnabled": false,
           "PickupOverrides": [],
-          "ShouldDropWeaponPickups": false,
-          "ShouldShowRadar": true,
           "KillcamEnabled": true,
           "SpectateAlliesWhenDead": false,
           "Modifiers": {
+            "ScoreLimit": 22,
+            "DefaultInventoryIDs": [],
+            "RandomWeapons": false,
+            "RespawnTime": 4,
+            "ShouldShowRadar": true,
             "EnableBoundaries": true,
             "EnableJetpack": true,
             "EnableSprint": true,
             "EnablePortalGun": true,
+            "EnableMelee": true,
             "UnlimitedAmmo": true,
             "UnlimitedClipSize": false,
             "HeadshotsOnly": false,
             "BigHeadMode": false,
+            "ShouldDropWeaponPickups": false,
             "WalkSpeedModifier": 1.0,
             "JumpHeightModifier": 1.0,
             "GravityModifier": 1.0,
@@ -5514,7 +5452,7 @@
             "MeleeDmgModifier": 1.0,
             "HealthModifier": 1.0
           },
-          "RandomWeapons": false,
+          "TeamModifiers": [],
           "SwitchTeamsEnabled": false,
           "MeleeHeavyMode": false,
           "KOTHConfig": {
@@ -5571,9 +5509,9 @@
           16
         ],
         "Selectability": [
-          "EGameModeSelectability::Custom",
-          "EGameModeSelectability::Standard"
+          "EGameModeSelectability::Custom"
         ],
+        "Type": "EGameModeType::GunGame",
         "IconImage": {
           "AssetPathName": "/Game/Thumbnails/Icons/icon-ffa-rumble.icon-ffa-rumble",
           "SubPathString": ""
@@ -5584,7 +5522,7 @@
           "Key": "GameModes_GunGame"
         },
         "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/GameModes/Halloween/halloween-GunGame_Screenshot.halloween-GunGame_Screenshot",
+          "AssetPathName": "/Game/Thumbnails/GameModes/GunGame_Screenshot.GunGame_Screenshot",
           "SubPathString": ""
         },
         "DisplayImageSmall": {
@@ -5601,13 +5539,7 @@
         "Config": {
           "TeamGame": true,
           "NumTeams": 2,
-          "ScoreLimit": 4,
-          "RespawnTime": 6,
           "MaxOvertime": 480,
-          "DefaultInventoryIDs": [
-            16,
-            0
-          ],
           "PickupsEnabled": true,
           "PickupOverrides": [
             {
@@ -5627,19 +5559,27 @@
               "TimeBetweenSpawns": 60
             }
           ],
-          "ShouldDropWeaponPickups": true,
-          "ShouldShowRadar": false,
           "KillcamEnabled": false,
           "SpectateAlliesWhenDead": true,
           "Modifiers": {
+            "ScoreLimit": 4,
+            "DefaultInventoryIDs": [
+              16,
+              0
+            ],
+            "RandomWeapons": false,
+            "RespawnTime": 6,
+            "ShouldShowRadar": false,
             "EnableBoundaries": true,
             "EnableJetpack": true,
             "EnableSprint": true,
             "EnablePortalGun": true,
+            "EnableMelee": true,
             "UnlimitedAmmo": false,
             "UnlimitedClipSize": false,
             "HeadshotsOnly": false,
             "BigHeadMode": false,
+            "ShouldDropWeaponPickups": true,
             "WalkSpeedModifier": 1.0,
             "JumpHeightModifier": 1.0,
             "GravityModifier": 1.0,
@@ -5648,7 +5588,7 @@
             "MeleeDmgModifier": 1.0,
             "HealthModifier": 1.0
           },
-          "RandomWeapons": false,
+          "TeamModifiers": [],
           "SwitchTeamsEnabled": false,
           "MeleeHeavyMode": false,
           "KOTHConfig": {
@@ -5706,9 +5646,9 @@
           14
         ],
         "Selectability": [
-          "EGameModeSelectability::Custom",
-          "EGameModeSelectability::Standard"
+          "EGameModeSelectability::Custom"
         ],
+        "Type": "EGameModeType::Takedown",
         "IconImage": {
           "AssetPathName": "/Game/Thumbnails/Icons/icon-team-rumble.icon-team-rumble",
           "SubPathString": ""
@@ -5719,7 +5659,143 @@
           "Key": "GameModes_Takedown"
         },
         "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/GameModes/Halloween/halloween-Takedown_Screenshot.halloween-Takedown_Screenshot",
+          "AssetPathName": "/Game/Thumbnails/GameModes/Takedown_Screenshot.Takedown_Screenshot",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "38": {
+        "DefaultClass": {
+          "AssetPathName": "/Game/Blueprints/GameModes/Takedown/Takedown_BP.Takedown_BP_C",
+          "SubPathString": ""
+        },
+        "Alias": "RTD",
+        "Config": {
+          "TeamGame": true,
+          "NumTeams": 2,
+          "MaxOvertime": 480,
+          "PickupsEnabled": true,
+          "PickupOverrides": [
+            {
+              "WeaponID": 8,
+              "IsEnabled": true,
+              "OverrideClips": true,
+              "AmmoClips": 1.0,
+              "OverrideSpawnTime": false,
+              "TimeBetweenSpawns": 60
+            },
+            {
+              "WeaponID": 7,
+              "IsEnabled": true,
+              "OverrideClips": true,
+              "AmmoClips": 1.5,
+              "OverrideSpawnTime": false,
+              "TimeBetweenSpawns": 60
+            }
+          ],
+          "KillcamEnabled": false,
+          "SpectateAlliesWhenDead": true,
+          "Modifiers": {
+            "ScoreLimit": 4,
+            "DefaultInventoryIDs": [
+              16,
+              2
+            ],
+            "RandomWeapons": false,
+            "RespawnTime": 6,
+            "ShouldShowRadar": false,
+            "EnableBoundaries": true,
+            "EnableJetpack": true,
+            "EnableSprint": true,
+            "EnablePortalGun": true,
+            "EnableMelee": true,
+            "UnlimitedAmmo": false,
+            "UnlimitedClipSize": false,
+            "HeadshotsOnly": false,
+            "BigHeadMode": false,
+            "ShouldDropWeaponPickups": true,
+            "WalkSpeedModifier": 1.0,
+            "JumpHeightModifier": 1.0,
+            "GravityModifier": 1.0,
+            "ThrusterPackFuelModifier": 1.0,
+            "ThrusterPackBoostModifier": 1.0,
+            "MeleeDmgModifier": 1.0,
+            "HealthModifier": 1.0
+          },
+          "TeamModifiers": [],
+          "SwitchTeamsEnabled": false,
+          "MeleeHeavyMode": false,
+          "KOTHConfig": {
+            "RandomHillsEnabled": true
+          },
+          "VIPConfig": {
+            "DefaultInventoryIDs": [],
+            "VIPWalkSpeedModifier": -1.0
+          },
+          "ContaminationConfig": {
+            "DefaultInventoryIDs": [],
+            "InitialZombies": 2,
+            "SurvivalPoints": 0,
+            "ContaminationPoints": 1
+          },
+          "RoundConfig": {
+            "bUseRoundTimer": false,
+            "RoundTimeLimit": 300,
+            "bUseRoundScoreLimit": false,
+            "RoundScoreLimit": 30,
+            "bUseSetAmountOfRounds": false,
+            "bRandomWeapons": false,
+            "bRespawningDisabled": false
+          }
+        },
+        "ScoreConfig": {
+          "MinScore": 1,
+          "MaxScore": 5,
+          "ScoreStep": 1
+        },
+        "MatchTime": 3600,
+        "Description": {
+          "Namespace": "GameModes",
+          "Key": "Description_38",
+          "SourceString": "Eliminate the entire enemy team to win each round. Spawn times increase with each death!"
+        },
+        "ScoreFormatText": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_RoundsToWin"
+        },
+        "SoundName": "TD",
+        "MaxPlayers": 6,
+        "CompatibleWeaponIDs": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          15,
+          16
+        ],
+        "Selectability": [
+          "EGameModeSelectability::Custom"
+        ],
+        "Type": "EGameModeType::Takedown",
+        "IconImage": {
+          "AssetPathName": "/Game/Thumbnails/Icons/icon-team-rumble.icon-team-rumble",
+          "SubPathString": ""
+        },
+        "ID": 38,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "GameModes_RankedTakedown"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/GameModes/Takedown_Screenshot.Takedown_Screenshot",
           "SubPathString": ""
         },
         "DisplayImageSmall": {
@@ -5736,25 +5812,27 @@
         "Config": {
           "TeamGame": true,
           "NumTeams": 2,
-          "ScoreLimit": 6,
-          "RespawnTime": 0,
           "MaxOvertime": 480,
-          "DefaultInventoryIDs": [],
           "PickupsEnabled": false,
           "PickupOverrides": [],
-          "ShouldDropWeaponPickups": true,
-          "ShouldShowRadar": false,
           "KillcamEnabled": false,
           "SpectateAlliesWhenDead": true,
           "Modifiers": {
+            "ScoreLimit": 6,
+            "DefaultInventoryIDs": [],
+            "RandomWeapons": false,
+            "RespawnTime": 0,
+            "ShouldShowRadar": false,
             "EnableBoundaries": true,
             "EnableJetpack": true,
             "EnableSprint": true,
             "EnablePortalGun": true,
+            "EnableMelee": true,
             "UnlimitedAmmo": false,
             "UnlimitedClipSize": false,
             "HeadshotsOnly": false,
             "BigHeadMode": false,
+            "ShouldDropWeaponPickups": true,
             "WalkSpeedModifier": 1.0,
             "JumpHeightModifier": 1.0,
             "GravityModifier": 1.0,
@@ -5763,7 +5841,7 @@
             "MeleeDmgModifier": 1.0,
             "HealthModifier": 1.0
           },
-          "RandomWeapons": false,
+          "TeamModifiers": [],
           "SwitchTeamsEnabled": false,
           "MeleeHeavyMode": false,
           "KOTHConfig": {
@@ -5817,9 +5895,9 @@
           16
         ],
         "Selectability": [
-          "EGameModeSelectability::Custom",
-          "EGameModeSelectability::Standard"
+          "EGameModeSelectability::Custom"
         ],
+        "Type": "EGameModeType::Showdown",
         "IconImage": {
           "AssetPathName": "/Game/Thumbnails/Icons/icon-team-rumble.icon-team-rumble",
           "SubPathString": ""
@@ -5830,7 +5908,7 @@
           "Key": "GameModes_Showdown"
         },
         "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/GameModes/Halloween/halloween-Showdown_Screenshot.halloween-Showdown_Screenshot",
+          "AssetPathName": "/Game/Thumbnails/GameModes/Showdown_Screenshot.Showdown_Screenshot",
           "SubPathString": ""
         },
         "DisplayImageSmall": {
@@ -5847,13 +5925,7 @@
         "Config": {
           "TeamGame": true,
           "NumTeams": 2,
-          "ScoreLimit": 5,
-          "RespawnTime": 6,
           "MaxOvertime": 480,
-          "DefaultInventoryIDs": [
-            16,
-            0
-          ],
           "PickupsEnabled": true,
           "PickupOverrides": [
             {
@@ -5873,19 +5945,27 @@
               "TimeBetweenSpawns": 60
             }
           ],
-          "ShouldDropWeaponPickups": true,
-          "ShouldShowRadar": false,
           "KillcamEnabled": false,
           "SpectateAlliesWhenDead": true,
           "Modifiers": {
+            "ScoreLimit": 5,
+            "DefaultInventoryIDs": [
+              16,
+              0
+            ],
+            "RandomWeapons": false,
+            "RespawnTime": 6,
+            "ShouldShowRadar": false,
             "EnableBoundaries": true,
             "EnableJetpack": true,
             "EnableSprint": true,
             "EnablePortalGun": true,
+            "EnableMelee": true,
             "UnlimitedAmmo": false,
             "UnlimitedClipSize": false,
             "HeadshotsOnly": false,
             "BigHeadMode": false,
+            "ShouldDropWeaponPickups": true,
             "WalkSpeedModifier": 1.0,
             "JumpHeightModifier": 1.0,
             "GravityModifier": 1.0,
@@ -5894,7 +5974,7 @@
             "MeleeDmgModifier": 1.0,
             "HealthModifier": 1.0
           },
-          "RandomWeapons": false,
+          "TeamModifiers": [],
           "SwitchTeamsEnabled": false,
           "MeleeHeavyMode": false,
           "KOTHConfig": {
@@ -5952,9 +6032,9 @@
           14
         ],
         "Selectability": [
-          "EGameModeSelectability::Custom",
-          "EGameModeSelectability::Standard"
+          "EGameModeSelectability::Custom"
         ],
+        "Type": "EGameModeType::Takedown",
         "IconImage": {
           "AssetPathName": "/Game/Thumbnails/Icons/icon-team-rumble.icon-team-rumble",
           "SubPathString": ""
@@ -5965,7 +6045,7 @@
           "Key": "GameModes_VIPTakedown"
         },
         "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/GameModes/Halloween/halloween-Takedown_Screenshot.halloween-Takedown_Screenshot",
+          "AssetPathName": "/Game/Thumbnails/GameModes/Takedown_Screenshot.Takedown_Screenshot",
           "SubPathString": ""
         },
         "DisplayImageSmall": {
@@ -5982,28 +6062,30 @@
         "Config": {
           "TeamGame": false,
           "NumTeams": 2,
-          "ScoreLimit": 3,
-          "RespawnTime": 3,
           "MaxOvertime": 480,
-          "DefaultInventoryIDs": [
-            16,
-            6
-          ],
           "PickupsEnabled": false,
           "PickupOverrides": [],
-          "ShouldDropWeaponPickups": false,
-          "ShouldShowRadar": false,
           "KillcamEnabled": true,
           "SpectateAlliesWhenDead": false,
           "Modifiers": {
+            "ScoreLimit": 3,
+            "DefaultInventoryIDs": [
+              16,
+              6
+            ],
+            "RandomWeapons": false,
+            "RespawnTime": 3,
+            "ShouldShowRadar": false,
             "EnableBoundaries": true,
             "EnableJetpack": true,
             "EnableSprint": true,
             "EnablePortalGun": true,
+            "EnableMelee": true,
             "UnlimitedAmmo": false,
             "UnlimitedClipSize": false,
             "HeadshotsOnly": false,
             "BigHeadMode": false,
+            "ShouldDropWeaponPickups": false,
             "WalkSpeedModifier": 1.0,
             "JumpHeightModifier": 1.0,
             "GravityModifier": 1.0,
@@ -6012,7 +6094,7 @@
             "MeleeDmgModifier": 1.0,
             "HealthModifier": 1.0
           },
-          "RandomWeapons": false,
+          "TeamModifiers": [],
           "SwitchTeamsEnabled": false,
           "MeleeHeavyMode": true,
           "KOTHConfig": {
@@ -6028,7 +6110,7 @@
             ],
             "InitialZombies": 2,
             "SurvivalPoints": 5,
-            "ContaminationPoints": 2
+            "ContaminationPoints": 1
           },
           "RoundConfig": {
             "bUseRoundTimer": true,
@@ -6049,11 +6131,11 @@
         "Description": {
           "Namespace": "GameModes",
           "Key": "Description_50",
-          "SourceString": "Survive as a human or eliminate enemies for points. Win by earning the most points."
+          "SourceString": "Survive the infected onslaught or eliminate all survivors to win."
         },
         "ScoreFormatText": {
-          "Namespace": "GameModes",
-          "Key": "Score_50",
+          "Namespace": "",
+          "Key": "7448941B41F27DB5BB529891735BB185",
           "SourceString": "Most Points to Win"
         },
         "SoundName": "CONT",
@@ -6064,9 +6146,9 @@
           16
         ],
         "Selectability": [
-          "EGameModeSelectability::Custom",
-          "EGameModeSelectability::Standard"
+          "EGameModeSelectability::Custom"
         ],
+        "Type": "EGameModeType::Contamination",
         "IconImage": {
           "AssetPathName": "/Game/Thumbnails/Icons/icon-ffa-rumble.icon-ffa-rumble",
           "SubPathString": ""
@@ -6077,7 +6159,7 @@
           "Key": "GameModes_Contamination"
         },
         "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/GameModes/Halloween/halloween-Contamination_Screenshot.halloween-Contamination_Screenshot",
+          "AssetPathName": "/Game/Thumbnails/GameModes/Contamination_Screenshot.Contamination_Screenshot",
           "SubPathString": ""
         },
         "DisplayImageSmall": {
@@ -6094,27 +6176,29 @@
         "Config": {
           "TeamGame": true,
           "NumTeams": 2,
-          "ScoreLimit": 50,
-          "RespawnTime": 2,
           "MaxOvertime": 480,
-          "DefaultInventoryIDs": [
-            15
-          ],
           "PickupsEnabled": false,
           "PickupOverrides": [],
-          "ShouldDropWeaponPickups": true,
-          "ShouldShowRadar": true,
           "KillcamEnabled": true,
           "SpectateAlliesWhenDead": false,
           "Modifiers": {
+            "ScoreLimit": 50,
+            "DefaultInventoryIDs": [
+              15
+            ],
+            "RandomWeapons": false,
+            "RespawnTime": 2,
+            "ShouldShowRadar": true,
             "EnableBoundaries": true,
             "EnableJetpack": true,
             "EnableSprint": true,
             "EnablePortalGun": false,
+            "EnableMelee": true,
             "UnlimitedAmmo": true,
             "UnlimitedClipSize": true,
             "HeadshotsOnly": false,
             "BigHeadMode": true,
+            "ShouldDropWeaponPickups": true,
             "WalkSpeedModifier": 2.0,
             "JumpHeightModifier": 1.0,
             "GravityModifier": 1.0,
@@ -6123,7 +6207,7 @@
             "MeleeDmgModifier": 1.0,
             "HealthModifier": 1.0
           },
-          "RandomWeapons": false,
+          "TeamModifiers": [],
           "SwitchTeamsEnabled": false,
           "MeleeHeavyMode": false,
           "KOTHConfig": {
@@ -6169,9 +6253,9 @@
           15
         ],
         "Selectability": [
-          "EGameModeSelectability::Standard",
           "EGameModeSelectability::Custom"
         ],
+        "Type": "EGameModeType::Deathmatch",
         "IconImage": {
           "AssetPathName": "/Game/Thumbnails/Icons/icon-team-rumble.icon-team-rumble",
           "SubPathString": ""
@@ -6199,27 +6283,29 @@
         "Config": {
           "TeamGame": true,
           "NumTeams": 2,
-          "ScoreLimit": 200,
-          "RespawnTime": 8,
           "MaxOvertime": 60,
-          "DefaultInventoryIDs": [
-            8
-          ],
-          "PickupsEnabled": false,
+          "PickupsEnabled": true,
           "PickupOverrides": [],
-          "ShouldDropWeaponPickups": true,
-          "ShouldShowRadar": true,
           "KillcamEnabled": true,
           "SpectateAlliesWhenDead": false,
           "Modifiers": {
+            "ScoreLimit": 200,
+            "DefaultInventoryIDs": [
+              8
+            ],
+            "RandomWeapons": false,
+            "RespawnTime": 8,
+            "ShouldShowRadar": true,
             "EnableBoundaries": true,
             "EnableJetpack": true,
             "EnableSprint": true,
             "EnablePortalGun": true,
+            "EnableMelee": true,
             "UnlimitedAmmo": false,
             "UnlimitedClipSize": false,
             "HeadshotsOnly": false,
             "BigHeadMode": true,
+            "ShouldDropWeaponPickups": true,
             "WalkSpeedModifier": 1.0,
             "JumpHeightModifier": 1.0,
             "GravityModifier": 1.0,
@@ -6228,7 +6314,7 @@
             "MeleeDmgModifier": 1.0,
             "HealthModifier": 1.0
           },
-          "RandomWeapons": false,
+          "TeamModifiers": [],
           "SwitchTeamsEnabled": false,
           "MeleeHeavyMode": false,
           "KOTHConfig": {
@@ -6274,9 +6360,8 @@
         "CompatibleWeaponIDs": [
           8
         ],
-        "Selectability": [
-          "EGameModeSelectability::Standard"
-        ],
+        "Selectability": [],
+        "Type": "EGameModeType::KOTH",
         "IconImage": {
           "AssetPathName": "/Game/Thumbnails/Icons/icon-team-rumble.icon-team-rumble",
           "SubPathString": ""
@@ -6287,7 +6372,7 @@
           "Key": "GameModes_BigHeadSnipersKingoftheHill"
         },
         "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/GameModes/Halloween/halloween-KOTH_Screenshot.halloween-KOTH_Screenshot",
+          "AssetPathName": "/Game/Thumbnails/GameModes/KOTH_Screenshot.KOTH_Screenshot",
           "SubPathString": ""
         },
         "DisplayImageSmall": {
@@ -6304,27 +6389,29 @@
         "Config": {
           "TeamGame": true,
           "NumTeams": 2,
-          "ScoreLimit": 600,
-          "RespawnTime": 8,
           "MaxOvertime": 480,
-          "DefaultInventoryIDs": [
-            8
-          ],
-          "PickupsEnabled": false,
+          "PickupsEnabled": true,
           "PickupOverrides": [],
-          "ShouldDropWeaponPickups": true,
-          "ShouldShowRadar": true,
           "KillcamEnabled": true,
           "SpectateAlliesWhenDead": false,
           "Modifiers": {
+            "ScoreLimit": 600,
+            "DefaultInventoryIDs": [
+              8
+            ],
+            "RandomWeapons": false,
+            "RespawnTime": 8,
+            "ShouldShowRadar": true,
             "EnableBoundaries": true,
             "EnableJetpack": true,
             "EnableSprint": true,
             "EnablePortalGun": true,
+            "EnableMelee": true,
             "UnlimitedAmmo": false,
             "UnlimitedClipSize": false,
             "HeadshotsOnly": false,
             "BigHeadMode": true,
+            "ShouldDropWeaponPickups": true,
             "WalkSpeedModifier": 1.0,
             "JumpHeightModifier": 1.0,
             "GravityModifier": 1.0,
@@ -6333,7 +6420,7 @@
             "MeleeDmgModifier": 1.0,
             "HealthModifier": 1.0
           },
-          "RandomWeapons": false,
+          "TeamModifiers": [],
           "SwitchTeamsEnabled": false,
           "MeleeHeavyMode": false,
           "KOTHConfig": {
@@ -6379,9 +6466,8 @@
         "CompatibleWeaponIDs": [
           8
         ],
-        "Selectability": [
-          "EGameModeSelectability::Standard"
-        ],
+        "Selectability": [],
+        "Type": "EGameModeType::Domination",
         "IconImage": {
           "AssetPathName": "/Game/Thumbnails/Icons/icon-team-rumble.icon-team-rumble",
           "SubPathString": ""
@@ -6392,7 +6478,455 @@
           "Key": "GameModes_BigHeadSnipersDomination"
         },
         "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/GameModes/Halloween/halloween-DOM_Screenshot.halloween-DOM_Screenshot",
+          "AssetPathName": "/Game/Thumbnails/GameModes/DOM_Screenshot.DOM_Screenshot",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "54": {
+        "DefaultClass": {
+          "AssetPathName": "/Game/Blueprints/GameModes/TDM/Deathmatch_BP.Deathmatch_BP_C",
+          "SubPathString": ""
+        },
+        "Alias": "FOF",
+        "Config": {
+          "TeamGame": true,
+          "NumTeams": 2,
+          "MaxOvertime": 480,
+          "PickupsEnabled": false,
+          "PickupOverrides": [],
+          "KillcamEnabled": true,
+          "SpectateAlliesWhenDead": false,
+          "Modifiers": {
+            "ScoreLimit": 50,
+            "DefaultInventoryIDs": [],
+            "RandomWeapons": false,
+            "RespawnTime": 6,
+            "ShouldShowRadar": true,
+            "EnableBoundaries": true,
+            "EnableJetpack": false,
+            "EnableSprint": true,
+            "EnablePortalGun": true,
+            "EnableMelee": true,
+            "UnlimitedAmmo": true,
+            "UnlimitedClipSize": true,
+            "HeadshotsOnly": false,
+            "BigHeadMode": false,
+            "ShouldDropWeaponPickups": false,
+            "WalkSpeedModifier": 1.0,
+            "JumpHeightModifier": 1.0,
+            "GravityModifier": 1.0,
+            "ThrusterPackFuelModifier": 1.0,
+            "ThrusterPackBoostModifier": 1.0,
+            "MeleeDmgModifier": 1.0,
+            "HealthModifier": 1.0
+          },
+          "TeamModifiers": [
+            {
+              "ScoreLimit": 50,
+              "DefaultInventoryIDs": [
+                8,
+                14
+              ],
+              "RandomWeapons": false,
+              "RespawnTime": 5,
+              "ShouldShowRadar": true,
+              "EnableBoundaries": true,
+              "EnableJetpack": false,
+              "EnableSprint": true,
+              "EnablePortalGun": true,
+              "EnableMelee": true,
+              "UnlimitedAmmo": true,
+              "UnlimitedClipSize": true,
+              "HeadshotsOnly": false,
+              "BigHeadMode": false,
+              "ShouldDropWeaponPickups": false,
+              "WalkSpeedModifier": 1.2,
+              "JumpHeightModifier": 2.5,
+              "GravityModifier": 2.5,
+              "ThrusterPackFuelModifier": 1.0,
+              "ThrusterPackBoostModifier": 1.0,
+              "MeleeDmgModifier": 0.25,
+              "HealthModifier": 0.5
+            },
+            {
+              "ScoreLimit": 50,
+              "DefaultInventoryIDs": [
+                5,
+                14
+              ],
+              "RandomWeapons": false,
+              "RespawnTime": 2,
+              "ShouldShowRadar": false,
+              "EnableBoundaries": false,
+              "EnableJetpack": false,
+              "EnableSprint": true,
+              "EnablePortalGun": false,
+              "EnableMelee": true,
+              "UnlimitedAmmo": true,
+              "UnlimitedClipSize": true,
+              "HeadshotsOnly": false,
+              "BigHeadMode": true,
+              "ShouldDropWeaponPickups": false,
+              "WalkSpeedModifier": 1.0,
+              "JumpHeightModifier": 2.5,
+              "GravityModifier": 0.25,
+              "ThrusterPackFuelModifier": 1.0,
+              "ThrusterPackBoostModifier": 1.0,
+              "MeleeDmgModifier": 0.25,
+              "HealthModifier": 1.5
+            }
+          ],
+          "SwitchTeamsEnabled": false,
+          "MeleeHeavyMode": false,
+          "KOTHConfig": {
+            "RandomHillsEnabled": true
+          },
+          "VIPConfig": {
+            "DefaultInventoryIDs": [],
+            "VIPWalkSpeedModifier": -1.0
+          },
+          "ContaminationConfig": {
+            "DefaultInventoryIDs": [],
+            "InitialZombies": 2,
+            "SurvivalPoints": 0,
+            "ContaminationPoints": 1
+          },
+          "RoundConfig": {
+            "bUseRoundTimer": false,
+            "RoundTimeLimit": 60,
+            "bUseRoundScoreLimit": false,
+            "RoundScoreLimit": 30,
+            "bUseSetAmountOfRounds": false,
+            "bRandomWeapons": false,
+            "bRespawningDisabled": false
+          }
+        },
+        "ScoreConfig": {
+          "MinScore": 5,
+          "MaxScore": 1000,
+          "ScoreStep": 5
+        },
+        "MatchTime": 480,
+        "Description": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "GameModes_KillEnemyTeamToScore"
+        },
+        "ScoreFormatText": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_KillsToWin"
+        },
+        "SoundName": "TDM",
+        "MaxPlayers": 8,
+        "CompatibleWeaponIDs": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          15,
+          16,
+          14
+        ],
+        "Selectability": [
+          "EGameModeSelectability::Custom"
+        ],
+        "Type": "EGameModeType::Deathmatch",
+        "IconImage": {
+          "AssetPathName": "/Game/Thumbnails/Icons/icon-team-rumble.icon-team-rumble",
+          "SubPathString": ""
+        },
+        "ID": 54,
+        "DisplayName": {
+          "Namespace": "GameModes",
+          "Key": "DisplayName_54",
+          "SourceString": "Fight or Flight"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/GameModes/Fiesta_Screenshot.Fiesta_Screenshot",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "55": {
+        "DefaultClass": {
+          "AssetPathName": "/Game/Blueprints/GameModes/TDM/Deathmatch_BP.Deathmatch_BP_C",
+          "SubPathString": ""
+        },
+        "Alias": "USWAT",
+        "Config": {
+          "TeamGame": true,
+          "NumTeams": 2,
+          "MaxOvertime": 480,
+          "PickupsEnabled": false,
+          "PickupOverrides": [],
+          "KillcamEnabled": true,
+          "SpectateAlliesWhenDead": false,
+          "Modifiers": {
+            "ScoreLimit": 50,
+            "DefaultInventoryIDs": [
+              9,
+              10
+            ],
+            "RandomWeapons": false,
+            "RespawnTime": 3,
+            "ShouldShowRadar": false,
+            "EnableBoundaries": true,
+            "EnableJetpack": true,
+            "EnableSprint": true,
+            "EnablePortalGun": true,
+            "EnableMelee": true,
+            "UnlimitedAmmo": false,
+            "UnlimitedClipSize": false,
+            "HeadshotsOnly": false,
+            "BigHeadMode": false,
+            "ShouldDropWeaponPickups": false,
+            "WalkSpeedModifier": 1.0,
+            "JumpHeightModifier": 1.0,
+            "GravityModifier": 1.0,
+            "ThrusterPackFuelModifier": 1.0,
+            "ThrusterPackBoostModifier": 1.0,
+            "MeleeDmgModifier": 1.0,
+            "HealthModifier": 1.0
+          },
+          "TeamModifiers": [
+            {
+              "ScoreLimit": 50,
+              "DefaultInventoryIDs": [
+                10
+              ],
+              "RandomWeapons": false,
+              "RespawnTime": 3,
+              "ShouldShowRadar": false,
+              "EnableBoundaries": true,
+              "EnableJetpack": true,
+              "EnableSprint": true,
+              "EnablePortalGun": true,
+              "EnableMelee": true,
+              "UnlimitedAmmo": false,
+              "UnlimitedClipSize": false,
+              "HeadshotsOnly": false,
+              "BigHeadMode": false,
+              "ShouldDropWeaponPickups": false,
+              "WalkSpeedModifier": 1.0,
+              "JumpHeightModifier": 1.0,
+              "GravityModifier": 1.0,
+              "ThrusterPackFuelModifier": 1.0,
+              "ThrusterPackBoostModifier": 1.0,
+              "MeleeDmgModifier": 1.0,
+              "HealthModifier": 1.0
+            },
+            {
+              "ScoreLimit": 50,
+              "DefaultInventoryIDs": [
+                9
+              ],
+              "RandomWeapons": false,
+              "RespawnTime": 3,
+              "ShouldShowRadar": false,
+              "EnableBoundaries": true,
+              "EnableJetpack": true,
+              "EnableSprint": true,
+              "EnablePortalGun": true,
+              "EnableMelee": true,
+              "UnlimitedAmmo": false,
+              "UnlimitedClipSize": false,
+              "HeadshotsOnly": false,
+              "BigHeadMode": true,
+              "ShouldDropWeaponPickups": false,
+              "WalkSpeedModifier": 1.0,
+              "JumpHeightModifier": 1.0,
+              "GravityModifier": 1.0,
+              "ThrusterPackFuelModifier": 1.0,
+              "ThrusterPackBoostModifier": 1.0,
+              "MeleeDmgModifier": 1.0,
+              "HealthModifier": 1.0
+            }
+          ],
+          "SwitchTeamsEnabled": false,
+          "MeleeHeavyMode": false,
+          "KOTHConfig": {
+            "RandomHillsEnabled": true
+          },
+          "VIPConfig": {
+            "DefaultInventoryIDs": [],
+            "VIPWalkSpeedModifier": -1.0
+          },
+          "ContaminationConfig": {
+            "DefaultInventoryIDs": [],
+            "InitialZombies": 2,
+            "SurvivalPoints": 0,
+            "ContaminationPoints": 1
+          },
+          "RoundConfig": {
+            "bUseRoundTimer": false,
+            "RoundTimeLimit": 60,
+            "bUseRoundScoreLimit": false,
+            "RoundScoreLimit": 30,
+            "bUseSetAmountOfRounds": false,
+            "bRandomWeapons": false,
+            "bRespawningDisabled": false
+          }
+        },
+        "ScoreConfig": {
+          "MinScore": 5,
+          "MaxScore": 1000,
+          "ScoreStep": 5
+        },
+        "MatchTime": 480,
+        "Description": {
+          "Namespace": "GameModes",
+          "Key": "Description_55",
+          "SourceString": "Kill the enemy team to score points. Headshots are insta-kills!"
+        },
+        "ScoreFormatText": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_KillsToWin"
+        },
+        "SoundName": "SWAT",
+        "MaxPlayers": 8,
+        "CompatibleWeaponIDs": [
+          9,
+          10
+        ],
+        "Selectability": [
+          "EGameModeSelectability::Custom"
+        ],
+        "Type": "EGameModeType::Deathmatch",
+        "IconImage": {
+          "AssetPathName": "/Game/Thumbnails/Icons/icon-team-rumble.icon-team-rumble",
+          "SubPathString": ""
+        },
+        "ID": 55,
+        "DisplayName": {
+          "Namespace": "GameModes",
+          "Key": "DisplayName_55",
+          "SourceString": "Unfair SWAT"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/GameModes/SWAT_Screenshot.SWAT_Screenshot",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "56": {
+        "DefaultClass": {
+          "AssetPathName": "/Game/Blueprints/GameModes/Evolution/Evolution_BP.Evolution_BP_C",
+          "SubPathString": ""
+        },
+        "Alias": "EVO",
+        "Config": {
+          "TeamGame": true,
+          "NumTeams": 2,
+          "MaxOvertime": 480,
+          "PickupsEnabled": false,
+          "PickupOverrides": [],
+          "KillcamEnabled": false,
+          "SpectateAlliesWhenDead": true,
+          "Modifiers": {
+            "ScoreLimit": 11,
+            "DefaultInventoryIDs": [],
+            "RandomWeapons": false,
+            "RespawnTime": 0,
+            "ShouldShowRadar": false,
+            "EnableBoundaries": true,
+            "EnableJetpack": true,
+            "EnableSprint": true,
+            "EnablePortalGun": true,
+            "EnableMelee": true,
+            "UnlimitedAmmo": false,
+            "UnlimitedClipSize": false,
+            "HeadshotsOnly": false,
+            "BigHeadMode": false,
+            "ShouldDropWeaponPickups": false,
+            "WalkSpeedModifier": 1.0,
+            "JumpHeightModifier": 1.0,
+            "GravityModifier": 1.0,
+            "ThrusterPackFuelModifier": 1.0,
+            "ThrusterPackBoostModifier": 1.0,
+            "MeleeDmgModifier": 1.0,
+            "HealthModifier": 1.0
+          },
+          "TeamModifiers": [],
+          "SwitchTeamsEnabled": false,
+          "MeleeHeavyMode": false,
+          "KOTHConfig": {
+            "RandomHillsEnabled": true
+          },
+          "VIPConfig": {
+            "DefaultInventoryIDs": [],
+            "VIPWalkSpeedModifier": -1.0
+          },
+          "ContaminationConfig": {
+            "DefaultInventoryIDs": [],
+            "InitialZombies": 2,
+            "SurvivalPoints": 0,
+            "ContaminationPoints": 1
+          },
+          "RoundConfig": {
+            "bUseRoundTimer": false,
+            "RoundTimeLimit": 60,
+            "bUseRoundScoreLimit": false,
+            "RoundScoreLimit": 30,
+            "bUseSetAmountOfRounds": false,
+            "bRandomWeapons": false,
+            "bRespawningDisabled": true
+          }
+        },
+        "ScoreConfig": {
+          "MinScore": 1,
+          "MaxScore": 6,
+          "ScoreStep": 1
+        },
+        "MatchTime": 3600,
+        "Description": {
+          "Namespace": "GameModes",
+          "Key": "Description_56",
+          "SourceString": "Eliminate the enemy team to win the round. Weapons evolve for the losers of each round. No respawning!"
+        },
+        "ScoreFormatText": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "UIText_RoundsToWin"
+        },
+        "SoundName": "",
+        "MaxPlayers": 6,
+        "CompatibleWeaponIDs": [
+          0,
+          1,
+          2,
+          3,
+          7,
+          8,
+          15,
+          16
+        ],
+        "Selectability": [],
+        "Type": "EGameModeType::Showdown",
+        "IconImage": {
+          "AssetPathName": "/Game/Thumbnails/Icons/icon-team-rumble.icon-team-rumble",
+          "SubPathString": ""
+        },
+        "ID": 56,
+        "DisplayName": {
+          "Namespace": "GameModes",
+          "Key": "DisplayName_56",
+          "SourceString": "Evolution"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/GameModes/Showdown_Screenshot.Showdown_Screenshot",
           "SubPathString": ""
         },
         "DisplayImageSmall": {

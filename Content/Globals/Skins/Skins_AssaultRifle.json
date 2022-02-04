@@ -25,9 +25,7 @@
           "SubPathString": ""
         },
         "DefaultSkinName": {
-          "Namespace": "LocalizedStrings",
-          "Key": "Default",
-          "SourceString": "Default"
+          "CultureInvariantString": "Default"
         },
         "CompatibleWithAllSkins": true,
         "CustomizationType": "ECustomizationType::AssaultRifle",
@@ -152,7 +150,8 @@
         "Rarity": "ECustomizationRarity::Legendary",
         "ID": 3,
         "DisplayName": {
-          "CultureInvariantString": "Raider"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Raider"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -189,7 +188,8 @@
         "Rarity": "ECustomizationRarity::Legendary",
         "ID": 4,
         "DisplayName": {
-          "CultureInvariantString": "Stein"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Stein"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -226,7 +226,8 @@
         "Rarity": "ECustomizationRarity::Legendary",
         "ID": 5,
         "DisplayName": {
-          "CultureInvariantString": "Crystal"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Crystal"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -301,7 +302,8 @@
         "Rarity": "ECustomizationRarity::Legendary",
         "ID": 7,
         "DisplayName": {
-          "CultureInvariantString": "Bone"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Bone"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -338,7 +340,8 @@
         "Rarity": "ECustomizationRarity::Common",
         "ID": 8,
         "DisplayName": {
-          "CultureInvariantString": "Overwolf"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Overwolf"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -487,7 +490,8 @@
         "Rarity": "ECustomizationRarity::Legendary",
         "ID": 12,
         "DisplayName": {
-          "CultureInvariantString": "Lightning"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Lightning"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -562,7 +566,8 @@
         "Rarity": "ECustomizationRarity::Legendary",
         "ID": 14,
         "DisplayName": {
-          "CultureInvariantString": "Dragon"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Dragon"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -942,7 +947,8 @@
         "Rarity": "ECustomizationRarity::Legendary",
         "ID": 24,
         "DisplayName": {
-          "CultureInvariantString": "Astro"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Astro"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -981,7 +987,8 @@
         "Rarity": "ECustomizationRarity::Rare",
         "ID": 25,
         "DisplayName": {
-          "CultureInvariantString": "Alienware"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Alienware"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -1020,7 +1027,8 @@
         "Rarity": "ECustomizationRarity::Epic",
         "ID": 26,
         "DisplayName": {
-          "CultureInvariantString": "Kovaak"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Kovaak"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -1218,7 +1226,8 @@
         "Rarity": "ECustomizationRarity::Epic",
         "ID": 31,
         "DisplayName": {
-          "CultureInvariantString": "TRN"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "TRN"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -1251,13 +1260,14 @@
         "CompatibleWithAllSkins": false,
         "CustomizationType": "ECustomizationType::AssaultRifle",
         "Availability": {
-          "Availability": "ECustomizationAvailability::Reserved",
+          "Availability": "ECustomizationAvailability::Normal",
           "AvailabilityInfo": ""
         },
         "Rarity": "ECustomizationRarity::Legendary",
         "ID": 32,
         "DisplayName": {
-          "CultureInvariantString": "Bubblegun"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Bubblegun"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -1290,13 +1300,214 @@
         "CompatibleWithAllSkins": false,
         "CustomizationType": "ECustomizationType::AssaultRifle",
         "Availability": {
-          "Availability": "ECustomizationAvailability::Reserved",
+          "Availability": "ECustomizationAvailability::Normal",
           "AvailabilityInfo": ""
         },
         "Rarity": "ECustomizationRarity::Legendary",
         "ID": 33,
         "DisplayName": {
-          "CultureInvariantString": "Hall-O-ween"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Skullcrusher"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "34": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/AssaultRifle/Mesh/FPP/Legendary/Aviator_AR_FPP.Aviator_AR_FPP",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/AssaultRifle/Mesh/FPP/Legendary/SM_Aviator_AR.SM_Aviator_AR",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "AR-Ammo",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::AssaultRifle",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 34,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Aviator"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "35": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/AssaultRifle/Mesh/FPP/Legendary/AR_Overheat_FPP.AR_Overheat_FPP",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/AssaultRifle/Mesh/FPP/Legendary/AR_Overheat.AR_Overheat",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "AR-Ammo",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::AssaultRifle",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 35,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Overheat"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "36": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/AssaultRifle/Mesh/FPP/Partner/AR_Advanced_FPP.AR_Advanced_FPP",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/AssaultRifle/Mesh/FPP/Partner/SM_AR_Advanced.SM_AR_Advanced",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "AR-Ammo",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::AssaultRifle",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Rare",
+        "ID": 36,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Advanced"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "37": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/AssaultRifle/Mesh/FPP/Legendary/SK_AR_Christmas_FPP.SK_AR_Christmas_FPP",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/AssaultRifle/Mesh/FPP/Legendary/SM_AR_Christmas.SM_AR_Christmas",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "None",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::AssaultRifle",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 37,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Snow"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "38": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/AssaultRifle/Mesh/FPP/Partner/AR_Casio_FPP.AR_Casio_FPP",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/AssaultRifle/Mesh/FPP/Partner/SM_AR_Casio.SM_AR_Casio",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "AR-Ammo",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::AssaultRifle",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Rare",
+        "ID": 38,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Casio"
         },
         "DisplayImage": {
           "AssetPathName": "None",

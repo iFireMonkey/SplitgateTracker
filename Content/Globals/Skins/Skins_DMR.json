@@ -76,7 +76,8 @@
         "Rarity": "ECustomizationRarity::Common",
         "ID": 1,
         "DisplayName": {
-          "CultureInvariantString": "Lightning"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Lightning"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -265,7 +266,8 @@
         "Rarity": "ECustomizationRarity::Legendary",
         "ID": 7,
         "DisplayName": {
-          "CultureInvariantString": "Necron"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Necron"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -302,7 +304,8 @@
         "Rarity": "ECustomizationRarity::Legendary",
         "ID": 8,
         "DisplayName": {
-          "CultureInvariantString": "ScifiV2"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "ScifiV2"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -339,7 +342,8 @@
         "Rarity": "ECustomizationRarity::Legendary",
         "ID": 9,
         "DisplayName": {
-          "CultureInvariantString": "Dragon"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Dragon"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -490,7 +494,8 @@
         "Rarity": "ECustomizationRarity::Legendary",
         "ID": 14,
         "DisplayName": {
-          "CultureInvariantString": "Bike"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Bike"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -643,7 +648,8 @@
         "Rarity": "ECustomizationRarity::Legendary",
         "ID": 18,
         "DisplayName": {
-          "CultureInvariantString": "Astro"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Astro"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -682,7 +688,8 @@
         "Rarity": "ECustomizationRarity::Rare",
         "ID": 19,
         "DisplayName": {
-          "CultureInvariantString": "Alienware"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Alienware"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -721,7 +728,8 @@
         "Rarity": "ECustomizationRarity::Epic",
         "ID": 20,
         "DisplayName": {
-          "CultureInvariantString": "Kovaak"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Kovaak"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -920,7 +928,8 @@
         "Rarity": "ECustomizationRarity::Epic",
         "ID": 25,
         "DisplayName": {
-          "CultureInvariantString": "100T"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "100T"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -998,7 +1007,8 @@
         "Rarity": "ECustomizationRarity::Epic",
         "ID": 27,
         "DisplayName": {
-          "CultureInvariantString": "TRN"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "TRN"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -1037,7 +1047,8 @@
         "Rarity": "ECustomizationRarity::Legendary",
         "ID": 28,
         "DisplayName": {
-          "CultureInvariantString": "Halloween"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Skullcrusher"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -1076,7 +1087,88 @@
         "Rarity": "ECustomizationRarity::Legendary",
         "ID": 29,
         "DisplayName": {
-          "CultureInvariantString": "Overheat"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Overheat"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "30": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/DMR/Mesh/FPP/Partner/DMR_Advanced_FPP.DMR_Advanced_FPP",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/DMR/Mesh/FPP/Partner/SM_DMR_Advanced.SM_DMR_Advanced",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "None",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::DMR",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 30,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Advanced"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "31": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/DMR/Mesh/FPP/Partner/DMR_Casio_FPP.DMR_Casio_FPP",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/DMR/Mesh/FPP/Partner/SM_DMR_Casio.SM_DMR_Casio",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "None",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::DMR",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Rare",
+        "ID": 31,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Casio"
         },
         "DisplayImage": {
           "AssetPathName": "None",

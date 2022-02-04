@@ -1,0 +1,235 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "WinterChallenges",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class ChallengeData",
+        "ObjectPath": "/Script/PortalWarsGlobals"
+      }
+    },
+    "Rows": {
+      "200": {
+        "ChallengeType": "EChallengeType::Featured",
+        "TargetValue": 12,
+        "Reward": {
+          "RewardType": "ERewardType::Drop",
+          "RewardValue": 1,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 0,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 200,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Get_n_KillsThruPortals"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "201": {
+        "ChallengeType": "EChallengeType::Featured",
+        "TargetValue": 3,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::Spray",
+            "CustomizationValue": "196"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 0,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 201,
+        "DisplayName": {
+          "Namespace": "WinterChallenges",
+          "Key": "2A12B10A4A19D0726FA597A5BBA9CBF0",
+          "SourceString": "Play a match on Stadium, Abyss, and Pantheon"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "202": {
+        "ChallengeType": "EChallengeType::Featured",
+        "TargetValue": 5,
+        "Reward": {
+          "RewardType": "ERewardType::Drop",
+          "RewardValue": 1,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 0,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 202,
+        "DisplayName": {
+          "Namespace": "WinterChallenges",
+          "Key": "CBB522DE4827FB325541929402FF2CA0",
+          "SourceString": "Win {0} {0}|plural(one=Match, other=Matches) in the Featured Playlist"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "204": {
+        "ChallengeType": "EChallengeType::Featured",
+        "TargetValue": 12,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::Armor",
+            "CustomizationValue": "57-640"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 0,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 204,
+        "DisplayName": {
+          "Namespace": "WinterChallenges",
+          "Key": "0A34C99D46AB00ABE8440FAD9234131B",
+          "SourceString": "Play a match in {0} different Game {0}|plural(one=Mode, other=Modes)"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "203": {
+        "ChallengeType": "EChallengeType::Featured",
+        "TargetValue": 2022,
+        "Reward": {
+          "RewardType": "ERewardType::Drop",
+          "RewardValue": 1,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::None",
+            "CustomizationValue": ""
+          },
+          "IsLocked": false
+        },
+        "GroupID": 0,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 203,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Inflict_n_Damage"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "205": {
+        "ChallengeType": "EChallengeType::Featured",
+        "TargetValue": 25,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::Portal",
+            "CustomizationValue": "36"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 0,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 205,
+        "DisplayName": {
+          "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
+          "Key": "Challenges_Win_n_Matches"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "206": {
+        "ChallengeType": "EChallengeType::Featured",
+        "TargetValue": 6,
+        "Reward": {
+          "RewardType": "ERewardType::Customization",
+          "RewardValue": 0,
+          "Customization": {
+            "CustomizationType": "ECustomizationType::AssaultRifle",
+            "CustomizationValue": "21-639"
+          },
+          "IsLocked": false
+        },
+        "GroupID": 0,
+        "IsPremium": false,
+        "GroupName": "",
+        "StatType": "",
+        "ExcludedPlaylists": [],
+        "ID": 206,
+        "DisplayName": {
+          "Namespace": "WinterChallenges",
+          "Key": "3677855F45216FDE376A8AB184FBB814",
+          "SourceString": "Complete All Winter Challenges"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      }
+    }
+  }
+]

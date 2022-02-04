@@ -152,7 +152,8 @@
         "Rarity": "ECustomizationRarity::Common",
         "ID": 3,
         "DisplayName": {
-          "CultureInvariantString": "Raider"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Raider"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -227,7 +228,8 @@
         "Rarity": "ECustomizationRarity::Common",
         "ID": 5,
         "DisplayName": {
-          "CultureInvariantString": "Holo"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Holo"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -302,7 +304,8 @@
         "Rarity": "ECustomizationRarity::Common",
         "ID": 7,
         "DisplayName": {
-          "CultureInvariantString": "Overwolf"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Overwolf"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -413,7 +416,8 @@
         "Rarity": "ECustomizationRarity::Common",
         "ID": 10,
         "DisplayName": {
-          "CultureInvariantString": "Lightning"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Lightning"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -488,7 +492,8 @@
         "Rarity": "ECustomizationRarity::Legendary",
         "ID": 12,
         "DisplayName": {
-          "CultureInvariantString": "Dragon"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Dragon"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -563,7 +568,8 @@
         "Rarity": "ECustomizationRarity::Legendary",
         "ID": 14,
         "DisplayName": {
-          "CultureInvariantString": "KingdomSMG"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "KingdomSMG"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -676,7 +682,8 @@
         "Rarity": "ECustomizationRarity::Common",
         "ID": 17,
         "DisplayName": {
-          "CultureInvariantString": "SMG"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "SMG"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -867,7 +874,8 @@
         "Rarity": "ECustomizationRarity::Legendary",
         "ID": 22,
         "DisplayName": {
-          "CultureInvariantString": "Astro"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Astro"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -946,7 +954,8 @@
         "Rarity": "ECustomizationRarity::Rare",
         "ID": 24,
         "DisplayName": {
-          "CultureInvariantString": "Alienware"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Alienware"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -985,7 +994,8 @@
         "Rarity": "ECustomizationRarity::Epic",
         "ID": 25,
         "DisplayName": {
-          "CultureInvariantString": "Kovaak"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Kovaak"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -1183,7 +1193,8 @@
         "Rarity": "ECustomizationRarity::Epic",
         "ID": 30,
         "DisplayName": {
-          "CultureInvariantString": "TRN"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "TRN"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -1216,13 +1227,14 @@
         "CompatibleWithAllSkins": false,
         "CustomizationType": "ECustomizationType::SMG",
         "Availability": {
-          "Availability": "ECustomizationAvailability::Reserved",
+          "Availability": "ECustomizationAvailability::Normal",
           "AvailabilityInfo": ""
         },
         "Rarity": "ECustomizationRarity::Legendary",
         "ID": 31,
         "DisplayName": {
-          "CultureInvariantString": "Halloween"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Skullcrusher"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -1255,13 +1267,14 @@
         "CompatibleWithAllSkins": false,
         "CustomizationType": "ECustomizationType::SMG",
         "Availability": {
-          "Availability": "ECustomizationAvailability::Reserved",
+          "Availability": "ECustomizationAvailability::Normal",
           "AvailabilityInfo": ""
         },
         "Rarity": "ECustomizationRarity::Legendary",
         "ID": 32,
         "DisplayName": {
-          "CultureInvariantString": "Bubblegun"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Bubblegun"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -1294,13 +1307,134 @@
         "CompatibleWithAllSkins": false,
         "CustomizationType": "ECustomizationType::SMG",
         "Availability": {
-          "Availability": "ECustomizationAvailability::Reserved",
+          "Availability": "ECustomizationAvailability::Normal",
           "AvailabilityInfo": ""
         },
         "Rarity": "ECustomizationRarity::Legendary",
         "ID": 33,
         "DisplayName": {
-          "CultureInvariantString": "Aviator"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Aviator"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "34": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/SMG/Mesh/FPP/Legendary/SMG_Overheat_FPP.SMG_Overheat_FPP",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/SMG/Mesh/FPP/Legendary/SMG_Overheat.SMG_Overheat",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "None",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::SMG",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 34,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Overheat"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "35": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/SMG/Mesh/FPP/Partner/SMG_Advanced_FPP.SMG_Advanced_FPP",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/SMG/Mesh/FPP/Partner/SM_SMG_Advanced.SM_SMG_Advanced",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "None",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::SMG",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Rare",
+        "ID": 35,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Advanced"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "36": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/SMG/Mesh/FPP/Partner/SMG_Casio_FPP.SMG_Casio_FPP",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/SMG/Mesh/FPP/Partner/SM_SMG_Casio.SM_SMG_Casio",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "None",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "Namespace": "LocalizedStrings",
+          "Key": "Default",
+          "SourceString": "Default"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::SMG",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Rare",
+        "ID": 36,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Casio"
         },
         "DisplayImage": {
           "AssetPathName": "None",

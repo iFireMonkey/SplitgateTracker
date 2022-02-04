@@ -29,7 +29,8 @@
           "SubPathString": ""
         },
         "DefaultSkinName": {
-          "CultureInvariantString": "Blue"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Blue"
         },
         "CompatibleWithAllSkins": true,
         "CustomizationType": "ECustomizationType::PortalGun",
@@ -71,7 +72,8 @@
           "SubPathString": ""
         },
         "DefaultSkinName": {
-          "CultureInvariantString": "Blue"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Blue"
         },
         "CompatibleWithAllSkins": true,
         "CustomizationType": "ECustomizationType::PortalGun",
@@ -113,7 +115,8 @@
           "SubPathString": ""
         },
         "DefaultSkinName": {
-          "CultureInvariantString": "Blue"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Blue"
         },
         "CompatibleWithAllSkins": true,
         "CustomizationType": "ECustomizationType::PortalGun",
@@ -155,7 +158,8 @@
           "SubPathString": ""
         },
         "DefaultSkinName": {
-          "CultureInvariantString": "Blue"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Blue"
         },
         "CompatibleWithAllSkins": true,
         "CustomizationType": "ECustomizationType::PortalGun",
@@ -197,7 +201,8 @@
           "SubPathString": ""
         },
         "DefaultSkinName": {
-          "CultureInvariantString": "Blue"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Blue"
         },
         "CompatibleWithAllSkins": true,
         "CustomizationType": "ECustomizationType::PortalGun",
@@ -239,7 +244,8 @@
           "SubPathString": ""
         },
         "DefaultSkinName": {
-          "CultureInvariantString": "Blue"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Blue"
         },
         "CompatibleWithAllSkins": true,
         "CustomizationType": "ECustomizationType::PortalGun",
@@ -281,7 +287,8 @@
           "SubPathString": ""
         },
         "DefaultSkinName": {
-          "CultureInvariantString": "Blue"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Blue"
         },
         "CompatibleWithAllSkins": true,
         "CustomizationType": "ECustomizationType::PortalGun",
@@ -323,7 +330,8 @@
           "SubPathString": ""
         },
         "DefaultSkinName": {
-          "CultureInvariantString": "Blue"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Blue"
         },
         "CompatibleWithAllSkins": true,
         "CustomizationType": "ECustomizationType::PortalGun",
@@ -365,9 +373,8 @@
           "SubPathString": ""
         },
         "DefaultSkinName": {
-          "Namespace": "",
-          "Key": "EDA0EB5048CEE0EE84D1D7A5BAF752BD",
-          "SourceString": "Butcher_PG"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Default"
         },
         "CompatibleWithAllSkins": true,
         "CustomizationType": "ECustomizationType::PortalGun",
@@ -378,7 +385,51 @@
         "Rarity": "ECustomizationRarity::Legendary",
         "ID": 11,
         "DisplayName": {
-          "CultureInvariantString": "Butcher"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Butcher"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "12": {
+        "FireAnimation": {
+          "AssetPathName": "/Game/Weapons/PortalLauncher/PG_15/Anim_PG_15_fire.Anim_PG_15_fire",
+          "SubPathString": ""
+        },
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/PortalLauncher/PG_15/SK_PG_15.SK_PG_15",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/PortalLauncher/PG_15/SM_PG_15.SM_PG_15",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "None",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "/Game/Weapons/PortalLauncher/PG_15/MI_PG15_Main.MI_PG15_Main",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Cannon"
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::PortalGun",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 12,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Snow"
         },
         "DisplayImage": {
           "AssetPathName": "None",

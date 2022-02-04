@@ -1197,7 +1197,8 @@
         "Rarity": "ECustomizationRarity::Epic",
         "ID": 47,
         "DisplayName": {
-          "CultureInvariantString": "XTREME"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Xtreme"
         },
         "DisplayImage": {
           "AssetPathName": "/Game/Thumbnails/Banner/XboxBanner.XboxBanner",
@@ -1226,6 +1227,31 @@
         },
         "DisplayImage": {
           "AssetPathName": "/Game/Thumbnails/Banner/PlaystationBanner.PlaystationBanner",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "49": {
+        "ResourceObject": {
+          "AssetPathName": "/Game/Thumbnails/Banner/XboxTourneyWinner.XboxTourneyWinner",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Banner",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Reward",
+          "AvailabilityInfo": "ConsoleWars"
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 49,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "ConsoleWarrior"
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Banner/XboxTourneyWinner.XboxTourneyWinner",
           "SubPathString": ""
         },
         "DisplayImageSmall": {

@@ -665,7 +665,8 @@
         "Rarity": "ECustomizationRarity::Rare",
         "ID": 29,
         "DisplayName": {
-          "CultureInvariantString": "Deja Vu"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "DejaVu"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -888,6 +889,43 @@
         "DisplayName": {
           "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
           "Key": "Nebula"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "36": {
+        "Mesh": {
+          "AssetPathName": "/Game/Portals/Meshes/PortalMesh_Christmas.PortalMesh_Christmas",
+          "SubPathString": ""
+        },
+        "MaterialInstance": {
+          "AssetPathName": "/Game/Portals/Materials/Inner/MI_PortalInner_Christmas.MI_PortalInner_Christmas",
+          "SubPathString": ""
+        },
+        "RingMesh": {
+          "AssetPathName": "/Game/Portals/Meshes/Portal_Frames/SM_PortalRing_Christmas.SM_PortalRing_Christmas",
+          "SubPathString": ""
+        },
+        "RingMaterialInstance": {
+          "AssetPathName": "/Game/Portals/Materials/Ring/MI_PortalRing_Christmas.MI_PortalRing_Christmas",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Portal",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Challenge",
+          "AvailabilityInfo": "Winter2021"
+        },
+        "Rarity": "ECustomizationRarity::Epic",
+        "ID": 36,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Christmas"
         },
         "DisplayImage": {
           "AssetPathName": "None",

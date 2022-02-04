@@ -15,6 +15,11 @@
           "EMapSelectability::Default",
           "EMapSelectability::Race"
         ],
+        "MapDescription": {
+          "Namespace": "Maps",
+          "Key": "MapDescription_Stadium",
+          "SourceString": "Splitgate’s first ever competition was played on Stadium, which has maintained itself as the premiere arena for high profile events."
+        },
         "ID": 0,
         "DisplayName": {
           "Namespace": "Maps",
@@ -22,7 +27,7 @@
           "SourceString": "Stadium"
         },
         "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/Maps/SpookyStadiumScreenshot.SpookyStadiumScreenshot",
+          "AssetPathName": "/Game/Thumbnails/Maps/StadiumScreenshot.StadiumScreenshot",
           "SubPathString": ""
         },
         "DisplayImageSmall": {
@@ -36,6 +41,11 @@
           "EMapSelectability::Default",
           "EMapSelectability::Race"
         ],
+        "MapDescription": {
+          "Namespace": "Maps",
+          "Key": "MapDescription_Pantheon",
+          "SourceString": "The temple of Pantheon was built to celebrate the discovery of portals. The arena’s spiritual significance was fleeting.  Splitgate competitions are its main purpose today."
+        },
         "ID": 1,
         "DisplayName": {
           "Namespace": "Maps",
@@ -57,6 +67,11 @@
           "EMapSelectability::Default",
           "EMapSelectability::Race"
         ],
+        "MapDescription": {
+          "Namespace": "Maps",
+          "Key": "MapDescription_Helix",
+          "SourceString": "The Helix Penal Complex houses some of the most dangerous criminals in the universe. Convicts can buy time off their sentences with victories in Splitgate competitions."
+        },
         "ID": 2,
         "DisplayName": {
           "Namespace": "Maps",
@@ -78,6 +93,11 @@
           "EMapSelectability::Default",
           "EMapSelectability::Race"
         ],
+        "MapDescription": {
+          "Namespace": "Maps",
+          "Key": "MapDescription_Silo",
+          "SourceString": "Once an underground missile base, Club Silo is now a nightclub where attendees can bet on competitors while safely viewing them from behind bullet-proof glass. Pop singer Audriix is a frequent guest at Club Silo."
+        },
         "ID": 3,
         "DisplayName": {
           "Namespace": "Maps",
@@ -99,6 +119,11 @@
           "EMapSelectability::Default",
           "EMapSelectability::Race"
         ],
+        "MapDescription": {
+          "Namespace": "Maps",
+          "Key": "MapDescription_Atlantis",
+          "SourceString": "The undersea Atlantis was made to stun visitors with a breathtaking view of the ocean. This iconic location quickly became one of the most highly requested sites for a Splitgate arena."
+        },
         "ID": 4,
         "DisplayName": {
           "Namespace": "Maps",
@@ -120,6 +145,11 @@
           "EMapSelectability::Default",
           "EMapSelectability::Race"
         ],
+        "MapDescription": {
+          "Namespace": "Maps",
+          "Key": "MapDescription_Highwind",
+          "SourceString": "Situated atop the tallest Japanese forest, this treehouse map is known to be one of the most difficult for portal usage. Many competitors pride themselves on mastering Highwind’s quirks and using it to their advantage."
+        },
         "ID": 5,
         "DisplayName": {
           "Namespace": "Maps",
@@ -141,6 +171,11 @@
           "EMapSelectability::Default",
           "EMapSelectability::Race"
         ],
+        "MapDescription": {
+          "Namespace": "Maps",
+          "Key": "MapDescription_Olympus",
+          "SourceString": "The sky arena of Olympus was strategically located near a major portal network juncture to draw attention to the sport of Splitgate. Travelers often spectate competitions before continuing on their journeys."
+        },
         "ID": 6,
         "DisplayName": {
           "Namespace": "Maps",
@@ -162,6 +197,11 @@
           "EMapSelectability::Default",
           "EMapSelectability::Race"
         ],
+        "MapDescription": {
+          "Namespace": "Maps",
+          "Key": "MapDescription_Karman",
+          "SourceString": "Sector 3B of the orbital Karman Station is designated as a hangar for incoming and outgoing travelers but is better known for the portal arena beneath."
+        },
         "ID": 7,
         "DisplayName": {
           "Namespace": "Maps",
@@ -183,6 +223,11 @@
           "EMapSelectability::Default",
           "EMapSelectability::Race"
         ],
+        "MapDescription": {
+          "Namespace": "Maps",
+          "Key": "MapDescription_Abyss",
+          "SourceString": "Abyss was built underground as an unofficial arena away from prying eyes. Eventually, the cost of maintaining a Splitgate arena became too expensive, and it was brought into the official circuit for sponsorship."
+        },
         "ID": 8,
         "DisplayName": {
           "Namespace": "Maps",
@@ -204,6 +249,11 @@
           "EMapSelectability::Default",
           "EMapSelectability::Race"
         ],
+        "MapDescription": {
+          "Namespace": "Maps",
+          "Key": "MapDescription_Oasis",
+          "SourceString": "As the portal network grew, tourism grew along with it. Oasis is one of many destinations that portal travelers can visit for rest, relaxation, or competition."
+        },
         "ID": 9,
         "DisplayName": {
           "Namespace": "Maps",
@@ -222,6 +272,9 @@
       "10": {
         "MapName": "Tutorial",
         "Selectability": [],
+        "MapDescription": {
+          "CultureInvariantString": null
+        },
         "ID": 10,
         "DisplayName": {
           "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
@@ -242,6 +295,11 @@
           "EMapSelectability::Default",
           "EMapSelectability::Race"
         ],
+        "MapDescription": {
+          "Namespace": "Maps",
+          "Key": "MapDescription_Lavawell",
+          "SourceString": "The Lavawell research facility was originally built to unlock more of the mysteries behind Proelium. In time, priorities changed, research stopped, and the facility was converted into a Splitgate arena."
+        },
         "ID": 11,
         "DisplayName": {
           "Namespace": "Maps",
@@ -263,6 +321,11 @@
           "EMapSelectability::Default",
           "EMapSelectability::Race"
         ],
+        "MapDescription": {
+          "Namespace": "Maps",
+          "Key": "MapDescription_Crag",
+          "SourceString": "This mining facility integrated portal technology to speed up delicate mining operations. After archeological artifacts were found, mining was halted and Crag was turned into a tourist destination."
+        },
         "ID": 12,
         "DisplayName": {
           "Namespace": "Maps",
@@ -284,6 +347,11 @@
           "EMapSelectability::Default",
           "EMapSelectability::Race"
         ],
+        "MapDescription": {
+          "Namespace": "Maps",
+          "Key": "MapDescription_Impact",
+          "SourceString": "The impact site at Silvertree Farms signified the start of a new era, but many of the alien vessel’s secrets remain unsolved..."
+        },
         "ID": 19,
         "DisplayName": {
           "Namespace": "Maps",
@@ -305,6 +373,11 @@
           "EMapSelectability::Default",
           "EMapSelectability::Race"
         ],
+        "MapDescription": {
+          "Namespace": "Maps",
+          "Key": "MapDescription_Foregone",
+          "SourceString": "Many worship these ancient ruins, left behind by a mysterious civilization. Foregone Destruction’s original purpose is unknown, and identical ruins exist elsewhere on the planet where it was found."
+        },
         "ID": 21,
         "DisplayName": {
           "Namespace": "Maps",
@@ -325,6 +398,11 @@
         "Selectability": [
           "EMapSelectability::Default"
         ],
+        "MapDescription": {
+          "Namespace": "Maps",
+          "Key": "MapDescription_Alpha",
+          "SourceString": "The first virtual arena made for Simulated Splitgate, operating through the immersive hypernet protocol."
+        },
         "ID": 13,
         "DisplayName": {
           "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
@@ -344,6 +422,11 @@
         "Selectability": [
           "EMapSelectability::Default"
         ],
+        "MapDescription": {
+          "Namespace": "Maps",
+          "Key": "MapDescription_Bravo",
+          "SourceString": "The second virtual arena made for Simulated Splitgate, operating through the immersive hypernet protocol."
+        },
         "ID": 14,
         "DisplayName": {
           "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
@@ -363,6 +446,11 @@
         "Selectability": [
           "EMapSelectability::Default"
         ],
+        "MapDescription": {
+          "Namespace": "Maps",
+          "Key": "MapDescription_Charlie",
+          "SourceString": "The third virtual arena made for Simulated Splitgate, operating through the immersive hypernet protocol."
+        },
         "ID": 15,
         "DisplayName": {
           "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
@@ -382,6 +470,11 @@
         "Selectability": [
           "EMapSelectability::Default"
         ],
+        "MapDescription": {
+          "Namespace": "Maps",
+          "Key": "MapDescription_Delta",
+          "SourceString": "The fourth virtual arena made for Simulated Splitgate, operating through the immersive hypernet protocol."
+        },
         "ID": 16,
         "DisplayName": {
           "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
@@ -401,6 +494,11 @@
         "Selectability": [
           "EMapSelectability::Default"
         ],
+        "MapDescription": {
+          "Namespace": "Maps",
+          "Key": "MapDescription_Echo",
+          "SourceString": "The fifth virtual arena made for Simulated Splitgate, operating through the immersive hypernet protocol."
+        },
         "ID": 17,
         "DisplayName": {
           "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
@@ -420,6 +518,11 @@
         "Selectability": [
           "EMapSelectability::Default"
         ],
+        "MapDescription": {
+          "Namespace": "Maps",
+          "Key": "MapDescription_Foxtrot",
+          "SourceString": "The sixth virtual arena made for Simulated Splitgate, operating through the immersive hypernet protocol."
+        },
         "ID": 18,
         "DisplayName": {
           "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
@@ -437,6 +540,9 @@
       "20": {
         "MapName": "PracticeRange",
         "Selectability": [],
+        "MapDescription": {
+          "CultureInvariantString": null
+        },
         "ID": 20,
         "DisplayName": {
           "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
@@ -456,6 +562,11 @@
         "Selectability": [
           "EMapSelectability::Default"
         ],
+        "MapDescription": {
+          "Namespace": "Maps",
+          "Key": "MapDescription_Golf",
+          "SourceString": "The seventh virtual arena made for Simulated Splitgate, operating through the immersive hypernet protocol."
+        },
         "ID": 22,
         "DisplayName": {
           "TableId": "/Game/Localization/LocalizedStrings.LocalizedStrings",
@@ -475,6 +586,9 @@
         "Selectability": [
           "EMapSelectability::QA"
         ],
+        "MapDescription": {
+          "CultureInvariantString": null
+        },
         "ID": 23,
         "DisplayName": {
           "CultureInvariantString": "Drift (Blockout)"
@@ -493,6 +607,9 @@
         "Selectability": [
           "EMapSelectability::QA"
         ],
+        "MapDescription": {
+          "CultureInvariantString": null
+        },
         "ID": 24,
         "DisplayName": {
           "CultureInvariantString": "Vintage (Blockout)"
@@ -511,6 +628,9 @@
         "Selectability": [
           "EMapSelectability::QA"
         ],
+        "MapDescription": {
+          "CultureInvariantString": null
+        },
         "ID": 25,
         "DisplayName": {
           "CultureInvariantString": "Sanctum (Blockout)"
@@ -529,6 +649,9 @@
         "Selectability": [
           "EMapSelectability::QA"
         ],
+        "MapDescription": {
+          "CultureInvariantString": null
+        },
         "ID": 26,
         "DisplayName": {
           "CultureInvariantString": "Neon Sector (Blockout)"
@@ -547,6 +670,9 @@
         "Selectability": [
           "EMapSelectability::QA"
         ],
+        "MapDescription": {
+          "CultureInvariantString": null
+        },
         "ID": 27,
         "DisplayName": {
           "CultureInvariantString": "Maya (Blockout)"
@@ -563,6 +689,9 @@
       "99": {
         "MapName": "Lobby",
         "Selectability": [],
+        "MapDescription": {
+          "CultureInvariantString": null
+        },
         "ID": 99,
         "DisplayName": {
           "Namespace": "Maps",

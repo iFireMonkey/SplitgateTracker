@@ -118,6 +118,16 @@
           "AssetPathName": "/Game/Thumbnails/Oddball/Oddball_7-451_T.Oddball_7-451_T",
           "SubPathString": ""
         }
+      },
+      "8-636": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Oddball/Oddball_8-636_T.Oddball_8-636_T",
+          "SubPathString": ""
+        }
       }
     }
   }

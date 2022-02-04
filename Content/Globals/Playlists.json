@@ -107,7 +107,7 @@
           "SourceString": "Quick Play"
         },
         "DisplayImage": {
-          "AssetPathName": "/Game/UI/MainMenu/Play/Textures/halloween-quick-play-tile-bg.halloween-quick-play-tile-bg",
+          "AssetPathName": "/Game/UI/MainMenu/Play/Textures/quick-play-tile-bg.quick-play-tile-bg",
           "SubPathString": ""
         },
         "DisplayImageSmall": {

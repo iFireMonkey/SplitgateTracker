@@ -114,7 +114,8 @@
         "Rarity": "ECustomizationRarity::Legendary",
         "ID": 2,
         "DisplayName": {
-          "CultureInvariantString": "Dragon"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Dragon"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -216,9 +217,7 @@
           "SubPathString": ""
         },
         "DefaultSkinName": {
-          "Namespace": "LocalizedStrings",
-          "Key": "Default",
-          "SourceString": "Default"
+          "CultureInvariantString": null
         },
         "CompatibleWithAllSkins": false,
         "CustomizationType": "ECustomizationType::Bat",
@@ -256,9 +255,7 @@
           "SubPathString": ""
         },
         "DefaultSkinName": {
-          "Namespace": "LocalizedStrings",
-          "Key": "Default",
-          "SourceString": "Default"
+          "CultureInvariantString": null
         },
         "CompatibleWithAllSkins": false,
         "CustomizationType": "ECustomizationType::Bat",
@@ -269,7 +266,122 @@
         "Rarity": "ECustomizationRarity::Legendary",
         "ID": 6,
         "DisplayName": {
-          "CultureInvariantString": "Aviator"
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Aviator"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "7": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/Bat/Mesh/FPP/Legendary/BFB_Halloween.BFB_Halloween",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/Bat/Mesh/FPP/Legendary/SM_BFB_Halloween.SM_BFB_Halloween",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "None",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": null
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::Bat",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 7,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Skullcrusher"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "8": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/Bat/Mesh/FPP/Legendary/BB_Overheat_FPP.BB_Overheat_FPP",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/Bat/Mesh/FPP/Legendary/BB_Overheat.BB_Overheat",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "None",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": null
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::Bat",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 8,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Overheat"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "9": {
+        "Mesh1P": {
+          "AssetPathName": "/Game/Weapons/Bat/Mesh/FPP/Legendary/SK_BFB_Snow_FPP.SK_BFB_Snow_FPP",
+          "SubPathString": ""
+        },
+        "Mesh3P": {
+          "AssetPathName": "/Game/Weapons/Bat/Mesh/FPP/Legendary/SM_BFB_SnowFlake_Axe.SM_BFB_SnowFlake_Axe",
+          "SubPathString": ""
+        },
+        "AmmoCounterSocketName": "None",
+        "DefaultMaterialInstance": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultSkinName": {
+          "CultureInvariantString": null
+        },
+        "CompatibleWithAllSkins": false,
+        "CustomizationType": "ECustomizationType::Bat",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 9,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "SnowFlake"
         },
         "DisplayImage": {
           "AssetPathName": "None",

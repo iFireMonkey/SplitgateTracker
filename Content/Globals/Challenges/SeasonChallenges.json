@@ -1013,7 +1013,7 @@
         "DisplayName": {
           "Namespace": "SeasonChallenges",
           "Key": "307_DisplayName_Modified",
-          "SourceString": "Win a match of Instagib, Gun Game, and Contamination"
+          "SourceString": "Win one match each of Instagib, Gun Game, and Contamination"
         },
         "DisplayImage": {
           "AssetPathName": "None",
@@ -1538,11 +1538,11 @@
         "ChallengeType": "EChallengeType::Season",
         "TargetValue": 24,
         "Reward": {
-          "RewardType": "ERewardType::None",
+          "RewardType": "ERewardType::Customization",
           "RewardValue": 0,
           "Customization": {
-            "CustomizationType": "ECustomizationType::None",
-            "CustomizationValue": ""
+            "CustomizationType": "ECustomizationType::Armor",
+            "CustomizationValue": "79-505"
           },
           "IsLocked": false
         },

@@ -4766,6 +4766,378 @@
             "Textures": null
           }
         ]
+      },
+      "240": {
+        "CustomizationType": "ECustomizationType::DMR",
+        "MeshName": "Advanced",
+        "TextureSetName": "Advansplosion",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": null
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": null
+          },
+          {
+            "SlotName": "Scope",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/DMR/Textures/Legendary/Advanced_GG/DMR_Scope_A.DMR_Scope_A",
+                "SubPathString": ""
+              },
+              "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u00008\n\u0000\u0000\u0000\u0000\u0000\u00008\n\u0000\u0000\u0000\u0000\u0000\u0000À\t\u0000\u0000\u0000\u0000\u0000\u0000$\n\u0000\u0000\u0000\u0000\u0000\u00005\n\u0000\u0000\u0000\u0000\u0000\u0000\b\u0000\u0000\u0000\u0000\u0000\u0000\u0000'\n\u0000\u0000\u0000\u0000\u0000\u0000\u0000+\n\u0000\u0000\u0000\u0000\u0000\u00007\n\u0000\u0000\u0000\u0000\u0000\u0000B\n\u0000\u0000\u0000\u0000\u0000\u0000\r\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\t\u0000\u0000\u0000Advanced\u0000E\n\u0000\u0000\u0000\u0000\u0000\u0000B\n\u0000\u0000\u0000\u0000\u0000\u0000\u0015\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0011\u0000\u0000\u0000Digital Downpour\u0000@\n\u0000\u0000\u0000\u0000\u0000\u0000\"\n\u0000\u0000\u0000\u0000\u0000\u0000[\u0001\u0000\u0000\u0000\u0000\u0000\u0000C\n\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0002\u0000\u0000\u0000@\n\u0000\u0000\u0000\u0000\u0000\u0000C\n\u0000\u0000\u0000\u0000\u0000\u0000&\u0001\u0000\u0000\u0000\u0000\u0000\u0000=\n\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000?\n\u0000\u0000\u0000\u0000\u0000\u0000B\n\u0000\u0000\u0000\u0000\u0000\u0000\b\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u0000Top\u0000D\n\u0000\u0000\u0000\u0000\u0000\u00006\n\u0000\u0000\u0000\u0000\u0000\u0000N\u0000\u0000\u0000\u0000\u0000\u0000\u0000B\n\u0000\u0000\u0000\u0000\u0000\u0000A\n\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0002\u0000\u0000\u0000\n\u0000\u0000\u0000BaseColor\u0000p\u0003\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u001c\u0000\u0000\u0000OcclussionRoughnessMetallic\u0000r\u0003\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u00008\n\u0000\u0000\u0000\u0000\u0000\u0000?\n\u0000\u0000\u0000\u0000\u0000\u0000B\n\u0000\u0000\u0000\u0000\u0000\u0000\n\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0006\u0000\u0000\u0000Under\u0000D\n\u0000\u0000\u0000\u0000\u0000\u00006\n\u0000\u0000\u0000\u0000\u0000\u00002\u0000\u0000\u0000\u0000\u0000\u0000\u0000B\n\u0000\u0000\u0000\u0000\u0000\u0000A\n\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0002\u0000\u0000\u0000\n\u0000\u0000\u0000BaseColor\u0000t\u0003\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000v\u0003\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u00008\n\u0000\u0000\u0000\u0000\u0000\u00008\n\u0000\u0000\u0000\u0000\u0000\u0000Á\t\u0000\u0000\u0000\u0000\u0000\u0000$\n\u0000\u0000\u0000\u0000\u0000\u00005\n\u0000\u0000\u0000\u0000\u0000\u0000\b\u0000\u0000\u0000\u0000\u0000\u0000\u0000'\n\u0000\u0000\u0000\u0000\u0000\u0000\u0000)\n\u0000\u0000\u0000\u0000\u0000\u00007\n\u0000\u0000\u0000\u0000\u0000\u0000B\n\u0000\u0000\u0000\u0000\u0000\u0000\r\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\t\u0000\u0000\u0000Advanced\u0000E\n\u0000\u0000\u0000\u0000\u0000\u0000B\n\u0000\u0000\u0000\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\f\u0000\u0000\u0000Cloud Vibes\u0000@\n\u0000\u0000\u0000\u0000\u0000\u0000\"\n\u0000\u0000\u0000\u0000\u0000\u0000\\\u0001\u0000\u0000\u0000\u0000\u0000\u0000C\n\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0002\u0000\u0000\u0000@\n\u0000\u0000\u0000\u0000\u0000\u0000C\n\u0000\u0000\u0000\u0000\u0000\u0000'\u0001\u0000\u0000\u0000\u0000\u0000\u0000=\n\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000?\n\u0000\u0000\u0000\u0000\u0000\u0000B\n\u0000\u0000\u0000\u0000\u0000\u0000\n\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0006\u0000\u0000\u0000Front\u0000D\n\u0000\u0000\u0000\u0000\u0000\u00006\n\u0000\u0000\u0000\u0000\u0000\u0000N\u0000\u0000\u0000\u0000\u0000\u0000\u0000B\n\u0000\u0000\u0000\u0000\u0000\u0000A\n\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0002\u0000\u0000\u0000\n\u0000\u0000\u0000BaseColor\u0000Ò\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u001c\u0000\u0000\u0000OcclussionRoughnessMetallic\u0000Ô\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u00008\n\u0000\u0000\u0000\u0000\u0000\u0000?\n\u0000\u0000\u0000\u0000\u0000\u0000B\n\u0000\u0000\u0000\u0000\u0000\u0000\t\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0005\u0000\u0000\u0000Rear\u0000D\n\u0000\u0000\u0000\u0000\u0000\u00006\n\u0000\u0000\u0000\u0000\u0000\u00002\u0000\u0000\u0000\u0000\u0000\u0000\u0000B\n\u0000\u0000\u0000\u0000\u0000\u0000A\n\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0002\u0000\u0000\u0000\n\u0000\u0000\u0000BaseColor\u0000Ö\u0002\u0000": {
+                "AssetPathName": "/Game/Environments/AssetPacks/PhotoR_Backgrounds/Textures/black",
+                "SubPathString": ""
+              }
+            }
+          }
+        ]
+      },
+      "241": {
+        "CustomizationType": "ECustomizationType::BattleRifle",
+        "MeshName": "Advanced",
+        "TextureSetName": "Digital Downpour",
+        "Slots": [
+          {
+            "SlotName": "Top",
+            "Textures": null
+          },
+          {
+            "SlotName": "Under",
+            "Textures": null
+          }
+        ]
+      },
+      "242": {
+        "CustomizationType": "ECustomizationType::AssaultRifle",
+        "MeshName": "Advanced",
+        "TextureSetName": "Cloud Vibes",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": null
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": null
+          }
+        ]
+      },
+      "243": {
+        "CustomizationType": "ECustomizationType::Sniper",
+        "MeshName": "Advanced",
+        "TextureSetName": "Camping Wins",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": null
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": null
+          }
+        ]
+      },
+      "244": {
+        "CustomizationType": "ECustomizationType::Railgun",
+        "MeshName": "Advanced",
+        "TextureSetName": "Inner Tech",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": null
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": null
+          },
+          {
+            "SlotName": "Mid",
+            "Textures": null
+          }
+        ]
+      },
+      "245": {
+        "CustomizationType": "ECustomizationType::RocketLauncher",
+        "MeshName": "Advanced",
+        "TextureSetName": "Cubinc Plunder",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": null
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": null
+          },
+          {
+            "SlotName": "Mid",
+            "Textures": null
+          }
+        ]
+      },
+      "246": {
+        "CustomizationType": "ECustomizationType::Shotgun",
+        "MeshName": "Advanced",
+        "TextureSetName": "FruitSalad",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/Shotgun/Textures/Legendary/Advanced/SG_Front_A.SG_Front_A",
+                "SubPathString": ""
+              }
+            }
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/Shotgun/Textures/Legendary/Advanced/SG_Rear_A.SG_Rear_A",
+                "SubPathString": ""
+              }
+            }
+          }
+        ]
+      },
+      "247": {
+        "CustomizationType": "ECustomizationType::SMG",
+        "MeshName": "Advanced",
+        "TextureSetName": "Liquid Illusion",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/SMG/Textures/Legendary/Advanced/MI_SMG_Front_A.MI_SMG_Front_A",
+                "SubPathString": ""
+              }
+            }
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/SMG/Textures/Legendary/Advanced/MI_SMG_Rear_A.MI_SMG_Rear_A",
+                "SubPathString": ""
+              }
+            }
+          },
+          {
+            "SlotName": "Holo",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/SMG/Textures/Legendary/Advanced/MI_SMG_Holosight_A.MI_SMG_Holosight_A",
+                "SubPathString": ""
+              }
+            }
+          }
+        ]
+      },
+      "248": {
+        "CustomizationType": "ECustomizationType::PlasmaRifle",
+        "MeshName": "Advanced",
+        "TextureSetName": "90's Trip",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/PlasmaRifle/Textures/Legendary/ADvanced/PR_Front_A.PR_Front_A",
+                "SubPathString": ""
+              }
+            }
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/PlasmaRifle/Textures/Legendary/ADvanced/PR_Rear_A.PR_Rear_A",
+                "SubPathString": ""
+              }
+            }
+          },
+          {
+            "SlotName": "Mid",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/PlasmaRifle/Textures/Legendary/ADvanced/PR_Mid_A.PR_Mid_A",
+                "SubPathString": ""
+              }
+            }
+          }
+        ]
+      },
+      "249": {
+        "CustomizationType": "ECustomizationType::Bat",
+        "MeshName": "Default",
+        "TextureSetName": "Glitchgate",
+        "Slots": [
+          {
+            "SlotName": "Bat",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/Bat/Textures/Legendary/Advanced/Bat_A.Bat_A",
+                "SubPathString": ""
+              }
+            }
+          }
+        ]
+      },
+      "250": {
+        "CustomizationType": "ECustomizationType::Pistol",
+        "MeshName": "Advanced",
+        "TextureSetName": "Void Stuff",
+        "Slots": [
+          {
+            "SlotName": "Pistol",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Weapons/Pistol/Textures/Legendary/Advanced/MI_Pistol_A.MI_Pistol_A",
+                "SubPathString": ""
+              }
+            }
+          }
+        ]
+      },
+      "251": {
+        "CustomizationType": "ECustomizationType::Armor",
+        "MeshName": "T-200",
+        "TextureSetName": "TeamSeas",
+        "Slots": [
+          {
+            "SlotName": "H_01",
+            "Textures": null
+          },
+          {
+            "SlotName": "L_01",
+            "Textures": null
+          },
+          {
+            "SlotName": "T_01",
+            "Textures": null
+          }
+        ]
+      },
+      "252": {
+        "CustomizationType": "ECustomizationType::RocketLauncher",
+        "MeshName": "Advanced",
+        "TextureSetName": "The Pond Plunderer",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": null
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": null
+          },
+          {
+            "SlotName": "Mid",
+            "Textures": null
+          }
+        ]
+      },
+      "253": {
+        "CustomizationType": "ECustomizationType::Railgun",
+        "MeshName": "Advanced",
+        "TextureSetName": "Pepe",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": null
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": null
+          },
+          {
+            "SlotName": "Mid",
+            "Textures": null
+          }
+        ]
+      },
+      "254": {
+        "CustomizationType": "ECustomizationType::AssaultRifle",
+        "MeshName": "Advanced",
+        "TextureSetName": "The Goodest Boy",
+        "Slots": [
+          {
+            "SlotName": "Front",
+            "Textures": null
+          },
+          {
+            "SlotName": "Rear",
+            "Textures": null
+          }
+        ]
+      },
+      "255": {
+        "CustomizationType": "ECustomizationType::Armor",
+        "MeshName": "Jaiden",
+        "TextureSetName": "Hannya",
+        "Slots": [
+          {
+            "SlotName": "H_81",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Player/ThirdPerson/Textures/FB81_Ninja/Legendary/Hannya/H_81_A.H_81_A",
+                "SubPathString": ""
+              }
+            }
+          },
+          {
+            "SlotName": "H_81",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Player/ThirdPerson/Textures/FB81_Ninja/Legendary/Hannya/L_81_A.L_81_A",
+                "SubPathString": ""
+              }
+            }
+          },
+          {
+            "SlotName": "T_81",
+            "Textures": {
+              "BaseColor": {
+                "AssetPathName": "/Game/Player/ThirdPerson/Textures/FB81_Ninja/Legendary/Hannya/T_81_A.T_81_A",
+                "SubPathString": ""
+              }
+            }
+          }
+        ]
+      },
+      "256": {
+        "CustomizationType": "ECustomizationType::AssaultRifle",
+        "MeshName": "Cardboard",
+        "TextureSetName": "Gingerbread",
+        "Slots": [
+          {
+            "SlotName": "Cardboard",
+            "Textures": null
+          }
+        ]
+      },
+      "257": {
+        "CustomizationType": "ECustomizationType::Armor",
+        "MeshName": "Bard",
+        "TextureSetName": "CandyCane",
+        "Slots": [
+          {
+            "SlotName": "FB59_H",
+            "Textures": null
+          },
+          {
+            "SlotName": "FB59_T",
+            "Textures": null
+          },
+          {
+            "SlotName": "FB59_L",
+            "Textures": null
+          }
+        ]
       }
     }
   }

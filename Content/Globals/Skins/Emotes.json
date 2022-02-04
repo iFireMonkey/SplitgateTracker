@@ -2385,6 +2385,31 @@
           "AssetPathName": "None",
           "SubPathString": ""
         }
+      },
+      "95": {
+        "AnimationSequence": {
+          "AssetPathName": "/Game/Player/ThirdPerson/Animations/Emotes/Season2/Anim_Christmas_2021.Anim_Christmas_2021",
+          "SubPathString": ""
+        },
+        "CustomizationType": "ECustomizationType::Emote",
+        "Availability": {
+          "Availability": "ECustomizationAvailability::Normal",
+          "AvailabilityInfo": ""
+        },
+        "Rarity": "ECustomizationRarity::Legendary",
+        "ID": 95,
+        "DisplayName": {
+          "TableId": "/Game/Localization/ItemNameStrings.ItemNameStrings",
+          "Key": "Draw"
+        },
+        "DisplayImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImageSmall": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
       }
     }
   }

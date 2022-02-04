@@ -17,7 +17,7 @@
           "G": 1.0,
           "B": 1.0,
           "A": 1.0,
-          "Hex": "FFFFFF"
+          "Hex": "FFFFFFFF"
         },
         "CustomizationType": "ECustomizationType::NameTag",
         "Availability": {
@@ -46,7 +46,7 @@
           "G": 0.0,
           "B": 1.0,
           "A": 1.0,
-          "Hex": "FF00FF"
+          "Hex": "FFFF00FF"
         },
         "CustomizationType": "ECustomizationType::NameTag",
         "Availability": {
@@ -75,7 +75,7 @@
           "G": 0.679543,
           "B": 0.982251,
           "A": 1.0,
-          "Hex": "03ADFA"
+          "Hex": "FF1ED7FD"
         },
         "CustomizationType": "ECustomizationType::NameTag",
         "Availability": {
@@ -104,7 +104,7 @@
           "G": 1.0,
           "B": 1.0,
           "A": 1.0,
-          "Hex": "FFFFFF"
+          "Hex": "FFFFFFFF"
         },
         "CustomizationType": "ECustomizationType::NameTag",
         "Availability": {
@@ -133,7 +133,7 @@
           "G": 1.0,
           "B": 1.0,
           "A": 1.0,
-          "Hex": "FFFFFF"
+          "Hex": "FFFFFFFF"
         },
         "CustomizationType": "ECustomizationType::NameTag",
         "Availability": {
@@ -162,7 +162,7 @@
           "G": 1.0,
           "B": 1.0,
           "A": 1.0,
-          "Hex": "FFFFFF"
+          "Hex": "FFFFFFFF"
         },
         "CustomizationType": "ECustomizationType::NameTag",
         "Availability": {
@@ -191,7 +191,7 @@
           "G": 0.617207,
           "B": 0.002732,
           "A": 1.0,
-          "Hex": "E99D01"
+          "Hex": "FFF5CE09"
         },
         "CustomizationType": "ECustomizationType::NameTag",
         "Availability": {
@@ -220,7 +220,7 @@
           "G": 0.617207,
           "B": 0.002732,
           "A": 1.0,
-          "Hex": "E99D01"
+          "Hex": "FFF5CE09"
         },
         "CustomizationType": "ECustomizationType::NameTag",
         "Availability": {
@@ -249,7 +249,7 @@
           "G": 0.617207,
           "B": 0.002732,
           "A": 1.0,
-          "Hex": "E99D01"
+          "Hex": "FFF5CE09"
         },
         "CustomizationType": "ECustomizationType::NameTag",
         "Availability": {
@@ -278,7 +278,7 @@
           "G": 0.617207,
           "B": 0.002732,
           "A": 1.0,
-          "Hex": "E99D01"
+          "Hex": "FFF5CE09"
         },
         "CustomizationType": "ECustomizationType::NameTag",
         "Availability": {
@@ -307,7 +307,7 @@
           "G": 0.617207,
           "B": 0.002732,
           "A": 1.0,
-          "Hex": "E99D01"
+          "Hex": "FFF5CE09"
         },
         "CustomizationType": "ECustomizationType::NameTag",
         "Availability": {
@@ -336,7 +336,7 @@
           "G": 0.114338,
           "B": 0.134234,
           "A": 1.0,
-          "Hex": "FF1D22"
+          "Hex": "FFFF5F66"
         },
         "CustomizationType": "ECustomizationType::NameTag",
         "Availability": {
@@ -365,7 +365,7 @@
           "G": 0.114338,
           "B": 0.134234,
           "A": 1.0,
-          "Hex": "FF1D22"
+          "Hex": "FFFF5F66"
         },
         "CustomizationType": "ECustomizationType::NameTag",
         "Availability": {
@@ -394,7 +394,7 @@
           "G": 0.114338,
           "B": 0.134234,
           "A": 1.0,
-          "Hex": "FF1D22"
+          "Hex": "FFFF5F66"
         },
         "CustomizationType": "ECustomizationType::NameTag",
         "Availability": {
@@ -423,7 +423,7 @@
           "G": 0.114338,
           "B": 0.134234,
           "A": 1.0,
-          "Hex": "FF1D22"
+          "Hex": "FFFF5F66"
         },
         "CustomizationType": "ECustomizationType::NameTag",
         "Availability": {
@@ -452,7 +452,7 @@
           "G": 0.910192,
           "B": 1.0,
           "A": 1.0,
-          "Hex": "51E8FF"
+          "Hex": "FF99F5FF"
         },
         "CustomizationType": "ECustomizationType::NameTag",
         "Availability": {
@@ -481,7 +481,7 @@
           "G": 0.114338,
           "B": 0.134234,
           "A": 1.0,
-          "Hex": "FF1D22"
+          "Hex": "FFFF5F66"
         },
         "CustomizationType": "ECustomizationType::NameTag",
         "Availability": {
@@ -510,7 +510,7 @@
           "G": 0.0,
           "B": 0.031996,
           "A": 1.0,
-          "Hex": "FF0008"
+          "Hex": "FFFF0032"
         },
         "CustomizationType": "ECustomizationType::NameTag",
         "Availability": {
@@ -539,7 +539,7 @@
           "G": 0.071981,
           "B": 0.111783,
           "A": 1.0,
-          "Hex": "FF121D"
+          "Hex": "FFFF4C5E"
         },
         "CustomizationType": "ECustomizationType::NameTag",
         "Availability": {
@@ -568,7 +568,7 @@
           "G": 0.114338,
           "B": 0.134234,
           "A": 1.0,
-          "Hex": "FF1D22"
+          "Hex": "FFFF5F66"
         },
         "CustomizationType": "ECustomizationType::NameTag",
         "Availability": {
@@ -597,7 +597,7 @@
           "G": 0.25,
           "B": 0.0,
           "A": 1.0,
-          "Hex": "FF4000"
+          "Hex": "FFFF8900"
         },
         "CustomizationType": "ECustomizationType::NameTag",
         "Availability": {
@@ -626,7 +626,7 @@
           "G": 0.25,
           "B": 0.0,
           "A": 1.0,
-          "Hex": "FF4000"
+          "Hex": "FFFF8900"
         },
         "CustomizationType": "ECustomizationType::NameTag",
         "Availability": {
@@ -655,7 +655,7 @@
           "G": 1.0,
           "B": 1.0,
           "A": 1.0,
-          "Hex": "FFFFFF"
+          "Hex": "FFFFFFFF"
         },
         "CustomizationType": "ECustomizationType::NameTag",
         "Availability": {
@@ -684,7 +684,7 @@
           "G": 0.114338,
           "B": 0.134234,
           "A": 1.0,
-          "Hex": "FF1D22"
+          "Hex": "FFFF5F66"
         },
         "CustomizationType": "ECustomizationType::NameTag",
         "Availability": {
@@ -713,7 +713,7 @@
           "G": 0.114338,
           "B": 0.134234,
           "A": 1.0,
-          "Hex": "FF1D22"
+          "Hex": "FFFF5F66"
         },
         "CustomizationType": "ECustomizationType::NameTag",
         "Availability": {
@@ -742,7 +742,7 @@
           "G": 0.114338,
           "B": 0.134234,
           "A": 1.0,
-          "Hex": "FF1D22"
+          "Hex": "FFFF5F66"
         },
         "CustomizationType": "ECustomizationType::NameTag",
         "Availability": {
@@ -771,7 +771,7 @@
           "G": 0.114338,
           "B": 0.134234,
           "A": 1.0,
-          "Hex": "FF1D22"
+          "Hex": "FFFF5F66"
         },
         "CustomizationType": "ECustomizationType::NameTag",
         "Availability": {
@@ -800,7 +800,7 @@
           "G": 0.114338,
           "B": 0.134234,
           "A": 1.0,
-          "Hex": "FF1D22"
+          "Hex": "FFFF5F66"
         },
         "CustomizationType": "ECustomizationType::NameTag",
         "Availability": {
@@ -829,7 +829,7 @@
           "G": 0.114338,
           "B": 0.134234,
           "A": 1.0,
-          "Hex": "FF1D22"
+          "Hex": "FFFF5F66"
         },
         "CustomizationType": "ECustomizationType::NameTag",
         "Availability": {

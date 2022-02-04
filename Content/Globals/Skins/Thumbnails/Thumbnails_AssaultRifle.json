@@ -2058,6 +2058,66 @@
           "AssetPathName": "/Game/Thumbnails/AssaultRifle/AssaultRifle_0-610_T.AssaultRifle_0-610_T",
           "SubPathString": ""
         }
+      },
+      "33-605": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/AssaultRifle/AssaultRifle_33-605_T.AssaultRifle_33-605_T",
+          "SubPathString": ""
+        }
+      },
+      "34-584": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/AssaultRifle/AssaultRifle_34-584_T.AssaultRifle_34-584_T",
+          "SubPathString": ""
+        }
+      },
+      "36-621": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/AssaultRifle/AssaultRifle_36-621_T.AssaultRifle_36-621_T",
+          "SubPathString": ""
+        }
+      },
+      "36-633": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/AssaultRifle/AssaultRifle_36-633_T.AssaultRifle_36-633_T",
+          "SubPathString": ""
+        }
+      },
+      "21-639": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "/Game/Thumbnails/Featured/AssaultRifle_Gingerbread_Featured_T.AssaultRifle_Gingerbread_Featured_T",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/AssaultRifle/AssaultRifle_21-639_T.AssaultRifle_21-639_T",
+          "SubPathString": ""
+        }
+      },
+      "37-635": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/AssaultRifle/AssaultRifle_37-635_T.AssaultRifle_37-635_T",
+          "SubPathString": ""
+        }
       }
     }
   }

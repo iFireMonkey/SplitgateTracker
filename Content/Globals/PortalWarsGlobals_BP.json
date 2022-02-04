@@ -412,6 +412,10 @@
         "ObjectName": "DataTable GameModes",
         "ObjectPath": "/Game/Globals/GameModes.0"
       },
+      "GameModeTypes": {
+        "ObjectName": "DataTable GameModeTypes",
+        "ObjectPath": "/Game/Globals/GameModeTypes.0"
+      },
       "Medals": {
         "ObjectName": "DataTable Medals",
         "ObjectPath": "/Game/Globals/Medals.0"
@@ -434,8 +438,8 @@
           "ObjectPath": "/Game/Globals/Challenges/SeasonChallenges.0"
         },
         "EChallengeType::Featured": {
-          "ObjectName": "DataTable HalloweenChallenges",
-          "ObjectPath": "/Game/Globals/Challenges/HalloweenChallenges.0"
+          "ObjectName": "DataTable WinterChallenges",
+          "ObjectPath": "/Game/Globals/Challenges/WinterChallenges.0"
         }
       },
       "CheckInRewards": {
@@ -466,7 +470,32 @@
         "ObjectName": "DataTable ReferralPass_S0",
         "ObjectPath": "/Game/Globals/Season0/ReferralPass_S0.0"
       },
-      "RewardIcons": null,
+      "RewardIcons": {
+        "ERewardType::XP": {
+          "AssetPathName": "/Game/UI/Textures/XP-reward-icon.XP-reward-icon",
+          "SubPathString": ""
+        },
+        "/Game/Emblems/SprayDecal_M_106": {
+          "AssetPathName": "/Game/Emblems/SprayDecal_M",
+          "SubPathString": "\u0000\u0000\u0000\u0000g\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000²\u0000\u0000\u0000\u0000\u0000\u0000\u0000e\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000³\u0000\u0000\u0000\u0000\u0000\u0000\u0000k\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000´\u0000\u0000\u0000\u0000\u0000\u0000\u0000i\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0019\u0001\u0000\u0000\u0000\u0000\u0000\u0000È\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000¦ÿÿÿÕ\u0000\u0000\u0000\u0000\u0000\u0000\u0000È\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000éÿÿÿÔ\u0000\u0000\u0000\u0000\u0000\u0000\u0000È\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000êÿÿÿË\u0000\u0000\u0000\u0000\u0000\u0000\u0000È\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004"
+        },
+        "/Game/UI/Textures/arena-alloy-icon.arena-alloy-icon": {
+          "AssetPathName": "/Game/Emblems/SprayDecal_M_177",
+          "SubPathString": ""
+        },
+        "/Game/Emblems/SprayDecal_M": {
+          "AssetPathName": "ERewardType::DoubleXP",
+          "SubPathString": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000´\u0000\u0000\u0000\u0000\u0000\u0000\u0000i\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0019\u0001\u0000\u0000\u0000\u0000\u0000\u0000È\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000¦ÿÿÿÕ\u0000\u0000\u0000\u0000\u0000\u0000\u0000È\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000éÿÿÿÔ\u0000\u0000\u0000\u0000\u0000\u0000\u0000È\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u0000"
+        },
+        "/Game/Emblems/SprayDecal_M_179": {
+          "AssetPathName": "/Game/Emblems/SprayDecal_M_104",
+          "SubPathString": ""
+        },
+        "Unlocks": {
+          "AssetPathName": "ObjectProperty",
+          "SubPathString": "\u0000\u0000\u0000"
+        }
+      },
       "Unlocks": {
         "ObjectName": "DataTable Unlocks",
         "ObjectPath": "/Game/Globals/Unlocks.0"

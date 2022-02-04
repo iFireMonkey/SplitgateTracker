@@ -11218,6 +11218,16 @@
           "AssetPathName": "/Game/Thumbnails/Jetpack/Jetpack_30-617_T.Jetpack_30-617_T",
           "SubPathString": ""
         }
+      },
+      "31-0": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Jetpack/Jetpack_31-0_T.Jetpack_31-0_T",
+          "SubPathString": ""
+        }
       }
     }
   }

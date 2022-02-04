@@ -1908,6 +1908,56 @@
           "AssetPathName": "/Game/Thumbnails/RocketLauncher/RocketLauncher_0-606_T.RocketLauncher_0-606_T",
           "SubPathString": ""
         }
+      },
+      "34-605": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/RocketLauncher/RocketLauncher_34-605_T.RocketLauncher_34-605_T",
+          "SubPathString": ""
+        }
+      },
+      "28-584": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/RocketLauncher/RocketLauncher_28-584_T.RocketLauncher_28-584_T",
+          "SubPathString": ""
+        }
+      },
+      "35-584": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/RocketLauncher/RocketLauncher_35-584_T.RocketLauncher_35-584_T",
+          "SubPathString": ""
+        }
+      },
+      "37-624": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/RocketLauncher/RocketLauncher_37-624_T.RocketLauncher_37-624_T",
+          "SubPathString": ""
+        }
+      },
+      "37-631": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/RocketLauncher/RocketLauncher_37-631_T.RocketLauncher_37-631_T",
+          "SubPathString": ""
+        }
       }
     }
   }

@@ -13281,7 +13281,7 @@
       },
       "79-505": {
         "DisplayImageFeatured": {
-          "AssetPathName": "None",
+          "AssetPathName": "/Game/Thumbnails/Featured/Armor_JaidenJade_Featured_T.Armor_JaidenJade_Featured_T",
           "SubPathString": ""
         },
         "DisplayImage": {
@@ -15066,16 +15066,6 @@
         },
         "DisplayImage": {
           "AssetPathName": "/Game/Thumbnails/Armor/Armor_28-582_T.Armor_28-582_T",
-          "SubPathString": ""
-        }
-      },
-      "29-476": {
-        "DisplayImageFeatured": {
-          "AssetPathName": "None",
-          "SubPathString": ""
-        },
-        "DisplayImage": {
-          "AssetPathName": "/Game/Thumbnails/Armor/Armor_29-476_T.Armor_29-476_T",
           "SubPathString": ""
         }
       },
@@ -18356,6 +18346,66 @@
         },
         "DisplayImage": {
           "AssetPathName": "/Game/Thumbnails/Armor/Armor_83-614_T.Armor_83-614_T",
+          "SubPathString": ""
+        }
+      },
+      "57-640": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_57-640_T.Armor_57-640_T",
+          "SubPathString": ""
+        }
+      },
+      "79-637": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_79-637_T.Armor_79-637_T",
+          "SubPathString": ""
+        }
+      },
+      "79-638": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_79-638_T.Armor_79-638_T",
+          "SubPathString": ""
+        }
+      },
+      "84-0": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_84-0_T.Armor_84-0_T",
+          "SubPathString": ""
+        }
+      },
+      "0-630": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_0-630_T.Armor_0-630_T",
+          "SubPathString": ""
+        }
+      },
+      "29-476": {
+        "DisplayImageFeatured": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DisplayImage": {
+          "AssetPathName": "/Game/Thumbnails/Armor/Armor_29-476_T.Armor_29-476_T",
           "SubPathString": ""
         }
       }
